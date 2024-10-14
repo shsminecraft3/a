@@ -867,3 +867,60 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:08:28] [Server thread/INFO]: §fPlayer§7: §fDashingsMomIsHot was blown up by Creeper
 [19:08:33] [Server thread/INFO]: There are 3/20000 players online:
 [19:08:33] [Server thread/INFO]: Steven, DANKBEEF, DashingsMomIsHot
+[19:09:47] [Server thread/INFO]: DANKBEEF lost connection: Disconnected
+[19:09:47] [Server thread/INFO]: DANKBEEF left the game.
+[19:11:49] [Async Chat Thread - #13/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mbro evan[m
+
+[19:12:15] [Server thread/INFO]: DashingsMomIsHot lost connection: Disconnected
+[19:12:15] [Server thread/INFO]: DashingsMomIsHot left the game.
+[19:13:07] [Async Chat Thread - #14/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mevan[m
+
+[19:13:14] [Thread-49/INFO]: UUID of player BaconMania is 94cc9361-df90-3d70-a09d-55ea0279e1a1
+[19:13:14] [Server thread/INFO]: BaconMania[/[0:0:0:0:0:0:0:1]:57848] logged in with entity id 30400 at ([world]3623.708289439175, 121.0, 4431.0754822698655)
+[19:13:21] [Async Chat Thread - #14/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1myea?[m
+
+[19:13:23] [Async Chat Thread - #14/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1msomeone raided us[m
+
+[19:13:27] [Async Chat Thread - #14/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mor my base[m
+
+[19:13:34] [Async Chat Thread - #14/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mdo yk who?[m
+
+[19:13:38] [Async Chat Thread - #14/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mno[m
+
+[19:13:49] [Async Chat Thread - #14/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mwhat he do?[m
+
+[19:13:50] [Server thread/INFO]: Steven issued server command: /home HOME
+[19:13:55] [Async Chat Thread - #14/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mits griefed[m
+
+[19:14:00] [Thread-50/INFO]: UUID of player scarlet is 19b15b12-8087-3a56-bbdc-7546a337d6b8
+[19:14:00] [Server thread/INFO]: scarlet[/[0:0:0:0:0:0:0:1]:38962] logged in with entity id 30649 at ([world]180.30000001192093, 61.93612497923646, 252.69999998807907)
+[19:14:01] [Craft Scheduler Thread - 27/INFO]: [0;31;1mWarning: scarlet has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein, IhaveaDUI_547, evan_j, DashingsMomIsHot[m
+
+[19:14:07] [Async Chat Thread - #14/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1moh shit how bad[m
+
+[19:14:09] [Async Chat Thread - #14/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mdawg them mfs took my chest too[m
+
+[19:14:18] [Server thread/INFO]: Steven issued server command: /home ZEKE
+[19:14:33] [Async Chat Thread - #14/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mif you figure out who it is ill ban them[m
+
+[19:14:54] [Server thread/INFO]: scarlet lost connection: Disconnected
+[19:14:54] [Server thread/INFO]: scarlet left the game.
+[19:14:56] [Async Chat Thread - #14/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mcan you check jewburners inventory[m
+
+[19:15:03] [Async Chat Thread - #14/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1malr[m
+
+[19:15:09] [Async Chat Thread - #14/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mwhat should I look for[m
+
+[19:15:13] [Server thread/INFO]: BaconMania issued server command: /invsee jewburner
+[19:15:17] [Async Chat Thread - #14/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1manything tell me what he has[m
+
+[19:15:18] [Server thread/INFO]: BaconMania issued server command: /invsee jewburner
+[19:15:23] [Async Chat Thread - #14/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mand ill see if it was what i had[m
+
+[19:15:38] [Async Chat Thread - #14/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mill play in frau[m
+
+[19:15:40] [Server thread/INFO]: Steven lost connection: Disconnected
+[19:15:40] [Server thread/INFO]: Steven left the game.
+[19:16:24] [Server thread/INFO]: BaconMania lost connection: Disconnected
+[19:16:24] [Server thread/INFO]: BaconMania left the game.

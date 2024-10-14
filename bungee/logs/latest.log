@@ -341,3 +341,28 @@
 [19:08:02] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:50068]: Logged in as 'DANKBEEF'
 [19:08:02] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:50068|DANKBEEF] -> UpstreamBridge has connected
 [19:08:02] [Netty Worker IO Thread #1/INFO]: [DANKBEEF|/[0:0:0:0:0:0:0:1%0]:50068] <-> ServerConnector [lobby] has connected
+[19:09:47] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:50068|DANKBEEF] -> UpstreamBridge has disconnected
+[19:09:47] [Netty Worker IO Thread #1/INFO]: [DANKBEEF] disconnected with: Proxy lost connection to server.
+[19:09:47] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:50068|DANKBEEF] <-> DownstreamBridge <-> [lobby] has disconnected
+[19:12:15] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:44282|DashingsMomIsHot] -> UpstreamBridge has disconnected
+[19:12:15] [Netty Worker IO Thread #1/INFO]: [DashingsMomIsHot] disconnected with: Proxy lost connection to server.
+[19:12:15] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:44282|DashingsMomIsHot] <-> DownstreamBridge <-> [lobby] has disconnected
+[19:13:14] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36260]: Connected via websocket
+[19:13:14] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36260]: Origin header is http://localhost:8081
+[19:13:14] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36260]: Logged in as 'BaconMania'
+[19:13:14] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:36260|BaconMania] -> UpstreamBridge has connected
+[19:13:14] [Netty Worker IO Thread #2/INFO]: [BaconMania|/[0:0:0:0:0:0:0:1%0]:36260] <-> ServerConnector [lobby] has connected
+[19:14:00] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:50638]: Connected via websocket
+[19:14:00] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:50638]: Origin header is http://localhost:8081
+[19:14:00] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:50638]: Logged in as 'scarlet'
+[19:14:00] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:50638|scarlet] -> UpstreamBridge has connected
+[19:14:00] [Netty Worker IO Thread #0/INFO]: [scarlet|/[0:0:0:0:0:0:0:1%0]:50638] <-> ServerConnector [lobby] has connected
+[19:14:54] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:50638|scarlet] -> UpstreamBridge has disconnected
+[19:14:54] [Netty Worker IO Thread #0/INFO]: [scarlet] disconnected with: Proxy lost connection to server.
+[19:14:54] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:50638|scarlet] <-> DownstreamBridge <-> [lobby] has disconnected
+[19:15:40] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:32810|Steven] -> UpstreamBridge has disconnected
+[19:15:40] [Netty Worker IO Thread #1/INFO]: [Steven] disconnected with: Proxy lost connection to server.
+[19:15:40] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:32810|Steven] <-> DownstreamBridge <-> [lobby] has disconnected
+[19:16:24] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:36260|BaconMania] -> UpstreamBridge has disconnected
+[19:16:24] [Netty Worker IO Thread #2/INFO]: [BaconMania] disconnected with: Proxy lost connection to server.
+[19:16:24] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:36260|BaconMania] <-> DownstreamBridge <-> [lobby] has disconnected
