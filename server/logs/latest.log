@@ -1,38 +1,38 @@
-[00:52:59] [Server thread/INFO]: Starting minecraft server version 1.8.8
-[00:52:59] [Server thread/INFO]: Loading properties
-[00:52:59] [Server thread/INFO]: Default game type: SURVIVAL
-[00:52:59] [Server thread/INFO]: This server is running CraftBukkit version git-PaperSpigot-445 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
-[00:53:00] [Server thread/INFO]: Debug logging is disabled
-[00:53:00] [Server thread/INFO]: Spigot Timings: true - Verbose: true - Interval: 5m - Length: 60m
-[00:53:00] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[05:58:17] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[05:58:17] [Server thread/INFO]: Loading properties
+[05:58:17] [Server thread/INFO]: Default game type: SURVIVAL
+[05:58:18] [Server thread/INFO]: This server is running CraftBukkit version git-PaperSpigot-445 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[05:58:18] [Server thread/INFO]: Debug logging is disabled
+[05:58:18] [Server thread/INFO]: Spigot Timings: true - Verbose: true - Interval: 5m - Length: 60m
+[05:58:18] [Server thread/INFO]: Server Ping Player Sample Count: 12
 
-[00:53:00] [Server thread/INFO]: Using 4 threads for Netty based IO
-[00:53:00] [Server thread/INFO]: Data value allowed items: 
-[00:53:00] [Server thread/WARN]: java.lang.NoSuchFieldException: modifiers
+[05:58:18] [Server thread/INFO]: Using 4 threads for Netty based IO
+[05:58:18] [Server thread/INFO]: Data value allowed items: 
+[05:58:18] [Server thread/WARN]: java.lang.NoSuchFieldException: modifiers
 
-[00:53:00] [Server thread/WARN]: 	at java.base/java.lang.Class.getDeclaredField(Class.java:2782)
+[05:58:18] [Server thread/WARN]: 	at java.base/java.lang.Class.getDeclaredField(Class.java:2782)
 
-[00:53:00] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.stackableBuckets(PaperSpigotConfig.java:192)
+[05:58:18] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.stackableBuckets(PaperSpigotConfig.java:192)
 
-[00:53:00] [Server thread/WARN]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+[05:58:18] [Server thread/WARN]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
 
-[00:53:00] [Server thread/WARN]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+[05:58:18] [Server thread/WARN]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
 
-[00:53:00] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.readConfig(PaperSpigotConfig.java:84)
+[05:58:18] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.readConfig(PaperSpigotConfig.java:84)
 
-[00:53:00] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.init(PaperSpigotConfig.java:62)
+[05:58:18] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.init(PaperSpigotConfig.java:62)
 
-[00:53:00] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:181)
+[05:58:18] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:181)
 
-[00:53:00] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:563)
+[05:58:18] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:563)
 
-[00:53:00] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[05:58:18] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
 
-[00:53:00] [Server thread/INFO]: Generating keypair
-[00:53:01] [Server thread/INFO]: Starting Minecraft server on localhost:25565
-[00:53:01] [Server thread/INFO]: Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system unstability.
-[00:53:01] [Server thread/INFO]: Using default channel type
-[00:53:01] [Server thread/ERROR]: Could not load 'plugins/MuteSystem-Bungee-2.2.jar' in folder 'plugins'
+[05:58:18] [Server thread/INFO]: Generating keypair
+[05:58:18] [Server thread/INFO]: Starting Minecraft server on localhost:25565
+[05:58:18] [Server thread/INFO]: Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system unstability.
+[05:58:18] [Server thread/INFO]: Using default channel type
+[05:58:18] [Server thread/ERROR]: Could not load 'plugins/MuteSystem-Bungee-2.2.jar' in folder 'plugins'
 org.bukkit.plugin.InvalidDescriptionException: Invalid plugin.yml
 	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:160) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:136) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -53,742 +53,589 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at java.util.jar.JarFile.<init>(JarFile.java:282) ~[?:?]
 	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:148) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	... 5 more
-[00:53:01] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[00:53:02] [Server thread/INFO]: [SimpleTpa] Loading SimpleTpa v6.4
-[00:53:02] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.141
-[00:53:03] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
-[00:53:03] [Server thread/INFO]: [Sudo] Loading Sudo v1
-[00:53:03] [Server thread/INFO]: [Suicide] Loading Suicide v1.4.6
-[00:53:03] [Server thread/INFO]: [SimpleHomes] Loading SimpleHomes v2.2
-[00:53:03] [Server thread/INFO]: [OnePlayerSleep] Loading OnePlayerSleep v1.3
-[00:53:03] [Server thread/INFO]: [InvSee++] Loading InvSeePlusPlus v0.29.4
-[00:53:03] [Server thread/INFO]: [BanManager] Loading BanManager v7.9.0
-[00:53:03] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v5.2.0-SNAPSHOT-679
-[00:53:06] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.2.0
-[00:53:06] [Server thread/INFO]: [InvSee++_Clear] Loading InvSeePlusPlus_Clear v0.29.4
-[00:53:06] [Server thread/INFO]: [InvSee++_Give] Loading InvSeePlusPlus_Give v0.29.4
-[00:53:06] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.141
-[00:53:07] [Server thread/INFO]: [0;36;1m       [0;36;22m __    [m
+[05:58:18] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[05:58:19] [Server thread/INFO]: [SimpleTpa] Loading SimpleTpa v6.4
+[05:58:19] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.141
+[05:58:19] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[05:58:19] [Server thread/INFO]: [Sudo] Loading Sudo v1
+[05:58:19] [Server thread/INFO]: [Suicide] Loading Suicide v1.4.6
+[05:58:19] [Server thread/INFO]: [SimpleHomes] Loading SimpleHomes v2.2
+[05:58:19] [Server thread/INFO]: [OnePlayerSleep] Loading OnePlayerSleep v1.3
+[05:58:19] [Server thread/INFO]: [EasyRanks] Loading EasyRanks v1.3.2
+[05:58:19] [Server thread/INFO]: [InvSee++] Loading InvSeePlusPlus v0.29.4
+[05:58:19] [Server thread/INFO]: [BanManager] Loading BanManager v7.9.0
+[05:58:19] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v5.2.0-SNAPSHOT-679
+[05:58:20] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.2.0
+[05:58:20] [Server thread/INFO]: [InvSee++_Clear] Loading InvSeePlusPlus_Clear v0.29.4
+[05:58:20] [Server thread/INFO]: [InvSee++_Give] Loading InvSeePlusPlus_Give v0.29.4
+[05:58:20] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.141
+[05:58:21] [Server thread/INFO]: [0;36;1m       [0;36;22m __    [m
 
-[00:53:07] [Server thread/INFO]: [0;36;1m  |    [0;36;22m|__)   [0;32;22mLuckPerms[m [0;36;1mv5.4.141[m
+[05:58:21] [Server thread/INFO]: [0;36;1m  |    [0;36;22m|__)   [0;32;22mLuckPerms[m [0;36;1mv5.4.141[m
 
-[00:53:07] [Server thread/INFO]: [0;36;1m  |___ [0;36;22m|      [0;30;1mRunning on Bukkit - CraftBukkit[m
+[05:58:21] [Server thread/INFO]: [0;36;1m  |___ [0;36;22m|      [0;30;1mRunning on Bukkit - CraftBukkit[m
 
-[00:53:07] [Server thread/INFO]: [m
+[05:58:21] [Server thread/INFO]: [m
 
-[00:53:07] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[00:53:08] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[00:53:10] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[00:53:10] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[00:53:10] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 4016ms)
-[00:53:10] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.2.0-SNAPSHOT-679
-[00:53:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:53:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:53:11] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
-[00:53:11] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
-[00:53:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:53:11] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[00:53:11] [Server thread/INFO]: Preparing level "world"
-[00:53:11] [Server thread/INFO]: -------- World Settings For [world] --------
-[00:53:11] [Server thread/INFO]: Mob Spawn Range: 4
-[00:53:11] [Server thread/INFO]: Anti X-Ray: true
-[00:53:11] [Server thread/INFO]: 	Engine Mode: 1
-[00:53:11] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[00:53:11] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[00:53:11] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[00:53:11] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[00:53:11] [Server thread/INFO]: Cane Growth Modifier: 100%
-[00:53:11] [Server thread/INFO]: Melon Growth Modifier: 100%
-[00:53:11] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[00:53:11] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[00:53:11] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[00:53:11] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[00:53:11] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[00:53:11] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[00:53:11] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[00:53:11] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[00:53:11] [Server thread/INFO]: Random Lighting Updates: false
-[00:53:11] [Server thread/INFO]: Structure Info Saving: true
-[00:53:11] [Server thread/INFO]: Sending up to 10 chunks per packet
-[00:53:11] [Server thread/INFO]: Max Entity Collisions: 8
-[00:53:11] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[00:53:11] [Server thread/INFO]: Max TNT Explosions: 100
-[00:53:11] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[00:53:11] [Server thread/INFO]: Item Despawn Rate: 6000
-[00:53:11] [Server thread/INFO]: Item Merge Radius: 2.5
-[00:53:11] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[00:53:11] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[00:53:11] [Server thread/INFO]: View Distance: 4
-[00:53:11] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[00:53:11] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[00:53:11] [Server thread/INFO]: Clear tick list: false
-[00:53:11] [Server thread/INFO]: Experience Merge Radius: 3.0
-[00:53:11] [Server thread/INFO]: -------- World Settings For [world] --------
-[00:53:11] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
-[00:53:11] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
-[00:53:11] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
-[00:53:11] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
-[00:53:11] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
-[00:53:11] [Server thread/INFO]: Water over lava flow speed: 5
-[00:53:11] [Server thread/INFO]: Fix TNT cannons: false
-[00:53:11] [Server thread/INFO]: Allow undead horse types to be leashed: false
-[00:53:11] [Server thread/INFO]: Keep spawn chunk loaded: true
-[00:53:11] [Server thread/INFO]: World async lighting: false
-[00:53:11] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
-[00:53:11] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
-[00:53:11] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[00:53:11] [Server thread/INFO]: Mob Spawn Range: 4
-[00:53:11] [Server thread/INFO]: Anti X-Ray: true
-[00:53:11] [Server thread/INFO]: 	Engine Mode: 1
-[00:53:11] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[00:53:11] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[00:53:11] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[00:53:11] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[00:53:11] [Server thread/INFO]: Cane Growth Modifier: 100%
-[00:53:11] [Server thread/INFO]: Melon Growth Modifier: 100%
-[00:53:11] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[00:53:11] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[00:53:11] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[00:53:11] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[00:53:11] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[00:53:11] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[00:53:11] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[00:53:11] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[00:53:11] [Server thread/INFO]: Random Lighting Updates: false
-[00:53:11] [Server thread/INFO]: Structure Info Saving: true
-[00:53:11] [Server thread/INFO]: Sending up to 10 chunks per packet
-[00:53:11] [Server thread/INFO]: Max Entity Collisions: 8
-[00:53:11] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[00:53:11] [Server thread/INFO]: Max TNT Explosions: 100
-[00:53:11] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[00:53:11] [Server thread/INFO]: Item Despawn Rate: 6000
-[00:53:11] [Server thread/INFO]: Item Merge Radius: 2.5
-[00:53:11] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[00:53:11] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[00:53:11] [Server thread/INFO]: View Distance: 4
-[00:53:11] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[00:53:11] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[00:53:11] [Server thread/INFO]: Clear tick list: false
-[00:53:11] [Server thread/INFO]: Experience Merge Radius: 3.0
-[00:53:11] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[00:53:11] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
-[00:53:11] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
-[00:53:11] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
-[00:53:11] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
-[00:53:11] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
-[00:53:11] [Server thread/INFO]: Water over lava flow speed: 5
-[00:53:11] [Server thread/INFO]: Fix TNT cannons: false
-[00:53:11] [Server thread/INFO]: Allow undead horse types to be leashed: false
-[00:53:11] [Server thread/INFO]: Keep spawn chunk loaded: true
-[00:53:11] [Server thread/INFO]: World async lighting: false
-[00:53:11] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
-[00:53:11] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
-[00:53:11] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[00:53:11] [Server thread/INFO]: Mob Spawn Range: 4
-[00:53:11] [Server thread/INFO]: Anti X-Ray: true
-[00:53:11] [Server thread/INFO]: 	Engine Mode: 1
-[00:53:11] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[00:53:11] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[00:53:11] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[00:53:11] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[00:53:11] [Server thread/INFO]: Cane Growth Modifier: 100%
-[00:53:11] [Server thread/INFO]: Melon Growth Modifier: 100%
-[00:53:11] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[00:53:11] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[00:53:11] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[00:53:11] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[00:53:11] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[00:53:11] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[00:53:11] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[00:53:11] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[00:53:11] [Server thread/INFO]: Random Lighting Updates: false
-[00:53:11] [Server thread/INFO]: Structure Info Saving: true
-[00:53:11] [Server thread/INFO]: Sending up to 10 chunks per packet
-[00:53:11] [Server thread/INFO]: Max Entity Collisions: 8
-[00:53:11] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[00:53:11] [Server thread/INFO]: Max TNT Explosions: 100
-[00:53:11] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[00:53:11] [Server thread/INFO]: Item Despawn Rate: 6000
-[00:53:11] [Server thread/INFO]: Item Merge Radius: 2.5
-[00:53:11] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[00:53:11] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[00:53:11] [Server thread/INFO]: View Distance: 4
-[00:53:11] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[00:53:11] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[00:53:11] [Server thread/INFO]: Clear tick list: false
-[00:53:11] [Server thread/INFO]: Experience Merge Radius: 3.0
-[00:53:11] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[00:53:11] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
-[00:53:11] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
-[00:53:11] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
-[00:53:11] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
-[00:53:11] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
-[00:53:11] [Server thread/INFO]: Water over lava flow speed: 5
-[00:53:11] [Server thread/INFO]: Fix TNT cannons: false
-[00:53:11] [Server thread/INFO]: Allow undead horse types to be leashed: false
-[00:53:11] [Server thread/INFO]: Keep spawn chunk loaded: true
-[00:53:11] [Server thread/INFO]: World async lighting: false
-[00:53:11] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
-[00:53:11] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
-[00:53:11] [Server thread/INFO]: Preparing start region for level 0 (Seed: 8746604822408410148)
-[00:53:12] [Server thread/INFO]: Preparing spawn area: 8%
-[00:53:13] [Server thread/INFO]: Preparing spawn area: 46%
-[00:53:14] [Server thread/INFO]: Preparing spawn area: 75%
-[00:53:15] [Server thread/INFO]: Preparing start region for level 1 (Seed: 8746604822408410148)
-[00:53:16] [Server thread/INFO]: Preparing spawn area: 4%
-[00:53:17] [Server thread/INFO]: Preparing spawn area: 7%
-[00:53:18] [Server thread/INFO]: Preparing spawn area: 11%
-[00:53:19] [Server thread/INFO]: Preparing spawn area: 15%
-[00:53:20] [Server thread/INFO]: Preparing spawn area: 18%
-[00:53:21] [Server thread/INFO]: Preparing spawn area: 39%
-[00:53:22] [Server thread/INFO]: Preparing spawn area: 63%
-[00:53:23] [Server thread/INFO]: Preparing start region for level 2 (Seed: 8746604822408410148)
-[00:53:24] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v6.4
-[00:53:24] [Server thread/INFO]: [0;33;1m[21m[SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9[m
+[05:58:21] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[05:58:21] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[05:58:21] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[05:58:22] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[05:58:22] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1634ms)
+[05:58:22] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.2.0-SNAPSHOT-679
+[05:58:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05:58:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[05:58:22] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[05:58:22] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[05:58:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[05:58:22] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[05:58:22] [Server thread/INFO]: Preparing level "world"
+[05:58:22] [Server thread/INFO]: -------- World Settings For [world] --------
+[05:58:22] [Server thread/INFO]: Mob Spawn Range: 4
+[05:58:22] [Server thread/INFO]: Anti X-Ray: true
+[05:58:22] [Server thread/INFO]: 	Engine Mode: 1
+[05:58:22] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[05:58:22] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[05:58:22] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[05:58:22] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[05:58:22] [Server thread/INFO]: Cane Growth Modifier: 100%
+[05:58:22] [Server thread/INFO]: Melon Growth Modifier: 100%
+[05:58:22] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[05:58:22] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[05:58:22] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[05:58:22] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[05:58:22] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[05:58:22] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[05:58:22] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[05:58:22] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[05:58:22] [Server thread/INFO]: Random Lighting Updates: false
+[05:58:22] [Server thread/INFO]: Structure Info Saving: true
+[05:58:22] [Server thread/INFO]: Sending up to 10 chunks per packet
+[05:58:22] [Server thread/INFO]: Max Entity Collisions: 8
+[05:58:22] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[05:58:22] [Server thread/INFO]: Max TNT Explosions: 100
+[05:58:22] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[05:58:22] [Server thread/INFO]: Item Despawn Rate: 6000
+[05:58:22] [Server thread/INFO]: Item Merge Radius: 2.5
+[05:58:22] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[05:58:22] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[05:58:22] [Server thread/INFO]: View Distance: 4
+[05:58:22] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[05:58:22] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[05:58:22] [Server thread/INFO]: Clear tick list: false
+[05:58:22] [Server thread/INFO]: Experience Merge Radius: 3.0
+[05:58:22] [Server thread/INFO]: -------- World Settings For [world] --------
+[05:58:22] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[05:58:22] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[05:58:22] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[05:58:22] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[05:58:22] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[05:58:22] [Server thread/INFO]: Water over lava flow speed: 5
+[05:58:22] [Server thread/INFO]: Fix TNT cannons: false
+[05:58:22] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[05:58:22] [Server thread/INFO]: Keep spawn chunk loaded: true
+[05:58:22] [Server thread/INFO]: World async lighting: false
+[05:58:22] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[05:58:22] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[05:58:22] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[05:58:22] [Server thread/INFO]: Mob Spawn Range: 4
+[05:58:22] [Server thread/INFO]: Anti X-Ray: true
+[05:58:22] [Server thread/INFO]: 	Engine Mode: 1
+[05:58:22] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[05:58:22] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[05:58:22] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[05:58:22] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[05:58:22] [Server thread/INFO]: Cane Growth Modifier: 100%
+[05:58:22] [Server thread/INFO]: Melon Growth Modifier: 100%
+[05:58:22] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[05:58:22] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[05:58:22] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[05:58:22] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[05:58:22] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[05:58:22] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[05:58:22] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[05:58:22] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[05:58:22] [Server thread/INFO]: Random Lighting Updates: false
+[05:58:22] [Server thread/INFO]: Structure Info Saving: true
+[05:58:22] [Server thread/INFO]: Sending up to 10 chunks per packet
+[05:58:22] [Server thread/INFO]: Max Entity Collisions: 8
+[05:58:22] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[05:58:22] [Server thread/INFO]: Max TNT Explosions: 100
+[05:58:22] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[05:58:22] [Server thread/INFO]: Item Despawn Rate: 6000
+[05:58:22] [Server thread/INFO]: Item Merge Radius: 2.5
+[05:58:22] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[05:58:22] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[05:58:22] [Server thread/INFO]: View Distance: 4
+[05:58:22] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[05:58:22] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[05:58:22] [Server thread/INFO]: Clear tick list: false
+[05:58:22] [Server thread/INFO]: Experience Merge Radius: 3.0
+[05:58:22] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[05:58:22] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[05:58:22] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[05:58:22] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[05:58:22] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[05:58:22] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[05:58:22] [Server thread/INFO]: Water over lava flow speed: 5
+[05:58:22] [Server thread/INFO]: Fix TNT cannons: false
+[05:58:22] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[05:58:22] [Server thread/INFO]: Keep spawn chunk loaded: true
+[05:58:22] [Server thread/INFO]: World async lighting: false
+[05:58:22] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[05:58:22] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[05:58:22] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[05:58:22] [Server thread/INFO]: Mob Spawn Range: 4
+[05:58:22] [Server thread/INFO]: Anti X-Ray: true
+[05:58:22] [Server thread/INFO]: 	Engine Mode: 1
+[05:58:22] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[05:58:22] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[05:58:22] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[05:58:22] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[05:58:22] [Server thread/INFO]: Cane Growth Modifier: 100%
+[05:58:22] [Server thread/INFO]: Melon Growth Modifier: 100%
+[05:58:22] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[05:58:22] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[05:58:22] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[05:58:22] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[05:58:22] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[05:58:22] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[05:58:22] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[05:58:22] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[05:58:22] [Server thread/INFO]: Random Lighting Updates: false
+[05:58:22] [Server thread/INFO]: Structure Info Saving: true
+[05:58:22] [Server thread/INFO]: Sending up to 10 chunks per packet
+[05:58:22] [Server thread/INFO]: Max Entity Collisions: 8
+[05:58:22] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[05:58:22] [Server thread/INFO]: Max TNT Explosions: 100
+[05:58:22] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[05:58:22] [Server thread/INFO]: Item Despawn Rate: 6000
+[05:58:22] [Server thread/INFO]: Item Merge Radius: 2.5
+[05:58:22] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[05:58:22] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[05:58:22] [Server thread/INFO]: View Distance: 4
+[05:58:22] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[05:58:22] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[05:58:22] [Server thread/INFO]: Clear tick list: false
+[05:58:22] [Server thread/INFO]: Experience Merge Radius: 3.0
+[05:58:22] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[05:58:22] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[05:58:22] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[05:58:22] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[05:58:22] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[05:58:22] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[05:58:22] [Server thread/INFO]: Water over lava flow speed: 5
+[05:58:22] [Server thread/INFO]: Fix TNT cannons: false
+[05:58:22] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[05:58:22] [Server thread/INFO]: Keep spawn chunk loaded: true
+[05:58:22] [Server thread/INFO]: World async lighting: false
+[05:58:22] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[05:58:22] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[05:58:22] [Server thread/INFO]: Preparing start region for level 0 (Seed: 8746604822408410148)
+[05:58:23] [Server thread/INFO]: Preparing spawn area: 25%
+[05:58:24] [Server thread/INFO]: Preparing spawn area: 94%
+[05:58:24] [Server thread/INFO]: Preparing start region for level 1 (Seed: 8746604822408410148)
+[05:58:25] [Server thread/INFO]: Preparing spawn area: 26%
+[05:58:26] [Server thread/INFO]: Preparing start region for level 2 (Seed: 8746604822408410148)
+[05:58:27] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v6.4
+[05:58:27] [Server thread/INFO]: [0;33;1m[21m[SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9[m
 
-[00:53:24] [Server thread/INFO]: [0;33;1m[21m[SimpleTpa] Simple Tpa has been enabled on version 6.4[m
+[05:58:27] [Server thread/INFO]: [0;33;1m[21m[SimpleTpa] Simple Tpa has been enabled on version 6.4[m
 
-[00:53:24] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
-[00:53:24] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
-[00:53:24] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[00:53:24] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
-[00:53:24] [Server thread/INFO]: [Sudo] Enabling Sudo v1
-[00:53:24] [Server thread/INFO]: [Suicide] Enabling Suicide v1.4.6
-[00:53:24] [Server thread/INFO]: [Suicide] Plugin Enabled!
-[00:53:24] [Server thread/INFO]: [SimpleHomes] Enabling SimpleHomes v2.2
-[00:53:24] [Server thread/INFO]: [OnePlayerSleep] Enabling OnePlayerSleep v1.3
-[00:53:24] [Server thread/INFO]: [InvSee++] Enabling InvSeePlusPlus v0.29.4
-[00:53:25] [Server thread/INFO]: [BanManager] Enabling BanManager v7.9.0
-[00:53:26] [Server thread/WARN]: [Server thread] INFO me.confuser.banmanager.common.hikari.HikariDataSource - bm-local - Starting...
+[05:58:27] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[05:58:27] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[05:58:27] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[05:58:27] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[05:58:27] [Server thread/INFO]: [Sudo] Enabling Sudo v1
+[05:58:27] [Server thread/INFO]: [Suicide] Enabling Suicide v1.4.6
+[05:58:27] [Server thread/INFO]: [Suicide] Plugin Enabled!
+[05:58:27] [Server thread/INFO]: [SimpleHomes] Enabling SimpleHomes v2.2
+[05:58:27] [Server thread/INFO]: [OnePlayerSleep] Enabling OnePlayerSleep v1.3
+[05:58:27] [Server thread/INFO]: [EasyRanks] Enabling EasyRanks v1.3.2
+[05:58:27] [Server thread/INFO]: [InvSee++] Enabling InvSeePlusPlus v0.29.4
+[05:58:27] [Server thread/INFO]: [BanManager] Enabling BanManager v7.9.0
+[05:58:28] [Server thread/WARN]: [Server thread] INFO me.confuser.banmanager.common.hikari.HikariDataSource - bm-local - Starting...
 
-[00:53:27] [Server thread/WARN]: [Server thread] INFO me.confuser.banmanager.common.hikari.HikariDataSource - bm-local - Start completed.
+[05:58:28] [Server thread/WARN]: [Server thread] INFO me.confuser.banmanager.common.hikari.HikariDataSource - bm-local - Start completed.
 
-[00:53:27] [Server thread/INFO]: [BanManager] Loaded 0 bans into memory
-[00:53:27] [Server thread/INFO]: [BanManager] Loaded 0 mutes into memory
-[00:53:27] [Server thread/INFO]: [BanManager] Loaded 0 ip bans into memory
-[00:53:27] [Server thread/INFO]: [BanManager] Loaded 0 ip mutes into memory
-[00:53:27] [Server thread/INFO]: [BanManager] Loaded 0 ip range bans into memory
-[00:53:27] [Server thread/INFO]: [BanManager] Loaded 0 name bans into memory
-[00:53:27] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.2.0
-[00:53:28] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
-[00:53:28] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
-[00:53:28] [Server thread/INFO]: [LoginSecurity] Registering commands...
-[00:53:28] [Server thread/INFO]: [LoginSecurity] Registering listeners...
-[00:53:28] [Server thread/INFO]: [InvSee++_Clear] Enabling InvSeePlusPlus_Clear v0.29.4
-[00:53:28] [Server thread/INFO]: [InvSee++_Give] Enabling InvSeePlusPlus_Give v0.29.4
-[00:53:28] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[00:53:28] [Server thread/INFO]: Done (17.264s)! For help, type "help" or "?"
-[00:53:28] [Server thread/INFO]: Timings Reset
-[00:53:28] [Server thread/INFO]: [BanManager] The following commands are blocked whilst muted:
-[00:53:28] [Server thread/INFO]: [BanManager] msg
-[00:53:28] [Server thread/INFO]: [BanManager] The following commands are blocked whilst soft muted:
-[00:53:28] [Server thread/INFO]: [BanManager] msg
-[00:53:28] [Craft Scheduler Thread - 1/INFO]: [0;31;1m[21m[SimpleTpa] There is a new update available.[m
+[05:58:28] [Server thread/INFO]: [BanManager] Loaded 0 bans into memory
+[05:58:28] [Server thread/INFO]: [BanManager] Loaded 0 mutes into memory
+[05:58:29] [Server thread/INFO]: [BanManager] Loaded 0 ip bans into memory
+[05:58:29] [Server thread/INFO]: [BanManager] Loaded 0 ip mutes into memory
+[05:58:29] [Server thread/INFO]: [BanManager] Loaded 0 ip range bans into memory
+[05:58:29] [Server thread/INFO]: [BanManager] Loaded 0 name bans into memory
+[05:58:29] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.2.0
+[05:58:29] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[05:58:29] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[05:58:29] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[05:58:29] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[05:58:29] [Server thread/INFO]: [InvSee++_Clear] Enabling InvSeePlusPlus_Clear v0.29.4
+[05:58:29] [Server thread/INFO]: [InvSee++_Give] Enabling InvSeePlusPlus_Give v0.29.4
+[05:58:29] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[05:58:29] [Server thread/INFO]: Done (7.488s)! For help, type "help" or "?"
+[05:58:29] [Server thread/INFO]: Timings Reset
+[05:58:29] [Server thread/INFO]: [BanManager] The following commands are blocked whilst muted:
+[05:58:29] [Server thread/INFO]: [BanManager] msg
+[05:58:29] [Server thread/INFO]: [BanManager] The following commands are blocked whilst soft muted:
+[05:58:29] [Server thread/INFO]: [BanManager] msg
+[05:58:29] [Craft Scheduler Thread - 1/INFO]: [0;31;1m[21m[SimpleTpa] There is a new update available.[m
 
-[00:53:28] [Craft Scheduler Thread - 1/INFO]: [0;31;1m[SimpleTpa] There is a new update available:[m
+[05:58:29] [Craft Scheduler Thread - 1/INFO]: [0;31;1m[SimpleTpa] There is a new update available:[m
 
-[00:53:28] [Craft Scheduler Thread - 1/INFO]: [0;31;1m[SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/[m
+[05:58:29] [Craft Scheduler Thread - 1/INFO]: [0;31;1m[SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/[m
 
-[00:53:28] [Server thread/INFO]: [Suicide] You are using the latest version of Suicide.
-[00:53:59] [Thread-10/INFO]: UUID of player a__ is e7c24215-dfa4-3c38-a935-0a08fc511456
-[00:54:00] [Server thread/INFO]: a__[/[0:0:0:0:0:0:0:1]:53618] logged in with entity id 746 at ([world]250.2548177656333, 76.0, 296.95228441011284)
-[00:54:00] [Craft Scheduler Thread - 4/INFO]: [0;31;1mWarning: a__ has the same IP as the following players:
-[0;33;22mDanny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC[m
+[05:58:29] [Server thread/INFO]: [Suicide] You are using the latest version of Suicide.
+[06:00:29] [Thread-10/INFO]: UUID of player a__ is e7c24215-dfa4-3c38-a935-0a08fc511456
+[06:00:29] [Server thread/INFO]: a__[/[0:0:0:0:0:0:0:1]:38244] logged in with entity id 768 at ([world]288.87701632329623, 77.0, 338.5950420831325)
+[06:00:37] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mAdmin[0;30;1m] [0;37;1ma__ [0;37;1m➟ [0;37;1ma[m
 
-[00:54:16] [Server thread/INFO]: a__ lost connection: Disconnected
-[00:54:16] [Server thread/INFO]: a__ left the game.
-[01:04:12] [Thread-12/INFO]: UUID of player Steven is 944d2caf-d932-3441-b30c-7e43d402ec4b
-[01:04:12] [Server thread/INFO]: Steven[/[0:0:0:0:0:0:0:1]:60310] logged in with entity id 764 at ([world]71.64974790128144, 11.0, 1332.699999988079)
-[01:04:13] [Craft Scheduler Thread - 6/INFO]: [0;31;1mWarning: Steven has the same IP as the following players:
-[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC[m
-
-[01:19:44] [Server thread/INFO]: Steven issued server command: /suicide
-[01:19:44] [Server thread/INFO]: Steven died
-[01:19:44] [Server thread/INFO]: [0;31;1m[21mSteven slipped on a banana[m
-
-[01:19:44] [Server thread/ERROR]: [Suicide] The sound you're trying to play isn't registered in this Minecraft Version: ENTITY_ZOMBIE_HURT
-[01:19:49] [Server thread/INFO]: Steven issued server command: /back
-[01:30:55] [Thread-14/INFO]: UUID of player Curry_Mucher is e2079d7a-f307-32d1-8f15-be80fe808820
-[01:30:55] [Server thread/INFO]: Curry_Mucher[/[0:0:0:0:0:0:0:1]:40756] logged in with entity id 4136 at ([world]186.5, 63.0, 244.5)
-[01:30:56] [Craft Scheduler Thread - 9/INFO]: [0;31;1mWarning: Curry_Mucher has the same IP as the following players:
-[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC[m
-
-[01:31:05] [Server thread/INFO]: Curry_Mucher lost connection: Disconnected
-[01:31:05] [Server thread/INFO]: Curry_Mucher left the game.
-[01:31:06] [Async Chat Thread - #0/INFO]: <Steven> wsg[m
-
-[01:31:19] [Thread-15/INFO]: UUID of player Curry_Muncher is efb9058e-8bc2-36ca-a0a5-81b99753b5b8
-[01:31:19] [Server thread/INFO]: Curry_Muncher[/[0:0:0:0:0:0:0:1]:59766] logged in with entity id 4317 at ([world]-46.803007494440855, 74.0, 123.74489960164792)
-[01:31:20] [Craft Scheduler Thread - 9/INFO]: [0;31;1mWarning: Curry_Muncher has the same IP as the following players:
-[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, _sentientIMAC, Curry_Mucher[m
-
-[01:31:25] [Async Chat Thread - #0/INFO]: <Steven> wsg[m
-
-[01:31:31] [Server thread/INFO]: Curry_Muncher issued server command: /going to die
-[01:31:41] [Async Chat Thread - #0/INFO]: <Curry_Muncher> going to die of hunger lol[m
-
-[01:31:47] [Async Chat Thread - #0/INFO]: <Steven> rip[m
-
-[01:31:57] [Async Chat Thread - #0/INFO]: <Steven> just do /suicide and then /back[m
-
-[01:32:16] [Server thread/INFO]: Curry_Muncher issued server command: /suidide
-[01:32:23] [Server thread/INFO]: Curry_Muncher issued server command: /suicide
-[01:32:23] [Server thread/INFO]: Curry_Muncher died
-[01:32:23] [Server thread/INFO]: [0;31;1m[21mCurry_Muncher has committed suicide![m
-
-[01:32:23] [Server thread/ERROR]: [Suicide] The sound you're trying to play isn't registered in this Minecraft Version: ENTITY_ZOMBIE_HURT
-[01:32:31] [Server thread/INFO]: Curry_Muncher issued server command: /back
-[01:32:41] [Async Chat Thread - #0/INFO]: <Curry_Muncher> danke[m
-
-[01:32:54] [Async Chat Thread - #0/INFO]: <Steven> you lose half your xp levels tho[m
-
-[01:33:10] [Async Chat Thread - #0/INFO]: <Curry_Muncher> uhh doesn't really matter[m
-
-[01:33:22] [Async Chat Thread - #0/INFO]: <Curry_Muncher> not going to enchant any time soon[m
-
-[01:33:39] [Async Chat Thread - #0/INFO]: <Steven> im working on enchanted diamond armor[m
-
-[01:33:49] [Async Chat Thread - #0/INFO]: <Curry_Muncher> damn[m
-
-[01:33:58] [Async Chat Thread - #0/INFO]: <Steven> i got half a stack of daimonds so far[m
-
-[01:34:09] [Async Chat Thread - #0/INFO]: <Curry_Muncher> still no diamonds :([m
-
-[01:34:12] [Async Chat Thread - #0/INFO]: <Steven> rip[m
-
-[01:34:20] [Async Chat Thread - #0/INFO]: <Steven> theres plenty a y 11[m
-
-[01:34:48] [Async Chat Thread - #0/INFO]: <Curry_Muncher> ya i had to get food before i get mining[m
-
-[01:34:58] [Async Chat Thread - #0/INFO]: <Steven> yeah[m
-
-[01:35:20] [Async Chat Thread - #0/INFO]: <Curry_Muncher> school tomorrow :([m
-
-[01:35:25] [Async Chat Thread - #0/INFO]: <Steven> oh and if you do /set home name you can set a home so if you do /home name you can teloport to it[m
-
-[01:36:01] [Server thread/INFO]: Curry_Muncher has just earned the achievement [Bake Bread]
-[01:36:33] [Async Chat Thread - #1/INFO]: <Steven> i want to sleep in[m
-
-[01:50:14] [Thread-16/INFO]: UUID of player mason is 905956b9-1794-36a8-861a-4904eae0994d
-[01:50:14] [Server thread/INFO]: mason[/[0:0:0:0:0:0:0:1]:33032] logged in with entity id 10029 at ([world]129.63121186960433, 71.0, 1237.2909343222377)
-[01:50:15] [Craft Scheduler Thread - 14/INFO]: [0;31;1mWarning: mason has the same IP as the following players:
-[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher[m
-
-[01:51:15] [Server thread/INFO]: mason lost connection: Login timed out!
-[01:51:15] [Server thread/INFO]: mason left the game.
-[01:51:15] [Server thread/WARN]: handleDisconnection() called twice
-[01:51:19] [Thread-17/INFO]: UUID of player mason is 905956b9-1794-36a8-861a-4904eae0994d
-[01:51:19] [Server thread/INFO]: mason[/[0:0:0:0:0:0:0:1]:36512] logged in with entity id 10352 at ([world]129.18345129427908, 71.0, 1237.9911131762478)
-[01:51:20] [Craft Scheduler Thread - 13/INFO]: [0;31;1mWarning: mason has the same IP as the following players:
-[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher[m
-
-[01:51:27] [Server thread/INFO]: mason issued server command: /1ifxk
-[01:53:18] [Server thread/INFO]: Steven issued server command: /delhome cave
-[01:53:25] [Server thread/INFO]: Steven issued server command: /sethome cave
-[01:53:28] [Server thread/INFO]: Steven issued server command: /home HOME
-[01:53:42] [Server thread/INFO]: Steven issued server command: /home HOME
-[01:53:45] [Server thread/INFO]: Steven issued server command: /homes
-[01:54:19] [Server thread/INFO]: Steven issued server command: /home xp
-[01:54:38] [Server thread/INFO]: Steven issued server command: /delhome xp
-[01:54:43] [Server thread/INFO]: Steven issued server command: /home Steven
-[01:55:41] [Server thread/INFO]: Steven issued server command: /suicide
-[01:55:41] [Server thread/INFO]: Steven died
-[01:55:41] [Server thread/INFO]: [0;31;1m[21mSteven turned emo[m
-
-[01:55:41] [Server thread/ERROR]: [Suicide] The sound you're trying to play isn't registered in this Minecraft Version: ENTITY_ZOMBIE_HURT
-[01:55:51] [Server thread/INFO]: Steven issued server command: /back
-[02:00:39] [Server thread/INFO]: Steven issued server command: /home cave
-[02:05:05] [Server thread/INFO]: Curry_Muncher lost connection: Disconnected
-[02:05:05] [Server thread/INFO]: Curry_Muncher left the game.
-[02:10:42] [Server thread/INFO]: There are 2/20000 players online:
-[02:10:42] [Server thread/INFO]: mason, Steven
-[02:16:35] [Async Chat Thread - #3/INFO]: <Steven> mason are you at the base[m
-
-[02:16:42] [Async Chat Thread - #3/INFO]: <mason> yes[m
-
-[02:16:46] [Async Chat Thread - #3/INFO]: <Steven> ima tp[m
-
-[02:16:51] [Server thread/INFO]: Steven issued server command: /tpa mason
-[02:16:58] [Server thread/INFO]: mason issued server command: /tpaccept
-[02:17:21] [Async Chat Thread - #3/INFO]: <mason> nice skin[m
-
-[02:17:29] [Async Chat Thread - #3/INFO]: <Steven> thanks[m
-
-[02:17:39] [Async Chat Thread - #3/INFO]: <Steven> what one is it it[m
-
-[02:17:42] [Async Chat Thread - #3/INFO]: <Steven> is it lebron[m
-
-[02:17:50] [Async Chat Thread - #3/INFO]: <mason> no speedo[m
-
-[02:17:56] [Async Chat Thread - #3/INFO]: <Steven> oh?[m
-
-[02:24:42] [Server thread/INFO]: Steven issued server command: /sethome HOME
-[02:26:37] [Server thread/INFO]: Steven issued server command: /home mine
-[02:26:41] [Server thread/INFO]: Steven issued server command: /home Mine
-[02:26:45] [Server thread/INFO]: Steven issued server command: /homes
-[02:26:53] [Server thread/INFO]: Steven issued server command: /home cave
-[02:28:01] [Server thread/INFO]: Steven issued server command: /delhome cave
-[02:28:10] [Server thread/INFO]: Steven issued server command: /sethome cave
-[02:30:40] [Async Chat Thread - #4/INFO]: <Steven> find any diamonds yet?[m
-
-[02:30:46] [Async Chat Thread - #4/INFO]: <mason> no[m
-
-[02:30:57] [Async Chat Thread - #4/INFO]: <Steven> i got enough for a full set of armor[m
-
-[02:31:05] [Async Chat Thread - #4/INFO]: <mason> good for you[m
-
-[02:31:08] [Async Chat Thread - #4/INFO]: <Steven> im gonna max enchant them[m
-
-[02:31:10] [Server thread/INFO]: There are 2/20000 players online:
-[02:31:10] [Server thread/INFO]: mason, Steven
-[02:31:37] [Async Chat Thread - #4/INFO]: <Steven> illl give leftover diamonds to you[m
-
-[02:31:45] [Async Chat Thread - #4/INFO]: <mason> ok[m
-
-[02:33:36] [Server thread/INFO]: Steven lost connection: Disconnected
-[02:33:36] [Server thread/INFO]: Steven left the game.
-[02:43:02] [Server thread/INFO]: mason lost connection: Disconnected
-[02:43:02] [Server thread/INFO]: mason left the game.
-[02:49:02] [Thread-20/INFO]: UUID of player Steven is 944d2caf-d932-3441-b30c-7e43d402ec4b
-[02:49:02] [Server thread/INFO]: Steven[/[0:0:0:0:0:0:0:1]:46460] logged in with entity id 23872 at ([world]-7.3030718804735555, 11.0, 1468.3849845053146)
-[02:49:03] [Craft Scheduler Thread - 23/INFO]: [0;31;1mWarning: Steven has the same IP as the following players:
+[06:00:38] [Thread-11/INFO]: UUID of player Steven is 944d2caf-d932-3441-b30c-7e43d402ec4b
+[06:00:38] [Server thread/INFO]: Steven[/[0:0:0:0:0:0:0:1]:34708] logged in with entity id 829 at ([world]155.7532574396493, 84.0, 1256.6919347694063)
+[06:00:39] [Craft Scheduler Thread - 1/INFO]: [0;31;1mWarning: Steven has the same IP as the following players:
 [0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason[m
 
-[02:53:29] [Server thread/INFO]: There are 1/20000 players online:
-[02:53:29] [Server thread/INFO]: Steven
-[03:10:58] [Server thread/INFO]: Steven issued server command: /delhome cave
-[03:12:15] [Server thread/INFO]: Steven issued server command: /sethome cave
-[03:12:20] [Server thread/INFO]: Steven issued server command: /home HOME
-[03:26:57] [Server thread/WARN]: Steven moved wrongly!
-[03:28:42] [Server thread/WARN]: Steven moved wrongly!
-[03:28:51] [Server thread/INFO]: Steven was slain by Zombie Pigman
-[03:28:57] [Server thread/INFO]: Steven issued server command: /back
-[03:29:04] [Server thread/INFO]: Steven was slain by Zombie Pigman
-[03:30:56] [Server thread/INFO]: Steven issued server command: /back
-[03:31:08] [Server thread/INFO]: Steven was slain by Zombie Pigman
-[03:31:13] [Server thread/WARN]: Steven moved wrongly!
-[03:31:22] [Server thread/INFO]: Steven issued server command: /home home
-[03:31:26] [Server thread/INFO]: Steven issued server command: /home HOME
-[03:42:20] [Server thread/INFO]: Steven issued server command: /homes
-[03:42:30] [Server thread/INFO]: Steven issued server command: /delmega
-[03:42:37] [Server thread/INFO]: Steven issued server command: /delhome Mega
-[03:42:51] [Server thread/INFO]: Steven issued server command: /home set pot base
-[03:42:59] [Server thread/INFO]: Steven issued server command: /sethome glue
-[03:43:03] [Server thread/INFO]: Steven issued server command: /home HOME
-[03:43:30] [Server thread/INFO]: Steven issued server command: /home pot base
-[03:43:33] [Server thread/INFO]: Steven issued server command: /homes
-[03:43:38] [Server thread/INFO]: Steven issued server command: /home glue
-[03:44:05] [Server thread/INFO]: Steven issued server command: /home HOME
-[03:44:48] [Server thread/INFO]: Steven issued server command: /home glue
-[03:46:09] [Server thread/INFO]: Steven issued server command: /home HOME
-[03:49:06] [Server thread/INFO]: Steven issued server command: /delhome glue
-[03:49:38] [Server thread/INFO]: Steven issued server command: /home HOME
-[03:54:46] [Server thread/INFO]: Steven issued server command: /seed
-[03:54:50] [Server thread/INFO]: Steven lost connection: Disconnected
-[03:54:50] [Server thread/INFO]: Steven left the game.
-[03:54:56] [Thread-23/INFO]: UUID of player Steven is 944d2caf-d932-3441-b30c-7e43d402ec4b
-[03:54:57] [Server thread/INFO]: Steven[/[0:0:0:0:0:0:0:1]:41194] logged in with entity id 51786 at ([world]269.6060228665974, 71.0, 1251.4088473845823)
-[03:54:58] [Craft Scheduler Thread - 30/INFO]: [0;31;1mWarning: Steven has the same IP as the following players:
-[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason[m
-
-[03:56:26] [Async Chat Thread - #5/INFO]: <Steven> evan[m
-
-[03:56:28] [Async Chat Thread - #5/INFO]: <Steven> evan[m
-
-[03:57:49] [Async Chat Thread - #6/INFO]: <Steven> what is the seed number[m
-
-[03:59:08] [Server thread/INFO]: Steven lost connection: Disconnected
-[03:59:08] [Server thread/INFO]: Steven left the game.
-[04:00:12] [Thread-25/INFO]: UUID of player Steven is 944d2caf-d932-3441-b30c-7e43d402ec4b
-[04:00:12] [Server thread/INFO]: Steven[/[0:0:0:0:0:0:0:1]:43278] logged in with entity id 52338 at ([world]205.91867453052242, 70.0, 1417.2118405335348)
-[04:00:13] [Craft Scheduler Thread - 30/INFO]: [0;31;1mWarning: Steven has the same IP as the following players:
-[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason[m
-
-[04:01:36] [Server thread/INFO]: Steven issued server command: /home Steven
-[04:05:28] [Server thread/INFO]: Steven lost connection: Disconnected
-[04:05:28] [Server thread/INFO]: Steven left the game.
-[04:07:44] [Thread-26/INFO]: UUID of player Steven is 944d2caf-d932-3441-b30c-7e43d402ec4b
-[04:07:44] [Server thread/WARN]: Failed to handle packet for /[0:0:0:0:0:0:0:1]:56292
-net.minecraft.server.v1_8_R3.ReportedException: Sending packet
-	at net.minecraft.server.v1_8_R3.PlayerConnection.sendPacket(PlayerConnection.java:925) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.EntityPlayer.a(EntityPlayer.java:783) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.Container.addSlotListener(Container.java:59) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.EntityPlayer.syncInventory(EntityPlayer.java:177) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.PlayerList.a(PlayerList.java:190) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.LoginListener.b(LoginListener.java:144) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.LoginListener.c(LoginListener.java:54) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.NetworkManager.a(NetworkManager.java:231) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.ServerConnection.c(ServerConnection.java:148) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:875) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at java.lang.Thread.run(Thread.java:1583) [?:?]
-Caused by: java.lang.NullPointerException: type cannot be null
-	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:229) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at com.comphenix.protocol.injector.StructureCache.getStructure(StructureCache.java:138) ~[?:?]
-	at com.comphenix.protocol.events.PacketContainer.<init>(PacketContainer.java:126) ~[?:?]
-	at com.comphenix.protocol.injector.netty.manager.NetworkManagerInjector.onPacketSending(NetworkManagerInjector.java:96) ~[?:?]
-	at com.comphenix.protocol.injector.netty.channel.NettyChannelInjector.processOutbound(NettyChannelInjector.java:553) ~[?:?]
-	at com.comphenix.protocol.injector.netty.channel.NettyChannelInjector$2.doProxyRunnable(NettyChannelInjector.java:456) ~[?:?]
-	at com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.proxyRunnable(NettyEventLoopProxy.java:43) ~[?:?]
-	at com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.execute(NettyEventLoopProxy.java:252) ~[?:?]
-	at net.minecraft.server.v1_8_R3.NetworkManager.a(NetworkManager.java:192) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.NetworkManager.handle(NetworkManager.java:141) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.PlayerConnection.sendPacket(PlayerConnection.java:911) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	... 13 more
-[04:07:44] [Server thread/INFO]: Steven lost connection: Internal server error
-[04:07:44] [Server thread/INFO]: Steven left the game.
-[04:07:45] [Craft Scheduler Thread - 30/INFO]: [0;31;1mWarning: Steven has the same IP as the following players:
-[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason[m
-
-[04:07:48] [Thread-27/INFO]: UUID of player Steven is 944d2caf-d932-3441-b30c-7e43d402ec4b
-[04:07:48] [Server thread/INFO]: Steven[/[0:0:0:0:0:0:0:1]:56300] logged in with entity id 54540 at ([world]106.95360028746101, 66.0, 327.1594068390798)
-[04:07:49] [Craft Scheduler Thread - 36/INFO]: [0;31;1mWarning: Steven has the same IP as the following players:
-[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason[m
-
-[04:15:31] [Server thread/INFO]: Steven issued server command: /bases
-[04:15:35] [Server thread/INFO]: Steven issued server command: /homes
-[04:17:04] [Server thread/INFO]: Steven issued server command: /sethome ZEKE
-[04:18:51] [Thread-28/INFO]: UUID of player jewburner is 6d52b5a5-d297-3d51-b6ce-a245aa2841cc
-[04:18:51] [Server thread/INFO]: jewburner[/[0:0:0:0:0:0:0:1]:43182] logged in with entity id 56412 at ([world]-98.58082335110757, 14.0, 145.59333498425363)
-[04:18:52] [Craft Scheduler Thread - 36/INFO]: [0;31;1mWarning: jewburner has the same IP as the following players:
-[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason[m
-
-[04:19:36] [Async Chat Thread - #7/INFO]: <Steven> need any diamonds?[m
-
-[04:19:42] [Async Chat Thread - #7/INFO]: <jewburner> yeah[m
-
-[04:19:52] [Async Chat Thread - #7/INFO]: <Steven> i might have extra[m
-
-[04:19:58] [Async Chat Thread - #7/INFO]: <jewburner> right...[m
-
-[04:20:03] [Async Chat Thread - #7/INFO]: <jewburner> not your broke ass[m
-
-[04:20:05] [Server thread/INFO]: jewburner lost connection: Disconnected
-[04:20:05] [Server thread/INFO]: jewburner left the game.
-[04:20:26] [Thread-29/INFO]: UUID of player jewburner is 6d52b5a5-d297-3d51-b6ce-a245aa2841cc
-[04:20:26] [Server thread/INFO]: jewburner[/[0:0:0:0:0:0:0:1]:55368] logged in with entity id 57010 at ([world]-111.27488477520131, 13.0, 142.11335067065104)
-[04:20:27] [Craft Scheduler Thread - 36/INFO]: [0;31;1mWarning: jewburner has the same IP as the following players:
-[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason[m
-
-[04:20:30] [Async Chat Thread - #7/INFO]: <Steven> i have full daimond armo...[m
-
-[04:20:39] [Async Chat Thread - #7/INFO]: <jewburner> poor[m
-
-[04:20:43] [Async Chat Thread - #7/INFO]: <Steven> cap[m
-
-[04:20:56] [Async Chat Thread - #7/INFO]: <Steven> enchanted diamond armor plus tools[m
-
-[04:21:16] [Server thread/INFO]: Steven issued server command: /home ZEKE
-[04:21:21] [Server thread/INFO]: Steven issued server command: /jewyouranigger
-[04:22:00] [Async Chat Thread - #8/INFO]: <Steven> have you made any progress yet[m
-
-[04:22:05] [Async Chat Thread - #8/INFO]: <jewburner> netherite[m
-
-[04:22:07] [Async Chat Thread - #8/INFO]: <jewburner> full[m
-
-[04:22:14] [Async Chat Thread - #8/INFO]: <Steven> thats it[m
-
-[04:22:34] [Async Chat Thread - #8/INFO]: <Steven> i would be embarresed to admit that[m
-
-[04:22:55] [Async Chat Thread - #8/INFO]: <Steven> ive got obsibian armor[m
-
-[04:23:25] [Async Chat Thread - #8/INFO]: <Steven> do you have any horses if so id lilke to trade[m
-
-[04:24:29] [Async Chat Thread - #9/INFO]: <Steven> yooo desert temple[m
-
-[04:24:44] [Async Chat Thread - #9/INFO]: <jewburner> why are you talking right now[m
-
-[04:24:56] [Async Chat Thread - #9/INFO]: <Steven> ?[m
-
-[04:25:32] [Server thread/INFO]: jewburner issued server command: /home laav
-[04:25:34] [Server thread/INFO]: jewburner issued server command: /home lava
-[04:25:36] [Server thread/INFO]: jewburner issued server command: /lava
-[04:25:38] [Server thread/INFO]: jewburner issued server command: /home lava
-[04:25:40] [Server thread/INFO]: jewburner issued server command: /home list
-[04:25:41] [Server thread/INFO]: jewburner issued server command: /home
-[04:25:50] [Server thread/INFO]: jewburner issued server command: /help
-[04:25:54] [Server thread/INFO]: jewburner issued server command: /help 3
-[04:25:56] [Server thread/INFO]: jewburner issued server command: /help 4
-[04:25:59] [Async Chat Thread - #10/INFO]: <Steven> do i have any classes with you[m
-
-[04:25:59] [Server thread/INFO]: jewburner issued server command: /help 5
-[04:26:06] [Server thread/INFO]: jewburner issued server command: /help 6
-[04:26:09] [Server thread/INFO]: jewburner issued server command: /help 3
-[04:26:12] [Server thread/INFO]: jewburner issued server command: /homes
-[04:26:48] [Server thread/INFO]: jewburner lost connection: Disconnected
-[04:26:48] [Server thread/INFO]: jewburner left the game.
-[04:28:32] [Thread-31/INFO]: UUID of player jewburner is 6d52b5a5-d297-3d51-b6ce-a245aa2841cc
-[04:28:33] [Server thread/INFO]: jewburner[/[0:0:0:0:0:0:0:1]:53440] logged in with entity id 59887 at ([world]-95.07538616238199, 25.0, 106.45273148369913)
-[04:28:34] [Craft Scheduler Thread - 42/INFO]: [0;31;1mWarning: jewburner has the same IP as the following players:
-[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason[m
-
-[04:29:01] [Server thread/INFO]: Steven issued server command: /sethome village
-[04:29:12] [Server thread/INFO]: jewburner lost connection: Disconnected
-[04:29:12] [Server thread/INFO]: jewburner left the game.
-[04:29:25] [Thread-32/INFO]: UUID of player jewburner is 6d52b5a5-d297-3d51-b6ce-a245aa2841cc
-[04:29:25] [Server thread/WARN]: Failed to handle packet for /[0:0:0:0:0:0:0:1]:56086
-net.minecraft.server.v1_8_R3.ReportedException: Sending packet
-	at net.minecraft.server.v1_8_R3.PlayerConnection.sendPacket(PlayerConnection.java:925) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.EntityPlayer.a(EntityPlayer.java:783) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.Container.addSlotListener(Container.java:59) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.EntityPlayer.syncInventory(EntityPlayer.java:177) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.PlayerList.a(PlayerList.java:190) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.LoginListener.b(LoginListener.java:144) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.LoginListener.c(LoginListener.java:54) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.NetworkManager.a(NetworkManager.java:231) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.ServerConnection.c(ServerConnection.java:148) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:875) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at java.lang.Thread.run(Thread.java:1583) [?:?]
-Caused by: java.lang.NullPointerException: type cannot be null
-	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:229) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at com.comphenix.protocol.injector.StructureCache.getStructure(StructureCache.java:138) ~[?:?]
-	at com.comphenix.protocol.events.PacketContainer.<init>(PacketContainer.java:126) ~[?:?]
-	at com.comphenix.protocol.injector.netty.manager.NetworkManagerInjector.onPacketSending(NetworkManagerInjector.java:96) ~[?:?]
-	at com.comphenix.protocol.injector.netty.channel.NettyChannelInjector.processOutbound(NettyChannelInjector.java:553) ~[?:?]
-	at com.comphenix.protocol.injector.netty.channel.NettyChannelInjector$2.doProxyRunnable(NettyChannelInjector.java:456) ~[?:?]
-	at com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.proxyRunnable(NettyEventLoopProxy.java:43) ~[?:?]
-	at com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.execute(NettyEventLoopProxy.java:252) ~[?:?]
-	at net.minecraft.server.v1_8_R3.NetworkManager.a(NetworkManager.java:192) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.NetworkManager.handle(NetworkManager.java:141) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.PlayerConnection.sendPacket(PlayerConnection.java:911) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	... 13 more
-[04:29:25] [Server thread/INFO]: jewburner lost connection: Internal server error
-[04:29:25] [Server thread/INFO]: jewburner left the game.
-[04:29:26] [Craft Scheduler Thread - 43/INFO]: [0;31;1mWarning: jewburner has the same IP as the following players:
-[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason[m
-
-[04:29:28] [Thread-33/INFO]: UUID of player jewburner is 6d52b5a5-d297-3d51-b6ce-a245aa2841cc
-[04:29:28] [Server thread/INFO]: jewburner[/[0:0:0:0:0:0:0:1]:56088] logged in with entity id 60140 at ([world]-94.65929585646661, 57.0, 106.40818112995491)
-[04:29:29] [Craft Scheduler Thread - 42/INFO]: [0;31;1mWarning: jewburner has the same IP as the following players:
-[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason[m
-
-[04:29:33] [Async Chat Thread - #11/INFO]: <Steven> you good?[m
-
-[04:30:05] [Server thread/INFO]: Steven issued server command: /home HOME
-[04:30:11] [Async Chat Thread - #11/INFO]: <Steven> oh are you kp[m
-
-[04:30:34] [Server thread/INFO]: jewburner lost connection: Disconnected
-[04:30:34] [Server thread/INFO]: jewburner left the game.
-[04:31:17] [Thread-34/INFO]: UUID of player jewburner is 6d52b5a5-d297-3d51-b6ce-a245aa2841cc
-[04:31:17] [Server thread/INFO]: jewburner[/[0:0:0:0:0:0:0:1]:35334] logged in with entity id 60681 at ([world]-94.96527484221392, 70.0, 51.67229903126024)
-[04:31:18] [Craft Scheduler Thread - 42/INFO]: [0;31;1mWarning: jewburner has the same IP as the following players:
-[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason[m
-
-[04:32:23] [Server thread/INFO]: Steven issued server command: /home village
-[04:33:36] [Server thread/INFO]: jewburner issued server command: /home lava
-[04:33:39] [Server thread/INFO]: jewburner issued server command: /sethome lava
-[04:36:17] [Server thread/INFO]: Steven issued server command: /home HOME
-[04:36:23] [Async Chat Thread - #12/INFO]: <Steven> sharpnes 5[m
-
-[04:38:11] [Server thread/INFO]: Steven issued server command: /home HOME
-[04:38:46] [Server thread/INFO]: jewburner lost connection: Disconnected
-[04:38:46] [Server thread/INFO]: jewburner left the game.
-[04:38:48] [Thread-35/INFO]: UUID of player jewburner is 6d52b5a5-d297-3d51-b6ce-a245aa2841cc
-[04:38:48] [Server thread/INFO]: jewburner[/[0:0:0:0:0:0:0:1]:37838] logged in with entity id 64820 at ([world]59.02428741253572, 59.0, 84.64387384450046)
-[04:38:49] [Craft Scheduler Thread - 46/INFO]: [0;31;1mWarning: jewburner has the same IP as the following players:
-[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason[m
-
-[04:44:40] [Server thread/INFO]: Steven lost connection: Disconnected
-[04:44:40] [Server thread/INFO]: Steven left the game.
-[04:44:42] [Server thread/INFO]: jewburner lost connection: Disconnected
-[04:44:42] [Server thread/INFO]: jewburner left the game.
-[04:44:51] [Thread-36/INFO]: UUID of player Steven is 944d2caf-d932-3441-b30c-7e43d402ec4b
-[04:44:51] [Server thread/INFO]: Steven[/[0:0:0:0:0:0:0:1]:53634] logged in with entity id 66074 at ([world]125.44330655123821, 82.0, 1245.2935315808859)
-[04:44:52] [Craft Scheduler Thread - 50/INFO]: [0;31;1mWarning: Steven has the same IP as the following players:
-[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason[m
-
-[04:45:01] [Server thread/INFO]: Steven lost connection: Disconnected
-[04:45:01] [Server thread/INFO]: Steven left the game.
-[04:45:07] [Thread-37/INFO]: UUID of player jewburner is 6d52b5a5-d297-3d51-b6ce-a245aa2841cc
-[04:45:07] [Server thread/INFO]: jewburner[/[0:0:0:0:0:0:0:1]:34048] logged in with entity id 66213 at ([world]59.80293106092117, 59.0, 86.60292703164583)
-[04:45:08] [Craft Scheduler Thread - 50/INFO]: [0;31;1mWarning: jewburner has the same IP as the following players:
-[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason[m
-
-[04:47:57] [Async Chat Thread - #13/INFO]: <jewburner> `[m
-
-[04:49:52] [Server thread/INFO]: jewburner lost connection: Disconnected
-[04:49:52] [Server thread/INFO]: jewburner left the game.
-[04:50:09] [Thread-38/INFO]: UUID of player jewburner is 6d52b5a5-d297-3d51-b6ce-a245aa2841cc
-[04:50:09] [Server thread/INFO]: jewburner[/[0:0:0:0:0:0:0:1]:52066] logged in with entity id 67855 at ([world]108.68609071649752, 79.0, 722.3885703556762)
-[04:50:10] [Craft Scheduler Thread - 53/INFO]: [0;31;1mWarning: jewburner has the same IP as the following players:
-[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason[m
-
-[04:50:57] [Server thread/INFO]: jewburner lost connection: Disconnected
-[04:50:57] [Server thread/INFO]: jewburner left the game.
-[04:51:16] [Thread-39/INFO]: UUID of player jewburner is 6d52b5a5-d297-3d51-b6ce-a245aa2841cc
-[04:51:16] [Server thread/INFO]: jewburner[/[0:0:0:0:0:0:0:1]:54282] logged in with entity id 68197 at ([world]123.73312035760853, 80.0, 861.5690176422186)
-[04:51:17] [Craft Scheduler Thread - 54/INFO]: [0;31;1mWarning: jewburner has the same IP as the following players:
-[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason[m
-
-[04:53:29] [Server thread/INFO]: [Suicide] You are using the latest version of Suicide.
-[04:57:17] [Thread-40/INFO]: UUID of player caden is 1c17e1b0-26ef-3067-b20b-aebc29283c98
-[04:57:17] [Server thread/INFO]: caden[/[0:0:0:0:0:0:0:1]:38218] logged in with entity id 70821 at ([world]128.59790152448016, 76.0, 1236.809988626067)
-[04:57:18] [Craft Scheduler Thread - 55/INFO]: [0;31;1mWarning: caden has the same IP as the following players:
-[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason[m
-
-[05:01:05] [Server thread/INFO]: jewburner issued server command: /sethome steven
-[05:01:11] [Server thread/INFO]: jewburner issued server command: /home lava
-[05:02:42] [Server thread/INFO]: jewburner issued server command: /home lava
-[05:04:46] [Server thread/INFO]: jewburner issued server command: /home lava
-[05:05:26] [Server thread/INFO]: jewburner issued server command: /home Steven
-[05:05:29] [Server thread/INFO]: jewburner issued server command: /home steven
-[05:06:12] [Server thread/INFO]: jewburner issued server command: /home lava
-[05:07:04] [Thread-42/INFO]: UUID of player Steven is 944d2caf-d932-3441-b30c-7e43d402ec4b
-[05:07:04] [Server thread/INFO]: Steven[/[0:0:0:0:0:0:0:1]:53308] logged in with entity id 74412 at ([world]125.44330655123821, 82.0, 1245.2935315808859)
-[05:07:05] [Craft Scheduler Thread - 60/INFO]: [0;31;1mWarning: Steven has the same IP as the following players:
-[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason[m
-
-[05:07:16] [Async Chat Thread - #14/INFO]: <Steven> hey caden[m
-
-[05:07:23] [Async Chat Thread - #14/INFO]: <caden> wsg[m
-
-[05:07:31] [Async Chat Thread - #14/INFO]: <Steven> how did you do at the race[m
-
-[05:08:15] [Async Chat Thread - #14/INFO]: <caden> bad[m
-
-[05:08:42] [Async Chat Thread - #14/INFO]: <Steven> i flat tired a kid at the start and his shoe flew off[m
-
-[05:09:01] [Async Chat Thread - #14/INFO]: <caden> i shoved a kid into a pole[m
-
-[05:09:06] [Async Chat Thread - #14/INFO]: <Steven> what did he do[m
-
-[05:09:22] [Async Chat Thread - #14/INFO]: <caden> he shoved me first so he ate the poll[m
-
-[05:09:32] [Async Chat Thread - #14/INFO]: <Steven> good[m
-
-[05:10:01] [Async Chat Thread - #14/INFO]: <Steven> i got sharpness 4 on my sword[m
-
-[05:11:18] [Async Chat Thread - #15/INFO]: <Steven> jewburner did zeke play today at all[m
-
-[05:11:28] [Async Chat Thread - #15/INFO]: <jewburner> dunno[m
-
-[05:11:31] [Async Chat Thread - #15/INFO]: <Steven> okay[m
-
-[05:11:32] [Server thread/INFO]: jewburner issued server command: /home Steven
-[05:11:36] [Server thread/INFO]: jewburner issued server command: /home steven
-[05:11:50] [Async Chat Thread - #15/INFO]: <Steven> caden do you need diamonds[m
-
-[05:11:53] [Async Chat Thread - #15/INFO]: <Steven> i have extra[m
-
-[05:11:57] [Async Chat Thread - #15/INFO]: <caden> ya[m
-
-[05:12:00] [Async Chat Thread - #15/INFO]: <Steven> okay[m
-
-[05:12:03] [Server thread/INFO]: caden issued server command: /tpa steven
-[05:12:08] [Server thread/INFO]: Steven issued server command: /accept
-[05:12:33] [Server thread/INFO]: jewburner lost connection: Disconnected
-[05:12:33] [Server thread/INFO]: jewburner left the game.
-[05:13:45] [Async Chat Thread - #16/INFO]: <Steven> decked out[m
-
-[05:14:49] [Async Chat Thread - #17/INFO]: <Steven> come er[m
-
-[05:14:53] [Server thread/INFO]: caden has just earned the achievement [Time to Strike!]
-[05:15:00] [Async Chat Thread - #17/INFO]: <Steven> behind you[m
-
-[05:15:16] [Async Chat Thread - #17/INFO]: <Steven> look[m
+[06:00:44] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mAdmin[0;30;1m] [0;37;1ma__ [0;37;1m➟ [0;37;1mtry talking[m
 
+[06:00:50] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mhuh[m
+
+[06:00:56] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mlol[m
+
+[06:01:02] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mAdmin[0;30;1m] [0;37;1ma__ [0;37;1m➟ [0;37;1mdo you like your rank lmao[m
+
+[06:01:06] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1myes lol[m
+
+[06:01:14] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mi have my murder sword[m
+
+[06:01:26] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mits got sharp 4 and fire something[m
+
+[06:01:46] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mAdmin[0;30;1m] [0;37;1ma__ [0;37;1m➟ [0;37;1mshould I put up my venmo account username on the website and say if you donate you get a cool rank[m
+
+[06:01:54] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1myes[m
+
+[06:02:08] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mcan you spawn me in a horse[m
+
+[06:02:10] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mAdmin[0;30;1m] [0;37;1ma__ [0;37;1m➟ [0;37;1ma total of zero people are gonna donate lmao[m
+
+[06:02:14] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mlol[m
+
+[06:02:30] [Server thread/INFO]: a__ issued server command: /invsee Steven
+[06:02:31] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mdo you accept starbucks gift cards with .01 dollars on it[m
+
+[06:02:41] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mAdmin[0;30;1m] [0;37;1ma__ [0;37;1m➟ [0;37;1mnah but check your head[m
+
+[06:02:50] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mthanks bro[m
+
+[06:03:30] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mAdmin[0;30;1m] [0;37;1ma__ [0;37;1m➟ [0;37;1mimma turn off coords and tp to you to check out your base[m
+
+[06:03:37] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mokay[m
+
+[06:03:48] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mAdmin[0;30;1m] [0;37;1ma__ [0;37;1m➟ [0;37;1min spectator, I wont break anything[m
+
+[06:03:51] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mdamn this niggas slow[m
+
+[06:03:52] [Server thread/INFO]: a__ issued server command: /gamemode spectator
+[06:03:52] [Server thread/INFO]: [a__: Set own game mode to Spectator Mode]
+[06:03:57] [Server thread/INFO]: a__ issued server command: /tp Steven
+[06:03:57] [Server thread/INFO]: [a__: Teleported a__ to Steven]
+[06:04:09] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mlook at me secret base[m
+
+[06:04:21] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mAdmin[0;30;1m] [0;37;1ma__ [0;37;1m➟ [0;37;1mthis is pretty cool[m
+
+[06:04:32] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mits not done yet[m
+
+[06:04:32] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mAdmin[0;30;1m] [0;37;1ma__ [0;37;1m➟ [0;37;1mvery thin interior[m
+
+[06:04:36] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mi barley started on it[m
+
+[06:04:49] [Server thread/INFO]: a__ issued server command: /easyranks set Steven murderer
+[06:05:04] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mim gonna jump some guys tommorow in the server[m
+
+[06:05:10] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mto try and get loot[m
+
+[06:05:14] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mAdmin[0;30;1m] [0;37;1ma__ [0;37;1m➟ [0;37;1mdaily occurance[m
+
+[06:05:23] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mAdmin[0;30;1m] [0;37;1ma__ [0;37;1m➟ [0;37;1mstealing is griefing kinda[m
+
+[06:05:27] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mbut if they ask to give stuff back[m
+
+[06:05:35] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mill give it bacl[m
+
+[06:05:42] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1munless its diamond armor[m
+
+[06:05:51] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mAdmin[0;30;1m] [0;37;1ma__ [0;37;1m➟ [0;37;1mim considering making a no stealing rule ngl[m
+
+[06:06:00] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1m._.[m
+
+[06:06:07] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mAdmin[0;30;1m] [0;37;1ma__ [0;37;1m➟ [0;37;1mno stealing is way easier to enforce than no griefing[m
+
+[06:06:18] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1m.__.[m
+
+[06:06:22] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mAdmin[0;30;1m] [0;37;1ma__ [0;37;1m➟ [0;37;1midk I might not ill decide if people start complaining[m
+
+[06:06:30] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mokay[m
+
+[06:06:45] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1min that case ill keep stealing till they complain[m
+
+[06:07:01] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mAdmin[0;30;1m] [0;37;1ma__ [0;37;1m➟ [0;37;1myoull keep the murderer rank tho dw nobody else will get it either\[m
+
+[06:07:08] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mbet[m
+
+[06:07:24] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mi got 50 player kills[m
+
+[06:07:38] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwhat if there was a plugin[m
+
+[06:07:43] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mso if you did /shop[m
+
+[06:07:56] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1myou could set up shops so people can buy and sell stuff[m
+
+[06:08:02] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mAdmin[0;30;1m] [0;37;1ma__ [0;37;1m➟ [0;37;1mI could do something like that[m
+
+[06:08:20] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mmaybe like a money system[m
+
+[06:08:26] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mAdmin[0;30;1m] [0;37;1ma__ [0;37;1m➟ [0;37;1mit'd be more like trading tho cuz ion wanna have money[m
+
+[06:08:29] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mso people could show off their fortune[m
+
+[06:08:34] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1myes[m
+
+[06:08:44] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mAdmin[0;30;1m] [0;37;1ma__ [0;37;1m➟ [0;37;1mdiamonds make a good enough currency imo[m
+
+[06:08:57] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1myeah[m
+
+[06:09:19] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mAdmin[0;30;1m] [0;37;1ma__ [0;37;1m➟ [0;37;1mand I'd imagine most people would use diamonds[m
+
+[06:09:23] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mthis nigga horse unathletic lol[m
+
+[06:09:28] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mi used all of mine[m
+
+[06:10:08] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mdos everyone in this server have a secret base[m
+
+[06:10:22] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mdo yk whos the most geared player so far[m
+
+[06:10:38] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mAdmin[0;30;1m] [0;37;1ma__ [0;37;1m➟ [0;37;1mmost regulars at least built their bases far from spawn[m
+
+[06:10:41] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mAdmin[0;30;1m] [0;37;1ma__ [0;37;1m➟ [0;37;1mor moved like me[m
+
+[06:10:50] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mi discorved a base[m
+
+[06:10:59] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mbut im not going to steal from them[m
+
+[06:11:03] [Server thread/INFO]: Steven issued server command: /home ZEKE
+[06:11:14] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mAdmin[0;30;1m] [0;37;1ma__ [0;37;1m➟ [0;37;1mwhos base?[m
+
+[06:11:17] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mzekes[m
+
+[06:11:22] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mand linolns[m
+
+[06:11:42] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mif they get to powerful i can travel to it and neutrileze them[m
+
+[06:12:05] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mim going to be feared in this server no matter what must be done[m
+
+[06:12:17] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mexept you ofcourse cuz you can ban my ass[m
+
+[06:12:30] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mAdmin[0;30;1m] [0;37;1ma__ [0;37;1m➟ [0;37;1mtrust you're already feared[m
+
+[06:12:33] [Server thread/INFO]: Steven issued server command: /home HOME
+[06:12:38] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mhow feared[m
+
+[06:12:50] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mAdmin[0;30;1m] [0;37;1ma__ [0;37;1m➟ [0;37;1mso feared that your own basemates left[m
+
+[06:12:57] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwdym[m
+
+[06:13:05] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mAdmin[0;30;1m] [0;37;1ma__ [0;37;1m➟ [0;37;1mdanny and rocco moved[m
+
+[06:13:13] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwhy?[m
+
+[06:13:23] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mAdmin[0;30;1m] [0;37;1ma__ [0;37;1m➟ [0;37;1mcuz they're scared you're gonna steal their shit[m
+
+[06:13:31] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mi never did tho[m
+
+[06:13:43] [Thread-13/INFO]: UUID of player BaconMania is 94cc9361-df90-3d70-a09d-55ea0279e1a1
+[06:13:43] [Server thread/INFO]: BaconMania[/[0:0:0:0:0:0:0:1]:58848] logged in with entity id 4165 at ([world]3616.7129099234726, 113.0, 4455.843500161624)
+[06:13:48] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mthats cap[m
+
+[06:14:03] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mAdmin[0;30;1m] [0;37;1ma__ [0;37;1m➟ [0;37;1mbut they think you're gonna[m
+
+[06:14:10] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwe share the same base .skull.[m
+
+[06:14:12] [Server thread/INFO]: a__ issued server command: /easyranks set BaconMania owner
+[06:14:18] [Server thread/INFO]: a__ lost connection: Disconnected
+[06:14:18] [Server thread/INFO]: a__ left the game.
+[06:14:32] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;22mOwner[0;30;1m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1midk tho at least danny told me he moved[m
+
+[06:14:48] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mbruh really[m
+
+[06:15:01] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;22mOwner[0;30;1m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mman ion like my rank color imma change it prolly[m
+
+[06:15:10] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1malr[m
+
+[06:15:27] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;22mOwner[0;30;1m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mit does kinda give off owner vibes tho[m
+
+[06:15:34] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1myeah[m
+
+[06:15:49] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mif danny moved than im moving too[m
+
+[06:15:59] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;22mOwner[0;30;1m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mwhy?[m
+
+[06:16:09] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mbecause he knows where my base is[m
+
+[06:16:22] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwhen did he move?[m
+
+[06:16:27] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;22mOwner[0;30;1m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1midk[m
+
+[06:16:40] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;22mOwner[0;30;1m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mion think hes gonna come for your base anyways tho[m
+
+[06:17:14] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mnigga you gaslighting me[m
+
+[06:17:20] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;22mOwner[0;30;1m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mme personally im not gonna come for anyones bases cuz like thats not cool beans for the owner to do[m
+
+[06:17:27] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mye[m
+
+[06:17:37] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1myour jus the lone wolf[m
+
+[06:18:03] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;22mOwner[0;30;1m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mI have base mates kinda[m
+
+[06:18:08] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwdym[m
+
+[06:18:31] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;22mOwner[0;30;1m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mzeke and ethan vandarious know my base coords and they're gonna build it with me[m
+
+[06:18:38] [Server thread/INFO]: BaconMania issued server command: /gamemode s
+[06:18:38] [Server thread/INFO]: [BaconMania: Set own game mode to Survival Mode]
+[06:18:39] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1moh[m
+
+[06:18:51] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mis there anyone i should fear?[m
+
+[06:19:00] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;22mOwner[0;30;1m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mnah ion think so[m
+
+[06:19:14] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mdanny has diamond armor tho[m
+
+[06:19:14] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;22mOwner[0;30;1m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1meveryones too scared of you to attack you lmao[m
+
+[06:19:24] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1myour capping[m
+
+[06:19:54] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;22mOwner[0;30;1m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mdanny seems pretty peaceful, I am too, and nobody else really has diamond stuff[m
+
+[06:20:14] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mdo yk when he moved[m
+
+[06:20:38] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;22mOwner[0;30;1m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mnah and even if I did I prolly would tell you either im not gonna pick sides[m
+
+[06:20:45] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mtrue[m
+
+[06:20:59] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mim seeing that all the blaze rods are gone and ender pearls[m
+
+[06:21:08] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;22mOwner[0;30;1m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mrippp[m
+
+[06:21:09] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mhe totally dipped[m
+
+[06:21:15] [Server thread/INFO]: BaconMania issued server command: /give @p bone
+[06:21:15] [Server thread/INFO]: [BaconMania: Given [Bone] * 1 to BaconMania]
+[06:21:16] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mthey were his tho[m
+
+[06:21:24] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;22mOwner[0;30;1m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mfair that he took them then[m
+
+[06:21:24] [Async Chat Thread - #0/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mbut i wanted to make strength 2 potions[m
+
+[06:22:43] [Server thread/INFO]: BaconMania issued server command: /homes
+[06:22:49] [Async Chat Thread - #1/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mhe told you why he moved right?[m
+
+[06:22:53] [Async Chat Thread - #1/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mnd rocco?[m
+
+[06:23:27] [Server thread/INFO]: BaconMania issued server command: /sethome pizza
+[06:23:37] [Async Chat Thread - #1/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mim going to find his base.....[m
+
+[06:23:42] [Async Chat Thread - #1/INFO]: [0;30;1m[[0;31;22mOwner[0;30;1m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mwhy[m
+
+[06:23:45] [Async Chat Thread - #1/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mbut only to observe[m
+
+[06:24:03] [Async Chat Thread - #1/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mim going to be keeping tabs on my other players[m
+
+[06:24:28] [Server thread/INFO]: BaconMania issued server command: /gamemode spectator
+[06:24:28] [Server thread/INFO]: [BaconMania: Set own game mode to Spectator Mode]
+[06:24:32] [Async Chat Thread - #1/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mmy villain ark just started[m
+
+[06:24:43] [Server thread/INFO]: BaconMania issued server command: /gamemode c
+[06:24:43] [Server thread/INFO]: [BaconMania: Set own game mode to Creative Mode]
+[06:24:55] [Async Chat Thread - #1/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mholy fuck that was the cringest thing i ever said[m
+
+[06:24:58] [Async Chat Thread - #1/INFO]: [0;30;1m[[0;31;22mOwner[0;30;1m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mit started on serpentine friday lmao[m
+
+[06:25:01] [Server thread/INFO]: BaconMania issued server command: /gamemode s
+[06:25:01] [Server thread/INFO]: [BaconMania: Set own game mode to Survival Mode]
+[06:25:09] [Async Chat Thread - #1/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mlol[m
+
+[06:25:36] [Async Chat Thread - #1/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mdo yk how far evryones bases are[m
+
+[06:25:47] [Async Chat Thread - #1/INFO]: [0;30;1m[[0;31;22mOwner[0;30;1m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mtbh idk where peoples bases are[m
+
+[06:25:57] [Async Chat Thread - #1/INFO]: [0;30;1m[[0;31;22mOwner[0;30;1m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mI could easily find out I just dont really care to[m
+
+[06:26:33] [Server thread/INFO]: BaconMania issued server command: /give @p bone
+[06:26:33] [Server thread/INFO]: [BaconMania: Given [Bone] * 1 to BaconMania]
+[06:26:36] [Server thread/INFO]: BaconMania issued server command: /give @p bone 4
+[06:26:36] [Server thread/INFO]: [BaconMania: Given [Bone] * 4 to BaconMania]
+[06:26:38] [Async Chat Thread - #1/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mik where the end house room is[m
+
+[06:27:00] [Async Chat Thread - #1/INFO]: [0;30;1m[[0;31;22mOwner[0;30;1m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mwdym?[m
+
+[06:27:08] [Async Chat Thread - #1/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mits under a village[m
+
+[06:27:15] [Async Chat Thread - #1/INFO]: [0;30;1m[[0;31;22mOwner[0;30;1m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mthe stronghold?[m
+
+[06:27:18] [Async Chat Thread - #1/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1myes[m
+
+[06:27:24] [Async Chat Thread - #1/INFO]: [0;30;1m[[0;31;22mOwner[0;30;1m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mohh nice[m
+
+[06:27:29] [Async Chat Thread - #1/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1myes[m
+
+[06:27:42] [Async Chat Thread - #1/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mdamn it hans ran away[m
+
+[06:27:43] [Async Chat Thread - #1/INFO]: [0;30;1m[[0;31;22mOwner[0;30;1m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1monly point in fighting the dragon is for the egg[m
+
+[06:27:47] [Async Chat Thread - #1/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1myeah[m
+
+[06:28:04] [Async Chat Thread - #1/INFO]: [0;30;1m[[0;31;22mOwner[0;30;1m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mone of a kind item[m
+
+[06:28:10] [Async Chat Thread - #1/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1myeah[m
+
+[06:28:42] [Async Chat Thread - #1/INFO]: [0;30;1m[[0;31;22mOwner[0;30;1m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mactually you could prolly use a dupe glitch on it[m
+
+[06:28:52] [Async Chat Thread - #1/INFO]: [0;30;1m[[0;31;22mOwner[0;30;1m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mimma prolly try to get a plugin to patch dupes[m
+
+[06:29:17] [Async Chat Thread - #1/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mdid anyone do any dups yet[m
+
+[06:29:24] [Async Chat Thread - #1/INFO]: [0;30;1m[[0;31;22mOwner[0;30;1m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mnot that im aware of[m
+
+[06:29:46] [Async Chat Thread - #1/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mi thought of doing it but i just figured it would be pointless[m
+
+[06:30:07] [Async Chat Thread - #1/INFO]: [0;30;1m[[0;31;22mOwner[0;30;1m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mtechnically not against the rules but like[m
+
+[06:30:11] [Async Chat Thread - #1/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mtyeha[m
+
+[06:30:16] [Async Chat Thread - #1/INFO]: [0;30;1m[[0;31;22mOwner[0;30;1m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mkinda self explanitory that it is[m
+
+[06:30:20] [Async Chat Thread - #1/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mfrowned upon[m
+
+[06:30:56] [Async Chat Thread - #1/INFO]: [0;30;1m[[0;31;22mOwner[0;30;1m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1myeah[m
+
+[06:31:06] [Server thread/INFO]: Steven issued server command: /seed
+[06:31:47] [Async Chat Thread - #1/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwhat version is this game even in[m
+
+[06:31:57] [Async Chat Thread - #1/INFO]: [0;30;1m[[0;31;22mOwner[0;30;1m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1m1.8.8[m
+
+[06:32:10] [Async Chat Thread - #1/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mokay[m
+
+[06:32:18] [Async Chat Thread - #1/INFO]: [0;30;1m[[0;31;22mOwner[0;30;1m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mok I js realized paper prolly patches most dupes but imma add an extra plugin later js to be safe[m
+
+[06:35:19] [Async Chat Thread - #2/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1myeah[m
+
+[06:37:07] [Server thread/INFO]: Steven issued server command: /seed
+[06:44:10] [Async Chat Thread - #3/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mplz sleep im fighting for my life[m
+
+[06:45:26] [Async Chat Thread - #4/INFO]: [0;30;1m[[0;31;1mMurderer[0;30;1m] [0;37;1mSteven [0;37;1m➟ [0;37;1mplz[m
+
+[06:46:20] [Async Chat Thread - #4/INFO]: [0;30;1m[[0;31;22mOwner[0;30;1m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mion have a bed[m
+
+[06:46:23] [Server thread/INFO]: BaconMania issued server command: /time set day
+[06:46:23] [Server thread/INFO]: [BaconMania: Set the time to 1000]
+[06:46:30] [Server thread/INFO]: BaconMania lost connection: Disconnected
+[06:46:30] [Server thread/INFO]: BaconMania left the game.

@@ -19,6 +19,11 @@ BaconMania:
     X: -204.14155493273523
     Y: 12.0
     Z: -156.19794570667938
+  pizza:
+    world: world
+    X: 3614.6271703568223
+    Y: 119.0
+    Z: 4448.50121065172
 Steven:
   Steven:
     world: world

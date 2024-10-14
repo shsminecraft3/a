@@ -70,3 +70,9 @@ Spectator Name: BaconMania
 Taken         : []
 Given         : [IRON_INGOT x 64]
 Target        : Steven
+[2024-10-14 06:02:35] [INFO]:
+Spectator UUID: e7c24215-dfa4-3c38-a935-0a08fc511456
+Spectator Name: a__
+Taken         : []
+Given         : [MONSTER_EGG x 1]
+Target        : Steven
