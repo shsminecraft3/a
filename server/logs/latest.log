@@ -383,3 +383,79 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher[m
 
 [01:51:27] [Server thread/INFO]: mason issued server command: /1ifxk
+[01:53:18] [Server thread/INFO]: Steven issued server command: /delhome cave
+[01:53:25] [Server thread/INFO]: Steven issued server command: /sethome cave
+[01:53:28] [Server thread/INFO]: Steven issued server command: /home HOME
+[01:53:42] [Server thread/INFO]: Steven issued server command: /home HOME
+[01:53:45] [Server thread/INFO]: Steven issued server command: /homes
+[01:54:19] [Server thread/INFO]: Steven issued server command: /home xp
+[01:54:38] [Server thread/INFO]: Steven issued server command: /delhome xp
+[01:54:43] [Server thread/INFO]: Steven issued server command: /home Steven
+[01:55:41] [Server thread/INFO]: Steven issued server command: /suicide
+[01:55:41] [Server thread/INFO]: Steven died
+[01:55:41] [Server thread/INFO]: [0;31;1m[21mSteven turned emo[m
+
+[01:55:41] [Server thread/ERROR]: [Suicide] The sound you're trying to play isn't registered in this Minecraft Version: ENTITY_ZOMBIE_HURT
+[01:55:51] [Server thread/INFO]: Steven issued server command: /back
+[02:00:39] [Server thread/INFO]: Steven issued server command: /home cave
+[02:05:05] [Server thread/INFO]: Curry_Muncher lost connection: Disconnected
+[02:05:05] [Server thread/INFO]: Curry_Muncher left the game.
+[02:10:42] [Server thread/INFO]: There are 2/20000 players online:
+[02:10:42] [Server thread/INFO]: mason, Steven
+[02:16:35] [Async Chat Thread - #3/INFO]: <Steven> mason are you at the base[m
+
+[02:16:42] [Async Chat Thread - #3/INFO]: <mason> yes[m
+
+[02:16:46] [Async Chat Thread - #3/INFO]: <Steven> ima tp[m
+
+[02:16:51] [Server thread/INFO]: Steven issued server command: /tpa mason
+[02:16:58] [Server thread/INFO]: mason issued server command: /tpaccept
+[02:17:21] [Async Chat Thread - #3/INFO]: <mason> nice skin[m
+
+[02:17:29] [Async Chat Thread - #3/INFO]: <Steven> thanks[m
+
+[02:17:39] [Async Chat Thread - #3/INFO]: <Steven> what one is it it[m
+
+[02:17:42] [Async Chat Thread - #3/INFO]: <Steven> is it lebron[m
+
+[02:17:50] [Async Chat Thread - #3/INFO]: <mason> no speedo[m
+
+[02:17:56] [Async Chat Thread - #3/INFO]: <Steven> oh?[m
+
+[02:24:42] [Server thread/INFO]: Steven issued server command: /sethome HOME
+[02:26:37] [Server thread/INFO]: Steven issued server command: /home mine
+[02:26:41] [Server thread/INFO]: Steven issued server command: /home Mine
+[02:26:45] [Server thread/INFO]: Steven issued server command: /homes
+[02:26:53] [Server thread/INFO]: Steven issued server command: /home cave
+[02:28:01] [Server thread/INFO]: Steven issued server command: /delhome cave
+[02:28:10] [Server thread/INFO]: Steven issued server command: /sethome cave
+[02:30:40] [Async Chat Thread - #4/INFO]: <Steven> find any diamonds yet?[m
+
+[02:30:46] [Async Chat Thread - #4/INFO]: <mason> no[m
+
+[02:30:57] [Async Chat Thread - #4/INFO]: <Steven> i got enough for a full set of armor[m
+
+[02:31:05] [Async Chat Thread - #4/INFO]: <mason> good for you[m
+
+[02:31:08] [Async Chat Thread - #4/INFO]: <Steven> im gonna max enchant them[m
+
+[02:31:10] [Server thread/INFO]: There are 2/20000 players online:
+[02:31:10] [Server thread/INFO]: mason, Steven
+[02:31:37] [Async Chat Thread - #4/INFO]: <Steven> illl give leftover diamonds to you[m
+
+[02:31:45] [Async Chat Thread - #4/INFO]: <mason> ok[m
+
+[02:33:36] [Server thread/INFO]: Steven lost connection: Disconnected
+[02:33:36] [Server thread/INFO]: Steven left the game.
+[02:43:02] [Server thread/INFO]: mason lost connection: Disconnected
+[02:43:02] [Server thread/INFO]: mason left the game.
+[02:49:02] [Thread-20/INFO]: UUID of player Steven is 944d2caf-d932-3441-b30c-7e43d402ec4b
+[02:49:02] [Server thread/INFO]: Steven[/[0:0:0:0:0:0:0:1]:46460] logged in with entity id 23872 at ([world]-7.3030718804735555, 11.0, 1468.3849845053146)
+[02:49:03] [Craft Scheduler Thread - 23/INFO]: [0;31;1mWarning: Steven has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason[m
+
+[02:53:29] [Server thread/INFO]: There are 1/20000 players online:
+[02:53:29] [Server thread/INFO]: Steven
+[03:10:58] [Server thread/INFO]: Steven issued server command: /delhome cave
+[03:12:15] [Server thread/INFO]: Steven issued server command: /sethome cave
+[03:12:20] [Server thread/INFO]: Steven issued server command: /home HOME
