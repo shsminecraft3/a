@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "94cc9361-df90-3d70-a09d-55ea0279e1a1",
+    "name": "BaconMania",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "ddb74ec7-895c-44bd-b134-a66127168732",
+    "name": "BaconManiaGD",
+    "level": 4,
+    "bypassesPlayerLimit": true
+  }
+]

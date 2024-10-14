@@ -1,0 +1,119 @@
+textcomponents:
+  muteBroadcast: |-
+    &6[INFO] {hovertext: &7Muted by &c%MUTED_BY%
+    &7Reason: &c%REASON%
+    &7Duration: &c%DURATION%}
+  unmuteBroadcast: |-
+    &6[INFO] {hovertext: &7Unmuted by &c%UNMUTED_BY%
+    &7Reason: &c%REASON%}
+  currentMute: |-
+    &6[INFO] {hovertext: &8------- &eCurrent mute of &e%PLAYER% &8-------
+    &7Reason: &e%REASON%
+    &7Muted by: &e%MUTED_BY%
+    &7Muted on: &e%MUTE_START%
+    &7Muted until: &e%MUTE_END%
+    &7Mute duration: &e%DURATION%
+    &7Remaining time: &e%REMAINING_TIME%
+    &8------- &eCurrent mute of &e%PLAYER% &8-------}
+  pastMuteUnmuted: |-
+    &6[INFO] {hovertext: &8------- &ePrevious mute of &e%PLAYER% &8-------
+    &7Reason: &e%REASON%
+    &7Muted by: &e%MUTED_BY%
+    &7Muted on: &e%MUTE_START%
+    &7Muted until: &e%MUTE_END%
+    &7Mute duration: &e%DURATION%
+    &7Unmuted: &aYES
+    &7Unmuted by: &e%UNMUTED_BY%
+    &7Unmute reason: &e%UNMUTE_REASON%
+    &7Unmute time: &e%UNMUTE_TIME%
+    &8------- &ePrevious mute of &e%PLAYER% &8-------}
+  pastMuteNotUnmuted: |-
+    &6[INFO] {hovertext: &8------- &ePrevious mute of &e%PLAYER% &8-------
+    &7Reason: &e%REASON%
+    &7Muted by: &e%MUTED_BY%
+    &7Muted on: &e%MUTE_START%
+    &7Muted until: &e%MUTE_END%
+    &7Mute duration: &e%DURATION%
+    &7Unmuted: &cNO
+    &8------- &ePrevious mute of &e%PLAYER% &8-------}
+mutesystem:
+  prefix: '&4MuteSystem &7» '
+  consolename: CONSOLE
+  playernotfound: '&cPlayer %PLAYER% not found.'
+  alreadymuted: |-
+    &cPlayer %PLAYER% is already muted.
+    Use /muteinfo %PLAYER%
+  help: |-
+    &7&m-----------------&r&e« MuteSystem »&7&m-----------------
+
+    &7/mute &a<Player> [<Time>] <Reason> &8- &7Mute a player
+    &7/mute &a<Player> #<template-id> &8- &7Mute a player
+    &7/unmute &a<Player> &8- &7Unmute a player
+    &7/muteinfo &a<Player> &8- &7View player's mute history
+    &7/clearmutes &a<Player> &8- &7Clear all mute entries
+    &7/mutetemplate &alist &8- &7Show mute templates
+    &7/mutetemplate &aadd <time> <reason> &8- &7Add mute template
+    &7/mutetemplate &aedit <time> <reason> &8- &7Edit mute template
+    &7/mutetemplate &aremove <id> &8- &7Remove mute template
+    &7/muteReload &8- &7Reload messages from config
+
+    &7&m-----------------&r&e« MuteSystem »&7&m-----------------
+  mute:
+    syntax: '&cSyntax: /mute <Player> [<Time>] <Reason>'
+    nopermission: '&cYou don''t have enough permissions!'
+    successful: '&7Player &c%PLAYER% &7was muted! {muteBroadcast}'
+    insufficient_rank: '&cYou don''t have permission to mute this player.'
+  unmute:
+    syntax: '&cSyntax: /unmute <Player> [<Reason>]'
+    notmuted: '&cPlayer &e%PLAYER% &cis not muted.'
+    successful: '&7Player &e%PLAYER% &7was unmuted! {unmuteBroadcast}'
+    youarenolongermuted: |-
+      &7You were unmuted by &e%PLAYER%
+      &7Reason: &e%REASON%
+    allmutesremoved: '&7All your mute entries have been cleared by &e%PLAYER% &7:O'
+  muteinfo:
+    syntax: '&cSyntax: /muteinfo <Player>'
+    nocurrentmute: '&aPlayer %PLAYER% is not muted currently.'
+    currentmute: '&7Player %PLAYER% &cis currently muted! {currentMute}'
+    nopastmute: '&aPlayer %PLAYER% has no previous mutes.'
+    pastmuteUnmuted: '&7Mute from &e%DATE% {pastMuteUnmuted}'
+    pastmuteNotunmuted: '&7Mute from &e%DATE% {pastMuteNotUnmuted}'
+  clearmutes:
+    syntax: '&cSyntax: /clearmutes <Player>'
+    successful: '&4!! &7Mute entries of &e%PLAYER% &7were cleared by &e%UNMUTED_BY%
+      &4!!'
+  template:
+    syntax: |-
+      &cSyntax error. Possibilities:
+      &7/mutetemplate &alist &8- &7list existing mute templates
+      &7/mutetemplate &aadd <time> <reason> &8- &7add mute template
+      &7/mutetemplate &aedit <id> <time> <reason> &8- &7edit mute template
+      &7/mutetemplate &aremove <id> &8- &7remove mute template
+    list:
+      header: '&7------------------- &eMute Templates &7-------------------'
+      content: '&7(&eID: %ID%&7) &8| &c%DURATION% &8| &e%REASON%'
+      footer: '&7------------------- &eMute Templates &7-------------------'
+    add:
+      successful: '&aMute Template added!'
+      error: '&cMute template not found!'
+    edit:
+      successful: '&aMute Template edited!'
+    remove:
+      successful: '&aMute Template removed!'
+  mutemessage: |-
+    &cYou have been muted.
+    &eReason: &c%REASON%
+    &eMuted by: &c%MUTED_BY%
+    &eRemaining time: &c%REMAINING_TIME%
+  timeformat:
+    years: ' Years '
+    year: ' Year '
+    days: ' Days '
+    day: ' Day '
+    hours: ' Hours '
+    hour: ' Hour '
+    minutes: ' Minutes '
+    minute: ' Minute '
+    seconds: ' Seconds '
+    second: ' Second '
+    permanent: PERMANENT

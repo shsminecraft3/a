@@ -1,0 +1,88 @@
+# /////////////////////////////////////////////////////////////
+# /                                                           /
+# /                      Suicide Plugin                       /
+# /                                                           /
+# /////////////////////////////////////////////////////////////
+#
+# Thank you for using Suicide Plugin! If you are experiencing any issues
+# or have any suggestions / features you want implemented into the plugin
+# feel free to join the support Discord Server!
+#
+# Spigot: Prism3
+# Discord: Prism3#9371 | ID: 403667971089760257
+# Discord Server: https://discord.gg/MfR5mcpVfX
+
+
+# Should we disable the message sent to the player when executing the command?
+Message: false
+
+# Should we disable the Suicide Broadcast message?
+Broadcast: false
+
+# Should we disable the Fireworks upon the player's death?
+# The Type can be one of these [ BALL_LARGE, BALL, STAR, BURST, CREEPER ]
+# Color of the explosion in RGB
+# Fading color of the explosion in RGB
+# Should there be any trail of the firework
+# Should there be any flickering of the firework
+# The power upon explosion, setting it too high might cause FPS Drop
+Firework:
+  Disable: false
+  Type: BALL_LARGE
+  Color:
+    RED: 0
+    GREEN: 255
+    BLUE: 0
+  Fade:
+    RED: 255
+    GREEN: 0
+    BLUE: 0
+  Trail: true
+  Flicker: true
+  Power: 2
+
+# Should we disable death location Coords?
+Coords: false
+
+# Should we disable the sound when executing the command?
+# Sound that's played upon player's death.
+# List of sounds: https://www.spigotmc.org/wiki/cc-sounds-list/. Use The Sounds that are 1.9 or higher!
+# Volume and Pitch can vary from 0 -> 100.
+Sound:
+  Disable: false
+  SoundPlayed: 'ENTITY_ZOMBIE_HURT'
+  Volume: 50
+  Pitch: 50
+
+# Should we disable the suicide cooldown?
+# Timer in Second
+Cooldown:
+  Disable: false
+  Timer: 15
+
+# Disable the suicide command in desired worlds
+Disabled-Worlds:
+  - 'world_name'
+
+Messages:
+  No-Permission: "&cYou do not have permission to run this command."
+  Reload: "&aConfig Reloaded."
+  Invalid-Syntax: "&cInvalid Syntax!"
+  Disabled: "&cSuiciding in this world is disabled."
+  On-Suicide: "&c&lYou Suicided!"
+  On-Cooldown: "&6You must wait %time% second(s) to execute this command!"
+  Broadcast:
+    Random: true
+    Messages:
+    - "&c&l%player% has committed suicide!"
+    - "&c&l%player% killed himself"
+    - "&c&l%player% died."
+    - "&c&l%player% discontinued breathing"
+    - "&c&l%player% took an indefinite leave of abscence from life"
+    - "&c&l%player% hates jewish people"
+    - "&c&l%player% comitted suicide, nobody will miss him."
+    - "&c&l%player% turned emo"
+    - "&c&l%player% hates himself"
+    - "&c&l%player% did too much fent"
+    - "&c&l%player% slipped on a banana"
+    
