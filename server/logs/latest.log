@@ -459,3 +459,336 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [03:10:58] [Server thread/INFO]: Steven issued server command: /delhome cave
 [03:12:15] [Server thread/INFO]: Steven issued server command: /sethome cave
 [03:12:20] [Server thread/INFO]: Steven issued server command: /home HOME
+[03:26:57] [Server thread/WARN]: Steven moved wrongly!
+[03:28:42] [Server thread/WARN]: Steven moved wrongly!
+[03:28:51] [Server thread/INFO]: Steven was slain by Zombie Pigman
+[03:28:57] [Server thread/INFO]: Steven issued server command: /back
+[03:29:04] [Server thread/INFO]: Steven was slain by Zombie Pigman
+[03:30:56] [Server thread/INFO]: Steven issued server command: /back
+[03:31:08] [Server thread/INFO]: Steven was slain by Zombie Pigman
+[03:31:13] [Server thread/WARN]: Steven moved wrongly!
+[03:31:22] [Server thread/INFO]: Steven issued server command: /home home
+[03:31:26] [Server thread/INFO]: Steven issued server command: /home HOME
+[03:42:20] [Server thread/INFO]: Steven issued server command: /homes
+[03:42:30] [Server thread/INFO]: Steven issued server command: /delmega
+[03:42:37] [Server thread/INFO]: Steven issued server command: /delhome Mega
+[03:42:51] [Server thread/INFO]: Steven issued server command: /home set pot base
+[03:42:59] [Server thread/INFO]: Steven issued server command: /sethome glue
+[03:43:03] [Server thread/INFO]: Steven issued server command: /home HOME
+[03:43:30] [Server thread/INFO]: Steven issued server command: /home pot base
+[03:43:33] [Server thread/INFO]: Steven issued server command: /homes
+[03:43:38] [Server thread/INFO]: Steven issued server command: /home glue
+[03:44:05] [Server thread/INFO]: Steven issued server command: /home HOME
+[03:44:48] [Server thread/INFO]: Steven issued server command: /home glue
+[03:46:09] [Server thread/INFO]: Steven issued server command: /home HOME
+[03:49:06] [Server thread/INFO]: Steven issued server command: /delhome glue
+[03:49:38] [Server thread/INFO]: Steven issued server command: /home HOME
+[03:54:46] [Server thread/INFO]: Steven issued server command: /seed
+[03:54:50] [Server thread/INFO]: Steven lost connection: Disconnected
+[03:54:50] [Server thread/INFO]: Steven left the game.
+[03:54:56] [Thread-23/INFO]: UUID of player Steven is 944d2caf-d932-3441-b30c-7e43d402ec4b
+[03:54:57] [Server thread/INFO]: Steven[/[0:0:0:0:0:0:0:1]:41194] logged in with entity id 51786 at ([world]269.6060228665974, 71.0, 1251.4088473845823)
+[03:54:58] [Craft Scheduler Thread - 30/INFO]: [0;31;1mWarning: Steven has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason[m
+
+[03:56:26] [Async Chat Thread - #5/INFO]: <Steven> evan[m
+
+[03:56:28] [Async Chat Thread - #5/INFO]: <Steven> evan[m
+
+[03:57:49] [Async Chat Thread - #6/INFO]: <Steven> what is the seed number[m
+
+[03:59:08] [Server thread/INFO]: Steven lost connection: Disconnected
+[03:59:08] [Server thread/INFO]: Steven left the game.
+[04:00:12] [Thread-25/INFO]: UUID of player Steven is 944d2caf-d932-3441-b30c-7e43d402ec4b
+[04:00:12] [Server thread/INFO]: Steven[/[0:0:0:0:0:0:0:1]:43278] logged in with entity id 52338 at ([world]205.91867453052242, 70.0, 1417.2118405335348)
+[04:00:13] [Craft Scheduler Thread - 30/INFO]: [0;31;1mWarning: Steven has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason[m
+
+[04:01:36] [Server thread/INFO]: Steven issued server command: /home Steven
+[04:05:28] [Server thread/INFO]: Steven lost connection: Disconnected
+[04:05:28] [Server thread/INFO]: Steven left the game.
+[04:07:44] [Thread-26/INFO]: UUID of player Steven is 944d2caf-d932-3441-b30c-7e43d402ec4b
+[04:07:44] [Server thread/WARN]: Failed to handle packet for /[0:0:0:0:0:0:0:1]:56292
+net.minecraft.server.v1_8_R3.ReportedException: Sending packet
+	at net.minecraft.server.v1_8_R3.PlayerConnection.sendPacket(PlayerConnection.java:925) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.a(EntityPlayer.java:783) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.Container.addSlotListener(Container.java:59) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.syncInventory(EntityPlayer.java:177) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerList.a(PlayerList.java:190) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.LoginListener.b(LoginListener.java:144) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.LoginListener.c(LoginListener.java:54) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.NetworkManager.a(NetworkManager.java:231) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.ServerConnection.c(ServerConnection.java:148) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:875) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: type cannot be null
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:229) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.comphenix.protocol.injector.StructureCache.getStructure(StructureCache.java:138) ~[?:?]
+	at com.comphenix.protocol.events.PacketContainer.<init>(PacketContainer.java:126) ~[?:?]
+	at com.comphenix.protocol.injector.netty.manager.NetworkManagerInjector.onPacketSending(NetworkManagerInjector.java:96) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelInjector.processOutbound(NettyChannelInjector.java:553) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelInjector$2.doProxyRunnable(NettyChannelInjector.java:456) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.proxyRunnable(NettyEventLoopProxy.java:43) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.execute(NettyEventLoopProxy.java:252) ~[?:?]
+	at net.minecraft.server.v1_8_R3.NetworkManager.a(NetworkManager.java:192) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.NetworkManager.handle(NetworkManager.java:141) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.sendPacket(PlayerConnection.java:911) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 13 more
+[04:07:44] [Server thread/INFO]: Steven lost connection: Internal server error
+[04:07:44] [Server thread/INFO]: Steven left the game.
+[04:07:45] [Craft Scheduler Thread - 30/INFO]: [0;31;1mWarning: Steven has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason[m
+
+[04:07:48] [Thread-27/INFO]: UUID of player Steven is 944d2caf-d932-3441-b30c-7e43d402ec4b
+[04:07:48] [Server thread/INFO]: Steven[/[0:0:0:0:0:0:0:1]:56300] logged in with entity id 54540 at ([world]106.95360028746101, 66.0, 327.1594068390798)
+[04:07:49] [Craft Scheduler Thread - 36/INFO]: [0;31;1mWarning: Steven has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason[m
+
+[04:15:31] [Server thread/INFO]: Steven issued server command: /bases
+[04:15:35] [Server thread/INFO]: Steven issued server command: /homes
+[04:17:04] [Server thread/INFO]: Steven issued server command: /sethome ZEKE
+[04:18:51] [Thread-28/INFO]: UUID of player jewburner is 6d52b5a5-d297-3d51-b6ce-a245aa2841cc
+[04:18:51] [Server thread/INFO]: jewburner[/[0:0:0:0:0:0:0:1]:43182] logged in with entity id 56412 at ([world]-98.58082335110757, 14.0, 145.59333498425363)
+[04:18:52] [Craft Scheduler Thread - 36/INFO]: [0;31;1mWarning: jewburner has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason[m
+
+[04:19:36] [Async Chat Thread - #7/INFO]: <Steven> need any diamonds?[m
+
+[04:19:42] [Async Chat Thread - #7/INFO]: <jewburner> yeah[m
+
+[04:19:52] [Async Chat Thread - #7/INFO]: <Steven> i might have extra[m
+
+[04:19:58] [Async Chat Thread - #7/INFO]: <jewburner> right...[m
+
+[04:20:03] [Async Chat Thread - #7/INFO]: <jewburner> not your broke ass[m
+
+[04:20:05] [Server thread/INFO]: jewburner lost connection: Disconnected
+[04:20:05] [Server thread/INFO]: jewburner left the game.
+[04:20:26] [Thread-29/INFO]: UUID of player jewburner is 6d52b5a5-d297-3d51-b6ce-a245aa2841cc
+[04:20:26] [Server thread/INFO]: jewburner[/[0:0:0:0:0:0:0:1]:55368] logged in with entity id 57010 at ([world]-111.27488477520131, 13.0, 142.11335067065104)
+[04:20:27] [Craft Scheduler Thread - 36/INFO]: [0;31;1mWarning: jewburner has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason[m
+
+[04:20:30] [Async Chat Thread - #7/INFO]: <Steven> i have full daimond armo...[m
+
+[04:20:39] [Async Chat Thread - #7/INFO]: <jewburner> poor[m
+
+[04:20:43] [Async Chat Thread - #7/INFO]: <Steven> cap[m
+
+[04:20:56] [Async Chat Thread - #7/INFO]: <Steven> enchanted diamond armor plus tools[m
+
+[04:21:16] [Server thread/INFO]: Steven issued server command: /home ZEKE
+[04:21:21] [Server thread/INFO]: Steven issued server command: /jewyouranigger
+[04:22:00] [Async Chat Thread - #8/INFO]: <Steven> have you made any progress yet[m
+
+[04:22:05] [Async Chat Thread - #8/INFO]: <jewburner> netherite[m
+
+[04:22:07] [Async Chat Thread - #8/INFO]: <jewburner> full[m
+
+[04:22:14] [Async Chat Thread - #8/INFO]: <Steven> thats it[m
+
+[04:22:34] [Async Chat Thread - #8/INFO]: <Steven> i would be embarresed to admit that[m
+
+[04:22:55] [Async Chat Thread - #8/INFO]: <Steven> ive got obsibian armor[m
+
+[04:23:25] [Async Chat Thread - #8/INFO]: <Steven> do you have any horses if so id lilke to trade[m
+
+[04:24:29] [Async Chat Thread - #9/INFO]: <Steven> yooo desert temple[m
+
+[04:24:44] [Async Chat Thread - #9/INFO]: <jewburner> why are you talking right now[m
+
+[04:24:56] [Async Chat Thread - #9/INFO]: <Steven> ?[m
+
+[04:25:32] [Server thread/INFO]: jewburner issued server command: /home laav
+[04:25:34] [Server thread/INFO]: jewburner issued server command: /home lava
+[04:25:36] [Server thread/INFO]: jewburner issued server command: /lava
+[04:25:38] [Server thread/INFO]: jewburner issued server command: /home lava
+[04:25:40] [Server thread/INFO]: jewburner issued server command: /home list
+[04:25:41] [Server thread/INFO]: jewburner issued server command: /home
+[04:25:50] [Server thread/INFO]: jewburner issued server command: /help
+[04:25:54] [Server thread/INFO]: jewburner issued server command: /help 3
+[04:25:56] [Server thread/INFO]: jewburner issued server command: /help 4
+[04:25:59] [Async Chat Thread - #10/INFO]: <Steven> do i have any classes with you[m
+
+[04:25:59] [Server thread/INFO]: jewburner issued server command: /help 5
+[04:26:06] [Server thread/INFO]: jewburner issued server command: /help 6
+[04:26:09] [Server thread/INFO]: jewburner issued server command: /help 3
+[04:26:12] [Server thread/INFO]: jewburner issued server command: /homes
+[04:26:48] [Server thread/INFO]: jewburner lost connection: Disconnected
+[04:26:48] [Server thread/INFO]: jewburner left the game.
+[04:28:32] [Thread-31/INFO]: UUID of player jewburner is 6d52b5a5-d297-3d51-b6ce-a245aa2841cc
+[04:28:33] [Server thread/INFO]: jewburner[/[0:0:0:0:0:0:0:1]:53440] logged in with entity id 59887 at ([world]-95.07538616238199, 25.0, 106.45273148369913)
+[04:28:34] [Craft Scheduler Thread - 42/INFO]: [0;31;1mWarning: jewburner has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason[m
+
+[04:29:01] [Server thread/INFO]: Steven issued server command: /sethome village
+[04:29:12] [Server thread/INFO]: jewburner lost connection: Disconnected
+[04:29:12] [Server thread/INFO]: jewburner left the game.
+[04:29:25] [Thread-32/INFO]: UUID of player jewburner is 6d52b5a5-d297-3d51-b6ce-a245aa2841cc
+[04:29:25] [Server thread/WARN]: Failed to handle packet for /[0:0:0:0:0:0:0:1]:56086
+net.minecraft.server.v1_8_R3.ReportedException: Sending packet
+	at net.minecraft.server.v1_8_R3.PlayerConnection.sendPacket(PlayerConnection.java:925) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.a(EntityPlayer.java:783) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.Container.addSlotListener(Container.java:59) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.syncInventory(EntityPlayer.java:177) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerList.a(PlayerList.java:190) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.LoginListener.b(LoginListener.java:144) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.LoginListener.c(LoginListener.java:54) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.NetworkManager.a(NetworkManager.java:231) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.ServerConnection.c(ServerConnection.java:148) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:875) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: type cannot be null
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:229) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.comphenix.protocol.injector.StructureCache.getStructure(StructureCache.java:138) ~[?:?]
+	at com.comphenix.protocol.events.PacketContainer.<init>(PacketContainer.java:126) ~[?:?]
+	at com.comphenix.protocol.injector.netty.manager.NetworkManagerInjector.onPacketSending(NetworkManagerInjector.java:96) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelInjector.processOutbound(NettyChannelInjector.java:553) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelInjector$2.doProxyRunnable(NettyChannelInjector.java:456) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.proxyRunnable(NettyEventLoopProxy.java:43) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.execute(NettyEventLoopProxy.java:252) ~[?:?]
+	at net.minecraft.server.v1_8_R3.NetworkManager.a(NetworkManager.java:192) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.NetworkManager.handle(NetworkManager.java:141) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.sendPacket(PlayerConnection.java:911) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 13 more
+[04:29:25] [Server thread/INFO]: jewburner lost connection: Internal server error
+[04:29:25] [Server thread/INFO]: jewburner left the game.
+[04:29:26] [Craft Scheduler Thread - 43/INFO]: [0;31;1mWarning: jewburner has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason[m
+
+[04:29:28] [Thread-33/INFO]: UUID of player jewburner is 6d52b5a5-d297-3d51-b6ce-a245aa2841cc
+[04:29:28] [Server thread/INFO]: jewburner[/[0:0:0:0:0:0:0:1]:56088] logged in with entity id 60140 at ([world]-94.65929585646661, 57.0, 106.40818112995491)
+[04:29:29] [Craft Scheduler Thread - 42/INFO]: [0;31;1mWarning: jewburner has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason[m
+
+[04:29:33] [Async Chat Thread - #11/INFO]: <Steven> you good?[m
+
+[04:30:05] [Server thread/INFO]: Steven issued server command: /home HOME
+[04:30:11] [Async Chat Thread - #11/INFO]: <Steven> oh are you kp[m
+
+[04:30:34] [Server thread/INFO]: jewburner lost connection: Disconnected
+[04:30:34] [Server thread/INFO]: jewburner left the game.
+[04:31:17] [Thread-34/INFO]: UUID of player jewburner is 6d52b5a5-d297-3d51-b6ce-a245aa2841cc
+[04:31:17] [Server thread/INFO]: jewburner[/[0:0:0:0:0:0:0:1]:35334] logged in with entity id 60681 at ([world]-94.96527484221392, 70.0, 51.67229903126024)
+[04:31:18] [Craft Scheduler Thread - 42/INFO]: [0;31;1mWarning: jewburner has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason[m
+
+[04:32:23] [Server thread/INFO]: Steven issued server command: /home village
+[04:33:36] [Server thread/INFO]: jewburner issued server command: /home lava
+[04:33:39] [Server thread/INFO]: jewburner issued server command: /sethome lava
+[04:36:17] [Server thread/INFO]: Steven issued server command: /home HOME
+[04:36:23] [Async Chat Thread - #12/INFO]: <Steven> sharpnes 5[m
+
+[04:38:11] [Server thread/INFO]: Steven issued server command: /home HOME
+[04:38:46] [Server thread/INFO]: jewburner lost connection: Disconnected
+[04:38:46] [Server thread/INFO]: jewburner left the game.
+[04:38:48] [Thread-35/INFO]: UUID of player jewburner is 6d52b5a5-d297-3d51-b6ce-a245aa2841cc
+[04:38:48] [Server thread/INFO]: jewburner[/[0:0:0:0:0:0:0:1]:37838] logged in with entity id 64820 at ([world]59.02428741253572, 59.0, 84.64387384450046)
+[04:38:49] [Craft Scheduler Thread - 46/INFO]: [0;31;1mWarning: jewburner has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason[m
+
+[04:44:40] [Server thread/INFO]: Steven lost connection: Disconnected
+[04:44:40] [Server thread/INFO]: Steven left the game.
+[04:44:42] [Server thread/INFO]: jewburner lost connection: Disconnected
+[04:44:42] [Server thread/INFO]: jewburner left the game.
+[04:44:51] [Thread-36/INFO]: UUID of player Steven is 944d2caf-d932-3441-b30c-7e43d402ec4b
+[04:44:51] [Server thread/INFO]: Steven[/[0:0:0:0:0:0:0:1]:53634] logged in with entity id 66074 at ([world]125.44330655123821, 82.0, 1245.2935315808859)
+[04:44:52] [Craft Scheduler Thread - 50/INFO]: [0;31;1mWarning: Steven has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason[m
+
+[04:45:01] [Server thread/INFO]: Steven lost connection: Disconnected
+[04:45:01] [Server thread/INFO]: Steven left the game.
+[04:45:07] [Thread-37/INFO]: UUID of player jewburner is 6d52b5a5-d297-3d51-b6ce-a245aa2841cc
+[04:45:07] [Server thread/INFO]: jewburner[/[0:0:0:0:0:0:0:1]:34048] logged in with entity id 66213 at ([world]59.80293106092117, 59.0, 86.60292703164583)
+[04:45:08] [Craft Scheduler Thread - 50/INFO]: [0;31;1mWarning: jewburner has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason[m
+
+[04:47:57] [Async Chat Thread - #13/INFO]: <jewburner> `[m
+
+[04:49:52] [Server thread/INFO]: jewburner lost connection: Disconnected
+[04:49:52] [Server thread/INFO]: jewburner left the game.
+[04:50:09] [Thread-38/INFO]: UUID of player jewburner is 6d52b5a5-d297-3d51-b6ce-a245aa2841cc
+[04:50:09] [Server thread/INFO]: jewburner[/[0:0:0:0:0:0:0:1]:52066] logged in with entity id 67855 at ([world]108.68609071649752, 79.0, 722.3885703556762)
+[04:50:10] [Craft Scheduler Thread - 53/INFO]: [0;31;1mWarning: jewburner has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason[m
+
+[04:50:57] [Server thread/INFO]: jewburner lost connection: Disconnected
+[04:50:57] [Server thread/INFO]: jewburner left the game.
+[04:51:16] [Thread-39/INFO]: UUID of player jewburner is 6d52b5a5-d297-3d51-b6ce-a245aa2841cc
+[04:51:16] [Server thread/INFO]: jewburner[/[0:0:0:0:0:0:0:1]:54282] logged in with entity id 68197 at ([world]123.73312035760853, 80.0, 861.5690176422186)
+[04:51:17] [Craft Scheduler Thread - 54/INFO]: [0;31;1mWarning: jewburner has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason[m
+
+[04:53:29] [Server thread/INFO]: [Suicide] You are using the latest version of Suicide.
+[04:57:17] [Thread-40/INFO]: UUID of player caden is 1c17e1b0-26ef-3067-b20b-aebc29283c98
+[04:57:17] [Server thread/INFO]: caden[/[0:0:0:0:0:0:0:1]:38218] logged in with entity id 70821 at ([world]128.59790152448016, 76.0, 1236.809988626067)
+[04:57:18] [Craft Scheduler Thread - 55/INFO]: [0;31;1mWarning: caden has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason[m
+
+[05:01:05] [Server thread/INFO]: jewburner issued server command: /sethome steven
+[05:01:11] [Server thread/INFO]: jewburner issued server command: /home lava
+[05:02:42] [Server thread/INFO]: jewburner issued server command: /home lava
+[05:04:46] [Server thread/INFO]: jewburner issued server command: /home lava
+[05:05:26] [Server thread/INFO]: jewburner issued server command: /home Steven
+[05:05:29] [Server thread/INFO]: jewburner issued server command: /home steven
+[05:06:12] [Server thread/INFO]: jewburner issued server command: /home lava
+[05:07:04] [Thread-42/INFO]: UUID of player Steven is 944d2caf-d932-3441-b30c-7e43d402ec4b
+[05:07:04] [Server thread/INFO]: Steven[/[0:0:0:0:0:0:0:1]:53308] logged in with entity id 74412 at ([world]125.44330655123821, 82.0, 1245.2935315808859)
+[05:07:05] [Craft Scheduler Thread - 60/INFO]: [0;31;1mWarning: Steven has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason[m
+
+[05:07:16] [Async Chat Thread - #14/INFO]: <Steven> hey caden[m
+
+[05:07:23] [Async Chat Thread - #14/INFO]: <caden> wsg[m
+
+[05:07:31] [Async Chat Thread - #14/INFO]: <Steven> how did you do at the race[m
+
+[05:08:15] [Async Chat Thread - #14/INFO]: <caden> bad[m
+
+[05:08:42] [Async Chat Thread - #14/INFO]: <Steven> i flat tired a kid at the start and his shoe flew off[m
+
+[05:09:01] [Async Chat Thread - #14/INFO]: <caden> i shoved a kid into a pole[m
+
+[05:09:06] [Async Chat Thread - #14/INFO]: <Steven> what did he do[m
+
+[05:09:22] [Async Chat Thread - #14/INFO]: <caden> he shoved me first so he ate the poll[m
+
+[05:09:32] [Async Chat Thread - #14/INFO]: <Steven> good[m
+
+[05:10:01] [Async Chat Thread - #14/INFO]: <Steven> i got sharpness 4 on my sword[m
+
+[05:11:18] [Async Chat Thread - #15/INFO]: <Steven> jewburner did zeke play today at all[m
+
+[05:11:28] [Async Chat Thread - #15/INFO]: <jewburner> dunno[m
+
+[05:11:31] [Async Chat Thread - #15/INFO]: <Steven> okay[m
+
+[05:11:32] [Server thread/INFO]: jewburner issued server command: /home Steven
+[05:11:36] [Server thread/INFO]: jewburner issued server command: /home steven
+[05:11:50] [Async Chat Thread - #15/INFO]: <Steven> caden do you need diamonds[m
+
+[05:11:53] [Async Chat Thread - #15/INFO]: <Steven> i have extra[m
+
+[05:11:57] [Async Chat Thread - #15/INFO]: <caden> ya[m
+
+[05:12:00] [Async Chat Thread - #15/INFO]: <Steven> okay[m
+
+[05:12:03] [Server thread/INFO]: caden issued server command: /tpa steven
+[05:12:08] [Server thread/INFO]: Steven issued server command: /accept
+[05:12:33] [Server thread/INFO]: jewburner lost connection: Disconnected
+[05:12:33] [Server thread/INFO]: jewburner left the game.
+[05:13:45] [Async Chat Thread - #16/INFO]: <Steven> decked out[m
+
+[05:14:49] [Async Chat Thread - #17/INFO]: <Steven> come er[m
+
+[05:14:53] [Server thread/INFO]: caden has just earned the achievement [Time to Strike!]
+[05:15:00] [Async Chat Thread - #17/INFO]: <Steven> behind you[m
+
+[05:15:16] [Async Chat Thread - #17/INFO]: <Steven> look[m
+
