@@ -924,3 +924,1262 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:15:40] [Server thread/INFO]: Steven left the game.
 [19:16:24] [Server thread/INFO]: BaconMania lost connection: Disconnected
 [19:16:24] [Server thread/INFO]: BaconMania left the game.
+[19:21:13] [Thread-51/INFO]: UUID of player Steven is 944d2caf-d932-3441-b30c-7e43d402ec4b
+[19:21:13] [Server thread/INFO]: Steven[/[0:0:0:0:0:0:0:1]:41460] logged in with entity id 31432 at ([world]133.42880366786676, 75.0, 846.1235255931381)
+[19:21:14] [Craft Scheduler Thread - 25/INFO]: [0;31;1mWarning: Steven has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein, IhaveaDUI_547, evan_j, DashingsMomIsHot[m
+
+[19:21:22] [Async Chat Thread - #15/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwhat happened[m
+
+[19:21:25] [Async Chat Thread - #15/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mevan[m
+
+[19:21:34] [Server thread/INFO]: Steven issued server command: /home HOME
+[19:22:13] [Async Chat Thread - #15/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mevan spectat[m
+
+[19:22:17] [Async Chat Thread - #15/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mspectate[m
+
+[19:23:24] [Thread-52/INFO]: UUID of player your_mom_lol is 8fbc6a74-0bdd-3a23-ab17-d96a3d614432
+[19:23:24] [Server thread/INFO]: your_mom_lol[/[0:0:0:0:0:0:0:1]:54988] logged in with entity id 32072 at ([world]177.5, 64.0, 241.5)
+[19:23:25] [Craft Scheduler Thread - 25/INFO]: [0;31;1mWarning: your_mom_lol has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein, IhaveaDUI_547, evan_j, DashingsMomIsHot[m
+
+[19:24:24] [Thread-53/INFO]: UUID of player BaconMania is 94cc9361-df90-3d70-a09d-55ea0279e1a1
+[19:24:24] [Server thread/INFO]: BaconMania[/[0:0:0:0:0:0:0:1]:37516] logged in with entity id 32683 at ([world]3621.5415860803655, 126.0, 4422.955463746158)
+[19:24:24] [Server thread/INFO]: Steven issued server command: /suicide
+[19:24:24] [Server thread/INFO]: §cMurderer§7: §fSteven was shot by Skeleton
+[19:24:24] [Server thread/INFO]: [0;31;1m[21mSteven died.[m
+
+[19:24:24] [Server thread/ERROR]: [Suicide] The sound you're trying to play isn't registered in this Minecraft Version: ENTITY_ZOMBIE_HURT
+[19:24:38] [Server thread/INFO]: Steven issued server command: /tell BaconMania any updates?
+[19:24:41] [Server thread/INFO]: BaconMania issued server command: /invsee jewburner
+[19:24:52] [Server thread/INFO]: §fPlayer§7: §fyour_mom_lol has just earned the achievement [Taking Inventory]
+[19:25:03] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mevan[m
+
+[19:25:05] [Server thread/INFO]: BaconMania issued server command: /tell steven full diamond tools, full iron armor, 15 diamonds, 5 pearls
+[19:25:12] [Server thread/INFO]: BaconMania issued server command: /invsee
+[19:25:15] [Server thread/INFO]: BaconMania issued server command: /invsee jewburner
+[19:25:16] [Thread-54/INFO]: UUID of player Wonder is 2577cbf2-e81c-367c-99a4-679c49bf00f4
+[19:25:16] [Server thread/INFO]: Wonder[/[0:0:0:0:0:0:0:1]:36588] logged in with entity id 33264 at ([world]-677.3882070324038, 47.755361182742334, -1406.4108225638035)
+[19:25:17] [Craft Scheduler Thread - 33/INFO]: [0;31;1mWarning: Wonder has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein, IhaveaDUI_547, evan_j, DashingsMomIsHot, your_mom_lol[m
+
+[19:25:34] [Server thread/INFO]: Steven issued server command: /tell Baconmania where the tools enchanted
+[19:25:34] [Server thread/INFO]: BaconMania issued server command: /tell steven stack of iron too
+[19:25:43] [Server thread/INFO]: BaconMania issued server command: /tell steven nah
+[19:25:59] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mhow much diamond swords[m
+
+[19:26:01] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1myour_mom_lol [0;37;1m➟ [0;37;1mcan someone give me food pls[m
+
+[19:26:06] [Server thread/INFO]: BaconMania issued server command: /tell steven uno
+[19:26:14] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mcant someone stole all of my food[m
+
+[19:26:17] [Server thread/INFO]: Wonder lost connection: Login timed out!
+[19:26:17] [Server thread/INFO]: Wonder left the game.
+[19:26:17] [Server thread/WARN]: handleDisconnection() called twice
+[19:26:21] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mhow much cooked food did he have[m
+
+[19:26:21] [Server thread/INFO]: §fPlayer§7: §fyour_mom_lol has just earned the achievement [Getting Wood]
+[19:26:29] [Server thread/INFO]: BaconMania issued server command: /invsee jewburner
+[19:26:35] [Thread-55/INFO]: UUID of player Wonder is 2577cbf2-e81c-367c-99a4-679c49bf00f4
+[19:26:35] [Server thread/INFO]: Wonder[/[0:0:0:0:0:0:0:1]:37938] logged in with entity id 33568 at ([world]-677.0141465689205, 54.42022259135666, -1406.3962324891131)
+[19:26:36] [Craft Scheduler Thread - 34/INFO]: [0;31;1mWarning: Wonder has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein, IhaveaDUI_547, evan_j, DashingsMomIsHot, your_mom_lol[m
+
+[19:26:38] [Server thread/INFO]: §fPlayer§7: §fyour_mom_lol has just earned the achievement [Benchmarking]
+[19:26:38] [Server thread/INFO]: BaconMania issued server command: /tell steven 20 pork
+[19:26:42] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mcooked?[m
+
+[19:26:53] [Server thread/INFO]: BaconMania issued server command: /tell steven ye
+[19:26:59] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mmaybe[m
+
+[19:27:08] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1many lapis[m
+
+[19:27:16] [Server thread/INFO]: BaconMania issued server command: /invsee jewburner
+[19:27:23] [Server thread/INFO]: BaconMania issued server command: /tell steven nah
+[19:27:26] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mokay[m
+
+[19:27:32] [Server thread/INFO]: Steven issued server command: /home HOME
+[19:27:37] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mgo to me base[m
+
+[19:27:40] [Server thread/INFO]: Steven issued server command: /suicide
+[19:27:40] [Server thread/INFO]: §cMurderer§7: §fSteven was shot by Skeleton
+[19:27:40] [Server thread/INFO]: [0;31;1m[21mSteven hates jewish people[m
+
+[19:27:40] [Server thread/ERROR]: [Suicide] The sound you're trying to play isn't registered in this Minecraft Version: ENTITY_ZOMBIE_HURT
+[19:27:45] [Server thread/INFO]: Steven issued server command: /home HOME
+[19:27:49] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mcome to my house[m
+
+[19:27:49] [Thread-56/INFO]: UUID of player KP_ is 8c4ced64-c1eb-3068-a01f-9cec8f2083d7
+[19:27:49] [Server thread/INFO]: KP_[/[0:0:0:0:0:0:0:1]:56768] logged in with entity id 34348 at ([world]633.3115968000749, 68.0, -451.40301597414003)
+[19:27:50] [Craft Scheduler Thread - 33/INFO]: [0;31;1mWarning: KP_ has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein, IhaveaDUI_547, evan_j, DashingsMomIsHot, your_mom_lol, Wonder[m
+
+[19:27:51] [Server thread/INFO]: your_mom_lol issued server command: /tpa steven
+[19:27:51] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mevan[m
+
+[19:27:59] [Server thread/INFO]: Steven issued server command: /acceot
+[19:28:01] [Server thread/INFO]: Steven issued server command: /accept
+[19:28:07] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mok[m
+
+[19:28:10] [Server thread/INFO]: BaconMania issued server command: /gamemode c
+[19:28:10] [Server thread/INFO]: [BaconMania: Set own game mode to Creative Mode]
+[19:28:12] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwho you[m
+
+[19:28:15] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1myour_mom_lol [0;37;1m➟ [0;37;1mpls i need food[m
+
+[19:28:17] [Server thread/INFO]: BaconMania issued server command: /tp @P steven
+[19:28:17] [Server thread/INFO]: [BaconMania: The entity UUID provided is in an invalid format]
+[19:28:22] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwhat is your name[m
+
+[19:28:23] [Server thread/INFO]: BaconMania issued server command: /tp steveen
+[19:28:23] [Server thread/INFO]: [BaconMania: The entity UUID provided is in an invalid format]
+[19:28:26] [Server thread/INFO]: BaconMania issued server command: /tp steven
+[19:28:26] [Server thread/INFO]: [BaconMania: Teleported BaconMania to Steven]
+[19:28:37] [Server thread/INFO]: your_mom_lol issued server command: /sethome <home>
+[19:28:38] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mirl[m
+
+[19:28:45] [Server thread/INFO]: §fPlayer§7: §fyour_mom_lol was slain by §cMurderer§7: §fSteven
+[19:29:02] [Server thread/INFO]: your_mom_lol issued server command: /back
+[19:29:03] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mwhatcha want steven[m
+
+[19:29:06] [Server thread/INFO]: your_mom_lol issued server command: /back
+[19:29:08] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwdym[m
+
+[19:29:14] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1myou told me to pull up[m
+
+[19:29:16] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1moh yeahfollow me[m
+
+[19:29:17] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1myour_mom_lol [0;37;1m➟ [0;37;1msteven your gonna regret that[m
+
+[19:29:19] [Server thread/INFO]: your_mom_lol issued server command: /back
+[19:29:28] [Server thread/WARN]: your_mom_lol moved wrongly!
+[19:29:29] [Server thread/INFO]: BaconMania issued server command: /tp steven
+[19:29:29] [Server thread/INFO]: [BaconMania: Teleported BaconMania to Steven]
+[19:29:34] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mshut up shaggy[m
+
+[19:29:41] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mthere was a chest here[m
+
+[19:29:48] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mand here[m
+
+[19:29:49] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mwhere it go[m
+
+[19:29:53] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mdouble chest[m
+
+[19:30:02] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mthis is where they entered[m
+
+[19:30:08] [Thread-58/INFO]: UUID of player scarlet is 19b15b12-8087-3a56-bbdc-7546a337d6b8
+[19:30:08] [Server thread/INFO]: scarlet[/[0:0:0:0:0:0:0:1]:46496] logged in with entity id 36554 at ([world]201.61770788693656, 64.0, 280.85777644167314)
+[19:30:09] [Craft Scheduler Thread - 36/INFO]: [0;31;1mWarning: scarlet has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein, IhaveaDUI_547, evan_j, DashingsMomIsHot, your_mom_lol, Wonder[m
+
+[19:30:11] [Server thread/INFO]: your_mom_lol lost connection: Disconnected
+[19:30:11] [Server thread/INFO]: your_mom_lol left the game.
+[19:30:30] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mso what do I do abt that idk who did it[m
+
+[19:30:37] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mthey entered here[m
+
+[19:30:45] [Thread-59/INFO]: UUID of player your_mom_lol is 8fbc6a74-0bdd-3a23-ab17-d96a3d614432
+[19:30:45] [Server thread/INFO]: your_mom_lol[/[0:0:0:0:0:0:0:1]:55476] logged in with entity id 37337 at ([world]142.47503024799101, 84.0, 1210.7843912159017)
+[19:30:46] [Craft Scheduler Thread - 36/INFO]: [0;31;1mWarning: your_mom_lol has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein, IhaveaDUI_547, evan_j, DashingsMomIsHot, Wonder[m
+
+[19:30:52] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mand roof[m
+
+[19:31:07] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mim suspecting a team raided[m
+
+[19:31:15] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mwho do you think did it?[m
+
+[19:31:25] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1meither jewburner[m
+
+[19:31:28] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mor the johns[m
+
+[19:31:34] [Thread-60/INFO]: UUID of player Gilzbert is e394d95d-5795-304b-9e6d-642768954aa1
+[19:31:34] [Server thread/INFO]: Gilzbert[/[0:0:0:0:0:0:0:1]:42542] logged in with entity id 38095 at ([world]-16.15079714191814, 57.0, 325.11605395009025)
+[19:31:35] [Craft Scheduler Thread - 33/INFO]: [0;31;1mWarning: Gilzbert has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Sadam_hussein, IhaveaDUI_547, evan_j, DashingsMomIsHot, your_mom_lol, Wonder[m
+
+[19:31:37] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mmaybe both you never know[m
+
+[19:31:40] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1myeah[m
+
+[19:31:48] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwho is the other admin[m
+
+[19:31:53] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mme[m
+
+[19:31:56] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mjust my alt acc[m
+
+[19:32:00] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mthe one who killed me?[m
+
+[19:32:01] [Server thread/INFO]: §cMurderer§7: §fSteven was slain by §fPlayer§7: §fyour_mom_lol
+[19:32:08] [Server thread/INFO]: Steven issued server command: /home HOME
+[19:32:38] [Server thread/INFO]: §cMurderer§7: §fSteven was slain by §fPlayer§7: §fyour_mom_lol
+[19:32:40] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mlol[m
+
+[19:32:43] [Server thread/INFO]: Steven issued server command: /home HOME
+[19:33:08] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1myour_mom_lol [0;37;1m➟ [0;37;1mwow this guy sucks[m
+
+[19:33:10] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mdw your_mom_lol I wont kill uou[m
+
+[19:33:14] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1myour_mom_lol [0;37;1m➟ [0;37;1mty[m
+
+[19:33:26] [Server thread/INFO]: §cMurderer§7: §fSteven was slain by §fPlayer§7: §fyour_mom_lol
+[19:33:31] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwhy so long reach[m
+
+[19:33:33] [Server thread/INFO]: §fPlayer§7: §fscarlet has just earned the achievement [Getting Wood]
+[19:33:35] [Server thread/INFO]: Steven issued server command: /home GOME
+[19:33:36] [Server thread/INFO]: §fPlayer§7: §fGilzbert has just earned the achievement [Monster Hunter]
+[19:33:38] [Server thread/INFO]: Steven issued server command: /home HOME
+[19:33:59] [Server thread/INFO]: BaconMania issued server command: /effect steven strength
+[19:33:59] [Server thread/INFO]: [BaconMania: Given Strength (ID 5) * 0 to Steven for 30 seconds]
+[19:34:05] [Server thread/INFO]: BaconMania issued server command: /effect steven strength 10
+[19:34:05] [Server thread/INFO]: [BaconMania: Given Strength (ID 5) * 0 to Steven for 10 seconds]
+[19:34:09] [Server thread/INFO]: BaconMania issued server command: /effect steven strength 10 10 true
+[19:34:09] [Server thread/INFO]: [BaconMania: Given Strength (ID 5) * 10 to Steven for 10 seconds]
+[19:34:11] [Server thread/INFO]: Gilzbert lost connection: Disconnected
+[19:34:11] [Server thread/INFO]: Gilzbert left the game.
+[19:34:16] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1myour_mom_lol [0;37;1m➟ [0;37;1mthis base is cool[m
+
+[19:34:17] [Server thread/INFO]: §fPlayer§7: §fyour_mom_lol was slain by §cMurderer§7: §fSteven
+[19:34:23] [Server thread/INFO]: your_mom_lol issued server command: /back
+[19:34:32] [Server thread/INFO]: §cMurderer§7: §fSteven was slain by §fPlayer§7: §fyour_mom_lol
+[19:34:40] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwomp womp your stuff got burned[m
+
+[19:34:44] [Server thread/INFO]: Steven issued server command: /home HOME
+[19:34:46] [Server thread/INFO]: BaconMania lost connection: Disconnected
+[19:34:46] [Server thread/INFO]: BaconMania left the game.
+[19:34:48] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mbig brain move[m
+
+[19:35:23] [Server thread/INFO]: §cMurderer§7: §fSteven hit the ground too hard
+[19:35:34] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mWHY DO YOU HAVE SO MUCH REACH[m
+
+[19:35:35] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1myour_mom_lol [0;37;1m➟ [0;37;1myu suckkk[m
+
+[19:35:37] [Server thread/INFO]: Steven issued server command: /home HOME
+[19:35:40] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mnah but wait[m
+
+[19:35:44] [Server thread/INFO]: §cMurderer§7: §fSteven was slain by §fPlayer§7: §fyour_mom_lol
+[19:35:54] [Server thread/INFO]: Steven issued server command: /home HOME
+[19:36:02] [Server thread/INFO]: §cMurderer§7: §fSteven was slain by §fPlayer§7: §fyour_mom_lol
+[19:36:09] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwhat is your name irl[m
+
+[19:36:10] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1myour_mom_lol [0;37;1m➟ [0;37;1myour gay[m
+
+[19:36:22] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1myour_mom_lol [0;37;1m➟ [0;37;1mim not gonna tell you[m
+
+[19:36:28] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwhy not[m
+
+[19:36:42] [Server thread/INFO]: Steven issued server command: /home HOME
+[19:36:47] [Server thread/INFO]: Steven issued server command: /home HOME
+[19:37:18] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwait[m
+
+[19:37:26] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1myour_mom_lol [0;37;1m➟ [0;37;1mwhats up[m
+
+[19:37:28] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mexperminent[m
+
+[19:37:36] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mlemme know when you can hit me[m
+
+[19:37:48] [Server thread/INFO]: §cMurderer§7: §fSteven was slain by §fPlayer§7: §fyour_mom_lol
+[19:37:54] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1myo evan[m
+
+[19:38:05] [Server thread/INFO]: Steven issued server command: /home HOME
+[19:38:07] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1myour_mom_lol [0;37;1m➟ [0;37;1mwhos evan?[m
+
+[19:38:13] [Server thread/INFO]: §cMurderer§7: §fSteven was slain by §fPlayer§7: §fyour_mom_lol
+[19:38:20] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mserver owner[m
+
+[19:38:25] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1myour_mom_lol [0;37;1m➟ [0;37;1moh[m
+
+[19:38:34] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mhow do you have such far reach tho[m
+
+[19:38:37] [Server thread/INFO]: §fPlayer§7: §fscarlet was slain by Zombie
+[19:38:48] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1myour_mom_lol [0;37;1m➟ [0;37;1mim just really good[m
+
+[19:38:54] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1myour_mom_lol [0;37;1m➟ [0;37;1mim playing on my home pc[m
+
+[19:38:59] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1moh[m
+
+[19:39:13] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mdo you go to shs?[m
+
+[19:39:33] [Server thread/INFO]: Steven issued server command: /home HOME
+[19:39:39] [Server thread/INFO]: scarlet lost connection: Disconnected
+[19:39:39] [Server thread/INFO]: scarlet left the game.
+[19:39:54] [Thread-61/INFO]: UUID of player John_Minecraft is 7d8c55d9-8ea1-36ef-9d86-864199571128
+[19:39:55] [Server thread/INFO]: John_Minecraft[/[0:0:0:0:0:0:0:1]:60766] logged in with entity id 44925 at ([world]127.62395223686411, 75.0, 847.0170406139773)
+[19:39:55] [Craft Scheduler Thread - 38/INFO]: [0;31;1mWarning: John_Minecraft has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein, IhaveaDUI_547, evan_j, DashingsMomIsHot, your_mom_lol, Wonder[m
+
+[19:39:59] [Server thread/INFO]: §cMurderer§7: §fSteven was slain by §fPlayer§7: §fyour_mom_lol
+[19:40:04] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mYo evan[m
+
+[19:40:13] [Server thread/INFO]: Steven issued server command: /ping
+[19:40:13] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mwazzup beijing[m
+
+[19:40:14] [Thread-62/INFO]: UUID of player BaconMania is 94cc9361-df90-3d70-a09d-55ea0279e1a1
+[19:40:14] [Server thread/INFO]: BaconMania[/[0:0:0:0:0:0:0:1]:39532] logged in with entity id 45184 at ([world]125.07357734941768, 68.0, 1199.2454437939257)
+[19:40:20] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mwhere is my weezer tag bacon[m
+
+[19:40:22] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mevan spectate me[m
+
+[19:40:25] [Server thread/INFO]: Steven issued server command: /home HOME
+[19:40:37] [Server thread/INFO]: BaconMania issued server command: /gamemode spectator
+[19:40:37] [Server thread/INFO]: [BaconMania: Set own game mode to Spectator Mode]
+[19:40:43] [Server thread/INFO]: BaconMania issued server command: /tp steven
+[19:40:43] [Server thread/INFO]: [BaconMania: Teleported BaconMania to Steven]
+[19:40:44] [Server thread/INFO]: §cMurderer§7: §fSteven fell from a high place
+[19:40:50] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwhy is his reach so good[m
+
+[19:40:52] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mrip steven lol[m
+
+[19:40:54] [Server thread/INFO]: Steven issued server command: /home HOME
+[19:40:54] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1myour_mom_lol [0;37;1m➟ [0;37;1mlol[m
+
+[19:40:56] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mlol\[m
+
+[19:40:56] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwhy[m
+
+[19:41:11] [Server thread/INFO]: §fPlayer§7: §fWonder was shot by Skeleton
+[19:41:20] [Server thread/INFO]: Wonder issued server command: /back
+[19:41:25] [Server thread/INFO]: §cMurderer§7: §fSteven was slain by §fPlayer§7: §fyour_mom_lol
+[19:41:29] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mlol[m
+
+[19:41:29] [Server thread/INFO]: Steven issued server command: /back
+[19:41:39] [Server thread/INFO]: §cMurderer§7: §fSteven was slain by §fPlayer§7: §fyour_mom_lol
+[19:41:45] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mlol[m
+
+[19:41:49] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwhy is his reach so fucking high[m
+
+[19:41:51] [Server thread/INFO]: Steven issued server command: /back
+[19:41:54] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mits the same as yours[m
+
+[19:41:55] [Server thread/INFO]: §fPlayer§7: §fyour_mom_lol was slain by Zombie
+[19:41:59] [Server thread/INFO]: your_mom_lol issued server command: /back
+[19:42:06] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1msteve skill issue confirmed?[m
+
+[19:42:08] [Server thread/INFO]: §fPlayer§7: §fyour_mom_lol was slain by §cMurderer§7: §fSteven
+[19:42:12] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1myour_mom_lol [0;37;1m➟ [0;37;1mouch[m
+
+[19:42:15] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mlol[m
+
+[19:42:17] [Server thread/INFO]: your_mom_lol issued server command: /back
+[19:42:20] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1myour_mom_lol [0;37;1m➟ [0;37;1mteam?[m
+
+[19:42:28] [Server thread/WARN]: your_mom_lol moved wrongly!
+[19:42:32] [Server thread/INFO]: §fPlayer§7: §fyour_mom_lol was slain by §cMurderer§7: §fSteven
+[19:42:36] [Thread-63/INFO]: UUID of player Gilzbert is e394d95d-5795-304b-9e6d-642768954aa1
+[19:42:36] [Server thread/INFO]: Gilzbert[/[0:0:0:0:0:0:0:1]:35806] logged in with entity id 46678 at ([world]-82.59721474501416, 66.0, 309.30000001192093)
+[19:42:37] [Craft Scheduler Thread - 38/INFO]: [0;31;1mWarning: Gilzbert has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Sadam_hussein, IhaveaDUI_547, evan_j, DashingsMomIsHot, your_mom_lol, Wonder[m
+
+[19:42:40] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1myour_mom_lol [0;37;1m➟ [0;37;1mbro pls[m
+
+[19:42:40] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mnah[m
+
+[19:42:42] [Server thread/INFO]: your_mom_lol issued server command: /back
+[19:42:46] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mokay[m
+
+[19:42:50] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mmods, find this kid and tickle his feet![m
+
+[19:42:51] [Server thread/WARN]: your_mom_lol moved wrongly!
+[19:42:55] [Server thread/INFO]: §fPlayer§7: §fyour_mom_lol was slain by §cMurderer§7: §fSteven
+[19:42:58] [Server thread/INFO]: your_mom_lol issued server command: /back
+[19:43:08] [Server thread/INFO]: §fPlayer§7: §fyour_mom_lol was slain by §cMurderer§7: §fSteven
+[19:43:22] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1msteven was done with that, evidently[m
+
+[19:43:29] [Server thread/INFO]: §cMurderer§7: §fSteven burned to death
+[19:43:33] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1myour_mom_lol [0;37;1m➟ [0;37;1msteven im gonna rape you[m
+
+[19:43:33] [Server thread/INFO]: Steven issued server command: /back
+[19:43:33] [Server thread/INFO]: Gilzbert lost connection: Disconnected
+[19:43:33] [Server thread/INFO]: Gilzbert left the game.
+[19:43:37] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwdym[m
+
+[19:43:46] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1myour_mom_lol [0;37;1m➟ [0;37;1mwhats your name irl[m
+
+[19:43:53] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mgavin[m
+
+[19:43:54] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mwhose base did i just mine into[m
+
+[19:43:56] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mwhat do you think lmao[m
+
+[19:44:02] [Server thread/INFO]: BaconMania issued server command: /tp John_Minecraft
+[19:44:02] [Server thread/INFO]: [BaconMania: Teleported BaconMania to John_Minecraft]
+[19:44:08] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mits gavin[m
+
+[19:44:11] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwhats yours[m
+
+[19:44:29] [Server thread/INFO]: §fPlayer§7: §fyour_mom_lol has just earned the achievement [Time to Strike!]
+[19:44:31] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mpull up[m
+
+[19:44:32] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mive never seen this base[m
+
+[19:44:40] [Server thread/INFO]: Steven issued server command: /home ZEKE
+[19:44:40] [Server thread/INFO]: your_mom_lol issued server command: /tpa steven
+[19:44:43] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mwhose is it[m
+
+[19:44:46] [Server thread/INFO]: Steven issued server command: /accept
+[19:44:48] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mno clue lmao[m
+
+[19:44:49] [Server thread/INFO]: Steven issued server command: /home HOME
+[19:44:53] [Server thread/INFO]: §cMurderer§7: §fSteven was slain by §fPlayer§7: §fyour_mom_lol
+[19:44:56] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mwwait are you spectating me[m
+
+[19:44:58] [Server thread/INFO]: Steven issued server command: /home HOME
+[19:44:59] [Server thread/INFO]: BaconMania issued server command: /invsee John_Minecraft
+[19:45:03] [Server thread/INFO]: §fPlayer§7: §fyour_mom_lol has just earned the achievement [Monster Hunter]
+[19:45:04] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1myea[m
+
+[19:45:08] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mlol[m
+
+[19:45:24] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mpull up to c building bathroom yourmom[m
+
+[19:45:27] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mI got nothing better to do on the server rn[m
+
+[19:45:32] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1myour_mom_lol [0;37;1m➟ [0;37;1mim at home lol[m
+
+[19:45:51] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1myour a pussy[m
+
+[19:45:52] [Server thread/INFO]: BaconMania issued server command: /tell your_mom_lol who are you irl lmao
+[19:45:53] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mcrazy[m
+
+[19:46:04] [Server thread/INFO]: BaconMania issued server command: /tell your_mom_lol I wont tell steven
+[19:46:08] [Server thread/INFO]: your_mom_lol issued server command: /tell baconmania promise you wont tell?
+[19:46:11] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mhey join[m
+
+[19:46:12] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mhorrid grammar bro[m
+
+[19:46:15] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwhen did you join?[m
+
+[19:46:16] [Server thread/INFO]: BaconMania issued server command: /tell your_mom_lol pinky promise
+[19:46:30] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mhey john[m
+
+[19:46:33] [Server thread/INFO]: your_mom_lol issued server command: /tell baconmaina mhmmmmm ill tell you later
+[19:46:33] [Server thread/INFO]: [your_mom_lol: That player cannot be found]
+[19:46:36] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mwhat[m
+
+[19:46:47] [Server thread/INFO]: your_mom_lol issued server command: /tell baconmania ill tell you later
+[19:46:53] [Server thread/INFO]: your_mom_lol issued server command: /tpa john minecraft
+[19:46:55] [Server thread/INFO]: Steven issued server command: /home ZEKE
+[19:46:56] [Server thread/INFO]: BaconMania issued server command: /tell your_mom_lol alr bet
+[19:46:59] [Server thread/INFO]: John_Minecraft issued server command: /tpaccept
+[19:47:05] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mcorrecting grahamor[m
+
+[19:47:06] [Server thread/WARN]: John_Minecraft moved wrongly!
+[19:47:07] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1moop[m
+
+[19:47:19] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1myour_mom_lol [0;37;1m➟ [0;37;1mmb[m
+
+[19:47:25] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1myour_mom_lol [0;37;1m➟ [0;37;1mi didnt mean to hit you[m
+
+[19:47:27] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mshut hte fuck up[m
+
+[19:47:31] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mjohn hit him with the skibidi slicer[m
+
+[19:47:34] [Server thread/INFO]: §fPlayer§7: §fyour_mom_lol was shot by §fPlayer§7: §fJohn_Minecraft
+[19:47:40] [Server thread/INFO]: your_mom_lol issued server command: /back
+[19:47:47] [Server thread/INFO]: §fPlayer§7: §fyour_mom_lol was slain by §fPlayer§7: §fJohn_Minecraft using [Skibidi Slicer]
+[19:47:48] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwhat in the name of detroit just happened[m
+
+[19:47:53] [Server thread/INFO]: your_mom_lol issued server command: /back
+[19:47:56] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1myour_mom_lol [0;37;1m➟ [0;37;1mbro[m
+
+[19:48:01] [Server thread/INFO]: Wonder lost connection: Disconnected
+[19:48:01] [Server thread/INFO]: Wonder left the game.
+[19:48:06] [Server thread/INFO]: Steven issued server command: /home STEVEN
+[19:48:10] [Server thread/INFO]: Steven issued server command: /home Steven
+[19:48:15] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mnot so fun is it?[m
+
+[19:48:22] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwya john[m
+
+[19:48:40] [Server thread/INFO]: §fPlayer§7: §fyour_mom_lol was shot by §fPlayer§7: §fJohn_Minecraft
+[19:48:40] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mhes ab 20 blocks from the end portal[m
+
+[19:48:40] [Thread-64/INFO]: UUID of player the_sigma is 4c9b5d90-a1ae-329e-991c-9e4cd9505024
+[19:48:41] [Server thread/INFO]: the_sigma[/[0:0:0:0:0:0:0:1]:45316] logged in with entity id 50523 at ([world]402.6318494245401, 65.0, 407.2363916144113)
+[19:48:42] [Craft Scheduler Thread - 41/INFO]: [0;31;1mWarning: the_sigma has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein, IhaveaDUI_547, evan_j, DashingsMomIsHot, your_mom_lol, Wonder[m
+
+[19:48:43] [Server thread/INFO]: your_mom_lol issued server command: /back
+[19:48:46] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1myour_mom_lol [0;37;1m➟ [0;37;1mlol[m
+
+[19:48:47] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1myoo what up sigma[m
+
+[19:48:49] [Server thread/INFO]: Steven issued server command: /home ZEKE
+[19:48:49] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1myour_mom_lol [0;37;1m➟ [0;37;1mfine[m
+
+[19:49:04] [Server thread/INFO]: your_mom_lol issued server command: /tpa the sigma
+[19:49:05] [Server thread/INFO]: §fPlayer§7: §fyour_mom_lol was slain by §fPlayer§7: §fJohn_Minecraft using [Skibidi Slicer]
+[19:49:06] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;33;22mSigma[0;37;22m] [0;37;1mthe_sigma [0;37;1m➟ [0;37;1myour black evan[m
+
+[19:49:12] [Server thread/INFO]: your_mom_lol issued server command: /back
+[19:49:13] [Server thread/INFO]: John_Minecraft lost connection: Disconnected
+[19:49:13] [Server thread/INFO]: John_Minecraft left the game.
+[19:49:17] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mwhat about my black?[m
+
+[19:49:24] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;33;22mSigma[0;37;22m] [0;37;1mthe_sigma [0;37;1m➟ [0;37;1myou are[m
+
+[19:49:29] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mgrrrr[m
+
+[19:49:34] [Server thread/INFO]: Steven issued server command: /tpa your_mom_lol
+[19:49:36] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mrunn[m
+
+[19:49:37] [Thread-65/INFO]: UUID of player nigga is 88becc85-b30e-3ba0-b87a-6bea4983a509
+[19:49:37] [Server thread/INFO]: nigga[/[0:0:0:0:0:0:0:1]:53542] logged in with entity id 51465 at ([world]175.9689465217495, 63.0, 259.4244823193116)
+[19:49:38] [Craft Scheduler Thread - 38/INFO]: [0;31;1mWarning: nigga has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein, IhaveaDUI_547, evan_j, DashingsMomIsHot, your_mom_lol, Wonder[m
+
+[19:49:40] [Server thread/INFO]: your_mom_lol issued server command: /tpaccept
+[19:49:54] [Server thread/INFO]: Steven issued server command: /tpa your_mom_lol
+[19:49:57] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mmb moved[m
+
+[19:49:57] [Server thread/INFO]: your_mom_lol issued server command: /tpaccept
+[19:50:13] [Server thread/INFO]: BaconMania issued server command: /easyranks ranks
+[19:50:15] [Server thread/INFO]: §fPlayer§7: §fKP_ has just earned the achievement [Acquire Hardware]
+[19:50:21] [Server thread/INFO]: §fPlayer§7: §fyour_mom_lol was slain by §cMurderer§7: §fSteven
+[19:50:22] [Thread-66/INFO]: UUID of player John_Minecraft is 7d8c55d9-8ea1-36ef-9d86-864199571128
+[19:50:22] [Server thread/INFO]: John_Minecraft[/[0:0:0:0:0:0:0:1]:50596] logged in with entity id 52248 at ([world]107.67082466142932, 13.0, 897.4154943632369)
+[19:50:23] [Craft Scheduler Thread - 42/INFO]: [0;31;1mWarning: John_Minecraft has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein, IhaveaDUI_547, evan_j, DashingsMomIsHot, your_mom_lol, Wonder[m
+
+[19:50:26] [Server thread/INFO]: Steven issued server command: /home HOME
+[19:50:26] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1myour_mom_lol [0;37;1m➟ [0;37;1myou nigger[m
+
+[19:50:29] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mcry[m
+
+[19:50:32] [Server thread/INFO]: BaconMania issued server command: /easyranks set the_sigma developer
+[19:50:38] [Server thread/INFO]: Steven issued server command: /suicide
+[19:50:38] [Server thread/INFO]: §cMurderer§7: §fSteven was slain by §fPlayer§7: §fyour_mom_lol
+[19:50:38] [Server thread/INFO]: [0;31;1m[21mSteven hates jewish people[m
+
+[19:50:38] [Server thread/ERROR]: [Suicide] The sound you're trying to play isn't registered in this Minecraft Version: ENTITY_ZOMBIE_HURT
+[19:50:40] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mfrick you sigma you lost your rank[m
+
+[19:50:44] [Server thread/INFO]: Steven issued server command: /back
+[19:50:47] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;35;1mDev[0;37;22m] [0;37;1mthe_sigma [0;37;1m➟ [0;37;1mme too[m
+
+[19:50:51] [Server thread/INFO]: §cMurderer§7: §fSteven was slain by §fPlayer§7: §fyour_mom_lol
+[19:50:57] [Server thread/INFO]: BaconMania issued server command: /easyranks set the_sigma youtube
+[19:51:00] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mjk[m
+
+[19:51:05] [Server thread/INFO]: §fPlayer§7: §fKP_ has just earned the achievement [Time to Strike!]
+[19:51:07] [Server thread/WARN]: your_mom_lol was kicked for floating too long!
+[19:51:07] [Server thread/INFO]: your_mom_lol lost connection: Flying is not enabled on this server
+[19:51:07] [Server thread/INFO]: your_mom_lol left the game.
+[19:51:07] [Server thread/WARN]: handleDisconnection() called twice
+[19:51:07] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mwhen weezer rank[m
+
+[19:51:08] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;33;22mSigma[0;37;22m] [0;37;1mthe_sigma [0;37;1m➟ [0;37;1mgive my rank back[m
+
+[19:51:10] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;33;22mSigma[0;37;22m] [0;37;1mthe_sigma [0;37;1m➟ [0;37;1moh thnks[m
+
+[19:51:16] [Thread-67/INFO]: UUID of player your_mom_lol is 8fbc6a74-0bdd-3a23-ab17-d96a3d614432
+[19:51:16] [Server thread/INFO]: your_mom_lol[/[0:0:0:0:0:0:0:1]:50232] logged in with entity id 53695 at ([world]239.43708993527386, 82.16194385251205, 284.233928197775)
+[19:51:17] [Craft Scheduler Thread - 41/INFO]: [0;31;1mWarning: your_mom_lol has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein, IhaveaDUI_547, evan_j, DashingsMomIsHot, Wonder[m
+
+[19:51:22] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mno weezer rank[m
+
+[19:51:24] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mnigga [0;37;1m➟ [0;37;1mnigga[m
+
+[19:51:33] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1m:Sad_spongebo:[m
+
+[19:51:33] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mshut the fuck up you freshman[m
+
+[19:51:45] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mnigga [0;37;1m➟ [0;37;1myes master[m
+
+[19:51:50] [Server thread/INFO]: Steven issued server command: /suicide
+[19:51:50] [Server thread/INFO]: §cMurderer§7: §fSteven was slain by §fPlayer§7: §fyour_mom_lol
+[19:51:50] [Server thread/INFO]: [0;31;1m[21mSteven discontinued breathing[m
+
+[19:51:50] [Server thread/ERROR]: [Suicide] The sound you're trying to play isn't registered in this Minecraft Version: ENTITY_ZOMBIE_HURT
+[19:51:51] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mwhat's wrong with freshmen[m
+
+[19:51:53] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mwhats up kellen[m
+
+[19:51:55] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1myou were one once[m
+
+[19:52:01] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mare you a freshman?[m
+
+[19:52:03] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mnah[m
+
+[19:52:06] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1msophomore[m
+
+[19:52:07] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mno mom[m
+
+[19:52:12] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mno your not[m
+
+[19:52:19] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1myour a junior[m
+
+[19:52:27] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mincorrect[m
+
+[19:52:38] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1m*y'rou'e[m
+
+[19:52:47] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1marent you lincoln?[m
+
+[19:52:50] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;33;22mSigma[0;37;22m] [0;37;1mthe_sigma [0;37;1m➟ [0;37;1m*youre'eer[m
+
+[19:52:53] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1myeah[m
+
+[19:52:56] [Server thread/INFO]: §fPlayer§7: §fnigga was slain by §fPlayer§7: §fyour_mom_lol
+[19:52:59] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwdym[m
+
+[19:53:00] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1m*yureoureerer[m
+
+[19:53:06] [Server thread/INFO]: nigga issued server command: /back
+[19:53:07] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mjohn what lincoln[m
+
+[19:53:11] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mthe autistic lincoln not the cool autistic lincoln[m
+
+[19:53:25] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mim just the autistic one[m
+
+[19:53:28] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mlike the one with actual autisim[m
+
+[19:53:30] [Server thread/INFO]: your_mom_lol issued server command: /tpa steven
+[19:53:30] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mnot the cool dive team one[m
+
+[19:53:35] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mim the one with real autism[m
+
+[19:53:38] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mdiagnosed[m
+
+[19:53:42] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1myour a nigger[m
+
+[19:53:46] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1m*you're[m
+
+[19:53:48] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;33;22mSigma[0;37;22m] [0;37;1mthe_sigma [0;37;1m➟ [0;37;1mw steven[m
+
+[19:53:50] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mnigga [0;37;1m➟ [0;37;1msome dum ass nigga keeps killing me[m
+
+[19:54:03] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mthank you zeke[m
+
+[19:54:05] [Server thread/INFO]: BaconMania issued server command: /effect nigga resistance 255 255 true
+[19:54:05] [Server thread/INFO]: [BaconMania: Given Resistance (ID 11) * 255 to nigga for 255 seconds]
+[19:54:11] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mcan we stop being racist for fiv eminutes[m
+
+[19:54:11] [Server thread/INFO]: your_mom_lol issued server command: /back
+[19:54:14] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1malr you cant die now nigga[m
+
+[19:54:19] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mno[m
+
+[19:54:20] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;33;22mSigma[0;37;22m] [0;37;1mthe_sigma [0;37;1m➟ [0;37;1mno lincon[m
+
+[19:54:25] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mnigga [0;37;1m➟ [0;37;1mjohn kys fat fucking nigger[m
+
+[19:54:26] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1myour_mom_lol [0;37;1m➟ [0;37;1mevan can you tp me back to the base pls[m
+
+[19:54:32] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;33;22mSigma[0;37;22m] [0;37;1mthe_sigma [0;37;1m➟ [0;37;1mracism is requierd[m
+
+[19:54:34] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mjohn or whatever dont you cry over blood[m
+
+[19:54:38] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mtpa to someone there[m
+
+[19:54:46] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1msince when[m
+
+[19:54:47] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mor set a home there[m
+
+[19:54:49] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1myour_mom_lol [0;37;1m➟ [0;37;1midk whos three[m
+
+[19:54:49] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mdo i cry[m
+
+[19:54:52] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mover blood[m
+
+[19:54:53] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1myour_mom_lol [0;37;1m➟ [0;37;1mthere*[m
+
+[19:54:58] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mi remeber in 7th grade you cried over blood[m
+
+[19:54:59] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1myour_mom_lol [0;37;1m➟ [0;37;1mi will once i get there[m
+
+[19:55:10] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1moh when i got hit in the fave by a volleyball[m
+
+[19:55:13] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1myour_mom_lol [0;37;1m➟ [0;37;1mplss[m
+
+[19:55:14] [Server thread/INFO]: BaconMania issued server command: /tell nigga who are you irl
+[19:55:27] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1msuck my balls lincoln[m
+
+[19:55:31] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1myou be bawling your fucking eyes out[m
+
+[19:55:39] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1m*you'd[m
+
+[19:55:40] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1myour_mom_lol [0;37;1m➟ [0;37;1mi bet steven would like that bc hes a gay[m
+
+[19:55:40] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1myour_mom_lol idk where the base is[m
+
+[19:55:48] [Server thread/INFO]: BaconMania issued server command: /list
+[19:55:55] [Server thread/INFO]: nigga issued server command: /whisper baconmania
+[19:55:58] [Server thread/INFO]: nigga issued server command: /help
+[19:56:07] [Server thread/INFO]: nigga issued server command: /help 2
+[19:56:08] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;33;22mSigma[0;37;22m] [0;37;1mthe_sigma [0;37;1m➟ [0;37;1many1 wanna have gay orgy?[m
+
+[19:56:13] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mdoes your mommy know you swear lincoln[m
+
+[19:56:16] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mME!!![m
+
+[19:56:17] [Server thread/INFO]: nigga issued server command: /help 3
+[19:56:20] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1msee less!![m
+
+[19:56:28] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1m*say[m
+
+[19:56:28] [Server thread/INFO]: nigga issued server command: /help 4
+[19:56:36] [Server thread/INFO]: §cMurderer§7: §fSteven was slain by §fPlayer§7: §fyour_mom_lol
+[19:56:40] [Server thread/INFO]: nigga issued server command: /help 5
+[19:56:47] [Server thread/INFO]: nigga issued server command: /help 6
+[19:56:48] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mlinoln ong shut your gay ass up[m
+
+[19:56:53] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mnah[m
+
+[19:56:58] [Server thread/INFO]: nigga issued server command: /help 7
+[19:57:00] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mi prefer to yap[m
+
+[19:57:05] [Server thread/INFO]: your_mom_lol issued server command: /tpa steven
+[19:57:10] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mi havent seen this kid since 7th grade[m
+
+[19:57:13] [Server thread/INFO]: Steven issued server command: /accept
+[19:57:15] [Server thread/INFO]: your_mom_lol issued server command: /tpa john minecraft
+[19:57:16] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;33;22mSigma[0;37;22m] [0;37;1mthe_sigma [0;37;1m➟ [0;37;1mstfu black linclin[m
+
+[19:57:17] [Server thread/INFO]: nigga issued server command: /whisper baconmania somone from shs
+[19:57:23] [Server thread/INFO]: §cMurderer§7: §fSteven was slain by §fPlayer§7: §fyour_mom_lol
+[19:57:26] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1ma[m
+
+[19:57:27] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mchill lol[m
+
+[19:57:27] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mthank god i haven't seen yall since then[m
+
+[19:57:29] [Server thread/INFO]: nigga issued server command: /tell baconmania somone from shs
+[19:57:30] [Server thread/INFO]: §cMurderer§7: §fSteven was slain by §fPlayer§7: §fyour_mom_lol
+[19:57:33] [Server thread/INFO]: §cMurderer§7: §fSteven was slain by §fPlayer§7: §fyour_mom_lol
+[19:57:33] [Async Chat Thread - #17/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1myou sound like a dumbass[m
+
+[19:57:36] [Server thread/INFO]: §cMurderer§7: §fSteven was slain by §fPlayer§7: §fyour_mom_lol
+[19:57:39] [Server thread/INFO]: BaconMania issued server command: /tell nigga no shit lmao
+[19:57:39] [Server thread/INFO]: §cMurderer§7: §fSteven was slain by §fPlayer§7: §fyour_mom_lol
+[19:57:44] [Server thread/INFO]: §cMurderer§7: §fSteven was slain by §fPlayer§7: §fyour_mom_lol
+[19:57:48] [Server thread/INFO]: §cMurderer§7: §fSteven was slain by §fPlayer§7: §fyour_mom_lol
+[19:57:52] [Server thread/INFO]: §cMurderer§7: §fSteven was slain by §fPlayer§7: §fyour_mom_lol
+[19:57:52] [Server thread/INFO]: §fPlayer§7: §fyour_mom_lol was slain by §cMurderer§7: §fSteven
+[19:58:02] [Server thread/INFO]: BaconMania issued server command: /tell nigga who tho
+[19:58:07] [Server thread/WARN]: your_mom_lol was kicked for floating too long!
+[19:58:07] [Server thread/INFO]: your_mom_lol lost connection: Flying is not enabled on this server
+[19:58:07] [Server thread/INFO]: your_mom_lol left the game.
+[19:58:07] [Server thread/WARN]: handleDisconnection() called twice
+[19:58:10] [Thread-68/INFO]: UUID of player your_mom_lol is 8fbc6a74-0bdd-3a23-ab17-d96a3d614432
+[19:58:10] [Server thread/INFO]: your_mom_lol[/[0:0:0:0:0:0:0:1]:54040] logged in with entity id 58398 at ([world]161.58555585425546, 76.45416820882662, 260.38227928190605)
+[19:58:11] [Craft Scheduler Thread - 43/INFO]: [0;31;1mWarning: your_mom_lol has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein, IhaveaDUI_547, evan_j, DashingsMomIsHot, Wonder[m
+
+[19:58:11] [Server thread/INFO]: Steven issued server command: /home HOME
+[19:58:12] [Server thread/INFO]: BaconMania issued server command: /list
+[19:58:14] [Server thread/INFO]: nigga issued server command: /tell baconmania im keston
+[19:58:24] [Server thread/INFO]: your_mom_lol issued server command: /tpa steven
+[19:58:24] [Server thread/INFO]: BaconMania issued server command: /tell nigga ohh bet bet
+[19:58:37] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mew[m
+
+[19:58:37] [Server thread/INFO]: BaconMania issued server command: /tell nigga username checks out lol
+[19:58:46] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mlincoln what class are yyou in rn[m
+
+[19:58:46] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1myour_mom_lol [0;37;1m➟ [0;37;1msteven your a nigger[m
+
+[19:58:53] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mi know[m
+
+[19:58:55] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1myour_mom_lol [0;37;1m➟ [0;37;1mi hate you[m
+
+[19:58:56] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mim black[m
+
+[19:58:56] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1map english[m
+
+[19:59:02] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mi bet you're in that like[m
+
+[19:59:05] [Server thread/WARN]: your_mom_lol was kicked for floating too long!
+[19:59:05] [Server thread/INFO]: your_mom_lol lost connection: Flying is not enabled on this server
+[19:59:05] [Server thread/INFO]: your_mom_lol left the game.
+[19:59:05] [Server thread/WARN]: handleDisconnection() called twice
+[19:59:10] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mbasic functions class or whatever[m
+
+[19:59:12] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;33;22mSigma[0;37;22m] [0;37;1mthe_sigma [0;37;1m➟ [0;37;1merm actually its honors not ap lincin[m
+
+[19:59:16] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1msteven you're whiter than mayo[m
+
+[19:59:16] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mokk[m
+
+[19:59:19] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1msame di[m
+
+[19:59:21] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mcap[m
+
+[19:59:23] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mdif*[m
+
+[19:59:27] [Server thread/INFO]: BaconMania issued server command: /gamemode s
+[19:59:27] [Server thread/INFO]: [BaconMania: Set own game mode to Survival Mode]
+[19:59:39] [Thread-69/INFO]: UUID of player Danny is ddcda591-f59a-39fa-ae6e-6744024d2256
+[19:59:39] [Server thread/INFO]: Danny[/[0:0:0:0:0:0:0:1]:60896] logged in with entity id 60061 at ([world]128.0871111727165, 75.0, 1220.772288748573)
+[19:59:40] [Craft Scheduler Thread - 45/INFO]: [0;31;1mWarning: Danny has the same IP as the following players:
+[0;33;22ma__, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein, IhaveaDUI_547, evan_j, DashingsMomIsHot, your_mom_lol, Wonder[m
+
+[19:59:44] [Server thread/INFO]: §fPlayer§7: §fJohn_Minecraft has just earned the achievement [Benchmarking]
+[19:59:47] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mevan is john minecraft actually the retarded lincoln[m
+
+[19:59:49] [Server thread/INFO]: Danny issued server command: /tpa home
+[19:59:49] [Server thread/INFO]: nigga issued server command: /suicide
+[19:59:49] [Server thread/INFO]: §fPlayer§7: §fnigga died
+[19:59:49] [Server thread/INFO]: [0;31;1m[21mnigga did too much fent[m
+
+[19:59:49] [Server thread/ERROR]: [Suicide] The sound you're trying to play isn't registered in this Minecraft Version: ENTITY_ZOMBIE_HURT
+[19:59:53] [Server thread/INFO]: BaconMania issued server command: /home pizza
+[19:59:56] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mBRO WTF[m
+
+[19:59:58] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1myea[m
+
+[19:59:59] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mi get im retarded dude[m
+
+[20:00:02] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mwhat happened to the base[m
+
+[20:00:05] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1myou don't have to reiterate it[m
+
+[20:00:07] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mlike the smart ass one[m
+
+[20:00:15] [Server thread/INFO]: §fPlayer§7: §fJohn_Minecraft has just earned the achievement [Time to Mine!]
+[20:00:15] [Server thread/INFO]: §fPlayer§7: §fJohn_Minecraft has just earned the achievement [Getting an Upgrade]
+[20:00:17] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1msomeone griefed it danny[m
+
+[20:00:18] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mbro[m
+
+[20:00:19] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mrah[m
+
+[20:00:21] [Server thread/INFO]: §cMurderer§7: §fSteven was slain by §fPlayer§7: §fDanny using [tool for jewish kids]
+[20:00:25] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;33;22mSigma[0;37;22m] [0;37;1mthe_sigma [0;37;1m➟ [0;37;1mevan did carson actualy bomb their base[m
+
+[20:00:29] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mscared you bad[m
+
+[20:00:34] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1midk who bombed them[m
+
+[20:00:36] [Server thread/INFO]: Steven issued server command: /home HOME
+[20:00:36] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1myeah lol[m
+
+[20:00:44] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mcarsons not on the server[m
+
+[20:00:45] [Thread-71/INFO]: UUID of player YungBiggaNIgga is 4e92c905-4f0d-34a4-aa8e-be0cca97f50d
+[20:00:45] [Server thread/INFO]: YungBiggaNIgga[/[0:0:0:0:0:0:0:1]:43280] logged in with entity id 60715 at ([world]177.5, 63.0, 255.5)
+[20:00:46] [Craft Scheduler Thread - 46/INFO]: [0;31;1mWarning: YungBiggaNIgga has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein, IhaveaDUI_547, evan_j, DashingsMomIsHot, your_mom_lol, Wonder[m
+
+[20:00:48] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mdamn what is this the one church from the 1950s[m
+
+[20:00:57] [Server thread/INFO]: BaconMania issued server command: /tell the_sigma they dont know who jewburner is
+[20:01:13] [Server thread/INFO]: nigga issued server command: /tell john_minecraft fat fucking nigger suck my cock
+[20:01:20] [Server thread/INFO]: §fPlayer§7: §fYungBiggaNIgga has just earned the achievement [Taking Inventory]
+[20:01:37] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwhat is this the baptist street church bombing?[m
+
+[20:01:40] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwe aint black[m
+
+[20:01:45] [Server thread/INFO]: YungBiggaNIgga lost connection: Login timed out!
+[20:01:45] [Server thread/INFO]: YungBiggaNIgga left the game.
+[20:01:45] [Server thread/WARN]: handleDisconnection() called twice
+[20:01:45] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1msteven bruh[m
+
+[20:01:59] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mwhite people get bombed too steven[m
+
+[20:02:04] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1m9/11[m
+
+[20:02:12] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mshut the fuck up lincoln[m
+
+[20:02:13] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mbest holiday[m
+
+[20:02:14] [Server thread/WARN]: John_Minecraft moved wrongly!
+[20:02:14] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;33;22mSigma[0;37;22m] [0;37;1mthe_sigma [0;37;1m➟ [0;37;1mw holiday[m
+
+[20:02:20] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mgreatest holdiay[m
+
+[20:02:24] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mmy favorite[m
+
+[20:02:27] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mhey steven, lets tone it down[m
+
+[20:02:34] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mfr[m
+
+[20:02:39] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mI love it when osama leaves presents under the tower[m
+
+[20:02:43] [Server thread/INFO]: Steven issued server command: /tell the_sigma is john minecraft pretending to be the autistic one
+[20:02:47] [Server thread/INFO]: BaconMania issued server command: /tempmute steven 1m you're up here lets take it down here
+[20:02:47] [Craft Scheduler Thread - 44/INFO]: [0;33;22mSteven has been temporarily muted for 1 minute by BaconMania for [0;31;22myou're up here lets take it down here[m
+
+[20:02:53] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mthey all make funnny noises[m
+
+[20:02:57] [Server thread/INFO]: Steven issued server command: /evan you nigger
+[20:02:57] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mbro[m
+
+[20:02:58] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mnigga [0;37;1m➟ [0;37;1mstfu linclon[m
+
+[20:03:03] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mstfu[m
+
+[20:03:04] [Server thread/INFO]: the_sigma issued server command: /tell Steven no hes actually the autistic one
+[20:03:08] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mdamn[m
+
+[20:03:13] [Async Chat Thread - #18/INFO]: [0;31;22m[Muted] Steven[0;37;22m mute[m
+
+[20:03:14] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mi ain't that unfunny[m
+
+[20:03:16] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mwho griefed out base[m
+
+[20:03:20] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1midk[m
+
+[20:03:23] [Thread-72/INFO]: UUID of player YungBiggaNIgga is 4e92c905-4f0d-34a4-aa8e-be0cca97f50d
+[20:03:23] [Server thread/INFO]: YungBiggaNIgga[/[0:0:0:0:0:0:0:1]:37268] logged in with entity id 61835 at ([world]177.4454990947629, 63.0, 255.23241398705278)
+[20:03:24] [Craft Scheduler Thread - 44/INFO]: [0;31;1mWarning: YungBiggaNIgga has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein, IhaveaDUI_547, evan_j, DashingsMomIsHot, your_mom_lol, Wonder[m
+
+[20:03:26] [Async Chat Thread - #18/INFO]: [0;31;22m[Muted] Steven[0;37;22m lincoln can you fight[m
+
+[20:03:26] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mnigga [0;37;1m➟ [0;37;1mcry about it[m
+
+[20:03:30] [Server thread/INFO]: Danny issued server command: /tpa nigga
+[20:03:35] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1maccept that[m
+
+[20:03:40] [Async Chat Thread - #18/INFO]: [0;31;22m[Muted] Steven[0;37;22m lincoln can you fight[m
+
+[20:03:44] [Server thread/INFO]: nigga issued server command: /tpaccept
+[20:03:50] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mlincoln can you fight[m
+
+[20:03:50] [Server thread/INFO]: YungBiggaNIgga issued server command: /
+[20:03:51] [Server thread/INFO]: §fPlayer§7: §fnigga was slain by §fPlayer§7: §fDanny using [Asian Chopstick]
+[20:04:00] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mleabe the black guy alone[m
+
+[20:04:01] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mnah[m
+
+[20:04:03] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mi'd lsoe[m
+
+[20:04:08] [Craft Scheduler Thread - 44/INFO]: [0;33;22mBaconMania has been permanently muted by Console for [0;31;22m30s ohio[m
+
+[20:04:09] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mprobably[m
+
+[20:04:14] [Async Chat Thread - #18/INFO]: [0;31;22m[Muted] BaconMania[0;37;22m a[m
+
+[20:04:14] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mmost likely[m
+
+[20:04:23] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mindubitably[m
+
+[20:04:34] [Server thread/INFO]: Danny issued server command: /tpa john minecraft
+[20:04:36] [Craft Scheduler Thread - 46/INFO]: [0;33;22mBaconMania has been unmuted by Console[m
+
+[20:04:40] [Server thread/INFO]: John_Minecraft issued server command: /tpaccept
+[20:04:50] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1myo[m
+
+[20:04:51] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1myour like young sheldon exept hes a nigger[m
+
+[20:04:58] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mgood one steven[m
+
+[20:05:01] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mwhy were you being so racist...[m
+
+[20:05:02] [Thread-73/INFO]: UUID of player Curry_Muncher is efb9058e-8bc2-36ca-a0a5-81b99753b5b8
+[20:05:02] [Server thread/INFO]: Curry_Muncher[/[0:0:0:0:0:0:0:1]:60090] logged in with entity id 62789 at ([world]-2.344027173419805, 39.0, 244.69999998807907)
+[20:05:03] [Craft Scheduler Thread - 46/INFO]: [0;31;1mWarning: Curry_Muncher has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein, IhaveaDUI_547, evan_j, DashingsMomIsHot, your_mom_lol, Wonder, YungBiggaNIgga[m
+
+[20:05:09] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1moh mb[m
+
+[20:05:09] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mYungBiggaNIgga [0;37;1m➟ [0;37;1mnihga[m
+
+[20:05:12] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwrong word[m
+
+[20:05:14] [Server thread/INFO]: Steven lost connection: Disconnected
+[20:05:14] [Server thread/INFO]: Steven left the game.
+[20:05:19] [Thread-74/INFO]: UUID of player Steven is 944d2caf-d932-3441-b30c-7e43d402ec4b
+[20:05:19] [Server thread/INFO]: Steven[/[0:0:0:0:0:0:0:1]:45602] logged in with entity id 62940 at ([world]141.8046287383725, 84.0, 1207.0023409012333)
+[20:05:20] [Server thread/INFO]: §fPlayer§7: §fJohn_Minecraft was slain by §fPlayer§7: §fDanny using [Asian Chopstick]
+[20:05:20] [Craft Scheduler Thread - 46/INFO]: [0;31;1mWarning: Steven has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein, IhaveaDUI_547, evan_j, DashingsMomIsHot, your_mom_lol, Wonder, YungBiggaNIgga[m
+
+[20:05:21] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1msteven thinks that racism immediately = funny[m
+
+[20:05:25] [Server thread/INFO]: John_Minecraft issued server command: /back
+[20:05:29] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mwhy did bro do that[m
+
+[20:05:30] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mracism can be funny[m
+
+[20:05:31] [Server thread/INFO]: §fPlayer§7: §fDanny has just earned the achievement [Into Fire]
+[20:05:32] [Server thread/INFO]: §fPlayer§7: §fJohn_Minecraft was slain by §fPlayer§7: §fDanny using [Asian Chopstick]
+[20:05:32] [Server thread/INFO]: YungBiggaNIgga issued server command: /help
+[20:05:35] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mbut not always[m
+
+[20:05:35] [Server thread/INFO]: John_Minecraft issued server command: /back
+[20:05:36] [Server thread/INFO]: YungBiggaNIgga issued server command: /help 2
+[20:05:36] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mtrue[m
+
+[20:05:37] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mbruh why[m
+
+[20:05:43] [Server thread/INFO]: §fPlayer§7: §fJohn_Minecraft was slain by §fPlayer§7: §fDanny using [Asian Chopstick]
+[20:05:48] [Server thread/INFO]: John_Minecraft issued server command: /back
+[20:05:51] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mlet me rephrase myself[m
+
+[20:05:51] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mdanny plz[m
+
+[20:05:53] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mnigga [0;37;1m➟ [0;37;1mlincoln is a fagget[m
+
+[20:05:54] [Server thread/INFO]: §fPlayer§7: §fJohn_Minecraft was slain by §fPlayer§7: §fDanny using [Asian Chopstick]
+[20:05:58] [Server thread/INFO]: John_Minecraft issued server command: /back
+[20:05:59] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mfr[m
+
+[20:06:03] [Server thread/INFO]: YungBiggaNIgga issued server command: /fuck nigga
+[20:06:04] [Server thread/INFO]: §fPlayer§7: §fJohn_Minecraft was slain by §fPlayer§7: §fDanny using [Asian Chopstick]
+[20:06:05] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mthats whar you get for being racist[m
+
+[20:06:06] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mhe a bitch too[m
+
+[20:06:12] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mIM NOT BEING RACIST[m
+
+[20:06:13] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mnigga [0;37;1m➟ [0;37;1mso are you steven[m
+
+[20:06:15] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwhat a racist[m
+
+[20:06:16] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mYungBiggaNIgga [0;37;1m➟ [0;37;1mi hate steve[m
+
+[20:06:18] [Server thread/INFO]: John_Minecraft issued server command: /back
+[20:06:21] [Server thread/INFO]: Danny issued server command: /tpa steven
+[20:06:24] [Server thread/INFO]: Steven issued server command: /accept
+[20:06:25] [Server thread/INFO]: §fPlayer§7: §fJohn_Minecraft was slain by §fPlayer§7: §fDanny using [Asian Chopstick]
+[20:06:27] [Server thread/INFO]: BaconMania issued server command: /sudo John_Minecraft I FUCKING HATE NIGGERS
+[20:06:27] [Server thread/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mI FUCKING HATE NIGGERS[m
+
+[20:06:30] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mbro[m
+
+[20:06:30] [Server thread/INFO]: §cMurderer§7: §fSteven was slain by §fPlayer§7: §fDanny using [Asian Chopstick]
+[20:06:34] [Server thread/INFO]: YungBiggaNIgga issued server command: /and braeden
+[20:06:34] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mi didnt say that[m
+
+[20:06:38] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mBACON[m
+
+[20:06:40] [Server thread/INFO]: §fPlayer§7: §fnigga was blown up by Creeper
+[20:06:42] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mCEASE[m
+
+[20:06:42] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mthats fucked up[m
+
+[20:06:42] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mYungBiggaNIgga [0;37;1m➟ [0;37;1mand braeden fuck him[m
+
+[20:06:46] [Server thread/INFO]: John_Minecraft lost connection: Disconnected
+[20:06:46] [Server thread/INFO]: John_Minecraft left the game.
+[20:06:46] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mmb[m
+
+[20:06:50] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;33;22mSigma[0;37;22m] [0;37;1mthe_sigma [0;37;1m➟ [0;37;1mwow lincoln sure is[m
+
+[20:06:52] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mthe_sigma we should get ethan on so we can build pizza tower[m
+
+[20:06:56] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;33;22mSigma[0;37;22m] [0;37;1mthe_sigma [0;37;1m➟ [0;37;1msaying some weird things[m
+
+[20:06:57] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mlol[m
+
+[20:07:01] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mdamn you got arrows in your nuts[m
+
+[20:07:04] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;33;22mSigma[0;37;22m] [0;37;1mthe_sigma [0;37;1m➟ [0;37;1myeah we should[m
+
+[20:07:12] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mnigga [0;37;1m➟ [0;37;1mno[m
+
+[20:07:14] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mI got purple clay[m
+
+[20:07:15] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwhat in the name of kinkyness were you ding[m
+
+[20:07:26] [Server thread/INFO]: §fPlayer§7: §fnigga was slain by §cMurderer§7: §fSteven
+[20:07:30] [Server thread/INFO]: Steven issued server command: /home HOME
+[20:07:38] [Server thread/INFO]: Danny issued server command: /tpa steven
+[20:07:44] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mlets spawn camp nigga[m
+
+[20:07:44] [Server thread/INFO]: Steven issued server command: /accept
+[20:07:49] [Server thread/INFO]: §cMurderer§7: §fSteven was slain by §fPlayer§7: §fDanny using [Asian Chopstick]
+[20:07:55] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mshoot mb[m
+
+[20:07:57] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mnah hes cool[m
+
+[20:07:59] [Thread-75/INFO]: UUID of player Wonder is 2577cbf2-e81c-367c-99a4-679c49bf00f4
+[20:07:59] [Server thread/WARN]: Failed to handle packet for /[0:0:0:0:0:0:0:1]:48908
+net.minecraft.server.v1_8_R3.ReportedException: Sending packet
+	at net.minecraft.server.v1_8_R3.PlayerConnection.sendPacket(PlayerConnection.java:925) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.a(EntityPlayer.java:783) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.Container.addSlotListener(Container.java:59) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.syncInventory(EntityPlayer.java:177) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerList.a(PlayerList.java:190) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.LoginListener.b(LoginListener.java:144) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.LoginListener.c(LoginListener.java:54) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.NetworkManager.a(NetworkManager.java:231) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.ServerConnection.c(ServerConnection.java:148) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:875) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: type cannot be null
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:229) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.comphenix.protocol.injector.StructureCache.getStructure(StructureCache.java:138) ~[?:?]
+	at com.comphenix.protocol.events.PacketContainer.<init>(PacketContainer.java:126) ~[?:?]
+	at com.comphenix.protocol.injector.netty.manager.NetworkManagerInjector.onPacketSending(NetworkManagerInjector.java:96) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelInjector.processOutbound(NettyChannelInjector.java:553) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelInjector$2.doProxyRunnable(NettyChannelInjector.java:456) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.proxyRunnable(NettyEventLoopProxy.java:43) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.execute(NettyEventLoopProxy.java:252) ~[?:?]
+	at net.minecraft.server.v1_8_R3.NetworkManager.a(NetworkManager.java:192) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.NetworkManager.handle(NetworkManager.java:141) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.sendPacket(PlayerConnection.java:911) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 13 more
+[20:07:59] [Server thread/INFO]: Wonder lost connection: Internal server error
+[20:07:59] [Server thread/INFO]: Wonder left the game.
+[20:08:00] [Craft Scheduler Thread - 47/INFO]: [0;31;1mWarning: Wonder has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein, IhaveaDUI_547, evan_j, DashingsMomIsHot, your_mom_lol, YungBiggaNIgga[m
+
+[20:08:02] [Server thread/INFO]: Steven issued server command: /home HOME
+[20:08:05] [Thread-76/INFO]: UUID of player Wonder is 2577cbf2-e81c-367c-99a4-679c49bf00f4
+[20:08:05] [Server thread/INFO]: Wonder[/[0:0:0:0:0:0:0:1]:45500] logged in with entity id 65970 at ([world]45.009523184761605, 66.0, 245.35997226256745)
+[20:08:06] [Craft Scheduler Thread - 47/INFO]: [0;31;1mWarning: Wonder has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein, IhaveaDUI_547, evan_j, DashingsMomIsHot, your_mom_lol, YungBiggaNIgga[m
+
+[20:08:14] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mimagine if lincoln bit the curb[m
+
+[20:08:20] [Server thread/INFO]: §cMurderer§7: §fSteven was slain by §fPlayer§7: §fDanny using [Asian Chopstick]
+[20:08:20] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mYungBiggaNIgga [0;37;1m➟ [0;37;1mi hate all of you dumb niggers[m
+
+[20:08:27] [Server thread/INFO]: Steven issued server command: /home HOME
+[20:08:28] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mYungBiggaNIgga [0;37;1m➟ [0;37;1mim gonna kill myself[m
+
+[20:08:30] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mhey[m
+
+[20:08:33] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mmb bro[m
+
+[20:08:34] [Server thread/INFO]: YungBiggaNIgga issued server command: /same
+[20:08:36] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mokay do /suicide[m
+
+[20:08:37] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mYungBiggaNIgga [0;37;1m➟ [0;37;1msame[m
+
+[20:08:37] [Server thread/INFO]: Wonder lost connection: Disconnected
+[20:08:37] [Server thread/INFO]: Wonder left the game.
+[20:08:41] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mnigga [0;37;1m➟ [0;37;1mdanny is fat[m
+
+[20:08:44] [Server thread/INFO]: YungBiggaNIgga issued server command: /tp nigga
+[20:08:44] [Server thread/INFO]: BaconMania issued server command: /tempmute yungbigganigga 1m do it no balls
+[20:08:44] [Craft Scheduler Thread - 47/INFO]: [0;33;22mYungBiggaNIgga has been temporarily muted for 1 minute by BaconMania for [0;31;22mdo it no balls[m
+
+[20:08:46] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mhe is[m
+
+[20:08:49] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mirl[m
+
+[20:08:49] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;33;22mSigma[0;37;22m] [0;37;1mthe_sigma [0;37;1m➟ [0;37;1mbye bye guys[m
+
+[20:08:51] [Server thread/INFO]: YungBiggaNIgga issued server command: /teleport nigga
+[20:08:52] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mbro i do cross country im skinny asf[m
+
+[20:08:54] [Server thread/INFO]: BaconMania issued server command: /tempmute yungbigganigga 1m kill yourself
+[20:08:56] [Server thread/INFO]: BaconMania issued server command: /tempmute yungbigganigga 1m kill yourself
+[20:08:56] [Craft Scheduler Thread - 44/INFO]: [0;33;22mYungBiggaNIgga has been temporarily muted for 1 minute by BaconMania for [0;31;22mkill yourself[m
+
+[20:09:00] [Server thread/INFO]: the_sigma lost connection: Disconnected
+[20:09:00] [Server thread/INFO]: the_sigma left the game.
+[20:09:00] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mnigga [0;37;1m➟ [0;37;1malso gay?[m
+
+[20:09:03] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1myes[m
+
+[20:09:06] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mthats why you can barely see steven[m
+
+[20:09:13] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mhes a little twig[m
+
+[20:09:16] [Async Chat Thread - #18/INFO]: [0;31;22m[Muted] YungBiggaNIgga[0;37;22m bro[m
+
+[20:09:20] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1ma gay one[m
+
+[20:09:21] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1msteven barely exists[m
+
+[20:09:28] [Async Chat Thread - #18/INFO]: [0;31;22m[Muted] YungBiggaNIgga[0;37;22m bro[m
+
+[20:09:30] [Server thread/INFO]: YungBiggaNIgga issued server command: /
+[20:09:33] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mhes a twig that likes getting banged by dudes[m
+
+[20:09:34] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mbro is so red right now in class lmao[m
+
+[20:09:46] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mbro got pressed[m
+
+[20:09:49] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mwe got a tomato up in here ![m
+
+[20:09:53] [Server thread/INFO]: YungBiggaNIgga issued server command: /tell baconmania why did i get muted
+[20:09:53] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mfr[m
+
+[20:09:56] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1msteven your gay[m
+
+[20:09:59] [Server thread/INFO]: Curry_Muncher lost connection: Disconnected
+[20:09:59] [Server thread/INFO]: Curry_Muncher left the game.
+[20:10:00] [Server thread/INFO]: §cMurderer§7: §fSteven was slain by §fPlayer§7: §fDanny using [Asian Chopstick]
+[20:10:05] [Server thread/INFO]: Steven issued server command: /back
+[20:10:05] [Server thread/INFO]: Danny issued server command: /home <spawn>
+[20:10:13] [Server thread/INFO]: BaconMania issued server command: /tell YungBiggaNIgga idk lol you should be unmuted now
+[20:10:14] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mat least im not gay[m
+
+[20:10:18] [Server thread/INFO]: §cMurderer§7: §fSteven was slain by §fPlayer§7: §fDanny using [Asian Chopstick]
+[20:10:23] [Server thread/INFO]: Steven issued server command: /back
+[20:10:28] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mevan do /kill[m
+
+[20:10:30] [Server thread/INFO]: §cMurderer§7: §fSteven was slain by §fPlayer§7: §fDanny using [Asian Chopstick]
+[20:10:32] [Server thread/INFO]: YungBiggaNIgga issued server command: /tell baconmania alr bet
+[20:10:34] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mnigger[m
+
+[20:10:35] [Server thread/INFO]: Steven issued server command: /back
+[20:10:40] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mdude[m
+
+[20:10:41] [Server thread/WARN]: Steven moved wrongly!
+[20:10:41] [Server thread/INFO]: §cMurderer§7: §fSteven was slain by §fPlayer§7: §fDanny using [Asian Chopstick]
+[20:10:46] [Server thread/INFO]: Steven issued server command: /back
+[20:10:48] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mi bet your gonna molest kids at the pumpkin run toady[m
+
+[20:10:51] [Server thread/WARN]: Steven moved wrongly!
+[20:10:52] [Server thread/INFO]: §cMurderer§7: §fSteven was slain by §fPlayer§7: §fDanny using [Asian Chopstick]
+[20:10:59] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mwhy are you smiling steven[m
+
+[20:11:04] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1msteven cant resist the little ones[m
+
+[20:11:08] [Server thread/INFO]: YungBiggaNIgga lost connection: Disconnected
+[20:11:08] [Server thread/INFO]: YungBiggaNIgga left the game.
+[20:11:11] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mirl hes got a big grin on his face he knows its true[m
+
+[20:11:16] [Server thread/INFO]: BaconMania issued server command: /list
+[20:11:16] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mbecause i rembered that you used to date betty[m
+
+[20:11:29] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1moh shit that did happen lmao[m
+
+[20:11:33] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mbro was kissing betty all the time[m
+
+[20:11:35] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mdamn[m
+
+[20:11:39] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1maye at least I saved him from ava[m
+
+[20:11:40] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mnigga [0;37;1m➟ [0;37;1mdanny suck my wiener[m
+
+[20:11:41] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mnahhh bro wtf[m
+
+[20:11:46] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mthats a lie[m
+
+[20:11:49] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mhe wants too[m
+
+[20:11:51] [Server thread/INFO]: BaconMania issued server command: /toggledownfall
+[20:11:51] [Server thread/INFO]: [BaconMania: Toggled downfall]
+[20:11:52] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mi wasnt freaks[m
+
+[20:11:56] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mnigga [0;37;1m➟ [0;37;1mdecfrtghy6u7jnbhgtvrfedw[m
+
+[20:11:59] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mfreaky*[m
+
+[20:12:00] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mhe just licked his lips[m
+
+[20:12:05] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mLIAR[m
+
+[20:12:08] [Server thread/INFO]: nigga lost connection: Disconnected
+[20:12:08] [Server thread/INFO]: nigga left the game.
+[20:12:10] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mhe wants your cock[m
+
+[20:12:12] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mstevens edging right now in class[m
+
+[20:12:13] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mI used to think you were weird danny[m
+
+[20:12:20] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mwhen you dated betty[m
+
+[20:12:22] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1msame[m
+
+[20:12:23] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1myou chill now tho[m
+
+[20:12:26] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mso stop talking danny[m
+
+[20:12:30] [Server thread/INFO]: KP_ lost connection: Disconnected
+[20:12:30] [Server thread/INFO]: KP_ left the game.
+[20:12:31] [Server thread/INFO]: Danny lost connection: Disconnected
+[20:12:31] [Server thread/INFO]: Danny left the game.
+[20:12:32] [Async Chat Thread - #18/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1myou like mean[m
+
+[20:12:34] [Server thread/INFO]: Steven lost connection: Disconnected
+[20:12:34] [Server thread/INFO]: Steven left the game.
