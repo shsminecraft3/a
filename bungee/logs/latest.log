@@ -200,3 +200,6 @@ It expires in 1 minute 37 seconds
 [17:08:50] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:39594]: Logged in as 'BaconMania'
 [17:08:50] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:39594|BaconMania] -> UpstreamBridge has connected
 [17:08:50] [Netty Worker IO Thread #1/INFO]: [BaconMania|/[0:0:0:0:0:0:0:1%0]:39594] <-> ServerConnector [lobby] has connected
+[17:09:03] [Netty Worker IO Thread #1/INFO]: [BaconMania] disconnected with: Kicked whilst connecting to lobby: [LP] Permissions data for your user was not loaded during the pre-login stage - unable to continue. Please try again later. If you are a server admin, please check the console for any errors.
+[17:09:03] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:39594|BaconMania] -> UpstreamBridge has disconnected
+[17:09:03] [Netty Worker IO Thread #1/INFO]: [BaconMania|/[0:0:0:0:0:0:0:1%0]:39594] <-> ServerConnector [lobby] has disconnected

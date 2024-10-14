@@ -240,3 +240,90 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [17:08:56] [Server thread/INFO]: Preparing spawn area: 9%
 [17:08:58] [Server thread/INFO]: Preparing spawn area: 70%
 [17:08:58] [Server thread/INFO]: Preparing start region for level 2 (Seed: 8746604822408410148)
+[17:08:58] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v6.4
+[17:08:58] [Server thread/INFO]: [0;33;1m[21m[SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9[m
+
+[17:08:58] [Server thread/INFO]: [0;33;1m[21m[SimpleTpa] Simple Tpa has been enabled on version 6.4[m
+
+[17:08:58] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[17:08:58] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[17:08:59] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[17:08:59] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[17:08:59] [Server thread/INFO]: [Sudo] Enabling Sudo v1
+[17:08:59] [Server thread/INFO]: [Suicide] Enabling Suicide v1.4.6
+[17:08:59] [Server thread/INFO]: [Suicide] Plugin Enabled!
+[17:08:59] [Server thread/INFO]: [SimpleHomes] Enabling SimpleHomes v2.2
+[17:08:59] [Server thread/INFO]: [OnePlayerSleep] Enabling OnePlayerSleep v1.3
+[17:08:59] [Server thread/INFO]: [EasyRanks] Enabling EasyRanks v1.3.2
+[17:08:59] [Server thread/ERROR]: Error occurred while enabling EasyRanks v1.3.2 (Is it up to date?)
+java.lang.IllegalArgumentException: Team name 'er_murderersquared' is longer than the limit of 16 characters
+	at org.apache.commons.lang.Validate.isTrue(Validate.java:136) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.scoreboard.CraftScoreboard.registerNewTeam(CraftScoreboard.java:139) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at me.Kiwanga.EasyRanks.Board.BoardManager.setupScoreBoard(BoardManager.java:68) ~[?:?]
+	at me.Kiwanga.EasyRanks.Main.Main.onEnable(Main.java:29) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:332) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:407) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:359) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:318) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:408) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:372) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:327) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:267) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:563) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[17:08:59] [Server thread/INFO]: [EasyRanks] Disabling EasyRanks v1.3.2
+[17:08:59] [Server thread/INFO]: [InvSee++] Enabling InvSeePlusPlus v0.29.4
+[17:09:00] [Server thread/INFO]: [BanManager] Enabling BanManager v7.9.0
+[17:09:00] [Server thread/WARN]: [Server thread] INFO me.confuser.banmanager.common.hikari.HikariDataSource - bm-local - Starting...
+
+[17:09:01] [Server thread/WARN]: [Server thread] INFO me.confuser.banmanager.common.hikari.HikariDataSource - bm-local - Start completed.
+
+[17:09:01] [Server thread/INFO]: [BanManager] Loaded 0 bans into memory
+[17:09:01] [Server thread/INFO]: [BanManager] Loaded 0 mutes into memory
+[17:09:02] [Server thread/INFO]: [BanManager] Loaded 0 ip bans into memory
+[17:09:02] [Server thread/INFO]: [BanManager] Loaded 0 ip mutes into memory
+[17:09:02] [Server thread/INFO]: [BanManager] Loaded 0 ip range bans into memory
+[17:09:02] [Server thread/INFO]: [BanManager] Loaded 0 name bans into memory
+[17:09:02] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.2.0
+[17:09:02] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[17:09:02] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[17:09:02] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[17:09:02] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[17:09:02] [Server thread/INFO]: [InvSee++_Clear] Enabling InvSeePlusPlus_Clear v0.29.4
+[17:09:02] [Server thread/INFO]: [InvSee++_Give] Enabling InvSeePlusPlus_Give v0.29.4
+[17:09:03] [Server thread/INFO]: [IllegalStack] Enabling IllegalStack v2.9.12a
+[17:09:03] [Server thread/INFO]: The following materials are allowed to have stacks larger than the vanilla size: POTION 
+[17:09:03] [Server thread/INFO]: Found a missing configuration value UserRequested.Obscure.HackedShulker.CheckGroundForBadShulkerAtLogin it has been added to the config with the default value of: false
+[17:09:03] [Server thread/INFO]: Server is NOT an ArcLight hybrid environment, continuing as normal.
+[17:09:03] [Server thread/INFO]: Server is NOT a Forge hybrid environment, continuing as normal.
+[17:09:03] [Server thread/INFO]: Server is NOT a Fabric hybrid environment, continuing as normal.
+[17:09:03] [Server thread/INFO]: Server is NOT a Paper server, continuing as normal.
+[17:09:03] [Server thread/INFO]: Server does NOT have Folia components, continuing as normal.
+[17:09:03] [Server thread/INFO]: Chat Components found! Enabling clickable commands in /istack
+[17:09:03] [Server thread/INFO]: Spigot chat components NOT found! disabling chat components.
+[17:09:03] [Server thread/INFO]: MC Version < 1.13 detected!
+[17:09:03] [Server thread/ERROR]: [IllegalStack] Plugin IllegalStack v2.9.12a has failed to register events for class main.java.me.dniym.listeners.fListener because org/bukkit/entity/ChestedHorse does not exist.
+[17:09:03] [Server thread/INFO]: Minecraft 1.8 detected not checking offhand slot for overstacked items.
+[17:09:03] [Server thread/INFO]: Version < 1.11 found, not checking for shulker boxes
+[17:09:03] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:09:03] [Server thread/INFO]: Done (9.827s)! For help, type "help" or "?"
+[17:09:03] [Server thread/INFO]: Timings Reset
+[17:09:03] [Server thread/INFO]: [BanManager] The following commands are blocked whilst muted:
+[17:09:03] [Server thread/INFO]: [BanManager] msg
+[17:09:03] [Server thread/INFO]: [BanManager] The following commands are blocked whilst soft muted:
+[17:09:03] [Server thread/INFO]: [BanManager] msg
+[17:09:03] [Server thread/WARN]: [LuckPerms] User 94cc9361-df90-3d70-a09d-55ea0279e1a1 - BaconMania doesn't have data pre-loaded, they have never been processed during pre-login in this session. - denying login.
+[17:09:03] [Server thread/WARN]: [LuckPerms] Player BaconMania has a non-LuckPerms permissible (org.bukkit.permissions.PermissibleBase)!
+This is probably because you have multiple permission plugins installed.
+Please make sure that LuckPerms is the only permission plugin installed on your server!
+(unless you're performing a migration, in which case, just remember to remove your old permission plugin once you're done!)
+[17:09:03] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@7b2b5047[id=94cc9361-df90-3d70-a09d-55ea0279e1a1,name=BaconMania,properties={textures=[com.mojang.authlib.properties.Property@87695f3], isEaglerPlayer=[com.mojang.authlib.properties.Property@7d513f57]},legacy=false] (/[0:0:0:0:0:0:0:1]:39412): §7[§b§lL§3§lP§7]§r §cPermissions data for your user was not loaded during the pre-login stage - unable to continue. Please try again later. If you are a server admin, please check the console for any errors.
+[17:09:03] [Craft Scheduler Thread - 1/INFO]: [0;31;1m[21m[SimpleTpa] There is a new update available.[m
+
+[17:09:03] [Craft Scheduler Thread - 1/INFO]: [0;31;1m[SimpleTpa] There is a new update available:[m
+
+[17:09:03] [Craft Scheduler Thread - 1/INFO]: [0;31;1m[SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/[m
+
+[17:09:03] [Server thread/INFO]: com.mojang.authlib.GameProfile@7b2b5047[id=94cc9361-df90-3d70-a09d-55ea0279e1a1,name=BaconMania,properties={textures=[com.mojang.authlib.properties.Property@87695f3], isEaglerPlayer=[com.mojang.authlib.properties.Property@7d513f57]},legacy=false] (/[0:0:0:0:0:0:0:1]:39412) lost connection: §7[§b§lL§3§lP§7]§r §cPermissions data for your user was not loaded during the pre-login stage - unable to continue. Please try again later. If you are a server admin, please check the console for any errors.
+[17:09:03] [Server thread/INFO]: [Suicide] You are using the latest version of Suicide.
