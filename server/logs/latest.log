@@ -1,38 +1,38 @@
-[17:08:48] [Server thread/INFO]: Starting minecraft server version 1.8.8
-[17:08:48] [Server thread/INFO]: Loading properties
-[17:08:48] [Server thread/INFO]: Default game type: SURVIVAL
-[17:08:48] [Server thread/INFO]: This server is running CraftBukkit version git-PaperSpigot-445 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
-[17:08:48] [Server thread/INFO]: Debug logging is disabled
-[17:08:48] [Server thread/INFO]: Spigot Timings: true - Verbose: true - Interval: 5m - Length: 60m
-[17:08:48] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:24:40] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[18:24:40] [Server thread/INFO]: Loading properties
+[18:24:40] [Server thread/INFO]: Default game type: SURVIVAL
+[18:24:40] [Server thread/INFO]: This server is running CraftBukkit version git-PaperSpigot-445 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[18:24:41] [Server thread/INFO]: Debug logging is disabled
+[18:24:41] [Server thread/INFO]: Spigot Timings: true - Verbose: true - Interval: 5m - Length: 60m
+[18:24:41] [Server thread/INFO]: Server Ping Player Sample Count: 12
 
-[17:08:48] [Server thread/INFO]: Using 4 threads for Netty based IO
-[17:08:48] [Server thread/INFO]: Data value allowed items: 
-[17:08:48] [Server thread/WARN]: java.lang.NoSuchFieldException: modifiers
+[18:24:41] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:24:41] [Server thread/INFO]: Data value allowed items: 
+[18:24:41] [Server thread/WARN]: java.lang.NoSuchFieldException: modifiers
 
-[17:08:48] [Server thread/WARN]: 	at java.base/java.lang.Class.getDeclaredField(Class.java:2782)
+[18:24:41] [Server thread/WARN]: 	at java.base/java.lang.Class.getDeclaredField(Class.java:2782)
 
-[17:08:48] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.stackableBuckets(PaperSpigotConfig.java:192)
+[18:24:41] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.stackableBuckets(PaperSpigotConfig.java:192)
 
-[17:08:48] [Server thread/WARN]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+[18:24:41] [Server thread/WARN]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
 
-[17:08:48] [Server thread/WARN]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+[18:24:41] [Server thread/WARN]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
 
-[17:08:48] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.readConfig(PaperSpigotConfig.java:84)
+[18:24:41] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.readConfig(PaperSpigotConfig.java:84)
 
-[17:08:48] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.init(PaperSpigotConfig.java:62)
+[18:24:41] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.init(PaperSpigotConfig.java:62)
 
-[17:08:48] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:181)
+[18:24:41] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:181)
 
-[17:08:48] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:563)
+[18:24:41] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:563)
 
-[17:08:48] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[18:24:41] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
 
-[17:08:48] [Server thread/INFO]: Generating keypair
-[17:08:49] [Server thread/INFO]: Starting Minecraft server on localhost:25565
-[17:08:49] [Server thread/INFO]: Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system unstability.
-[17:08:49] [Server thread/INFO]: Using default channel type
-[17:08:49] [Server thread/ERROR]: Could not load 'plugins/MuteSystem-Bungee-2.2.jar' in folder 'plugins'
+[18:24:41] [Server thread/INFO]: Generating keypair
+[18:24:41] [Server thread/INFO]: Starting Minecraft server on localhost:25565
+[18:24:41] [Server thread/INFO]: Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system unstability.
+[18:24:41] [Server thread/INFO]: Using default channel type
+[18:24:41] [Server thread/ERROR]: Could not load 'plugins/MuteSystem-Bungee-2.2.jar' in folder 'plugins'
 org.bukkit.plugin.InvalidDescriptionException: Invalid plugin.yml
 	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:160) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:136) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -53,277 +53,817 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at java.util.jar.JarFile.<init>(JarFile.java:282) ~[?:?]
 	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:148) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	... 5 more
-[17:08:49] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[17:08:49] [Server thread/INFO]: [SimpleTpa] Loading SimpleTpa v6.4
-[17:08:49] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.141
-[17:08:50] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
-[17:08:50] [Server thread/INFO]: [Sudo] Loading Sudo v1
-[17:08:50] [Server thread/INFO]: [Suicide] Loading Suicide v1.4.6
-[17:08:50] [Server thread/INFO]: [SimpleHomes] Loading SimpleHomes v2.2
-[17:08:50] [Server thread/INFO]: [OnePlayerSleep] Loading OnePlayerSleep v1.3
-[17:08:50] [Server thread/INFO]: [EasyRanks] Loading EasyRanks v1.3.2
-[17:08:50] [Server thread/INFO]: [InvSee++] Loading InvSeePlusPlus v0.29.4
-[17:08:50] [Server thread/INFO]: [BanManager] Loading BanManager v7.9.0
-[17:08:50] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v5.2.0-SNAPSHOT-679
-[17:08:50] [Thread-5/INFO]: UUID of player BaconMania is 94cc9361-df90-3d70-a09d-55ea0279e1a1
-[17:08:51] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.2.0
-[17:08:51] [Server thread/INFO]: [InvSee++_Clear] Loading InvSeePlusPlus_Clear v0.29.4
-[17:08:51] [Server thread/INFO]: [InvSee++_Give] Loading InvSeePlusPlus_Give v0.29.4
-[17:08:51] [Server thread/INFO]: [IllegalStack] Loading IllegalStack v2.9.12a
-[17:08:51] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.141
-[17:08:52] [Server thread/INFO]: [0;36;1m       [0;36;22m __    [m
+[18:24:42] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[18:24:42] [Server thread/INFO]: [SimpleTpa] Loading SimpleTpa v6.4
+[18:24:42] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.141
+[18:24:42] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[18:24:42] [Server thread/INFO]: [Sudo] Loading Sudo v1
+[18:24:42] [Server thread/INFO]: [Suicide] Loading Suicide v1.4.6
+[18:24:42] [Server thread/INFO]: [SimpleHomes] Loading SimpleHomes v2.2
+[18:24:42] [Server thread/INFO]: [OnePlayerSleep] Loading OnePlayerSleep v1.3
+[18:24:42] [Server thread/INFO]: [EasyRanks] Loading EasyRanks v1.3.2
+[18:24:42] [Server thread/INFO]: [InvSee++] Loading InvSeePlusPlus v0.29.4
+[18:24:42] [Server thread/INFO]: [BanManager] Loading BanManager v7.9.0
+[18:24:42] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v5.2.0-SNAPSHOT-679
+[18:24:45] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.2.0
+[18:24:45] [Server thread/INFO]: [InvSee++_Clear] Loading InvSeePlusPlus_Clear v0.29.4
+[18:24:45] [Server thread/INFO]: [InvSee++_Give] Loading InvSeePlusPlus_Give v0.29.4
+[18:24:45] [Server thread/INFO]: [IllegalStack] Loading IllegalStack v2.9.12a
+[18:24:45] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.141
+[18:24:45] [Server thread/INFO]: [0;36;1m       [0;36;22m __    [m
 
-[17:08:52] [Server thread/INFO]: [0;36;1m  |    [0;36;22m|__)   [0;32;22mLuckPerms[m [0;36;1mv5.4.141[m
+[18:24:45] [Server thread/INFO]: [0;36;1m  |    [0;36;22m|__)   [0;32;22mLuckPerms[m [0;36;1mv5.4.141[m
 
-[17:08:52] [Server thread/INFO]: [0;36;1m  |___ [0;36;22m|      [0;30;1mRunning on Bukkit - CraftBukkit[m
+[18:24:45] [Server thread/INFO]: [0;36;1m  |___ [0;36;22m|      [0;30;1mRunning on Bukkit - CraftBukkit[m
 
-[17:08:52] [Server thread/INFO]: [m
+[18:24:45] [Server thread/INFO]: [m
 
-[17:08:52] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[17:08:52] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[17:08:52] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[17:08:53] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[17:08:53] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1770ms)
-[17:08:53] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.2.0-SNAPSHOT-679
-[17:08:53] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:08:53] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:08:53] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
-[17:08:53] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
-[17:08:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:08:53] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[17:08:53] [Server thread/INFO]: Preparing level "world"
-[17:08:53] [Server thread/INFO]: -------- World Settings For [world] --------
-[17:08:53] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[17:08:53] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[17:08:53] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[17:08:53] [Server thread/INFO]: Random Lighting Updates: false
-[17:08:53] [Server thread/INFO]: Structure Info Saving: true
-[17:08:53] [Server thread/INFO]: Sending up to 10 chunks per packet
-[17:08:53] [Server thread/INFO]: Max Entity Collisions: 8
-[17:08:53] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[17:08:53] [Server thread/INFO]: Max TNT Explosions: 100
-[17:08:53] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[17:08:53] [Server thread/INFO]: Mob Spawn Range: 4
-[17:08:53] [Server thread/INFO]: Anti X-Ray: true
-[17:08:53] [Server thread/INFO]: 	Engine Mode: 1
-[17:08:53] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[17:08:53] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[17:08:53] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[17:08:53] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[17:08:53] [Server thread/INFO]: Cane Growth Modifier: 100%
-[17:08:53] [Server thread/INFO]: Melon Growth Modifier: 100%
-[17:08:53] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[17:08:53] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[17:08:53] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[17:08:53] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[17:08:53] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[17:08:53] [Server thread/INFO]: Item Despawn Rate: 6000
-[17:08:53] [Server thread/INFO]: Item Merge Radius: 2.5
-[17:08:53] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[17:08:53] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[17:08:53] [Server thread/INFO]: View Distance: 4
-[17:08:53] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[17:08:53] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[17:08:53] [Server thread/INFO]: Clear tick list: false
-[17:08:53] [Server thread/INFO]: Experience Merge Radius: 3.0
-[17:08:53] [Server thread/INFO]: -------- World Settings For [world] --------
-[17:08:53] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
-[17:08:53] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
-[17:08:53] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
-[17:08:53] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
-[17:08:53] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
-[17:08:53] [Server thread/INFO]: Water over lava flow speed: 5
-[17:08:53] [Server thread/INFO]: Fix TNT cannons: false
-[17:08:53] [Server thread/INFO]: Allow undead horse types to be leashed: false
-[17:08:53] [Server thread/INFO]: Keep spawn chunk loaded: true
-[17:08:53] [Server thread/INFO]: World async lighting: false
-[17:08:53] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
-[17:08:53] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
-[17:08:53] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[17:08:53] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[17:08:53] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[17:08:53] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[17:08:53] [Server thread/INFO]: Random Lighting Updates: false
-[17:08:53] [Server thread/INFO]: Structure Info Saving: true
-[17:08:53] [Server thread/INFO]: Sending up to 10 chunks per packet
-[17:08:53] [Server thread/INFO]: Max Entity Collisions: 8
-[17:08:53] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[17:08:53] [Server thread/INFO]: Max TNT Explosions: 100
-[17:08:53] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[17:08:53] [Server thread/INFO]: Mob Spawn Range: 4
-[17:08:53] [Server thread/INFO]: Anti X-Ray: true
-[17:08:53] [Server thread/INFO]: 	Engine Mode: 1
-[17:08:53] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[17:08:53] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[17:08:53] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[17:08:53] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[17:08:53] [Server thread/INFO]: Cane Growth Modifier: 100%
-[17:08:53] [Server thread/INFO]: Melon Growth Modifier: 100%
-[17:08:53] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[17:08:53] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[17:08:53] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[17:08:53] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[17:08:53] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[17:08:53] [Server thread/INFO]: Item Despawn Rate: 6000
-[17:08:53] [Server thread/INFO]: Item Merge Radius: 2.5
-[17:08:53] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[17:08:53] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[17:08:53] [Server thread/INFO]: View Distance: 4
-[17:08:53] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[17:08:53] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[17:08:53] [Server thread/INFO]: Clear tick list: false
-[17:08:53] [Server thread/INFO]: Experience Merge Radius: 3.0
-[17:08:53] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[17:08:53] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
-[17:08:53] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
-[17:08:53] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
-[17:08:53] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
-[17:08:53] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
-[17:08:53] [Server thread/INFO]: Water over lava flow speed: 5
-[17:08:53] [Server thread/INFO]: Fix TNT cannons: false
-[17:08:53] [Server thread/INFO]: Allow undead horse types to be leashed: false
-[17:08:53] [Server thread/INFO]: Keep spawn chunk loaded: true
-[17:08:53] [Server thread/INFO]: World async lighting: false
-[17:08:53] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
-[17:08:53] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
-[17:08:53] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[17:08:53] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[17:08:53] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[17:08:53] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[17:08:53] [Server thread/INFO]: Random Lighting Updates: false
-[17:08:53] [Server thread/INFO]: Structure Info Saving: true
-[17:08:53] [Server thread/INFO]: Sending up to 10 chunks per packet
-[17:08:53] [Server thread/INFO]: Max Entity Collisions: 8
-[17:08:53] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[17:08:53] [Server thread/INFO]: Max TNT Explosions: 100
-[17:08:53] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[17:08:53] [Server thread/INFO]: Mob Spawn Range: 4
-[17:08:53] [Server thread/INFO]: Anti X-Ray: true
-[17:08:53] [Server thread/INFO]: 	Engine Mode: 1
-[17:08:53] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[17:08:53] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[17:08:53] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[17:08:53] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[17:08:53] [Server thread/INFO]: Cane Growth Modifier: 100%
-[17:08:53] [Server thread/INFO]: Melon Growth Modifier: 100%
-[17:08:53] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[17:08:53] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[17:08:53] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[17:08:53] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[17:08:53] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[17:08:53] [Server thread/INFO]: Item Despawn Rate: 6000
-[17:08:53] [Server thread/INFO]: Item Merge Radius: 2.5
-[17:08:53] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[17:08:53] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[17:08:53] [Server thread/INFO]: View Distance: 4
-[17:08:53] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[17:08:53] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[17:08:53] [Server thread/INFO]: Clear tick list: false
-[17:08:53] [Server thread/INFO]: Experience Merge Radius: 3.0
-[17:08:53] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[17:08:53] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
-[17:08:53] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
-[17:08:53] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
-[17:08:53] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
-[17:08:53] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
-[17:08:53] [Server thread/INFO]: Water over lava flow speed: 5
-[17:08:53] [Server thread/INFO]: Fix TNT cannons: false
-[17:08:53] [Server thread/INFO]: Allow undead horse types to be leashed: false
-[17:08:53] [Server thread/INFO]: Keep spawn chunk loaded: true
-[17:08:53] [Server thread/INFO]: World async lighting: false
-[17:08:53] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
-[17:08:53] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
-[17:08:53] [Server thread/INFO]: Preparing start region for level 0 (Seed: 8746604822408410148)
-[17:08:54] [Server thread/INFO]: Preparing spawn area: 20%
-[17:08:55] [Server thread/INFO]: Preparing spawn area: 82%
-[17:08:55] [Server thread/INFO]: Preparing start region for level 1 (Seed: 8746604822408410148)
-[17:08:56] [Server thread/INFO]: Preparing spawn area: 9%
-[17:08:58] [Server thread/INFO]: Preparing spawn area: 70%
-[17:08:58] [Server thread/INFO]: Preparing start region for level 2 (Seed: 8746604822408410148)
-[17:08:58] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v6.4
-[17:08:58] [Server thread/INFO]: [0;33;1m[21m[SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9[m
+[18:24:45] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[18:24:46] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[18:24:47] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[18:24:48] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[18:24:48] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 3240ms)
+[18:24:48] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.2.0-SNAPSHOT-679
+[18:24:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:24:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:24:48] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[18:24:48] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[18:24:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:24:48] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[18:24:48] [Server thread/INFO]: Preparing level "world"
+[18:24:48] [Server thread/INFO]: -------- World Settings For [world] --------
+[18:24:48] [Server thread/INFO]: Mob Spawn Range: 4
+[18:24:48] [Server thread/INFO]: Anti X-Ray: true
+[18:24:48] [Server thread/INFO]: 	Engine Mode: 1
+[18:24:48] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[18:24:48] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[18:24:48] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:24:48] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:24:48] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:24:48] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:24:48] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:24:48] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:24:48] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:24:48] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:24:48] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:24:48] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[18:24:48] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:24:48] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[18:24:48] [Server thread/INFO]: Random Lighting Updates: false
+[18:24:48] [Server thread/INFO]: Structure Info Saving: true
+[18:24:48] [Server thread/INFO]: Sending up to 10 chunks per packet
+[18:24:48] [Server thread/INFO]: Max Entity Collisions: 8
+[18:24:48] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[18:24:48] [Server thread/INFO]: Max TNT Explosions: 100
+[18:24:48] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:24:48] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:24:48] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:24:48] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[18:24:48] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:24:48] [Server thread/INFO]: View Distance: 4
+[18:24:48] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:24:48] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[18:24:48] [Server thread/INFO]: Clear tick list: false
+[18:24:48] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:24:48] [Server thread/INFO]: -------- World Settings For [world] --------
+[18:24:48] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[18:24:48] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[18:24:48] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[18:24:48] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[18:24:48] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[18:24:48] [Server thread/INFO]: Fix TNT cannons: false
+[18:24:48] [Server thread/INFO]: Water over lava flow speed: 5
+[18:24:48] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[18:24:48] [Server thread/INFO]: Keep spawn chunk loaded: true
+[18:24:48] [Server thread/INFO]: World async lighting: false
+[18:24:48] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[18:24:48] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[18:24:49] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[18:24:49] [Server thread/INFO]: Mob Spawn Range: 4
+[18:24:49] [Server thread/INFO]: Anti X-Ray: true
+[18:24:49] [Server thread/INFO]: 	Engine Mode: 1
+[18:24:49] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[18:24:49] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[18:24:49] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:24:49] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:24:49] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:24:49] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:24:49] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:24:49] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:24:49] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:24:49] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:24:49] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:24:49] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[18:24:49] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:24:49] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[18:24:49] [Server thread/INFO]: Random Lighting Updates: false
+[18:24:49] [Server thread/INFO]: Structure Info Saving: true
+[18:24:49] [Server thread/INFO]: Sending up to 10 chunks per packet
+[18:24:49] [Server thread/INFO]: Max Entity Collisions: 8
+[18:24:49] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[18:24:49] [Server thread/INFO]: Max TNT Explosions: 100
+[18:24:49] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:24:49] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:24:49] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:24:49] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[18:24:49] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:24:49] [Server thread/INFO]: View Distance: 4
+[18:24:49] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:24:49] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[18:24:49] [Server thread/INFO]: Clear tick list: false
+[18:24:49] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:24:49] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[18:24:49] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[18:24:49] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[18:24:49] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[18:24:49] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[18:24:49] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[18:24:49] [Server thread/INFO]: Fix TNT cannons: false
+[18:24:49] [Server thread/INFO]: Water over lava flow speed: 5
+[18:24:49] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[18:24:49] [Server thread/INFO]: Keep spawn chunk loaded: true
+[18:24:49] [Server thread/INFO]: World async lighting: false
+[18:24:49] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[18:24:49] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[18:24:49] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[18:24:49] [Server thread/INFO]: Mob Spawn Range: 4
+[18:24:49] [Server thread/INFO]: Anti X-Ray: true
+[18:24:49] [Server thread/INFO]: 	Engine Mode: 1
+[18:24:49] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[18:24:49] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[18:24:49] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:24:49] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:24:49] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:24:49] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:24:49] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:24:49] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:24:49] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:24:49] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:24:49] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:24:49] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[18:24:49] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:24:49] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[18:24:49] [Server thread/INFO]: Random Lighting Updates: false
+[18:24:49] [Server thread/INFO]: Structure Info Saving: true
+[18:24:49] [Server thread/INFO]: Sending up to 10 chunks per packet
+[18:24:49] [Server thread/INFO]: Max Entity Collisions: 8
+[18:24:49] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[18:24:49] [Server thread/INFO]: Max TNT Explosions: 100
+[18:24:49] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:24:49] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:24:49] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:24:49] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[18:24:49] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:24:49] [Server thread/INFO]: View Distance: 4
+[18:24:49] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:24:49] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[18:24:49] [Server thread/INFO]: Clear tick list: false
+[18:24:49] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:24:49] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[18:24:49] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[18:24:49] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[18:24:49] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[18:24:49] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[18:24:49] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[18:24:49] [Server thread/INFO]: Fix TNT cannons: false
+[18:24:49] [Server thread/INFO]: Water over lava flow speed: 5
+[18:24:49] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[18:24:49] [Server thread/INFO]: Keep spawn chunk loaded: true
+[18:24:49] [Server thread/INFO]: World async lighting: false
+[18:24:49] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[18:24:49] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[18:24:49] [Server thread/INFO]: Preparing start region for level 0 (Seed: 8746604822408410148)
+[18:24:50] [Server thread/INFO]: Preparing spawn area: 1%
+[18:24:51] [Server thread/INFO]: Preparing spawn area: 18%
+[18:24:52] [Server thread/INFO]: Preparing spawn area: 32%
+[18:24:53] [Server thread/INFO]: Preparing spawn area: 56%
+[18:24:54] [Server thread/INFO]: Preparing spawn area: 89%
+[18:24:55] [Server thread/INFO]: Preparing start region for level 1 (Seed: 8746604822408410148)
+[18:24:56] [Server thread/INFO]: Preparing spawn area: 6%
+[18:24:57] [Server thread/INFO]: Preparing spawn area: 12%
+[18:24:58] [Server thread/INFO]: Preparing spawn area: 27%
+[18:24:59] [Server thread/INFO]: Preparing spawn area: 54%
+[18:25:00] [Server thread/INFO]: Preparing spawn area: 87%
+[18:25:00] [Server thread/INFO]: Preparing start region for level 2 (Seed: 8746604822408410148)
+[18:25:01] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v6.4
+[18:25:01] [Server thread/INFO]: [0;33;1m[21m[SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9[m
 
-[17:08:58] [Server thread/INFO]: [0;33;1m[21m[SimpleTpa] Simple Tpa has been enabled on version 6.4[m
+[18:25:01] [Server thread/INFO]: [0;33;1m[21m[SimpleTpa] Simple Tpa has been enabled on version 6.4[m
 
-[17:08:58] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
-[17:08:58] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
-[17:08:59] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[17:08:59] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
-[17:08:59] [Server thread/INFO]: [Sudo] Enabling Sudo v1
-[17:08:59] [Server thread/INFO]: [Suicide] Enabling Suicide v1.4.6
-[17:08:59] [Server thread/INFO]: [Suicide] Plugin Enabled!
-[17:08:59] [Server thread/INFO]: [SimpleHomes] Enabling SimpleHomes v2.2
-[17:08:59] [Server thread/INFO]: [OnePlayerSleep] Enabling OnePlayerSleep v1.3
-[17:08:59] [Server thread/INFO]: [EasyRanks] Enabling EasyRanks v1.3.2
-[17:08:59] [Server thread/ERROR]: Error occurred while enabling EasyRanks v1.3.2 (Is it up to date?)
-java.lang.IllegalArgumentException: Team name 'er_murderersquared' is longer than the limit of 16 characters
-	at org.apache.commons.lang.Validate.isTrue(Validate.java:136) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at org.bukkit.craftbukkit.v1_8_R3.scoreboard.CraftScoreboard.registerNewTeam(CraftScoreboard.java:139) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at me.Kiwanga.EasyRanks.Board.BoardManager.setupScoreBoard(BoardManager.java:68) ~[?:?]
-	at me.Kiwanga.EasyRanks.Main.Main.onEnable(Main.java:29) ~[?:?]
-	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:332) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:407) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:359) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:318) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:408) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:372) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:327) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:267) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:563) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:08:59] [Server thread/INFO]: [EasyRanks] Disabling EasyRanks v1.3.2
-[17:08:59] [Server thread/INFO]: [InvSee++] Enabling InvSeePlusPlus v0.29.4
-[17:09:00] [Server thread/INFO]: [BanManager] Enabling BanManager v7.9.0
-[17:09:00] [Server thread/WARN]: [Server thread] INFO me.confuser.banmanager.common.hikari.HikariDataSource - bm-local - Starting...
+[18:25:01] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[18:25:01] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[18:25:01] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[18:25:01] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[18:25:01] [Server thread/INFO]: [Sudo] Enabling Sudo v1
+[18:25:01] [Server thread/INFO]: [Suicide] Enabling Suicide v1.4.6
+[18:25:01] [Server thread/INFO]: [Suicide] Plugin Enabled!
+[18:25:01] [Server thread/INFO]: [SimpleHomes] Enabling SimpleHomes v2.2
+[18:25:01] [Server thread/INFO]: [OnePlayerSleep] Enabling OnePlayerSleep v1.3
+[18:25:02] [Server thread/INFO]: [EasyRanks] Enabling EasyRanks v1.3.2
+[18:25:02] [Server thread/INFO]: [InvSee++] Enabling InvSeePlusPlus v0.29.4
+[18:25:02] [Server thread/INFO]: [BanManager] Enabling BanManager v7.9.0
+[18:25:03] [Server thread/WARN]: [Server thread] INFO me.confuser.banmanager.common.hikari.HikariDataSource - bm-local - Starting...
 
-[17:09:01] [Server thread/WARN]: [Server thread] INFO me.confuser.banmanager.common.hikari.HikariDataSource - bm-local - Start completed.
+[18:25:03] [Server thread/WARN]: [Server thread] INFO me.confuser.banmanager.common.hikari.HikariDataSource - bm-local - Start completed.
 
-[17:09:01] [Server thread/INFO]: [BanManager] Loaded 0 bans into memory
-[17:09:01] [Server thread/INFO]: [BanManager] Loaded 0 mutes into memory
-[17:09:02] [Server thread/INFO]: [BanManager] Loaded 0 ip bans into memory
-[17:09:02] [Server thread/INFO]: [BanManager] Loaded 0 ip mutes into memory
-[17:09:02] [Server thread/INFO]: [BanManager] Loaded 0 ip range bans into memory
-[17:09:02] [Server thread/INFO]: [BanManager] Loaded 0 name bans into memory
-[17:09:02] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.2.0
-[17:09:02] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
-[17:09:02] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
-[17:09:02] [Server thread/INFO]: [LoginSecurity] Registering commands...
-[17:09:02] [Server thread/INFO]: [LoginSecurity] Registering listeners...
-[17:09:02] [Server thread/INFO]: [InvSee++_Clear] Enabling InvSeePlusPlus_Clear v0.29.4
-[17:09:02] [Server thread/INFO]: [InvSee++_Give] Enabling InvSeePlusPlus_Give v0.29.4
-[17:09:03] [Server thread/INFO]: [IllegalStack] Enabling IllegalStack v2.9.12a
-[17:09:03] [Server thread/INFO]: The following materials are allowed to have stacks larger than the vanilla size: POTION 
-[17:09:03] [Server thread/INFO]: Found a missing configuration value UserRequested.Obscure.HackedShulker.CheckGroundForBadShulkerAtLogin it has been added to the config with the default value of: false
-[17:09:03] [Server thread/INFO]: Server is NOT an ArcLight hybrid environment, continuing as normal.
-[17:09:03] [Server thread/INFO]: Server is NOT a Forge hybrid environment, continuing as normal.
-[17:09:03] [Server thread/INFO]: Server is NOT a Fabric hybrid environment, continuing as normal.
-[17:09:03] [Server thread/INFO]: Server is NOT a Paper server, continuing as normal.
-[17:09:03] [Server thread/INFO]: Server does NOT have Folia components, continuing as normal.
-[17:09:03] [Server thread/INFO]: Chat Components found! Enabling clickable commands in /istack
-[17:09:03] [Server thread/INFO]: Spigot chat components NOT found! disabling chat components.
-[17:09:03] [Server thread/INFO]: MC Version < 1.13 detected!
-[17:09:03] [Server thread/ERROR]: [IllegalStack] Plugin IllegalStack v2.9.12a has failed to register events for class main.java.me.dniym.listeners.fListener because org/bukkit/entity/ChestedHorse does not exist.
-[17:09:03] [Server thread/INFO]: Minecraft 1.8 detected not checking offhand slot for overstacked items.
-[17:09:03] [Server thread/INFO]: Version < 1.11 found, not checking for shulker boxes
-[17:09:03] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[17:09:03] [Server thread/INFO]: Done (9.827s)! For help, type "help" or "?"
-[17:09:03] [Server thread/INFO]: Timings Reset
-[17:09:03] [Server thread/INFO]: [BanManager] The following commands are blocked whilst muted:
-[17:09:03] [Server thread/INFO]: [BanManager] msg
-[17:09:03] [Server thread/INFO]: [BanManager] The following commands are blocked whilst soft muted:
-[17:09:03] [Server thread/INFO]: [BanManager] msg
-[17:09:03] [Server thread/WARN]: [LuckPerms] User 94cc9361-df90-3d70-a09d-55ea0279e1a1 - BaconMania doesn't have data pre-loaded, they have never been processed during pre-login in this session. - denying login.
-[17:09:03] [Server thread/WARN]: [LuckPerms] Player BaconMania has a non-LuckPerms permissible (org.bukkit.permissions.PermissibleBase)!
-This is probably because you have multiple permission plugins installed.
-Please make sure that LuckPerms is the only permission plugin installed on your server!
-(unless you're performing a migration, in which case, just remember to remove your old permission plugin once you're done!)
-[17:09:03] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@7b2b5047[id=94cc9361-df90-3d70-a09d-55ea0279e1a1,name=BaconMania,properties={textures=[com.mojang.authlib.properties.Property@87695f3], isEaglerPlayer=[com.mojang.authlib.properties.Property@7d513f57]},legacy=false] (/[0:0:0:0:0:0:0:1]:39412): §7[§b§lL§3§lP§7]§r §cPermissions data for your user was not loaded during the pre-login stage - unable to continue. Please try again later. If you are a server admin, please check the console for any errors.
-[17:09:03] [Craft Scheduler Thread - 1/INFO]: [0;31;1m[21m[SimpleTpa] There is a new update available.[m
+[18:25:04] [Server thread/INFO]: [BanManager] Loaded 1 bans into memory
+[18:25:04] [Server thread/INFO]: [BanManager] Loaded 0 mutes into memory
+[18:25:04] [Server thread/INFO]: [BanManager] Loaded 0 ip bans into memory
+[18:25:04] [Server thread/INFO]: [BanManager] Loaded 0 ip mutes into memory
+[18:25:04] [Server thread/INFO]: [BanManager] Loaded 0 ip range bans into memory
+[18:25:04] [Server thread/INFO]: [BanManager] Loaded 0 name bans into memory
+[18:25:04] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.2.0
+[18:25:04] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[18:25:04] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[18:25:04] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[18:25:04] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[18:25:04] [Server thread/INFO]: [InvSee++_Clear] Enabling InvSeePlusPlus_Clear v0.29.4
+[18:25:04] [Server thread/INFO]: [InvSee++_Give] Enabling InvSeePlusPlus_Give v0.29.4
+[18:25:05] [Server thread/INFO]: [IllegalStack] Enabling IllegalStack v2.9.12a
+[18:25:05] [Server thread/INFO]: The following materials are allowed to have stacks larger than the vanilla size: POTION 
+[18:25:05] [Server thread/INFO]: Server is NOT an ArcLight hybrid environment, continuing as normal.
+[18:25:05] [Server thread/INFO]: Server is NOT a Forge hybrid environment, continuing as normal.
+[18:25:05] [Server thread/INFO]: Server is NOT a Fabric hybrid environment, continuing as normal.
+[18:25:05] [Server thread/INFO]: Server is NOT a Paper server, continuing as normal.
+[18:25:05] [Server thread/INFO]: Server does NOT have Folia components, continuing as normal.
+[18:25:05] [Server thread/INFO]: Chat Components found! Enabling clickable commands in /istack
+[18:25:05] [Server thread/INFO]: Spigot chat components NOT found! disabling chat components.
+[18:25:05] [Server thread/INFO]: MC Version < 1.13 detected!
+[18:25:05] [Server thread/ERROR]: [IllegalStack] Plugin IllegalStack v2.9.12a has failed to register events for class main.java.me.dniym.listeners.fListener because org/bukkit/entity/ChestedHorse does not exist.
+[18:25:05] [Server thread/INFO]: Minecraft 1.8 detected not checking offhand slot for overstacked items.
+[18:25:05] [Server thread/INFO]: Version < 1.11 found, not checking for shulker boxes
+[18:25:05] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:25:05] [Server thread/INFO]: Done (16.749s)! For help, type "help" or "?"
+[18:25:05] [Server thread/INFO]: Timings Reset
+[18:25:05] [Server thread/INFO]: [BanManager] The following commands are blocked whilst muted:
+[18:25:05] [Server thread/INFO]: [BanManager] msg
+[18:25:05] [Server thread/INFO]: [BanManager] The following commands are blocked whilst soft muted:
+[18:25:05] [Server thread/INFO]: [BanManager] msg
+[18:25:05] [Craft Scheduler Thread - 1/INFO]: [0;31;1m[21m[SimpleTpa] There is a new update available.[m
 
-[17:09:03] [Craft Scheduler Thread - 1/INFO]: [0;31;1m[SimpleTpa] There is a new update available:[m
+[18:25:05] [Craft Scheduler Thread - 1/INFO]: [0;31;1m[SimpleTpa] There is a new update available:[m
 
-[17:09:03] [Craft Scheduler Thread - 1/INFO]: [0;31;1m[SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/[m
+[18:25:05] [Craft Scheduler Thread - 1/INFO]: [0;31;1m[SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/[m
 
-[17:09:03] [Server thread/INFO]: com.mojang.authlib.GameProfile@7b2b5047[id=94cc9361-df90-3d70-a09d-55ea0279e1a1,name=BaconMania,properties={textures=[com.mojang.authlib.properties.Property@87695f3], isEaglerPlayer=[com.mojang.authlib.properties.Property@7d513f57]},legacy=false] (/[0:0:0:0:0:0:0:1]:39412) lost connection: §7[§b§lL§3§lP§7]§r §cPermissions data for your user was not loaded during the pre-login stage - unable to continue. Please try again later. If you are a server admin, please check the console for any errors.
-[17:09:03] [Server thread/INFO]: [Suicide] You are using the latest version of Suicide.
+[18:25:05] [Server thread/INFO]: [Suicide] You are using the latest version of Suicide.
+[18:25:19] [Thread-10/INFO]: UUID of player PAPA_CORBIN is 3a784bfe-c8f4-3881-84bc-d46301860a7e
+[18:25:19] [Server thread/INFO]: PAPA_CORBIN[/[0:0:0:0:0:0:0:1]:59858] logged in with entity id 803 at ([world]466.9402820863115, 73.90833581989914, 20.2564980762382)
+[18:25:20] [Craft Scheduler Thread - 5/INFO]: [0;31;1mWarning: PAPA_CORBIN has the same IP as the following banned players:
+[0;33;22mjewburner[m
+
+[18:25:20] [Craft Scheduler Thread - 1/INFO]: [0;31;1mWarning: PAPA_CORBIN has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler[m
+
+[18:25:30] [Thread-11/INFO]: UUID of player get_killed_nerd is 77db6127-78a4-31c4-aed3-a03a40f27f7a
+[18:25:30] [Server thread/INFO]: get_killed_nerd[/[0:0:0:0:0:0:0:1]:54856] logged in with entity id 925 at ([world]174.5, 64.0, 244.5)
+[18:25:31] [Craft Scheduler Thread - 1/INFO]: [0;31;1mWarning: get_killed_nerd has the same IP as the following banned players:
+[0;33;22mjewburner[m
+
+[18:25:31] [Craft Scheduler Thread - 5/INFO]: [0;31;1mWarning: get_killed_nerd has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler[m
+
+[18:25:47] [Server thread/INFO]: PAPA_CORBIN lost connection: Disconnected
+[18:25:47] [Server thread/INFO]: PAPA_CORBIN left the game.
+[18:25:48] [Thread-12/INFO]: UUID of player BaconMania_ is 9c20f7d1-f440-3ad7-9eec-96df1747efbf
+[18:25:48] [Server thread/INFO]: BaconMania_[/[0:0:0:0:0:0:0:1]:55782] logged in with entity id 948 at ([world]183.8454753974398, 64.0, 259.92174161249915)
+[18:25:49] [Craft Scheduler Thread - 1/INFO]: [0;31;1mWarning: BaconMania_ has the same IP as the following banned players:
+[0;33;22mjewburner[m
+
+[18:25:49] [Craft Scheduler Thread - 0/INFO]: [0;31;1mWarning: BaconMania_ has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd[m
+
+[18:25:53] [Server thread/INFO]: BaconMania_ lost connection: Disconnected
+[18:25:53] [Server thread/INFO]: BaconMania_ left the game.
+[18:26:02] [Thread-13/INFO]: UUID of player BaconMania is 94cc9361-df90-3d70-a09d-55ea0279e1a1
+[18:26:03] [Server thread/INFO]: BaconMania[/[0:0:0:0:0:0:0:1]:59308] logged in with entity id 1143 at ([world]3591.9582132071623, 80.0, 4490.237500011921)
+[18:26:04] [Thread-14/INFO]: UUID of player KP_ is 8c4ced64-c1eb-3068-a01f-9cec8f2083d7
+[18:26:04] [Server thread/INFO]: KP_[/[0:0:0:0:0:0:0:1]:46152] logged in with entity id 1256 at ([world]631.6766131304748, 86.0, -429.8079001932431)
+[18:26:05] [Craft Scheduler Thread - 5/INFO]: [0;31;1mWarning: KP_ has the same IP as the following banned players:
+[0;33;22mjewburner[m
+
+[18:26:05] [Craft Scheduler Thread - 1/INFO]: [0;31;1mWarning: KP_ has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_[m
+
+[18:26:10] [Thread-15/INFO]: UUID of player PAPA_CORBIN is 3a784bfe-c8f4-3881-84bc-d46301860a7e
+[18:26:11] [Server thread/INFO]: PAPA_CORBIN[/[0:0:0:0:0:0:0:1]:46160] logged in with entity id 1325 at ([world]466.9402820863115, 71.0, 20.2564980762382)
+[18:26:11] [Craft Scheduler Thread - 5/INFO]: [0;31;1mWarning: PAPA_CORBIN has the same IP as the following banned players:
+[0;33;22mjewburner[m
+
+[18:26:11] [Craft Scheduler Thread - 1/INFO]: [0;31;1mWarning: PAPA_CORBIN has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_[m
+
+[18:26:20] [Thread-16/INFO]: UUID of player jizzler is 551dc906-3a07-39ca-8c9b-38a5d1b8b629
+[18:26:20] [Server thread/INFO]: jizzler[/[0:0:0:0:0:0:0:1]:47614] logged in with entity id 1462 at ([world]175.5, 65.0, 240.5)
+[18:26:21] [Craft Scheduler Thread - 0/INFO]: [0;31;1mWarning: jizzler has the same IP as the following banned players:
+[0;33;22mjewburner[m
+
+[18:26:21] [Craft Scheduler Thread - 5/INFO]: [0;31;1mWarning: jizzler has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, get_killed_nerd, BaconMania_[m
+
+[18:26:35] [Server thread/INFO]: BaconMania lost connection: Disconnected
+[18:26:35] [Server thread/INFO]: BaconMania left the game.
+[18:26:41] [Thread-17/INFO]: UUID of player Steven is 944d2caf-d932-3441-b30c-7e43d402ec4b
+[18:26:41] [Server thread/INFO]: Steven[/[0:0:0:0:0:0:0:1]:48196] logged in with entity id 1485 at ([world]149.493845673417, 85.0, 1245.5039283651113)
+[18:26:42] [Craft Scheduler Thread - 1/INFO]: [0;31;1mWarning: Steven has the same IP as the following banned players:
+[0;33;22mjewburner[m
+
+[18:26:42] [Craft Scheduler Thread - 0/INFO]: [0;31;1mWarning: Steven has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_[m
+
+[18:26:44] [Server thread/INFO]: §fPlayer§7: §fget_killed_nerd was blown up by Creeper
+[18:26:58] [Thread-18/INFO]: UUID of player Gilzbert is e394d95d-5795-304b-9e6d-642768954aa1
+[18:26:58] [Server thread/INFO]: Gilzbert[/[0:0:0:0:0:0:0:1]:54264] logged in with entity id 1654 at ([world]-25.869203041281384, 61.0, 319.699999988079)
+[18:26:59] [Craft Scheduler Thread - 0/INFO]: [0;31;1mWarning: Gilzbert has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_[m
+
+[18:26:59] [Craft Scheduler Thread - 5/INFO]: [0;31;1mWarning: Gilzbert has the same IP as the following banned players:
+[0;33;22mjewburner[m
+
+[18:27:02] [Server thread/INFO]: §fPlayer§7: §fget_killed_nerd hit the ground too hard
+[18:27:23] [Async Chat Thread - #0/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwhos playing[m
+
+[18:27:35] [Server thread/INFO]: §fPlayer§7: §fget_killed_nerd was slain by Zombie
+[18:27:52] [Server thread/INFO]: Gilzbert issued server command: /wad
+[18:27:54] [Server thread/INFO]: §fPlayer§7: §fget_killed_nerd has just earned the achievement [Taking Inventory]
+[18:28:12] [Server thread/INFO]: Steven issued server command: /home Steven
+[18:28:33] [Server thread/INFO]: §fPlayer§7: §fget_killed_nerd was slain by Spider
+[18:28:53] [Server thread/INFO]: §fPlayer§7: §fjizzler was slain by Zombie
+[18:28:54] [Server thread/INFO]: get_killed_nerd lost connection: Disconnected
+[18:28:54] [Server thread/INFO]: get_killed_nerd left the game.
+[18:28:55] [Server thread/INFO]: There are 5/20000 players online:
+[18:28:55] [Server thread/INFO]: KP_, PAPA_CORBIN, Steven, Gilzbert, jizzler
+[18:28:56] [Server thread/WARN]: PAPA_CORBIN was kicked for floating too long!
+[18:28:56] [Server thread/INFO]: PAPA_CORBIN lost connection: Flying is not enabled on this server
+[18:28:56] [Server thread/INFO]: PAPA_CORBIN left the game.
+[18:28:56] [Server thread/WARN]: handleDisconnection() called twice
+[18:29:00] [Thread-19/INFO]: UUID of player PAPA_CORBIN is 3a784bfe-c8f4-3881-84bc-d46301860a7e
+[18:29:00] [Server thread/INFO]: PAPA_CORBIN[/[0:0:0:0:0:0:0:1]:43306] logged in with entity id 2505 at ([world]455.2839801656262, 95.10233054630868, 34.87781306295485)
+[18:29:01] [Craft Scheduler Thread - 5/INFO]: [0;31;1mWarning: PAPA_CORBIN has the same IP as the following banned players:
+[0;33;22mjewburner[m
+
+[18:29:01] [Craft Scheduler Thread - 0/INFO]: [0;31;1mWarning: PAPA_CORBIN has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert[m
+
+[18:29:03] [Server thread/INFO]: There are 5/20000 players online:
+[18:29:03] [Server thread/INFO]: KP_, Steven, Gilzbert, jizzler, PAPA_CORBIN
+[18:29:09] [Thread-20/INFO]: UUID of player get_killed_nerd is 77db6127-78a4-31c4-aed3-a03a40f27f7a
+[18:29:09] [Server thread/INFO]: get_killed_nerd[/[0:0:0:0:0:0:0:1]:52830] logged in with entity id 2611 at ([world]165.23112925755234, 63.0, 260.4697907306719)
+[18:29:10] [Craft Scheduler Thread - 6/INFO]: [0;31;1mWarning: get_killed_nerd has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, BaconMania_, Gilzbert[m
+
+[18:29:10] [Craft Scheduler Thread - 0/INFO]: [0;31;1mWarning: get_killed_nerd has the same IP as the following banned players:
+[0;33;22mjewburner[m
+
+[18:29:14] [Async Chat Thread - #1/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwhos jizzler[m
+
+[18:29:19] [Server thread/INFO]: §fPlayer§7: §fPAPA_CORBIN was slain by Zombie
+[18:29:38] [Server thread/INFO]: Steven issued server command: /home
+[18:29:43] [Server thread/INFO]: jizzler issued server command: /tpa steveb
+[18:29:44] [Server thread/INFO]: Steven issued server command: /homes
+[18:29:46] [Server thread/INFO]: §cMurderer§7: §fSteven was slain by Zombie
+[18:29:47] [Server thread/INFO]: jizzler issued server command: /tpa Steven
+[18:29:54] [Server thread/INFO]: Steven issued server command: /back
+[18:29:57] [Server thread/INFO]: Steven issued server command: /accept
+[18:29:58] [Async Chat Thread - #1/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mjizzler [0;37;1m➟ [0;37;1msteven wya[m
+
+[18:30:01] [Thread-22/INFO]: UUID of player scarlet is 19b15b12-8087-3a56-bbdc-7546a337d6b8
+[18:30:02] [Server thread/INFO]: scarlet[/[0:0:0:0:0:0:0:1]:53492] logged in with entity id 3185 at ([world]270.62960393913795, 72.0, 268.3007481287775)
+[18:30:02] [Craft Scheduler Thread - 5/INFO]: [0;31;1mWarning: scarlet has the same IP as the following banned players:
+[0;33;22mjewburner[m
+
+[18:30:02] [Craft Scheduler Thread - 6/INFO]: [0;31;1mWarning: scarlet has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert[m
+
+[18:30:04] [Server thread/INFO]: jizzler issued server command: /tpa steven
+[18:30:08] [Server thread/INFO]: Gilzbert lost connection: Disconnected
+[18:30:08] [Server thread/INFO]: Gilzbert left the game.
+[18:30:10] [Async Chat Thread - #1/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mjizzler [0;37;1m➟ [0;37;1mstveb accept tpa[m
+
+[18:30:20] [Server thread/INFO]: Steven issued server command: /accept
+[18:30:23] [Server thread/INFO]: §fPlayer§7: §fPAPA_CORBIN was shot by Skeleton
+[18:30:26] [Async Chat Thread - #1/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mjizzler [0;37;1m➟ [0;37;1mah shit i keep moving[m
+
+[18:30:28] [Thread-23/INFO]: UUID of player Danny is ddcda591-f59a-39fa-ae6e-6744024d2256
+[18:30:28] [Server thread/INFO]: Danny[/[0:0:0:0:0:0:0:1]:54202] logged in with entity id 3473 at ([world]128.0871111727165, 75.0, 1220.772288748573)
+[18:30:28] [Server thread/INFO]: jizzler issued server command: /tpa steveb
+[18:30:29] [Craft Scheduler Thread - 0/INFO]: [0;31;1mWarning: Danny has the same IP as the following banned players:
+[0;33;22mjewburner[m
+
+[18:30:29] [Craft Scheduler Thread - 6/INFO]: [0;31;1mWarning: Danny has the same IP as the following players:
+[0;33;22ma__, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert[m
+
+[18:30:30] [Server thread/INFO]: jizzler issued server command: /tpa steven
+[18:30:31] [Async Chat Thread - #1/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mmb[m
+
+[18:30:35] [Server thread/INFO]: Steven issued server command: /accept
+[18:30:47] [Server thread/INFO]: get_killed_nerd issued server command: /tpa danny
+[18:30:48] [Server thread/INFO]: Danny lost connection: Disconnected
+[18:30:48] [Server thread/INFO]: Danny left the game.
+[18:30:49] [Async Chat Thread - #1/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwoah[m
+
+[18:30:54] [Server thread/WARN]: jizzler was kicked for floating too long!
+[18:30:54] [Server thread/INFO]: jizzler lost connection: Flying is not enabled on this server
+[18:30:54] [Server thread/INFO]: jizzler left the game.
+[18:30:54] [Server thread/WARN]: handleDisconnection() called twice
+[18:30:55] [Server thread/INFO]: get_killed_nerd issued server command: /tpa steven
+[18:31:00] [Thread-24/INFO]: UUID of player jizzler is 551dc906-3a07-39ca-8c9b-38a5d1b8b629
+[18:31:00] [Server thread/INFO]: jizzler[/[0:0:0:0:0:0:0:1]:54096] logged in with entity id 3762 at ([world]135.26886142608836, 69.66934441166433, 332.52315717878594)
+[18:31:01] [Craft Scheduler Thread - 5/INFO]: [0;31;1mWarning: jizzler has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, get_killed_nerd, BaconMania_, Gilzbert[m
+
+[18:31:01] [Craft Scheduler Thread - 0/INFO]: [0;31;1mWarning: jizzler has the same IP as the following banned players:
+[0;33;22mjewburner[m
+
+[18:31:07] [Thread-25/INFO]: UUID of player Infinity is 931d936e-dffb-39f9-9c46-ee7fe65211d5
+[18:31:07] [Server thread/INFO]: Infinity[/[0:0:0:0:0:0:0:1]:46910] logged in with entity id 3784 at ([world]359.30000001192093, 74.0, 479.69999998807907)
+[18:31:08] [Craft Scheduler Thread - 6/INFO]: [0;31;1mWarning: Infinity has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert[m
+
+[18:31:08] [Craft Scheduler Thread - 7/INFO]: [0;31;1mWarning: Infinity has the same IP as the following banned players:
+[0;33;22mjewburner[m
+
+[18:31:10] [Server thread/INFO]: §fPlayer§7: §fscarlet was shot by Skeleton
+[18:31:12] [Server thread/INFO]: Steven issued server command: /home HOME
+[18:31:14] [Server thread/INFO]: get_killed_nerd issued server command: /tpa steven
+[18:31:15] [Async Chat Thread - #1/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mhow[m
+
+[18:31:18] [Async Chat Thread - #1/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mget_killed_nerd [0;37;1m➟ [0;37;1msteven accept[m
+
+[18:31:19] [Async Chat Thread - #1/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mjizzler [0;37;1m➟ [0;37;1mim admin[m
+
+[18:31:24] [Server thread/INFO]: jizzler issued server command: /tpa steven
+[18:31:28] [Server thread/INFO]: Steven issued server command: /home Steven
+[18:31:30] [Async Chat Thread - #1/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1maccept[m
+
+[18:31:32] [Async Chat Thread - #1/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mhow?[m
+
+[18:31:36] [Async Chat Thread - #1/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mjizzler [0;37;1m➟ [0;37;1maccept my tp[m
+
+[18:31:38] [Server thread/INFO]: Steven issued server command: /accept
+[18:31:42] [Async Chat Thread - #1/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1msend it again[m
+
+[18:31:43] [Server thread/INFO]: §fPlayer§7: §fget_killed_nerd has just earned the achievement [Getting Wood]
+[18:31:46] [Server thread/INFO]: jizzler issued server command: /tpa steven
+[18:31:50] [Server thread/INFO]: Steven issued server command: /accept
+[18:31:51] [Server thread/INFO]: Infinity lost connection: Disconnected
+[18:31:51] [Server thread/INFO]: Infinity left the game.
+[18:31:59] [Async Chat Thread - #1/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mdid evan give you admin[m
+
+[18:32:04] [Server thread/INFO]: §fPlayer§7: §fKP_ has just earned the achievement [Getting an Upgrade]
+[18:32:07] [Server thread/INFO]: §cMurderer§7: §fSteven was slain by §fPlayer§7: §fjizzler
+[18:32:08] [Server thread/INFO]: §fPlayer§7: §fget_killed_nerd has just earned the achievement [Benchmarking]
+[18:32:11] [Server thread/INFO]: §fPlayer§7: §fKP_ has just earned the achievement [Hot Topic]
+[18:32:12] [Server thread/INFO]: Steven issued server command: /back
+[18:32:17] [Server thread/INFO]: §fPlayer§7: §fget_killed_nerd has just earned the achievement [Time to Strike!]
+[18:32:18] [Server thread/INFO]: §fPlayer§7: §fscarlet was slain by §fPlayer§7: §fjizzler
+[18:32:20] [Server thread/INFO]: §fPlayer§7: §fget_killed_nerd has just earned the achievement [Monster Hunter]
+[18:32:24] [Server thread/INFO]: get_killed_nerd issued server command: /tpa steven
+[18:32:27] [Server thread/INFO]: Steven lost connection: Disconnected
+[18:32:27] [Server thread/INFO]: Steven left the game.
+[18:32:28] [Async Chat Thread - #1/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mget_killed_nerd [0;37;1m➟ [0;37;1msteven accept my tp[m
+
+[18:32:33] [Server thread/INFO]: jizzler lost connection: Disconnected
+[18:32:33] [Server thread/INFO]: jizzler left the game.
+[18:32:43] [Async Chat Thread - #1/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mget_killed_nerd [0;37;1m➟ [0;37;1msteven pls[m
+
+[18:32:45] [Server thread/INFO]: There are 4/20000 players online:
+[18:32:45] [Server thread/INFO]: KP_, get_killed_nerd, PAPA_CORBIN, scarlet
+[18:32:57] [Server thread/INFO]: get_killed_nerd issued server command: /tps steven
+[18:33:42] [Server thread/INFO]: [Server] get_killed_nerd steven isnt online
+[18:34:00] [Thread-26/INFO]: UUID of player Infinity is 931d936e-dffb-39f9-9c46-ee7fe65211d5
+[18:34:00] [Server thread/INFO]: Infinity[/[0:0:0:0:0:0:0:1]:39718] logged in with entity id 5512 at ([world]293.2999342476935, 70.0, 496.82404034495295)
+[18:34:01] [Craft Scheduler Thread - 7/INFO]: [0;31;1mWarning: Infinity has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert[m
+
+[18:34:01] [Craft Scheduler Thread - 9/INFO]: [0;31;1mWarning: Infinity has the same IP as the following banned players:
+[0;33;22mjewburner[m
+
+[18:34:01] [Server thread/INFO]: [Server] fighting ghosts lmao
+[18:34:07] [Thread-27/INFO]: UUID of player DANKBEEF is 236ee08e-e19f-351a-997f-26d0ab803645
+[18:34:07] [Server thread/INFO]: DANKBEEF[/[0:0:0:0:0:0:0:1]:52452] logged in with entity id 5658 at ([world]-316.45624055593584, 116.0, 730.2740222346673)
+[18:34:08] [Craft Scheduler Thread - 7/INFO]: [0;31;1mWarning: DANKBEEF has the same IP as the following banned players:
+[0;33;22mjewburner[m
+
+[18:34:08] [Craft Scheduler Thread - 9/INFO]: [0;31;1mWarning: DANKBEEF has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert[m
+
+[18:34:48] [Server thread/INFO]: There are 6/20000 players online:
+[18:34:48] [Server thread/INFO]: KP_, get_killed_nerd, PAPA_CORBIN, scarlet, Infinity, DANKBEEF
+[18:34:59] [Thread-28/INFO]: UUID of player BaconMania is 94cc9361-df90-3d70-a09d-55ea0279e1a1
+[18:34:59] [Server thread/INFO]: BaconMania[/[0:0:0:0:0:0:0:1]:45682] logged in with entity id 6041 at ([world]3593.8431856087527, 83.0, 4491.185622094659)
+[18:35:08] [Thread-29/INFO]: UUID of player Gilzbert is e394d95d-5795-304b-9e6d-642768954aa1
+[18:35:08] [Server thread/INFO]: Gilzbert[/[0:0:0:0:0:0:0:1]:50390] logged in with entity id 6185 at ([world]-18.306930715512273, 57.0, 324.1512589935274)
+[18:35:09] [Craft Scheduler Thread - 7/INFO]: [0;31;1mWarning: Gilzbert has the same IP as the following banned players:
+[0;33;22mjewburner[m
+
+[18:35:09] [Craft Scheduler Thread - 9/INFO]: [0;31;1mWarning: Gilzbert has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_[m
+
+[18:35:27] [Server thread/INFO]: get_killed_nerd issued server command: /tpa baconmania
+[18:35:33] [Async Chat Thread - #2/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mget_killed_nerd [0;37;1m➟ [0;37;1maccept pls[m
+
+[18:35:40] [Server thread/INFO]: PAPA_CORBIN issued server command: /tpa baconmainia
+[18:35:41] [Server thread/INFO]: BaconMania issued server command: /gamemode c
+[18:35:41] [Server thread/INFO]: [BaconMania: Set own game mode to Creative Mode]
+[18:35:49] [Server thread/INFO]: BaconMania issued server command: /gamemode s
+[18:35:49] [Server thread/INFO]: [BaconMania: Set own game mode to Survival Mode]
+[18:35:50] [Thread-30/INFO]: UUID of player jizzler is 551dc906-3a07-39ca-8c9b-38a5d1b8b629
+[18:35:51] [Server thread/INFO]: jizzler[/[0:0:0:0:0:0:0:1]:44870] logged in with entity id 7190 at ([world]144.82967659425873, 63.0, 279.518118782287)
+[18:35:52] [Craft Scheduler Thread - 6/INFO]: [0;31;1mWarning: jizzler has the same IP as the following banned players:
+[0;33;22mjewburner[m
+
+[18:35:52] [Craft Scheduler Thread - 9/INFO]: [0;31;1mWarning: jizzler has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, get_killed_nerd, BaconMania_, Gilzbert[m
+
+[18:35:58] [Server thread/INFO]: BaconMania issued server command: /tpdeny
+[18:36:00] [Thread-31/INFO]: UUID of player Steven is 944d2caf-d932-3441-b30c-7e43d402ec4b
+[18:36:00] [Server thread/INFO]: Steven[/[0:0:0:0:0:0:0:1]:56948] logged in with entity id 7326 at ([world]219.06460276416985, 63.0, 297.722878923438)
+[18:36:01] [Craft Scheduler Thread - 9/INFO]: [0;31;1mWarning: Steven has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert[m
+
+[18:36:01] [Craft Scheduler Thread - 7/INFO]: [0;31;1mWarning: Steven has the same IP as the following banned players:
+[0;33;22mjewburner[m
+
+[18:36:01] [Thread-32/INFO]: UUID of player Sadam_hussein is b2daa543-b341-3190-8878-bf892cefa4f8
+[18:36:02] [Server thread/INFO]: Sadam_hussein[/[0:0:0:0:0:0:0:1]:56956] logged in with entity id 7334 at ([world]174.5, 63.0, 254.5)
+[18:36:03] [Craft Scheduler Thread - 10/INFO]: [0;31;1mWarning: Sadam_hussein has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert[m
+
+[18:36:03] [Craft Scheduler Thread - 7/INFO]: [0;31;1mWarning: Sadam_hussein has the same IP as the following banned players:
+[0;33;22mjewburner[m
+
+[18:36:10] [Server thread/INFO]: BaconMania issued server command: /list player
+[18:36:22] [Server thread/INFO]: §fPlayer§7: §fget_killed_nerd fell from a high place
+[18:36:25] [Server thread/INFO]: scarlet lost connection: Disconnected
+[18:36:25] [Server thread/INFO]: scarlet left the game.
+[18:36:32] [Server thread/INFO]: §cMurderer§7: §fSteven was blown up by Creeper
+[18:36:47] [Server thread/INFO]: jizzler issued server command: /tpa BaconMania
+[18:36:51] [Server thread/INFO]: §fPlayer§7: §fjizzler has just earned the achievement [Taking Inventory]
+[18:36:52] [Server thread/INFO]: BaconMania issued server command: /tpdeny
+[18:36:57] [Server thread/INFO]: §fPlayer§7: §fjizzler hit the ground too hard
+[18:36:59] [Server thread/WARN]: get_killed_nerd was kicked for floating too long!
+[18:36:59] [Server thread/INFO]: get_killed_nerd lost connection: Flying is not enabled on this server
+[18:37:00] [Server thread/INFO]: get_killed_nerd left the game.
+[18:37:00] [Server thread/WARN]: handleDisconnection() called twice
+[18:37:02] [Thread-33/INFO]: UUID of player get_killed_nerd is 77db6127-78a4-31c4-aed3-a03a40f27f7a
+[18:37:03] [Server thread/INFO]: get_killed_nerd[/[0:0:0:0:0:0:0:1]:48936] logged in with entity id 8569 at ([world]205.6143964366362, 82.85975622601605, 329.97112486816945)
+[18:37:03] [Craft Scheduler Thread - 10/INFO]: [0;31;1mWarning: get_killed_nerd has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, BaconMania_, Gilzbert, Sadam_hussein[m
+
+[18:37:03] [Craft Scheduler Thread - 7/INFO]: [0;31;1mWarning: get_killed_nerd has the same IP as the following banned players:
+[0;33;22mjewburner[m
+
+[18:37:04] [Server thread/INFO]: DANKBEEF lost connection: Disconnected
+[18:37:04] [Server thread/INFO]: DANKBEEF left the game.
+[18:37:08] [Server thread/WARN]: get_killed_nerd was kicked for floating too long!
+[18:37:08] [Server thread/INFO]: get_killed_nerd lost connection: Flying is not enabled on this server
+[18:37:08] [Server thread/INFO]: get_killed_nerd left the game.
+[18:37:08] [Server thread/WARN]: handleDisconnection() called twice
+[18:37:11] [Thread-34/INFO]: UUID of player get_killed_nerd is 77db6127-78a4-31c4-aed3-a03a40f27f7a
+[18:37:11] [Server thread/INFO]: get_killed_nerd[/[0:0:0:0:0:0:0:1]:42824] logged in with entity id 8658 at ([world]205.6646191166529, 72.05323011600706, 329.9981196524224)
+[18:37:12] [Craft Scheduler Thread - 7/INFO]: [0;31;1mWarning: get_killed_nerd has the same IP as the following banned players:
+[0;33;22mjewburner[m
+
+[18:37:12] [Craft Scheduler Thread - 10/INFO]: [0;31;1mWarning: get_killed_nerd has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, BaconMania_, Gilzbert, Sadam_hussein[m
+
+[18:37:29] [Server thread/INFO]: Steven issued server command: /home DANK
+[18:37:51] [Server thread/INFO]: jizzler issued server command: /tpa PAPA_CORBIN
+[18:37:55] [Server thread/INFO]: PAPA_CORBIN issued server command: /tpaccept
+[18:38:05] [Server thread/INFO]: §fPlayer§7: §fSadam_hussein has just earned the achievement [Taking Inventory]
+[18:38:06] [Server thread/INFO]: §fPlayer§7: §fSadam_hussein has just earned the achievement [Getting Wood]
+[18:38:10] [Server thread/INFO]: §fPlayer§7: §fSadam_hussein has just earned the achievement [Benchmarking]
+[18:38:21] [Server thread/INFO]: BaconMania lost connection: Disconnected
+[18:38:21] [Server thread/INFO]: BaconMania left the game.
+[18:38:25] [Server thread/INFO]: Infinity lost connection: Disconnected
+[18:38:25] [Server thread/INFO]: Infinity left the game.
+[18:38:53] [Server thread/WARN]: get_killed_nerd was kicked for floating too long!
+[18:38:53] [Server thread/INFO]: get_killed_nerd lost connection: Flying is not enabled on this server
+[18:38:53] [Server thread/INFO]: get_killed_nerd left the game.
+[18:38:55] [Thread-35/INFO]: UUID of player get_killed_nerd is 77db6127-78a4-31c4-aed3-a03a40f27f7a
+[18:38:55] [Server thread/INFO]: get_killed_nerd[/[0:0:0:0:0:0:0:1]:35312] logged in with entity id 10535 at ([world]165.1168230095372, 70.75135837205323, 270.9385657999891)
+[18:38:56] [Craft Scheduler Thread - 7/INFO]: [0;31;1mWarning: get_killed_nerd has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, BaconMania_, Gilzbert, Sadam_hussein[m
+
+[18:38:56] [Craft Scheduler Thread - 10/INFO]: [0;31;1mWarning: get_killed_nerd has the same IP as the following banned players:
+[0;33;22mjewburner[m
+
+[18:39:18] [Server thread/INFO]: jizzler issued server command: /tpa Sadam_hussein
+[18:39:23] [Server thread/INFO]: Sadam_hussein issued server command: /tpaccept
+[18:39:52] [Server thread/INFO]: §fPlayer§7: §fSadam_hussein has just earned the achievement [Time to Strike!]
+[18:39:59] [Server thread/INFO]: get_killed_nerd issued server command: /tpa steven
+[18:40:12] [Async Chat Thread - #4/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mget_killed_nerd [0;37;1m➟ [0;37;1msteven i have the stuff the guy stole from you[m
+
+[18:40:15] [Server thread/INFO]: §fPlayer§7: §fSadam_hussein has just earned the achievement [Time to Mine!]
+[18:40:21] [Async Chat Thread - #4/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mjizzler [0;37;1m➟ [0;37;1mim giving it back[m
+
+[18:40:24] [Async Chat Thread - #4/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mget_killed_nerd [0;37;1m➟ [0;37;1mi want to trade for it[m
+
+[18:40:26] [Async Chat Thread - #4/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mjizzler [0;37;1m➟ [0;37;1mim sorry steven[m
+
+[18:40:30] [Async Chat Thread - #4/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mget_killed_nerd [0;37;1m➟ [0;37;1mcan i have some food plss[m
+
+[18:40:36] [Server thread/INFO]: §fPlayer§7: §fPAPA_CORBIN was shot by Skeleton
+[18:40:46] [Async Chat Thread - #4/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mget_killed_nerd [0;37;1m➟ [0;37;1msteven accept my thing pls[m
+
+[18:40:51] [Server thread/INFO]: get_killed_nerd issued server command: /tpa steven
+[18:40:56] [Server thread/INFO]: jizzler issued server command: /tpa get_killed_nerd
+[18:41:00] [Server thread/INFO]: get_killed_nerd issued server command: /tpsccept
+[18:41:06] [Server thread/INFO]: get_killed_nerd issued server command: /tpaccept
+[18:41:12] [Server thread/INFO]: §fPlayer§7: §fjizzler was slain by §fPlayer§7: §fget_killed_nerd
+[18:41:44] [Thread-36/INFO]: UUID of player Infinity is 931d936e-dffb-39f9-9c46-ee7fe65211d5
+[18:41:44] [Server thread/INFO]: Infinity[/[0:0:0:0:0:0:0:1]:47814] logged in with entity id 12291 at ([world]202.988717553854, 71.0, 879.2350699252319)
+[18:41:45] [Craft Scheduler Thread - 10/INFO]: [0;31;1mWarning: Infinity has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein[m
+
+[18:42:17] [Server thread/INFO]: §fPlayer§7: §fSadam_hussein has just earned the achievement [Hot Topic]
+[18:42:30] [Async Chat Thread - #5/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mget_killed_nerd [0;37;1m➟ [0;37;1msteven[m
+
+[18:42:33] [Server thread/INFO]: jizzler issued server command: /tpa get_killed_nerd
+[18:42:42] [Server thread/INFO]: get_killed_nerd issued server command: /tpaccept
+[18:42:44] [Server thread/INFO]: jizzler issued server command: /tpa get_killed_nerd
+[18:43:02] [Server thread/INFO]: There are 8/20000 players online:
+[18:43:02] [Server thread/INFO]: KP_, Gilzbert, Sadam_hussein, Steven, get_killed_nerd, PAPA_CORBIN, jizzler, Infinity
+[18:43:05] [Server thread/INFO]: §fPlayer§7: §fSadam_hussein has just earned the achievement [Getting an Upgrade]
+[18:43:34] [Server thread/INFO]: §fPlayer§7: §fSadam_hussein has just earned the achievement [Monster Hunter]
+[18:43:49] [Thread-37/INFO]: UUID of player BaconMania is 94cc9361-df90-3d70-a09d-55ea0279e1a1
+[18:43:49] [Server thread/INFO]: BaconMania[/[0:0:0:0:0:0:0:1]:41676] logged in with entity id 14455 at ([world]3609.298886363044, 129.0, 4434.701620235951)
+[18:43:59] [Server thread/INFO]: §fPlayer§7: §fInfinity has just earned the achievement [Hot Topic]
+[18:44:16] [Server thread/INFO]: §fPlayer§7: §fjizzler has just earned the achievement [Getting Wood]
+[18:44:23] [Server thread/INFO]: §fPlayer§7: §fget_killed_nerd has just earned the achievement [Cow Tipper]
+[18:44:30] [Server thread/INFO]: Gilzbert lost connection: Disconnected
+[18:44:30] [Server thread/INFO]: Gilzbert left the game.
+[18:44:38] [Server thread/INFO]: get_killed_nerd issued server command: /tpa <baconmania>
+[18:44:47] [Server thread/INFO]: get_killed_nerd issued server command: /tpa Bacon mania
+[18:45:17] [Server thread/INFO]: get_killed_nerd lost connection: Disconnected
+[18:45:17] [Server thread/INFO]: get_killed_nerd left the game.
+[18:45:32] [Server thread/INFO]: Sadam_hussein lost connection: Disconnected
+[18:45:32] [Server thread/INFO]: Sadam_hussein left the game.
+[18:45:40] [Server thread/INFO]: jizzler lost connection: Disconnected
+[18:45:40] [Server thread/INFO]: jizzler left the game.
+[18:45:41] [Server thread/INFO]: PAPA_CORBIN lost connection: Disconnected
+[18:45:41] [Server thread/INFO]: PAPA_CORBIN left the game.
+[18:46:31] [Thread-38/INFO]: UUID of player DANKBEEF is 236ee08e-e19f-351a-997f-26d0ab803645
+[18:46:31] [Server thread/INFO]: DANKBEEF[/[0:0:0:0:0:0:0:1]:46998] logged in with entity id 16946 at ([world]-316.2837664462271, 116.0, 732.1316161122929)
+[18:46:32] [Craft Scheduler Thread - 17/INFO]: [0;31;1mWarning: DANKBEEF has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein[m
+
+[18:48:12] [Server thread/INFO]: BaconMania issued server command: /tpdeny
+[18:48:33] [Server thread/INFO]: Infinity lost connection: Disconnected
+[18:48:33] [Server thread/INFO]: Infinity left the game.
+[18:48:50] [Thread-39/INFO]: UUID of player IhaveaDUI_547 is c9726b2e-ca64-30b4-ba2a-185dcdf86f79
+[18:48:50] [Server thread/INFO]: IhaveaDUI_547[/[0:0:0:0:0:0:0:1]:46840] logged in with entity id 17855 at ([world]-185.07741554436686, 67.0, 486.7785931102305)
+[18:48:51] [Craft Scheduler Thread - 16/INFO]: [0;31;1mWarning: IhaveaDUI_547 has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein[m
+
+[18:49:04] [Thread-40/INFO]: UUID of player Danny is ddcda591-f59a-39fa-ae6e-6744024d2256
+[18:49:04] [Server thread/INFO]: Danny[/[0:0:0:0:0:0:0:1]:38276] logged in with entity id 17971 at ([world]128.0871111727165, 75.0, 1220.772288748573)
+[18:49:05] [Craft Scheduler Thread - 16/INFO]: [0;31;1mWarning: Danny has the same IP as the following players:
+[0;33;22ma__, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein, IhaveaDUI_547[m
+
+[18:49:16] [Server thread/INFO]: Danny lost connection: Disconnected
+[18:49:16] [Server thread/INFO]: Danny left the game.
+[18:49:26] [Thread-41/INFO]: UUID of player Infinity is 931d936e-dffb-39f9-9c46-ee7fe65211d5
+[18:49:26] [Server thread/INFO]: Infinity[/[0:0:0:0:0:0:0:1]:58900] logged in with entity id 18129 at ([world]120.69999998807907, 69.0, 1201.0343991846125)
+[18:49:27] [Craft Scheduler Thread - 19/INFO]: [0;31;1mWarning: Infinity has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein, IhaveaDUI_547[m
+
+[18:50:29] [Server thread/INFO]: §fPlayer§7: §fIhaveaDUI_547 was shot by Skeleton
+[18:51:27] [Server thread/INFO]: DANKBEEF lost connection: Disconnected
+[18:51:27] [Server thread/INFO]: DANKBEEF left the game.
+[18:51:47] [Async Chat Thread - #7/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mIhaveaDUI_547 [0;37;1m➟ [0;37;1mI have a DUI[m
+
+[18:52:01] [Async Chat Thread - #7/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mjust like your name implies![m
+
+[18:52:09] [Async Chat Thread - #7/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mfantastic![m
+
+[18:52:21] [Async Chat Thread - #7/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mIhaveaDUI_547 [0;37;1m➟ [0;37;1mare you sigma[m
+
+[18:52:36] [Server thread/INFO]: BaconMania issued server command: /easyranks set IhaveaDUI_547 yt
+[18:52:40] [Server thread/INFO]: BaconMania issued server command: /easyranks set IhaveaDUI_547 youtuber
+[18:52:42] [Server thread/INFO]: IhaveaDUI_547 issued server command: /AI
+[18:52:43] [Server thread/INFO]: BaconMania issued server command: /easyranks set IhaveaDUI_547 youtube
+[18:52:45] [Async Chat Thread - #7/INFO]: [0;37;22m[[0;33;22mSigma[0;37;22m] [0;37;1mIhaveaDUI_547 [0;37;1m➟ [0;37;1mAI[m
+
+[18:52:46] [Async Chat Thread - #7/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mnah but you are[m
+
+[18:52:52] [Server thread/INFO]: IhaveaDUI_547 issued server command: /oh ight nvm
+[18:52:56] [Thread-42/INFO]: UUID of player DANKBEEF is 236ee08e-e19f-351a-997f-26d0ab803645
+[18:52:56] [Server thread/INFO]: DANKBEEF[/[0:0:0:0:0:0:0:1]:59130] logged in with entity id 20804 at ([world]-317.6124223568292, 119.0, 728.8691347500323)
+[18:52:57] [Craft Scheduler Thread - 20/INFO]: [0;31;1mWarning: DANKBEEF has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein, IhaveaDUI_547[m
+
+[18:52:57] [Async Chat Thread - #7/INFO]: [0;37;22m[[0;33;22mSigma[0;37;22m] [0;37;1mIhaveaDUI_547 [0;37;1m➟ [0;37;1moh ight\[m
+
+[18:53:01] [Async Chat Thread - #7/INFO]: [0;37;22m[[0;33;22mSigma[0;37;22m] [0;37;1mIhaveaDUI_547 [0;37;1m➟ [0;37;1mW[m
+
+[18:53:11] [Server thread/INFO]: BaconMania issued server command: /easyranks set IhaveaDUI_547 player
+[18:53:13] [Server thread/INFO]: DANKBEEF lost connection: Disconnected
+[18:53:13] [Server thread/INFO]: DANKBEEF left the game.
+[18:53:22] [Async Chat Thread - #7/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mjk only the_sigma gets sigma rank[m
+
+[18:53:31] [Async Chat Thread - #7/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mIhaveaDUI_547 [0;37;1m➟ [0;37;1mNOOOOOOO[m
+
+[18:53:31] [Async Chat Thread - #7/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mInfinity [0;37;1m➟ [0;37;1myo whats up bacon.[m
+
+[18:53:36] [Async Chat Thread - #7/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mInfinity [0;37;1m➟ [0;37;1mcan I cook u?[m
+
+[18:53:37] [Async Chat Thread - #7/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1myo[m
+
+[18:53:46] [Async Chat Thread - #7/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mnah im not edible[m
+
+[18:53:48] [Async Chat Thread - #7/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mIhaveaDUI_547 [0;37;1m➟ [0;37;1mGive me the DUI rank[m
+
+[18:53:54] [Async Chat Thread - #7/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mInfinity [0;37;1m➟ [0;37;1maw[m
+
+[18:54:15] [Async Chat Thread - #7/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mIhaveaDUI_547 [0;37;1m➟ [0;37;1mcan I have the DUI rank pls[m
+
+[18:54:44] [Async Chat Thread - #7/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mInfinity [0;37;1m➟ [0;37;1mImagine begging :skull:[m
+
+[18:55:13] [Async Chat Thread - #7/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mIhaveaDUI_547 [0;37;1m➟ [0;37;1myour not sigma[m
+
+[18:55:18] [Async Chat Thread - #7/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1m*you're[m
+
+[18:55:30] [Async Chat Thread - #7/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mIhaveaDUI_547 [0;37;1m➟ [0;37;1mim gonna touch u on da bus[m
+
+[18:55:35] [Async Chat Thread - #7/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1moh no !!![m
+
+[18:55:41] [Async Chat Thread - #7/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mconsent given[m
+
+[18:56:45] [Async Chat Thread - #8/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mIhaveaDUI_547 [0;37;1m➟ [0;37;1mI need a mouse bc this chromebook touchpad is not the best[m
+
+[18:56:58] [Async Chat Thread - #8/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mInfinity [0;37;1m➟ [0;37;1msucks tobe u[m
+
+[18:57:05] [Async Chat Thread - #8/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mI got used to it after a while[m
+
+[18:57:14] [Async Chat Thread - #8/INFO]: [0;37;22m[[0;31;22mOwner[0;37;22m] [0;37;1mBaconMania [0;37;1m➟ [0;37;1mbut yea it sucks lmao[m
+
+[18:57:55] [Server thread/INFO]: BaconMania issued server command: /toggledownfall
+[18:57:55] [Server thread/INFO]: [BaconMania: Toggled downfall]
+[18:58:05] [Async Chat Thread - #8/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mIhaveaDUI_547 [0;37;1m➟ [0;37;1mgooner[m
+
+[18:58:47] [Server thread/INFO]: KP_ lost connection: Timed out
+[18:58:47] [Server thread/INFO]: KP_ left the game.
+[18:59:32] [Async Chat Thread - #9/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mIhaveaDUI_547 [0;37;1m➟ [0;37;1mmy computer bout to die[m
+
+[18:59:37] [Async Chat Thread - #9/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mInfinity [0;37;1m➟ [0;37;1mcharge it[m
+
+[18:59:46] [Async Chat Thread - #9/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mIhaveaDUI_547 [0;37;1m➟ [0;37;1mnah i think im good[m
+
+[18:59:49] [Server thread/INFO]: IhaveaDUI_547 lost connection: Disconnected
+[18:59:49] [Server thread/INFO]: IhaveaDUI_547 left the game.
+[19:00:56] [Thread-44/INFO]: UUID of player evan_j is a74933d3-ffef-3572-88f9-567448a15ecc
+[19:00:56] [Server thread/INFO]: evan_j[/[0:0:0:0:0:0:0:1]:46344] logged in with entity id 24852 at ([world]186.5, 63.0, 243.5)
+[19:00:57] [Craft Scheduler Thread - 21/INFO]: [0;31;1mWarning: evan_j has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein, IhaveaDUI_547[m
+
+[19:01:11] [Thread-45/INFO]: UUID of player DashingsMomIsHot is 0d9214a7-1faf-3510-bce0-8ad8c159f742
+[19:01:11] [Server thread/INFO]: DashingsMomIsHot[/[0:0:0:0:0:0:0:1]:35754] logged in with entity id 25060 at ([world]185.5, 63.0, 247.5)
+[19:01:12] [Server thread/INFO]: evan_j lost connection: Disconnected
+[19:01:12] [Server thread/INFO]: evan_j left the game.
+[19:01:12] [Craft Scheduler Thread - 22/INFO]: [0;31;1mWarning: DashingsMomIsHot has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein, IhaveaDUI_547, evan_j[m
+
+[19:02:10] [Server thread/INFO]: BaconMania issued server command: /list pla
+[19:02:12] [Server thread/INFO]: DashingsMomIsHot lost connection: Login timed out!
+[19:02:12] [Server thread/INFO]: DashingsMomIsHot left the game.
+[19:02:12] [Server thread/WARN]: handleDisconnection() called twice
+[19:02:13] [Server thread/INFO]: BaconMania issued server command: /list
+[19:02:16] [Thread-46/INFO]: UUID of player DashingsMomIsHot is 0d9214a7-1faf-3510-bce0-8ad8c159f742
+[19:02:17] [Server thread/INFO]: DashingsMomIsHot[/[0:0:0:0:0:0:0:1]:56360] logged in with entity id 25408 at ([world]185.39987582997398, 63.0, 247.08163358752196)
+[19:02:17] [Craft Scheduler Thread - 24/INFO]: [0;31;1mWarning: DashingsMomIsHot has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein, IhaveaDUI_547, evan_j[m
+
+[19:02:49] [Server thread/INFO]: DashingsMomIsHot issued server command: /WZON(
+[19:03:10] [Server thread/INFO]: DashingsMomIsHot issued server command: /A3R1U
+[19:03:17] [Server thread/INFO]: DashingsMomIsHot lost connection: Login timed out!
+[19:03:17] [Server thread/INFO]: DashingsMomIsHot left the game.
+[19:03:17] [Server thread/WARN]: handleDisconnection() called twice
+[19:03:21] [Thread-47/INFO]: UUID of player DashingsMomIsHot is 0d9214a7-1faf-3510-bce0-8ad8c159f742
+[19:03:21] [Server thread/INFO]: DashingsMomIsHot[/[0:0:0:0:0:0:0:1]:48936] logged in with entity id 25773 at ([world]185.39987582997398, 63.0, 247.08163358752196)
+[19:03:22] [Craft Scheduler Thread - 25/INFO]: [0;31;1mWarning: DashingsMomIsHot has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein, IhaveaDUI_547, evan_j[m
+
+[19:04:02] [Server thread/INFO]: §fPlayer§7: §fDashingsMomIsHot has just earned the achievement [Taking Inventory]
+[19:05:38] [Server thread/INFO]: Infinity lost connection: Disconnected
+[19:05:38] [Server thread/INFO]: Infinity left the game.
+[19:06:14] [Server thread/INFO]: BaconMania issued server command: /toggledownfall
+[19:06:14] [Server thread/INFO]: [BaconMania: Toggled downfall]
+[19:06:22] [Server thread/INFO]: §fPlayer§7: §fDashingsMomIsHot has just earned the achievement [Getting Wood]
+[19:06:40] [Server thread/INFO]: BaconMania issued server command: /list
+[19:06:44] [Server thread/INFO]: BaconMania lost connection: Disconnected
+[19:06:44] [Server thread/INFO]: BaconMania left the game.
+[19:06:50] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mevan[m
+
+[19:06:59] [Server thread/INFO]: §cMurderer§7: §fSteven fell from a high place
+[19:07:07] [Server thread/INFO]: Steven issued server command: /home HOME
+[19:07:09] [Server thread/INFO]: §fPlayer§7: §fDashingsMomIsHot has just earned the achievement [Benchmarking]
+[19:08:02] [Thread-48/INFO]: UUID of player DANKBEEF is 236ee08e-e19f-351a-997f-26d0ab803645
+[19:08:02] [Server thread/INFO]: DANKBEEF[/[0:0:0:0:0:0:0:1]:53082] logged in with entity id 28076 at ([world]-316.03192006356926, 116.0, 730.9959931842494)
+[19:08:03] [Craft Scheduler Thread - 28/INFO]: [0;31;1mWarning: DANKBEEF has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein, IhaveaDUI_547, evan_j, DashingsMomIsHot[m
+
+[19:08:05] [Server thread/INFO]: §fPlayer§7: §fDashingsMomIsHot has just earned the achievement [Time to Mine!]
+[19:08:28] [Server thread/INFO]: §fPlayer§7: §fDashingsMomIsHot was blown up by Creeper
+[19:08:33] [Server thread/INFO]: There are 3/20000 players online:
+[19:08:33] [Server thread/INFO]: Steven, DANKBEEF, DashingsMomIsHot
