@@ -44,3 +44,9 @@ ranks:
   er_murderer:
     prefix: '&cMurderer&8: &f'
     chat: '&8[&cMurderer&8] &f%p &f➟ &f'
+  er_murderersquared:
+    prefix: '&4MurdererMurderer&8: &f'
+    chat: '&8[&4Murderer&8] &f%p &f➟ &f'
+  er_sigma:
+    prefix: '&bSigma&8: &f'
+    chat: '&8[&bSigma&8] &f%p &f➟ &f'
