@@ -471,3 +471,8 @@
 [17:45:50] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:54416]: Logged in as 'CreamInMePlease'
 [17:45:50] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:54416|CreamInMePlease] -> UpstreamBridge has connected
 [17:45:50] [Netty Worker IO Thread #3/INFO]: [CreamInMePlease|/[0:0:0:0:0:0:0:1%0]:54416] <-> ServerConnector [lobby] has connected
+[17:46:14] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49782]: Connected via websocket
+[17:46:14] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49782]: Origin header is null
+[17:46:14] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49782]: Logged in as 'goodgoonthe4th'
+[17:46:14] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:49782|goodgoonthe4th] -> UpstreamBridge has connected
+[17:46:14] [Netty Worker IO Thread #1/INFO]: [goodgoonthe4th|/[0:0:0:0:0:0:0:1%0]:49782] <-> ServerConnector [lobby] has connected
