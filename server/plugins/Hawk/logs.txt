@@ -1,0 +1,78 @@
+[10/15/2024] [18:27:26] PAPA_CORBIN failed noswing. VL: 5
+[10/15/2024] [18:27:27] PAPA_CORBIN failed attack speed. CPS: 20.0, VL: 5
+[10/15/2024] [18:28:13] PAPA_CORBIN failed noswing. VL: 10
+[10/15/2024] [18:28:14] PAPA_CORBIN failed attack speed. CPS: 200.0, VL: 84
+[10/15/2024] [18:28:18] PAPA_CORBIN failed noswing. VL: 104
+[10/15/2024] [18:28:19] PAPA_CORBIN failed attack speed. CPS: 20.0, VL: 185
+[10/15/2024] [18:29:41] PAPA_CORBIN failed fly, VL: 10
+[10/15/2024] [18:29:46] PAPA_CORBIN failed fly, VL: 33
+[10/15/2024] [18:29:54] PAPA_CORBIN failed fabricated move, VL: 2
+[10/15/2024] [18:29:54] PAPA_CORBIN failed fly, VL: 36
+[10/15/2024] [18:30:02] PAPA_CORBIN failed fly, VL: 34
+[10/15/2024] [18:30:05] jizzler failed fly, VL: 10
+[10/15/2024] [18:30:10] jizzler failed fly, VL: 31
+[10/15/2024] [18:30:16] jizzler failed fly, VL: 10
+[10/15/2024] [18:30:20] PAPA_CORBIN failed fabricated move, VL: 6
+[10/15/2024] [18:30:21] jizzler failed fly, VL: 30
+[10/15/2024] [18:30:21] PAPA_CORBIN failed fly, VL: 23
+[10/15/2024] [18:30:25] PAPA_CORBIN failed fabricated move, VL: 9
+[10/15/2024] [18:30:32] jizzler failed fly, VL: 10
+[10/15/2024] [18:30:37] jizzler failed fly, VL: 31
+[10/15/2024] [18:30:43] jizzler failed fly, VL: 10
+[10/15/2024] [18:30:46] PAPA_CORBIN failed fabricated move, VL: 8
+[10/15/2024] [18:30:47] PAPA_CORBIN failed fly, VL: 10
+[10/15/2024] [18:30:48] jizzler failed fly, VL: 31
+[10/15/2024] [18:30:53] jizzler failed fly, VL: 10
+[10/15/2024] [18:30:53] PAPA_CORBIN failed fly, VL: 22
+[10/15/2024] [18:30:53] PAPA_CORBIN failed fabricated move, VL: 10
+[10/15/2024] [18:30:54] PAPA_CORBIN failed movement speed, VL: 5
+[10/15/2024] [18:30:58] jizzler failed fly, VL: 31
+[10/15/2024] [18:31:00] PAPA_CORBIN failed fabricated move, VL: 11
+[10/15/2024] [18:31:00] PAPA_CORBIN failed fly, VL: 22
+[10/15/2024] [18:31:01] PAPA_CORBIN failed strafe, VL: 5
+[10/15/2024] [18:31:05] jizzler failed fly, VL: 10
+[10/15/2024] [18:31:10] jizzler failed fly, VL: 31
+[10/15/2024] [18:31:17] jizzler failed fly, VL: 10
+[10/15/2024] [18:31:22] jizzler failed fly, VL: 31
+[10/15/2024] [18:31:47] Popbob failed ground spoof. VL: 3
+[10/15/2024] [18:32:05] KP_ failed noswing. VL: 5
+[10/15/2024] [18:32:06] KP_ failed attack speed. CPS: 20.0, VL: 5
+[10/15/2024] [18:32:09] KP_ failed movement speed, VL: 5
+[10/15/2024] [18:32:10] KP_ failed noswing. VL: 83
+[10/15/2024] [18:32:11] KP_ failed attack speed. CPS: 20.0, VL: 107
+[10/15/2024] [18:32:13] Popbob failed ground spoof. VL: 5
+[10/15/2024] [18:32:15] KP_ failed noswing. VL: 183
+[10/15/2024] [18:32:16] KP_ failed attack speed. CPS: 20.0, VL: 207
+[10/15/2024] [18:32:23] ECLIPCE12 failed fabricated move, VL: 2
+[10/15/2024] [18:32:30] jizzler failed fly, VL: 10
+[10/15/2024] [18:32:35] jizzler failed fly, VL: 31
+[10/15/2024] [18:33:03] jizzler failed fly, VL: 10
+[10/15/2024] [18:35:29] jizzler failed fly, VL: 10
+[10/15/2024] [18:35:34] jizzler failed fly, VL: 31
+[10/15/2024] [18:35:40] jizzler failed fly, VL: 10
+[10/15/2024] [18:35:45] jizzler failed fly, VL: 24
+[10/15/2024] [18:36:56] jizzler failed fly, VL: 10
+[10/15/2024] [18:37:02] jizzler failed fly, VL: 31
+[10/15/2024] [18:37:10] jizzler failed fly, VL: 10
+[10/15/2024] [18:39:18] jizzler failed fly, VL: 10
+[10/15/2024] [18:39:23] jizzler failed fly, VL: 31
+[10/15/2024] [18:39:39] jizzler failed fly, VL: 10
+[10/15/2024] [18:39:44] jizzler failed fly, VL: 31
+[10/15/2024] [18:39:55] jizzler failed fly, VL: 10
+[10/15/2024] [18:40:00] jizzler failed fly, VL: 30
+[10/15/2024] [18:40:16] jizzler failed fly, VL: 10
+[10/15/2024] [18:40:21] NeedHemroidCream failed fabricated move, VL: 2
+[10/15/2024] [18:40:31] jizzler failed fly, VL: 10
+[10/15/2024] [18:40:33] jizzler failed movement speed, VL: 6
+[10/15/2024] [18:40:41] jizzler failed movement speed, VL: 5
+[10/15/2024] [18:40:42] jizzler failed strafe, VL: 5
+[10/15/2024] [18:45:35] PAPA_CORBIN failed fly, VL: 10
+[10/15/2024] [18:46:12] jizzlerUnblocked failed fly, VL: 10
+[10/15/2024] [18:46:18] jizzlerUnblocked failed fly, VL: 22
+[10/15/2024] [18:46:20] jizzlerUnblocked failed strafe, VL: 5
+[10/15/2024] [18:46:24] jizzlerUnblocked failed fly, VL: 41
+[10/15/2024] [18:46:25] jizzlerUnblocked failed strafe, VL: 11
+[10/15/2024] [18:56:56] Yeshish_Yashher9 failed movement speed, VL: 5
+[10/15/2024] [18:57:06] Yeshish_Yashher9 failed movement speed, VL: 5
+[10/15/2024] [18:57:32] Yeshish_Yashher9 failed movement speed, VL: 5
+[10/15/2024] [18:57:37] Yeshish_Yashher9 failed movement speed, VL: 6

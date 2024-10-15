@@ -1,0 +1,325 @@
+tickrate:
+  enabled: true
+  cancelThreshold: 10
+  flagThreshold: 50
+  vlPassMultiplier: 0.995
+  flagCooldown: 10000
+  punishCommands: []
+  clockDriftThresholdMillis: 50
+  maxCatchupTimeMillis: 2000
+  debug: false
+  minRateMultiplier: 0.999
+  maxRateMultiplier: 1.005
+  rubberband: true
+  ignoreTicksAfterLongTeleport: 150
+fighthitbox:
+  enabled: false
+  flagThreshold: 10000
+  vlPassMultiplier: 0.95
+  flagCooldown: 5000
+  punishCommands: []
+  checkBoxIntersection: true
+  checkOccluding: false
+  maxReach: 3.1
+  checkOtherEntities: false
+  lagCompensation: true
+  pingLimit: -1
+  debug:
+    hitbox: false
+    ray: false
+phase:
+  enabled: true
+  cancelThreshold: 0
+  flagThreshold: 10
+  vlPassMultiplier: 0.995
+  flagCooldown: 5000
+  punishCommands: []
+fly:
+  enabled: true
+  cancelThreshold: 0
+  flagThreshold: 10
+  vlPassMultiplier: 0.995
+  flagCooldown: 5000
+  punishCommands: []
+step:
+  enabled: true
+  cancelThreshold: 0
+  flagThreshold: 5
+  vlPassMultiplier: 0.995
+  flagCooldown: 5000
+  punishCommands: []
+blockbreakspeedsurvival:
+  enabled: true
+  cancelThreshold: 5
+  flagThreshold: 10
+  vlPassMultiplier: 0.99
+  flagCooldown: 5000
+  punishCommands: []
+  checkOnGround: false
+  flagSameTick: true
+inertia:
+  enabled: true
+  cancelThreshold: -1
+  flagThreshold: 5
+  vlPassMultiplier: 0.995
+  flagCooldown: 5000
+  punishCommands: []
+blockbreakdirection:
+  enabled: true
+  cancelThreshold: 5
+  flagThreshold: 10
+  vlPassMultiplier: 0.9
+  flagCooldown: 5000
+  punishCommands: []
+  debug:
+    hitbox: false
+    ray: false
+  checkDigStart: false
+  checkDigCancel: false
+  checkDigComplete: true
+wrongblock:
+  enabled: true
+  cancelThreshold: 0
+  flagThreshold: 5
+  vlPassMultiplier: 0.9
+  flagCooldown: 5000
+  punishCommands: []
+groundspoof:
+  enabled: true
+  cancelThreshold: 0
+  flagThreshold: 3
+  vlPassMultiplier: 0.995
+  flagCooldown: 5000
+  punishCommands: []
+  preventNoFall: true
+fightspeed:
+  enabled: true
+  cancelThreshold: 0
+  flagThreshold: 5
+  vlPassMultiplier: 0.9
+  flagCooldown: 5000
+  punishCommands: []
+  sampleSize: 10
+  maxCps: 16.0
+fightaccuracy:
+  enabled: true
+  flagThreshold: 0
+  vlPassMultiplier: 0.99
+  flagCooldown: 5000
+  punishCommands: []
+  effortThreshold: 0.7
+  accuracyThreshold: 0.9
+  swingsUntilCheck: 20
+  minPrecisionThreshold: 0.3
+  debug: false
+aimbotheuristic:
+  enabled: false
+  flagThreshold: 5
+  vlPassMultiplier: 0.99
+  flagCooldown: 5000
+  punishCommands: []
+fightnoswing:
+  enabled: true
+  cancelThreshold: 0
+  flagThreshold: 5
+  vlPassMultiplier: 0.9
+  flagCooldown: 5000
+  punishCommands: []
+antivelocitybasic:
+  enabled: true
+  flagThreshold: 5
+  vlPassMultiplier: 0.999
+  flagCooldown: 5000
+  punishCommands: []
+antivelocityjump:
+  enabled: true
+  flagThreshold: 1
+  vlPassMultiplier: 0.9
+  flagCooldown: 5000
+  punishCommands: []
+  samples: 10
+  ratioThreshold: 0.85
+invalidpitch:
+  enabled: true
+  cancelThreshold: 0
+  flagThreshold: 5
+  vlPassMultiplier: 0.9
+  flagCooldown: 5000
+  punishCommands: []
+entityinteractreach:
+  enabled: true
+  cancelThreshold: 0
+  flagThreshold: 5
+  vlPassMultiplier: 0.9
+  flagCooldown: 5000
+  punishCommands: []
+  maxReach: 3.1
+  maxReachCreative: 5.0
+  pingLimit: -1
+  lagCompensation: true
+  checkOtherEntities: false
+entityinteractdirection:
+  enabled: true
+  cancelThreshold: 0
+  flagThreshold: 10
+  vlPassMultiplier: 0.9
+  flagCooldown: 5000
+  punishCommands: []
+  pingLimit: -1
+  lagCompensation: true
+  checkOtherEntities: true
+  boxExpand: 0.2
+blockinteractdirection:
+  enabled: true
+  cancelThreshold: 10
+  flagThreshold: 10
+  vlPassMultiplier: 0.9
+  flagCooldown: 5000
+  punishCommands: []
+  boxExpand: 0.2
+  debug:
+    hitbox: false
+    ray: false
+blockplacespeed:
+  enabled: true
+  cancelThreshold: 0
+  flagThreshold: 5
+  vlPassMultiplier: 0.9
+  flagCooldown: 5000
+  punishCommands: []
+wrongblockface:
+  enabled: true
+  cancelThreshold: 0
+  flagThreshold: 10
+  vlPassMultiplier: 0.99
+  flagCooldown: 5000
+  punishCommands: []
+invalidplacement:
+  enabled: true
+  cancelThreshold: 0
+  flagThreshold: 0
+  vlPassMultiplier: 0.999
+  flagCooldown: 5000
+  punishCommands: []
+itemswitchspeed:
+  enabled: true
+  flagThreshold: 5
+  vlPassMultiplier: 0.99
+  flagCooldown: 5000
+  punishCommands: []
+  minSwitchTicks: 2
+actiontogglespeed:
+  enabled: true
+  cancelThreshold: 0
+  flagThreshold: 5
+  vlPassMultiplier: 0.9
+  flagCooldown: 5000
+  punishCommands: []
+speed:
+  enabled: true
+  cancelThreshold: 0
+  flagThreshold: 5
+  vlPassMultiplier: 0.99
+  flagCooldown: 5000
+  punishCommands: []
+  discrepancyThreshold: 0.1
+  vlFailDiscrepancyFactor: 10.0
+  resetDiscrepancyOnFail: true
+  releaseItemOverVl: 4
+  checkFlying: true
+  debug: false
+multiaction:
+  enabled: false
+  cancelThreshold: 0
+  flagThreshold: 10
+  vlPassMultiplier: 0.95
+  flagCooldown: 5000
+  punishCommands: []
+sprintdirection:
+  enabled: true
+  cancelThreshold: 5
+  flagThreshold: 5
+  vlPassMultiplier: 0.999
+  flagCooldown: 5000
+  punishCommands: []
+clickduration:
+  enabled: false
+  flagThreshold: 0
+  vlPassMultiplier: 0.99
+  flagCooldown: 5000
+  punishCommands: []
+fightspeedconsistency:
+  enabled: false
+  flagThreshold: 3
+  vlPassMultiplier: 0.99
+  flagCooldown: 5000
+  punishCommands: []
+  checkAboveCPS: 10.0
+  samples: 5
+  sampleSize: 20
+  stdevThreshold: 0.05
+aimbotprecision:
+  enabled: false
+  flagThreshold: 5
+  vlPassMultiplier: 0.9
+  flagCooldown: 5000
+  punishCommands: []
+  samples: 20
+  ignorePitchrateHigherThan: 10.0
+itemusespeed:
+  enabled: true
+  cancelThreshold: 5
+  flagThreshold: 5
+  vlPassMultiplier: 0.99
+  flagCooldown: 5000
+  punishCommands: []
+fightsync:
+  enabled: true
+  flagThreshold: 2
+  vlPassMultiplier: 0.95
+  flagCooldown: 5000
+  punishCommands: []
+  sampleSize: 10
+fightmulti:
+  enabled: true
+  cancelThreshold: 0
+  flagThreshold: 5
+  vlPassMultiplier: 0.999
+  flagCooldown: 5000
+  punishCommands: []
+aimbotconvergence:
+  enabled: true
+  cancelThreshold: -1
+  flagThreshold: 5
+  vlPassMultiplier: 0.999
+  flagCooldown: 5000
+  punishCommands: []
+strafe:
+  enabled: true
+  cancelThreshold: 5
+  flagThreshold: 5
+  vlPassMultiplier: 0.99
+  flagCooldown: 5000
+  punishCommands: []
+  yawErrorThreshold: 0.5
+fabricatedmove:
+  enabled: true
+  cancelThreshold: 0
+  flagThreshold: 2
+  vlPassMultiplier: 0.999
+  flagCooldown: 5000
+  punishCommands: []
+fabricatedblockinteract:
+  enabled: true
+  cancelThreshold: 0
+  flagThreshold: 2
+  vlPassMultiplier: 0.999
+  flagCooldown: 5000
+  punishCommands: []
+inventoryactions:
+  enabled: true
+  cancelThreshold: 3
+  flagThreshold: 5
+  vlPassMultiplier: 0.999
+  flagCooldown: 5000
+  punishCommands: []
