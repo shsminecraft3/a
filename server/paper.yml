@@ -35,8 +35,8 @@ world-settings:
       village: true
       flat-bedrock: false
     allow-block-location-tab-completion: true
-    disable-teleportation-suffocation-check: false
     cache-chunk-maps: false
+    disable-teleportation-suffocation-check: false
     remove-invalid-mob-spawner-tile-entities: true
     player-blocking-damage-multiplier: 0.5
     optimize-explosions: false
@@ -78,10 +78,10 @@ world-settings:
     lava-flow-speed:
       normal: 30
       nether: 10
-    disable-explosion-knockback: false
-    water-over-lava-flow-speed: 5
     fix-cannons: false
+    disable-explosion-knockback: false
     tnt-entity-height-nerf: 0
+    water-over-lava-flow-speed: 5
     use-hopper-check: false
     all-chunks-are-slime-chunks: false
     allow-undead-horse-leashing: false

@@ -87,16 +87,16 @@ jewburner:
     X: 151.30000001192093
     Y: 77.0
     Z: 1213.3239784821064
-  fort:
-    world: world_nether
-    X: 87.94577574865069
-    Y: 53.0
-    Z: -53.51554159690974
   fake:
     world: world
     X: 68.93557283412116
     Y: 82.0
     Z: -71.49768580436364
+  fort:
+    world: world_nether
+    X: 197.21589937104795
+    Y: 71.0
+    Z: -131.5035362845805
 John_Minecraft:
   John_Mineccraft:
     world: world
@@ -114,6 +114,11 @@ DANKBEEF:
     X: -316.7889552258497
     Y: 119.0
     Z: 729.3006732952696
+  <NIGA>:
+    world: world
+    X: -211.3422798140367
+    Y: 201.0
+    Z: 3555.4584839395284
 the_sigma:
   Base:
     world: world
@@ -132,3 +137,20 @@ caden:
     X: 248.40793388297737
     Y: 58.0
     Z: 2138.829245722143
+Bakery_Bakery:
+  Bakery_bakery:
+    world: world
+    X: 137.30985960742032
+    Y: 76.0
+    Z: 851.7680539889207
+  Bakery_Bakery:
+    world: world
+    X: 137.59329940450527
+    Y: 75.0
+    Z: 855.0253552684859
+JohannMinecraft:
+  Libertaria:
+    world: world
+    X: 135.89635610697422
+    Y: 75.0
+    Z: 848.3257033146512
