@@ -76,3 +76,39 @@ Spectator Name: a__
 Taken         : []
 Given         : [MONSTER_EGG x 1]
 Target        : Steven
+[2024-10-15 04:13:58] [INFO]:
+Spectator UUID: e7c24215-dfa4-3c38-a935-0a08fc511456
+Spectator Name: a__
+Taken         : [PORK x 39, BREAD x 14, COOKED_CHICKEN x 16, DIAMOND_PICKAXE x 1, DIAMOND_SPADE & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={DIG_SPEED=1}} x 1, DIAMOND_HELMET & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=1}} x 1, DIAMOND_CHESTPLATE & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=1}, repair-cost=1} x 1, DIAMOND_LEGGINGS x 1, DIAMOND_BOOTS x 1, STICK x 2, IRON_AXE x 2, COAL x 50, TORCH x 127, IRON_PICKAXE x 1, COBBLESTONE x 2, ARROW x 2, SMOOTH_BRICK x 2, WATER_BUCKET x 2, COOKED_MUTTON x 28, IRON_INGOT x 6, FLINT_AND_STEEL x 1]
+Given         : []
+Target        : jewburner
+[2024-10-15 04:17:01] [INFO]:
+Spectator UUID: e7c24215-dfa4-3c38-a935-0a08fc511456
+Spectator Name: a__
+Taken         : [DIAMOND x 5]
+Given         : [FLINT_AND_STEEL x 1, IRON_INGOT x 6, COOKED_MUTTON x 28, IRON_AXE x 2, WATER_BUCKET x 2, STICK x 2, COAL x 50, TORCH x 127, IRON_PICKAXE x 1, COBBLESTONE x 2, ARROW x 2, SMOOTH_BRICK x 2, DIAMOND_BOOTS x 1, DIAMOND_LEGGINGS x 1, DIAMOND_CHESTPLATE & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=1}, repair-cost=1} x 1, DIAMOND_HELMET & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=1}} x 1, DIAMOND_SPADE & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={DIG_SPEED=1}} x 1, DIAMOND_PICKAXE x 1, COOKED_CHICKEN x 16, BREAD x 14, PORK x 39]
+Target        : Danny
+[2024-10-15 04:17:01] [INFO]:
+Spectator UUID: e7c24215-dfa4-3c38-a935-0a08fc511456
+Spectator Name: a__
+Taken         : [DIAMOND x 5]
+Given         : [FLINT_AND_STEEL x 1, IRON_INGOT x 6, COOKED_MUTTON x 28, IRON_AXE x 2, WATER_BUCKET x 2, STICK x 2, COAL x 50, TORCH x 127, IRON_PICKAXE x 1, COBBLESTONE x 2, ARROW x 2, SMOOTH_BRICK x 2, DIAMOND_BOOTS x 1, DIAMOND_LEGGINGS x 1, DIAMOND_CHESTPLATE & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=1}, repair-cost=1} x 1, DIAMOND_HELMET & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=1}} x 1, DIAMOND_SPADE & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={DIG_SPEED=1}} x 1, DIAMOND_PICKAXE x 1, COOKED_CHICKEN x 16, BREAD x 14, PORK x 39]
+Target        : Danny
+[2024-10-15 04:17:09] [INFO]:
+Spectator UUID: e7c24215-dfa4-3c38-a935-0a08fc511456
+Spectator Name: a__
+Taken         : []
+Given         : [DIAMOND x 10]
+Target        : jewburner
+[2024-10-15 04:17:09] [INFO]:
+Spectator UUID: e7c24215-dfa4-3c38-a935-0a08fc511456
+Spectator Name: a__
+Taken         : []
+Given         : [DIAMOND x 10]
+Target        : jewburner
+[2024-10-15 04:17:09] [INFO]:
+Spectator UUID: e7c24215-dfa4-3c38-a935-0a08fc511456
+Spectator Name: a__
+Taken         : []
+Given         : [DIAMOND x 10]
+Target        : jewburner
