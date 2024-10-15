@@ -44,3 +44,6 @@ ranks:
   er_murderer:
     prefix: '&cMurderer&7: &f'
     chat: '&7[&cMurderer&7] &f%p &f➟ &f'
+  er_nigger:
+    prefix: '&0Nigger&7: &f'
+    chat: '&0[&0Nigger&0] &0%p &0➟ &0'

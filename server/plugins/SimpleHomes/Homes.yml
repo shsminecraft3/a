@@ -92,6 +92,11 @@ jewburner:
     X: 87.94577574865069
     Y: 53.0
     Z: -53.51554159690974
+  fake:
+    world: world
+    X: 68.93557283412116
+    Y: 82.0
+    Z: -71.49768580436364
 John_Minecraft:
   John_Mineccraft:
     world: world
@@ -121,3 +126,9 @@ your_mom_lol:
     X: 134.30000001192093
     Y: 75.0
     Z: 1220.0063973801523
+caden:
+  <caden>:
+    world: world
+    X: 248.40793388297737
+    Y: 58.0
+    Z: 2138.829245722143

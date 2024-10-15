@@ -190,3 +190,141 @@ Spectator Name: a__
 Taken         : []
 Given         : [WATER_BUCKET x 1]
 Target        : jewburner
+[2024-10-15 05:16:48] [INFO]:
+Spectator UUID: e7c24215-dfa4-3c38-a935-0a08fc511456
+Spectator Name: a__
+Taken         : [WATER_BUCKET x 1]
+Given         : []
+Target        : gleven
+[2024-10-15 05:16:55] [INFO]:
+Spectator UUID: e7c24215-dfa4-3c38-a935-0a08fc511456
+Spectator Name: a__
+Taken         : []
+Given         : [LAVA_BUCKET x 1]
+Target        : gleven
+[2024-10-15 05:16:55] [INFO]:
+Spectator UUID: e7c24215-dfa4-3c38-a935-0a08fc511456
+Spectator Name: a__
+Taken         : []
+Given         : [LAVA_BUCKET x 1]
+Target        : gleven
+[2024-10-15 05:17:37] [INFO]:
+Spectator UUID: e7c24215-dfa4-3c38-a935-0a08fc511456
+Spectator Name: a__
+Taken         : []
+Given         : [WATER_BUCKET x 1]
+Target        : gleven
+[2024-10-15 05:17:37] [INFO]:
+Spectator UUID: e7c24215-dfa4-3c38-a935-0a08fc511456
+Spectator Name: a__
+Taken         : []
+Given         : [WATER_BUCKET x 1]
+Target        : gleven
+[2024-10-15 05:17:37] [INFO]:
+Spectator UUID: e7c24215-dfa4-3c38-a935-0a08fc511456
+Spectator Name: a__
+Taken         : []
+Given         : [WATER_BUCKET x 1]
+Target        : gleven
+[2024-10-15 15:52:51] [INFO]:
+Spectator UUID: 94cc9361-df90-3d70-a09d-55ea0279e1a1
+Spectator Name: BaconMania
+Taken         : [DIAMOND_HELMET & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=1}} x 1, DIAMOND_CHESTPLATE & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=1}, repair-cost=1} x 1, DIAMOND_LEGGINGS x 1, DIAMOND_BOOTS x 1, DIAMOND_SWORD x 1]
+Given         : []
+Target        : danny
+[2024-10-15 15:52:51] [INFO]:
+Spectator UUID: 94cc9361-df90-3d70-a09d-55ea0279e1a1
+Spectator Name: BaconMania
+Taken         : [DIAMOND_HELMET & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=1}} x 1, DIAMOND_CHESTPLATE & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=1}, repair-cost=1} x 1, DIAMOND_LEGGINGS x 1, DIAMOND_BOOTS x 1, DIAMOND_SWORD x 1]
+Given         : []
+Target        : danny
+[2024-10-15 15:52:51] [INFO]:
+Spectator UUID: 94cc9361-df90-3d70-a09d-55ea0279e1a1
+Spectator Name: BaconMania
+Taken         : [DIAMOND_HELMET & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=1}} x 1, DIAMOND_CHESTPLATE & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=1}, repair-cost=1} x 1, DIAMOND_LEGGINGS x 1, DIAMOND_BOOTS x 1, DIAMOND_SWORD x 1]
+Given         : []
+Target        : danny
+[2024-10-15 15:53:06] [INFO]:
+Spectator UUID: 94cc9361-df90-3d70-a09d-55ea0279e1a1
+Spectator Name: BaconMania
+Taken         : []
+Given         : [DIAMOND_HELMET & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=1}} x 1, DIAMOND_CHESTPLATE & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=1}, repair-cost=1} x 1, DIAMOND_LEGGINGS x 1, DIAMOND_BOOTS x 1, DIAMOND_SWORD x 1]
+Target        : John_Minecraft
+[2024-10-15 15:53:06] [INFO]:
+Spectator UUID: 94cc9361-df90-3d70-a09d-55ea0279e1a1
+Spectator Name: BaconMania
+Taken         : []
+Given         : [DIAMOND_HELMET & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=1}} x 1, DIAMOND_CHESTPLATE & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=1}, repair-cost=1} x 1, DIAMOND_LEGGINGS x 1, DIAMOND_BOOTS x 1, DIAMOND_SWORD x 1]
+Target        : John_Minecraft
+[2024-10-15 15:53:06] [INFO]:
+Spectator UUID: 94cc9361-df90-3d70-a09d-55ea0279e1a1
+Spectator Name: BaconMania
+Taken         : []
+Given         : [DIAMOND_HELMET & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=1}} x 1, DIAMOND_CHESTPLATE & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=1}, repair-cost=1} x 1, DIAMOND_LEGGINGS x 1, DIAMOND_BOOTS x 1, DIAMOND_SWORD x 1]
+Target        : John_Minecraft
+[2024-10-15 15:53:06] [INFO]:
+Spectator UUID: 94cc9361-df90-3d70-a09d-55ea0279e1a1
+Spectator Name: BaconMania
+Taken         : []
+Given         : [DIAMOND_HELMET & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=1}} x 1, DIAMOND_CHESTPLATE & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=1}, repair-cost=1} x 1, DIAMOND_LEGGINGS x 1, DIAMOND_BOOTS x 1, DIAMOND_SWORD x 1]
+Target        : John_Minecraft
+[2024-10-15 15:54:00] [INFO]:
+Spectator UUID: 94cc9361-df90-3d70-a09d-55ea0279e1a1
+Spectator Name: BaconMania
+Taken         : [DIAMOND_SWORD x 1, DIAMOND_CHESTPLATE & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=1}, repair-cost=1} x 1, DIAMOND_HELMET & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=1}} x 1, DIAMOND_BOOTS x 1]
+Given         : []
+Target        : John_Minecraft
+[2024-10-15 15:54:22] [INFO]:
+Spectator UUID: 94cc9361-df90-3d70-a09d-55ea0279e1a1
+Spectator Name: BaconMania
+Taken         : [DIAMOND_LEGGINGS x 1]
+Given         : [DIAMOND_CHESTPLATE & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=1}, repair-cost=1} x 1, DIAMOND_HELMET & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=1}} x 1]
+Target        : John_Minecraft
+[2024-10-15 15:54:22] [INFO]:
+Spectator UUID: 94cc9361-df90-3d70-a09d-55ea0279e1a1
+Spectator Name: BaconMania
+Taken         : [DIAMOND_LEGGINGS x 1]
+Given         : [DIAMOND_CHESTPLATE & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=1}, repair-cost=1} x 1, DIAMOND_HELMET & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=1}} x 1]
+Target        : John_Minecraft
+[2024-10-15 15:55:18] [INFO]:
+Spectator UUID: 94cc9361-df90-3d70-a09d-55ea0279e1a1
+Spectator Name: BaconMania
+Taken         : []
+Given         : [DIAMOND_SWORD x 1, DIAMOND_LEGGINGS x 1, DIAMOND_BOOTS x 1]
+Target        : danny
+[2024-10-15 15:55:18] [INFO]:
+Spectator UUID: 94cc9361-df90-3d70-a09d-55ea0279e1a1
+Spectator Name: BaconMania
+Taken         : []
+Given         : [DIAMOND_SWORD x 1, DIAMOND_LEGGINGS x 1, DIAMOND_BOOTS x 1]
+Target        : danny
+[2024-10-15 15:55:18] [INFO]:
+Spectator UUID: 94cc9361-df90-3d70-a09d-55ea0279e1a1
+Spectator Name: BaconMania
+Taken         : []
+Given         : [DIAMOND_SWORD x 1, DIAMOND_LEGGINGS x 1, DIAMOND_BOOTS x 1]
+Target        : danny
+[2024-10-15 15:55:18] [INFO]:
+Spectator UUID: 94cc9361-df90-3d70-a09d-55ea0279e1a1
+Spectator Name: BaconMania
+Taken         : []
+Given         : [DIAMOND_SWORD x 1, DIAMOND_LEGGINGS x 1, DIAMOND_BOOTS x 1]
+Target        : danny
+[2024-10-15 15:56:35] [INFO]:
+Spectator UUID: 94cc9361-df90-3d70-a09d-55ea0279e1a1
+Spectator Name: BaconMania
+Taken         : [DIAMOND_AXE x 1]
+Given         : []
+Target        : danny
+[2024-10-15 15:56:41] [INFO]:
+Spectator UUID: 94cc9361-df90-3d70-a09d-55ea0279e1a1
+Spectator Name: BaconMania
+Taken         : []
+Given         : [DIAMOND_AXE x 1]
+Target        : JohannMinecraft
+[2024-10-15 15:56:41] [INFO]:
+Spectator UUID: 94cc9361-df90-3d70-a09d-55ea0279e1a1
+Spectator Name: BaconMania
+Taken         : []
+Given         : [DIAMOND_AXE x 1]
+Target        : JohannMinecraft
