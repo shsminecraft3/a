@@ -153,3 +153,24 @@
 [10/15/2024] [20:03:38] Yeshish_Yashher9 failed fabricated move, VL: 2
 [10/15/2024] [20:05:44] Danny failed fabricated move, VL: 2
 [10/15/2024] [20:05:55] Wonder failed ground spoof. VL: 3
+[10/15/2024] [20:09:06] goodgoonthe4th failed fly, VL: 10
+[10/15/2024] [20:09:36] Danny failed fabricated move, VL: 2
+[10/15/2024] [20:09:51] GreenColaLover16 failed movement speed, VL: 9
+[10/15/2024] [20:09:52] Danny failed fabricated move, VL: 2
+[10/15/2024] [20:11:50] John_Minecraft failed fly, VL: 10
+[10/15/2024] [20:11:55] John_Minecraft failed fly, VL: 24
+[10/15/2024] [20:11:57] Danny failed movement speed, VL: 5
+[10/15/2024] [20:12:00] John_Minecraft failed fly, VL: 37
+[10/15/2024] [20:12:03] Danny failed movement speed, VL: 7
+[10/15/2024] [20:12:06] John_Minecraft failed fly, VL: 51
+[10/15/2024] [20:12:08] Wonder failed movement speed, VL: 5
+[10/15/2024] [20:12:11] John_Minecraft failed fly, VL: 62
+[10/15/2024] [20:12:12] Danny failed movement speed, VL: 9
+[10/15/2024] [20:12:16] John_Minecraft failed fly, VL: 72
+[10/15/2024] [20:12:21] John_Minecraft failed fly, VL: 81
+[10/15/2024] [20:12:23] Danny failed movement speed, VL: 9
+[10/15/2024] [20:12:26] John_Minecraft failed fly, VL: 90
+[10/15/2024] [20:12:29] Danny failed movement speed, VL: 9
+[10/15/2024] [20:12:31] John_Minecraft failed fly, VL: 98
+[10/15/2024] [20:12:35] Danny failed movement speed, VL: 9
+[10/15/2024] [20:13:17] GreenColaLover16 may be using anti-velocity (basic), VL: 5
