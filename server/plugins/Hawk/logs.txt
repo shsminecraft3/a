@@ -76,3 +76,4 @@
 [10/15/2024] [18:57:06] Yeshish_Yashher9 failed movement speed, VL: 5
 [10/15/2024] [18:57:32] Yeshish_Yashher9 failed movement speed, VL: 5
 [10/15/2024] [18:57:37] Yeshish_Yashher9 failed movement speed, VL: 6
+[10/15/2024] [19:08:24] BedzGaming failed ground spoof. VL: 3

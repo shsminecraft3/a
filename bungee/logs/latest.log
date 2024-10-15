@@ -549,3 +549,27 @@
 [19:01:27] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:41576|BedzGaming] -> UpstreamBridge has disconnected
 [19:01:27] [Netty Worker IO Thread #1/INFO]: [BedzGaming] disconnected with: Proxy lost connection to server.
 [19:01:27] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:41576|BedzGaming] <-> DownstreamBridge <-> [lobby] has disconnected
+[19:05:53] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:47928]: Connected via websocket
+[19:05:53] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:47928]: Origin header is http://localhost:8081
+[19:05:53] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:47928]: Logged in as 'BedzGaming'
+[19:05:53] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:47928|BedzGaming] -> UpstreamBridge has connected
+[19:05:53] [Netty Worker IO Thread #1/INFO]: [BedzGaming|/[0:0:0:0:0:0:0:1%0]:47928] <-> ServerConnector [lobby] has connected
+[19:06:00] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:47928|BedzGaming] -> UpstreamBridge has disconnected
+[19:06:00] [Netty Worker IO Thread #1/INFO]: [BedzGaming] disconnected with: Proxy lost connection to server.
+[19:06:00] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:47928|BedzGaming] <-> DownstreamBridge <-> [lobby] has disconnected
+[19:06:10] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:57538|Yeshish_Yashher9] -> UpstreamBridge has disconnected
+[19:06:10] [Netty Worker IO Thread #0/INFO]: [Yeshish_Yashher9] disconnected with: Proxy lost connection to server.
+[19:06:10] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:57538|Yeshish_Yashher9] <-> DownstreamBridge <-> [lobby] has disconnected
+[19:07:08] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:60034]: Connected via websocket
+[19:07:08] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:60034]: Origin header is http://localhost:8081
+[19:07:08] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:60034]: Logged in as 'BedzGaming'
+[19:07:08] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:60034|BedzGaming] -> UpstreamBridge has connected
+[19:07:08] [Netty Worker IO Thread #1/INFO]: [BedzGaming|/[0:0:0:0:0:0:0:1%0]:60034] <-> ServerConnector [lobby] has connected
+[19:07:14] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:60052]: Connected via websocket
+[19:07:14] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:60052]: Origin header is http://localhost:8081
+[19:07:15] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:60052]: Logged in as 'Yeshish_Yashher9'
+[19:07:15] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:60052|Yeshish_Yashher9] -> UpstreamBridge has connected
+[19:07:15] [Netty Worker IO Thread #3/INFO]: [Yeshish_Yashher9|/[0:0:0:0:0:0:0:1%0]:60052] <-> ServerConnector [lobby] has connected
+[19:10:13] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:60034|BedzGaming] -> UpstreamBridge has disconnected
+[19:10:13] [Netty Worker IO Thread #1/INFO]: [BedzGaming] disconnected with: Proxy lost connection to server.
+[19:10:13] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:60034|BedzGaming] <-> DownstreamBridge <-> [lobby] has disconnected
