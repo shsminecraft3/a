@@ -1822,3 +1822,50 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein, IhaveaDUI_547, evan_j, DashingsMomIsHot, your_mom_lol, Wonder, YungBiggaNIgga, Shithead, Popbob, NeedHemroidCream, caden_[m
 
 [04:18:36] [Server thread/INFO]: §cMurderer§7: §fSteven was slain by §4MurdererKiller§7: §fjewburner
+[04:18:41] [Server thread/INFO]: Danny issued server command: /tpa steven
+[04:18:49] [Server thread/INFO]: Steven issued server command: /accept
+[04:18:49] [Server thread/INFO]: Danny issued server command: /tell steven imma kill him
+[04:18:56] [Server thread/INFO]: jewburner lost connection: Disconnected
+[04:18:56] [Server thread/INFO]: jewburner left the game.
+[04:18:59] [Server thread/INFO]: [Server] imma restart the server rq and add an anticheat
+[04:19:04] [Async Chat Thread - #21/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mk bet[m
+
+[04:19:06] [Server thread/INFO]: DANKBEEF lost connection: Disconnected
+[04:19:06] [Server thread/INFO]: DANKBEEF left the game.
+[04:19:07] [Server thread/INFO]: Stopping the server
+[04:19:07] [Server thread/INFO]: Stopping server
+[04:19:07] [Server thread/INFO]: [IllegalStack] Disabling IllegalStack v2.9.12a
+[04:19:07] [Server thread/INFO]: Found a protection in the config that was not relevant to your server version: CheckGroundForBadShulkerAtLogin (  + ) it has been removed.
+[04:19:07] [Server thread/INFO]: [InvSee++_Give] Disabling InvSeePlusPlus_Give v0.29.4
+[04:19:07] [Server thread/INFO]: [InvSee++_Clear] Disabling InvSeePlusPlus_Clear v0.29.4
+[04:19:07] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.2.0
+[04:19:07] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[04:19:07] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[04:19:07] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.2.0-SNAPSHOT-679
+[04:19:07] [Server thread/INFO]: [BanManager] Disabling BanManager v7.9.0
+[04:19:07] [Server thread/INFO]: [InvSee++] Disabling InvSeePlusPlus v0.29.4
+[04:19:07] [Server thread/INFO]: [EasyRanks] Disabling EasyRanks v1.3.2
+[04:19:07] [Server thread/INFO]: [OnePlayerSleep] Disabling OnePlayerSleep v1.3
+[04:19:07] [Server thread/INFO]: [SimpleHomes] Disabling SimpleHomes v2.2
+[04:19:07] [Server thread/INFO]: [Suicide] Disabling Suicide v1.4.6
+[04:19:07] [Server thread/INFO]: [Suicide] Plugin Disabled!
+[04:19:07] [Server thread/INFO]: [Sudo] Disabling Sudo v1
+[04:19:07] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[04:19:07] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.141
+[04:19:07] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[04:19:07] [Server thread/INFO]: [LuckPerms] Closing storage...
+[04:19:07] [Server thread/INFO]: [LuckPerms] Goodbye!
+[04:19:07] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v6.4
+[04:19:07] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9[m
+
+[04:19:07] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] Simple Tpa has been disabled on version 6.4[m
+
+[04:19:07] [Server thread/INFO]: Saving players
+[04:19:07] [Server thread/INFO]: a__ lost connection: Server closed
+[04:19:07] [Server thread/INFO]: a__ left the game.
+[04:19:07] [Server thread/INFO]: Steven lost connection: Server closed
+[04:19:07] [Server thread/INFO]: Steven left the game.
+[04:19:07] [Server thread/INFO]: Saving worlds
+[04:19:07] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[04:19:07] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[04:19:07] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
