@@ -4,7 +4,7 @@
 register:
   required: true
   # When enabled, users need to enter a captcha upon registration.
-  captcha: true
+  captcha: false
   # When enabled, requires users to enter their password twice upon registration.
   confirm-password: false
 login:
@@ -28,7 +28,7 @@ username:
   # Disabling this can be a security risk!
   filter-special-chars: true
   min-length: 3
-  max-length: 16
+  max-length: 32
 # Shortcut that can be used as alternative to login/register command. Does not replace the defaults
 command-shortcut:
   enabled: true

@@ -21,7 +21,7 @@ punishmentScheduler:
   pingThreshold: -1
   requireAuthorization: false
   autoSave: true
-gui: false
+gui: true
 lagCompensation:
   historySize: 20
   pingOffset: 175
