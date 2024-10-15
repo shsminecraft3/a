@@ -79,3 +79,34 @@
 [01:30:55] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:32986]: Logged in as 'mason'
 [01:30:55] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:32986|mason] -> UpstreamBridge has connected
 [01:30:55] [Netty Worker IO Thread #1/INFO]: [mason|/[0:0:0:0:0:0:0:1%0]:32986] <-> ServerConnector [lobby] has connected
+[01:34:42] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:57834]: Connected via websocket
+[01:34:42] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:57834]: Origin header is http://localhost:8081
+[01:34:42] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:57834]: Logged in as 'Curry_Muncher'
+[01:34:42] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:57834|Curry_Muncher] -> UpstreamBridge has connected
+[01:34:42] [Netty Worker IO Thread #2/INFO]: [Curry_Muncher|/[0:0:0:0:0:0:0:1%0]:57834] <-> ServerConnector [lobby] has connected
+[01:43:03] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:40216]: Connected via websocket
+[01:43:03] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:40216]: Origin header is http://localhost:8081
+[01:43:03] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:40216]: Logged in as 'Steven'
+[01:43:03] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:40216|Steven] -> UpstreamBridge has connected
+[01:43:03] [Netty Worker IO Thread #3/INFO]: [Steven|/[0:0:0:0:0:0:0:1%0]:40216] <-> ServerConnector [lobby] has connected
+[02:09:28] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:57834|Curry_Muncher] -> UpstreamBridge has disconnected
+[02:09:28] [Netty Worker IO Thread #2/INFO]: [Curry_Muncher] disconnected with: Proxy lost connection to server.
+[02:09:28] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:57834|Curry_Muncher] <-> DownstreamBridge <-> [lobby] has disconnected
+[02:19:10] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35528]: Connected via websocket
+[02:19:10] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35528]: Origin header is http://localhost:8081
+[02:19:10] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35528]: Logged in as 'DANKBEEF'
+[02:19:10] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:35528|DANKBEEF] -> UpstreamBridge has connected
+[02:19:10] [Netty Worker IO Thread #1/INFO]: [DANKBEEF|/[0:0:0:0:0:0:0:1%0]:35528] <-> ServerConnector [lobby] has connected
+[02:20:29] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45722]: Connected via websocket
+[02:20:29] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45722]: Origin header is http://localhost:8081
+[02:20:30] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45722]: Logged in as 'caden'
+[02:20:30] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:45722|caden] -> UpstreamBridge has connected
+[02:20:30] [Netty Worker IO Thread #2/INFO]: [caden|/[0:0:0:0:0:0:0:1%0]:45722] <-> ServerConnector [lobby] has connected
+[02:27:53] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:45722|caden] -> UpstreamBridge has disconnected
+[02:27:53] [Netty Worker IO Thread #2/INFO]: [caden] disconnected with: Proxy lost connection to server.
+[02:27:53] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:45722|caden] <-> DownstreamBridge <-> [lobby] has disconnected
+[02:29:01] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:37936]: Connected via websocket
+[02:29:01] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:37936]: Origin header is http://localhost:8081
+[02:29:01] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:37936]: Logged in as 'caden'
+[02:29:01] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:37936|caden] -> UpstreamBridge has connected
+[02:29:01] [Netty Worker IO Thread #2/INFO]: [caden|/[0:0:0:0:0:0:0:1%0]:37936] <-> ServerConnector [lobby] has connected
