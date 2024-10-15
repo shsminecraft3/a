@@ -592,3 +592,42 @@ Caused by: java.lang.NullPointerException: type cannot be null
 [04:38:25] [Server thread/INFO]: jewburner issued server command: /back
 [04:38:35] [Async Chat Thread - #1/INFO]: [0;37;22m[[0;31;22mMurdererKiller[0;37;22m] [0;37;1mjewburner [0;37;1m➟ [0;37;1mLMAO[m
 
+[04:39:00] [Server thread/INFO]: [Server] btw servers gonna restart to add anticheat
+[04:39:01] [Server thread/INFO]: §4MurdererKiller§7: §fjewburner fell from a high place
+[04:39:03] [Server thread/INFO]: Stopping the server
+[04:39:03] [Server thread/INFO]: Stopping server
+[04:39:03] [Server thread/INFO]: [IllegalStack] Disabling IllegalStack v2.9.12a
+[04:39:03] [Server thread/INFO]: Found a protection in the config that was not relevant to your server version: CheckGroundForBadShulkerAtLogin (  + ) it has been removed.
+[04:39:03] [Server thread/INFO]: [InvSee++_Give] Disabling InvSeePlusPlus_Give v0.29.4
+[04:39:03] [Server thread/INFO]: [InvSee++_Clear] Disabling InvSeePlusPlus_Clear v0.29.4
+[04:39:03] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.2.0
+[04:39:03] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[04:39:03] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[04:39:03] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.2.0-SNAPSHOT-679
+[04:39:03] [Server thread/INFO]: [BanManager] Disabling BanManager v7.9.0
+[04:39:03] [Server thread/INFO]: [InvSee++] Disabling InvSeePlusPlus v0.29.4
+[04:39:03] [Server thread/INFO]: [EasyRanks] Disabling EasyRanks v1.3.2
+[04:39:03] [Server thread/INFO]: [OnePlayerSleep] Disabling OnePlayerSleep v1.3
+[04:39:03] [Server thread/INFO]: [SimpleHomes] Disabling SimpleHomes v2.2
+[04:39:03] [Server thread/INFO]: [Suicide] Disabling Suicide v1.4.6
+[04:39:03] [Server thread/INFO]: [Suicide] Plugin Disabled!
+[04:39:03] [Server thread/INFO]: [Sudo] Disabling Sudo v1
+[04:39:03] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[04:39:03] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.141
+[04:39:03] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[04:39:03] [Server thread/INFO]: [LuckPerms] Closing storage...
+[04:39:03] [Server thread/INFO]: [LuckPerms] Goodbye!
+[04:39:03] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v6.4
+[04:39:03] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9[m
+
+[04:39:03] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] Simple Tpa has been disabled on version 6.4[m
+
+[04:39:03] [Server thread/INFO]: Saving players
+[04:39:03] [Server thread/INFO]: a__ lost connection: Server closed
+[04:39:03] [Server thread/INFO]: a__ left the game.
+[04:39:03] [Server thread/INFO]: jewburner lost connection: Server closed
+[04:39:03] [Server thread/INFO]: jewburner left the game.
+[04:39:03] [Server thread/INFO]: Saving worlds
+[04:39:03] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[04:39:04] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[04:39:04] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End

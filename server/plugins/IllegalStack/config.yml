@@ -103,8 +103,7 @@ UserRequested:
       RemoveAllRenamedItems: false
     HopperCheck:
       IgnoreAllHopperChecks: false
-    HackedShulker:
-      CheckGroundForBadShulkerAtLogin: false
+    HackedShulker: {}
   Mobs:
     PreventZombieItemPickup: false
   Cobble:

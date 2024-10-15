@@ -650,3 +650,17 @@ It expires in 56 seconds
 [04:36:55] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:47264]: Logged in as 'Steven'
 [04:36:55] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:47264|Steven] -> UpstreamBridge has connected
 [04:36:55] [Netty Worker IO Thread #3/INFO]: [Steven|/[0:0:0:0:0:0:0:1%0]:47264] <-> ServerConnector [lobby] has connected
+[04:39:03] [Netty Worker IO Thread #3/INFO]: [a__] disconnected with: Server closed
+[04:39:03] [Netty Worker IO Thread #0/INFO]: [jewburner] disconnected with: Server closed
+[04:39:03] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:48810|jewburner] -> UpstreamBridge has disconnected
+[04:39:03] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:48810|jewburner] <-> DownstreamBridge <-> [lobby] has disconnected
+[04:39:03] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:53976|a__] -> UpstreamBridge has disconnected
+[04:39:03] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:53976|a__] <-> DownstreamBridge <-> [lobby] has disconnected
+[04:39:04] [Netty Worker IO Thread #3/WARN]: [/[0:0:0:0:0:0:0:1%0]:47264|Steven] <-> DownstreamBridge <-> [lobby] - NativeIoException: recvAddress(..) failed: Connection reset by peer
+[04:39:04] [Netty Worker IO Thread #3/INFO]: [Steven] disconnected with: The server you were previously on went down, you have been connected to a fallback server
+[04:39:04] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:47264|Steven] -> UpstreamBridge has disconnected
+[04:39:04] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:47264|Steven] <-> DownstreamBridge <-> [lobby] has disconnected
+[04:39:04] [Netty Worker IO Thread #3/WARN]: [/[0:0:0:0:0:0:0:1%0]:55522|DANKBEEF] <-> DownstreamBridge <-> [lobby] - NativeIoException: recvAddress(..) failed: Connection reset by peer
+[04:39:04] [Netty Worker IO Thread #3/INFO]: [DANKBEEF] disconnected with: The server you were previously on went down, you have been connected to a fallback server
+[04:39:04] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:55522|DANKBEEF] -> UpstreamBridge has disconnected
+[04:39:04] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:55522|DANKBEEF] <-> DownstreamBridge <-> [lobby] has disconnected
