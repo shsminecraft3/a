@@ -446,3 +446,523 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [02:29:02] [Craft Scheduler Thread - 16/INFO]: [0;31;1mWarning: caden has the same IP as the following players:
 [0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein, IhaveaDUI_547, evan_j, DashingsMomIsHot, your_mom_lol, Wonder, YungBiggaNIgga, Shithead, Popbob, NeedHemroidCream[m
 
+[02:29:35] [Async Chat Thread - #5/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mcaden [0;37;1m➟ [0;37;1myo mason[m
+
+[02:29:38] [Async Chat Thread - #5/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mmason [0;37;1m➟ [0;37;1myes[m
+
+[02:29:44] [Server thread/INFO]: There are 4/20000 players online:
+[02:29:44] [Server thread/INFO]: mason, DANKBEEF, Steven, caden
+[02:29:46] [Async Chat Thread - #5/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mcaden [0;37;1m➟ [0;37;1mwya[m
+
+[02:30:03] [Async Chat Thread - #5/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mmason [0;37;1m➟ [0;37;1mfinding new base i am 2k away from old[m
+
+[02:33:22] [Server thread/INFO]: §cMurderer§7: §fSteven was shot by Skeleton
+[02:33:32] [Server thread/INFO]: caden issued server command: /tpa mason
+[02:33:37] [Server thread/INFO]: mason issued server command: /tpaccept
+[02:34:13] [Thread-22/INFO]: UUID of player Danny is ddcda591-f59a-39fa-ae6e-6744024d2256
+[02:34:13] [Server thread/INFO]: Danny[/[0:0:0:0:0:0:0:1]:54330] logged in with entity id 28801 at ([world]141.98393350430572, 74.0, 1225.3702180682617)
+[02:34:14] [Craft Scheduler Thread - 17/INFO]: [0;31;1mWarning: Danny has the same IP as the following players:
+[0;33;22ma__, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein, IhaveaDUI_547, evan_j, DashingsMomIsHot, your_mom_lol, Wonder, YungBiggaNIgga, Shithead, Popbob, NeedHemroidCream[m
+
+[02:34:16] [Async Chat Thread - #6/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mcaden [0;37;1m➟ [0;37;1mit should jus be us two[m
+
+[02:34:26] [Async Chat Thread - #6/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mmason [0;37;1m➟ [0;37;1myes[m
+
+[02:34:31] [Async Chat Thread - #6/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mcaden [0;37;1m➟ [0;37;1mand danny bc steven leaks cord[m
+
+[02:35:49] [Server thread/INFO]: caden issued server command: /tpa mason
+[02:35:58] [Server thread/INFO]: mason issued server command: /tpaccept
+[02:37:16] [Async Chat Thread - #7/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mi did not leak the cords[m
+
+[02:37:22] [Async Chat Thread - #7/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mcaden [0;37;1m➟ [0;37;1mcap[m
+
+[02:37:32] [Async Chat Thread - #7/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mon god[m
+
+[02:37:54] [Server thread/INFO]: caden issued server command: /tpa mason
+[02:37:59] [Server thread/INFO]: mason issued server command: /tpaccept
+[02:38:10] [Async Chat Thread - #7/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwhere is base[m
+
+[02:38:18] [Server thread/INFO]: Steven issued server command: /home HOME
+[02:38:52] [Async Chat Thread - #7/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mbrb[m
+
+[02:38:54] [Server thread/INFO]: Danny lost connection: Disconnected
+[02:38:54] [Server thread/INFO]: Danny left the game.
+[02:38:58] [Server thread/INFO]: Steven lost connection: Disconnected
+[02:38:58] [Server thread/INFO]: Steven left the game.
+[02:40:13] [Async Chat Thread - #8/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mmason [0;37;1m➟ [0;37;1mwhat kind of place do you want to build at caden[m
+
+[02:40:31] [Server thread/INFO]: caden issued server command: /tpa mason
+[02:40:35] [Async Chat Thread - #8/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mcaden [0;37;1m➟ [0;37;1midcc[m
+
+[02:40:57] [Server thread/INFO]: mason issued server command: /tpaccept
+[02:42:01] [Async Chat Thread - #9/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mmason [0;37;1m➟ [0;37;1mcaden does black forest work[m
+
+[02:42:06] [Async Chat Thread - #9/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mcaden [0;37;1m➟ [0;37;1mya[m
+
+[02:42:11] [Server thread/INFO]: caden issued server command: /tpa mason
+[02:42:15] [Server thread/INFO]: mason issued server command: /tpaccept
+[02:42:43] [Async Chat Thread - #9/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mcaden [0;37;1m➟ [0;37;1mone sec[m
+
+[02:42:47] [Async Chat Thread - #9/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mmason [0;37;1m➟ [0;37;1mok[m
+
+[02:43:05] [Async Chat Thread - #9/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mcaden [0;37;1m➟ [0;37;1mdo u have a chest[m
+
+[02:44:11] [Async Chat Thread - #10/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mcaden [0;37;1m➟ [0;37;1mim going to tp back to the base and get whats left[m
+
+[02:44:18] [Async Chat Thread - #10/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mmason [0;37;1m➟ [0;37;1mok[m
+
+[02:44:21] [Server thread/INFO]: caden issued server command: /home caden
+[02:44:31] [Server thread/INFO]: caden issued server command: /home caden
+[02:44:41] [Server thread/INFO]: caden issued server command: /home <caden>
+[02:44:54] [Async Chat Thread - #10/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mcaden [0;37;1m➟ [0;37;1mnvm its not working[m
+
+[02:45:33] [Server thread/INFO]: caden lost connection: Disconnected
+[02:45:33] [Server thread/INFO]: caden left the game.
+[02:46:44] [Thread-23/INFO]: UUID of player Steven is 944d2caf-d932-3441-b30c-7e43d402ec4b
+[02:46:44] [Server thread/INFO]: Steven[/[0:0:0:0:0:0:0:1]:40380] logged in with entity id 35852 at ([world]150.86446235457473, 76.0, 1220.3579755517305)
+[02:46:45] [Craft Scheduler Thread - 19/INFO]: [0;31;1mWarning: Steven has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein, IhaveaDUI_547, evan_j, DashingsMomIsHot, your_mom_lol, Wonder, YungBiggaNIgga, Shithead, Popbob, NeedHemroidCream[m
+
+[02:47:14] [Server thread/INFO]: DANKBEEF lost connection: Disconnected
+[02:47:14] [Server thread/INFO]: DANKBEEF left the game.
+[02:47:27] [Server thread/INFO]: Steven issued server command: /home Stevem
+[02:47:30] [Server thread/INFO]: Steven issued server command: /home Steven
+[02:47:34] [Server thread/INFO]: Steven issued server command: /homes
+[02:47:40] [Server thread/INFO]: Steven issued server command: /home DANK
+[02:47:57] [Thread-24/INFO]: UUID of player DANKBEEF is 236ee08e-e19f-351a-997f-26d0ab803645
+[02:47:57] [Server thread/INFO]: DANKBEEF[/[0:0:0:0:0:0:0:1]:36528] logged in with entity id 36947 at ([world]-315.24770611255286, 116.0, 730.8624252814515)
+[02:47:58] [Craft Scheduler Thread - 19/INFO]: [0;31;1mWarning: DANKBEEF has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein, IhaveaDUI_547, evan_j, DashingsMomIsHot, your_mom_lol, Wonder, YungBiggaNIgga, Shithead, Popbob, NeedHemroidCream[m
+
+[02:48:18] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mdank did you figure out the tp[m
+
+[02:48:25] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mno[m
+
+[02:48:32] [Server thread/INFO]: Steven issued server command: /home Steven
+[02:48:32] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mwhat is it[m
+
+[02:48:39] [Server thread/INFO]: Steven issued server command: /home Steven
+[02:48:44] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mare you near your home[m
+
+[02:48:49] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1myeah[m
+
+[02:49:11] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mlemme know when you get there ill tell you what to do[m
+
+[02:49:27] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mim there[m
+
+[02:49:44] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mdo /sethome name[m
+
+[02:49:47] [Server thread/INFO]: Steven issued server command: /home DANK
+[02:49:49] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mi did that[m
+
+[02:49:52] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1malr[m
+
+[02:49:53] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1magain[m
+
+[02:50:04] [Server thread/INFO]: DANKBEEF issued server command: /sethome <Base>
+[02:50:16] [Server thread/INFO]: DANKBEEF issued server command: /Sethome <home>
+[02:50:18] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mk[m
+
+[02:50:28] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mlet me manualy set it for you[m
+
+[02:50:33] [Server thread/INFO]: Steven issued server command: /tpa DANKBEEF
+[02:50:35] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mi set it alr[m
+
+[02:50:38] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1moh[m
+
+[02:50:58] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mhow do you tp[m
+
+[02:51:08] [Server thread/INFO]: Steven issued server command: /tpa DANKBEEF
+[02:51:13] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mlike that and /accept[m
+
+[02:51:29] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mwdym[m
+
+[02:51:32] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mlike that[m
+
+[02:51:37] [Server thread/INFO]: Steven issued server command: /tpa DANKBEEF
+[02:51:42] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mits /accept[m
+
+[02:51:49] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mor do /tpa[m
+
+[02:51:51] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mur gonna tp to me[m
+
+[02:52:00] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mthats how you tp[m
+
+[02:52:01] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mim not stupid[m
+
+[02:52:10] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mim not trynna tp you to me[m
+
+[02:52:13] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mdo /tpa to tp[m
+
+[02:52:18] [Server thread/INFO]: DANKBEEF issued server command: /tpa
+[02:52:18] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mto players[m
+
+[02:52:27] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mcan you tp to a home?[m
+
+[02:52:28] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mand /home name to go to home[m
+
+[02:52:33] [Server thread/INFO]: DANKBEEF issued server command: /home
+[02:52:41] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mdepends on the biome[m
+
+[02:52:42] [Server thread/INFO]: DANKBEEF issued server command: /home <home>
+[02:52:47] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mk[m
+
+[02:52:52] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwhat biome[m
+
+[02:53:09] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mwhy does it matter[m
+
+[02:53:21] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mthats how it was set up its dumb[m
+
+[02:53:29] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mi can tp[m
+
+[02:53:33] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mi got it[m
+
+[02:53:34] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mokay good[m
+
+[02:53:48] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mim lost[m
+
+[02:53:52] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mlol[m
+
+[02:54:02] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mim at -35 224[m
+
+[02:54:11] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mand my house is 3000 bloocks somewhere[m
+
+[02:54:19] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mam i cooked[m
+
+[02:54:20] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mim pretty far away from you[m
+
+[02:54:29] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mdoubt that[m
+
+[02:54:40] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mlike 1000 blocks[m
+
+[02:54:51] [Thread-25/INFO]: UUID of player Danny is ddcda591-f59a-39fa-ae6e-6744024d2256
+[02:54:51] [Server thread/INFO]: Danny[/[0:0:0:0:0:0:0:1]:60904] logged in with entity id 39767 at ([world]142.87867496898346, 75.0, 1214.168749988079)
+[02:54:52] [Craft Scheduler Thread - 24/INFO]: [0;31;1mWarning: Danny has the same IP as the following players:
+[0;33;22ma__, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein, IhaveaDUI_547, evan_j, DashingsMomIsHot, your_mom_lol, Wonder, YungBiggaNIgga, Shithead, Popbob, NeedHemroidCream[m
+
+[02:55:11] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1myo[m
+
+[02:55:35] [Server thread/INFO]: Steven issued server command: /tell Danny what was the website
+[02:55:38] [Server thread/INFO]: Danny issued server command: /tpa steven
+[02:55:49] [Server thread/INFO]: Steven issued server command: /tell Danny im far awzay
+[02:55:51] [Server thread/INFO]: Steven issued server command: /accept
+[02:55:57] [Server thread/INFO]: Danny issued server command: /tell steven i dont have it
+[02:56:08] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mdo you know how they instaled it[m
+
+[02:56:12] [Server thread/INFO]: Danny issued server command: /tell steven ill get it tomorrow during CADD
+[02:56:13] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1moop[m
+
+[02:56:18] [Server thread/INFO]: Danny issued server command: /tell steven no idea
+[02:56:27] [Server thread/INFO]: Steven issued server command: /tell Danny can you text corbin
+[02:56:50] [Server thread/INFO]: Danny issued server command: /tell steven i dont have his number :(
+[02:57:19] [Server thread/INFO]: Danny issued server command: /home <swamp>
+[02:57:28] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mdank im going to kick you from the server[m
+
+[02:57:34] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mwhy[m
+
+[02:57:34] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1msteven are we looking for a new base?[m
+
+[02:57:43] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mokay i got your attention now[m
+
+[02:57:48] [Server thread/INFO]: mason lost connection: Disconnected
+[02:57:48] [Server thread/INFO]: mason left the game.
+[02:57:51] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mwhat[m
+
+[02:57:54] [Server thread/INFO]: Steven issued server command: /tell DANKBEEF i need a roomie
+[02:57:56] [Server thread/INFO]: Danny issued server command: /tpa dankbeef
+[02:58:10] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mnah u gonna leak my base[m
+
+[02:58:15] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mi wont[m
+
+[02:58:16] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mokay i wont[m
+
+[02:58:21] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mpromise[m
+
+[02:58:27] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1myeah[m
+
+[02:58:30] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mon my mother[m
+
+[02:58:35] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1myou owe me 20 bucks if u do[m
+
+[02:58:39] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mon stevens mom[m
+
+[02:58:39] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mokay[m
+
+[02:58:43] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mk tp[m
+
+[02:58:45] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mbro hush[m
+
+[02:58:45] [Server thread/INFO]: Danny issued server command: /tpa dankbeef
+[02:58:51] [Server thread/INFO]: Steven issued server command: /tpa DANKBEEF
+[02:58:53] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mwhy[m
+
+[02:58:56] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mi have food[m
+
+[02:58:58] [Server thread/INFO]: Danny issued server command: /tpa dankbeef
+[02:59:00] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1msame[m
+
+[02:59:05] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mcuz danny cant swear on my mother[m
+
+[02:59:06] [Server thread/INFO]: DANKBEEF issued server command: /tpaccept
+[02:59:09] [Server thread/INFO]: Steven issued server command: /accept
+[02:59:20] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mwhat you doing[m
+
+[02:59:23] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwait do you want to tp to me[m
+
+[02:59:27] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mno[m
+
+[02:59:28] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mjust looking[m
+
+[02:59:30] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mand make no base[m
+
+[02:59:37] [Server thread/INFO]: Steven issued server command: /tpa Danny
+[02:59:48] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mbro why you in creative?[m
+
+[02:59:54] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwho?[m
+
+[02:59:58] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mdanny[m
+
+[02:59:58] [Server thread/INFO]: Steven issued server command: /tpa Danny
+[03:00:04] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mhow[m
+
+[03:00:05] [Server thread/INFO]: Danny issued server command: /tpaccept
+[03:00:09] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1me[m
+
+[03:00:10] [Server thread/WARN]: Danny was kicked for floating too long!
+[03:00:10] [Server thread/INFO]: Danny lost connection: Flying is not enabled on this server
+[03:00:10] [Server thread/INFO]: Danny left the game.
+[03:00:10] [Server thread/WARN]: handleDisconnection() called twice
+[03:00:12] [Server thread/INFO]: §cMurderer§7: §fSteven fell from a high place
+[03:00:13] [Thread-26/INFO]: UUID of player Danny is ddcda591-f59a-39fa-ae6e-6744024d2256
+[03:00:13] [Server thread/INFO]: Danny[/[0:0:0:0:0:0:0:1]:34120] logged in with entity id 42516 at ([world]-316.60109995982344, 142.49728014942204, 719.8111075264763)
+[03:00:14] [Craft Scheduler Thread - 23/INFO]: [0;31;1mWarning: Danny has the same IP as the following players:
+[0;33;22ma__, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein, IhaveaDUI_547, evan_j, DashingsMomIsHot, your_mom_lol, Wonder, YungBiggaNIgga, Shithead, Popbob, NeedHemroidCream[m
+
+[03:00:17] [Server thread/INFO]: Steven issued server command: /back
+[03:00:21] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mKMAO[m
+
+[03:00:26] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mlmaoooo[m
+
+[03:00:31] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mhow[m
+
+[03:00:41] [Server thread/INFO]: Steven issued server command: /delhome DANK
+[03:00:46] [Server thread/INFO]: Steven issued server command: /sethome DANK
+[03:00:52] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mhow u have creative[m
+
+[03:00:55] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mcan u kill them[m
+
+[03:01:07] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mthanks[m
+
+[03:01:15] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mim not in creative[m
+
+[03:01:20] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mhacking?[m
+
+[03:01:21] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwait hit test[m
+
+[03:01:26] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mhes clean[m
+
+[03:01:32] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mhow ere you flying?[m
+
+[03:01:34] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mdamn[m
+
+[03:01:38] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwait what[m
+
+[03:01:39] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mme?[m
+
+[03:01:42] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mdanny[m
+
+[03:01:45] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1moh[m
+
+[03:01:48] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mbro WTH[m
+
+[03:01:57] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1moh am i lagging[m
+
+[03:01:59] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mbro cheating[m
+
+[03:02:03] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mno u aint[m
+
+[03:02:08] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1memail evan carstlon[m
+
+[03:02:13] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1moh[m
+
+[03:02:19] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwat[m
+
+[03:02:19] [Server thread/WARN]: Danny was kicked for floating too long!
+[03:02:19] [Server thread/INFO]: Danny lost connection: Flying is not enabled on this server
+[03:02:19] [Server thread/INFO]: Danny left the game.
+[03:02:19] [Server thread/WARN]: handleDisconnection() called twice
+[03:02:23] [Thread-27/INFO]: UUID of player Danny is ddcda591-f59a-39fa-ae6e-6744024d2256
+[03:02:23] [Server thread/INFO]: Danny[/[0:0:0:0:0:0:0:1]:50896] logged in with entity id 42950 at ([world]-315.44727495699556, 97.37026319075736, 721.8782187846784)
+[03:02:23] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mhacks[m
+
+[03:02:24] [Craft Scheduler Thread - 23/INFO]: [0;31;1mWarning: Danny has the same IP as the following players:
+[0;33;22ma__, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein, IhaveaDUI_547, evan_j, DashingsMomIsHot, your_mom_lol, Wonder, YungBiggaNIgga, Shithead, Popbob, NeedHemroidCream[m
+
+[03:02:27] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1moh thanks for steak[m
+
+[03:02:27] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mlol[m
+
+[03:02:36] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mdo a super fly[m
+
+[03:02:42] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mi get kicked lol[m
+
+[03:02:47] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mwant to see my pvp skills?[m
+
+[03:02:52] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mno[m
+
+[03:02:55] [Server thread/INFO]: Steven issued server command: /tell Danny say that he has to do a command for it
+[03:03:08] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mtheres a command for the hacks lol[m
+
+[03:03:12] [Server thread/INFO]: Steven issued server command: /tell Danny make a long cpmmand for him to type
+[03:03:13] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mwhat is it[m
+
+[03:03:17] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mreally?[m
+
+[03:03:32] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwhat is it[m
+
+[03:03:42] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mthanks[m
+
+[03:03:43] [Thread-28/INFO]: UUID of player caden is 1c17e1b0-26ef-3067-b20b-aebc29283c98
+[03:03:43] [Server thread/INFO]: caden[/[0:0:0:0:0:0:0:1]:56944] logged in with entity id 43088 at ([world]234.43141991917932, 67.0, 2132.9113531518715)
+[03:03:44] [Craft Scheduler Thread - 25/INFO]: [0;31;1mWarning: caden has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein, IhaveaDUI_547, evan_j, DashingsMomIsHot, your_mom_lol, Wonder, YungBiggaNIgga, Shithead, Popbob, NeedHemroidCream[m
+
+[03:03:44] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mits /commandadminqwespaerls99Evanpassw00rd[m
+
+[03:03:50] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mi had to copy paste it[m
+
+[03:03:53] [Server thread/INFO]: §cMurderer§7: §fSteven was slain by §fPlayer§7: §fDANKBEEF using [Weapon Of crime scene]
+[03:03:56] [Server thread/INFO]: Steven issued server command: /back
+[03:04:01] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mkill him[m
+
+[03:04:03] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mno[m
+
+[03:04:08] [Server thread/INFO]: §cMurderer§7: §fSteven was burnt to a crisp whilst fighting §fPlayer§7: §fDANKBEEF
+[03:04:09] [Server thread/WARN]: Danny was kicked for floating too long!
+[03:04:09] [Server thread/INFO]: Danny lost connection: Flying is not enabled on this server
+[03:04:09] [Server thread/INFO]: Danny left the game.
+[03:04:09] [Server thread/WARN]: handleDisconnection() called twice
+[03:04:11] [Thread-30/INFO]: UUID of player Danny is ddcda591-f59a-39fa-ae6e-6744024d2256
+[03:04:11] [Server thread/INFO]: Danny[/[0:0:0:0:0:0:0:1]:43166] logged in with entity id 43271 at ([world]-307.8548957791522, 88.10418682959727, 719.053036838057)
+[03:04:12] [Server thread/INFO]: Steven issued server command: /back
+[03:04:12] [Craft Scheduler Thread - 25/INFO]: [0;31;1mWarning: Danny has the same IP as the following players:
+[0;33;22ma__, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein, IhaveaDUI_547, evan_j, DashingsMomIsHot, your_mom_lol, Wonder, YungBiggaNIgga, Shithead, Popbob, NeedHemroidCream[m
+
+[03:04:19] [Server thread/INFO]: Steven issued server command: /tell Danny kill him
+[03:04:37] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mwhere did you go??[m
+
+[03:04:46] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mme?[m
+
+[03:04:55] [Server thread/INFO]: Steven issued server command: /tell Danny put me on his base
+[03:05:10] [Server thread/INFO]: Danny issued server command: /tell steven tp to me then
+[03:05:15] [Server thread/INFO]: Steven issued server command: /tpa Danny
+[03:05:17] [Server thread/INFO]: Danny issued server command: /tpaccept
+[03:05:23] [Server thread/INFO]: §cMurderer§7: §fSteven fell from a high place
+[03:05:26] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mlol[m
+
+[03:05:29] [Server thread/INFO]: Steven issued server command: /back
+[03:05:34] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mlag is crazy[m
+
+[03:05:40] [Server thread/INFO]: Danny issued server command: /tell steven tp to me again
+[03:05:45] [Server thread/INFO]: Steven issued server command: /tpa Danny
+[03:05:48] [Server thread/INFO]: Danny issued server command: /tpaccept
+[03:05:53] [Server thread/INFO]: Steven issued server command: /tell Danny give me sword
+[03:05:56] [Server thread/INFO]: DANKBEEF issued server command: /commandadminqwespaerls99Evanpassw00rd
+[03:06:05] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mcommand didnt work[m
+
+[03:06:07] [Server thread/INFO]: §cMurderer§7: §fSteven was slain by §fPlayer§7: §fDANKBEEF using [Weapon Of crime scene]
+[03:06:11] [Server thread/INFO]: Steven issued server command: /back
+[03:06:17] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mtry it again[m
+
+[03:06:17] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1msteve stop[m
+
+[03:06:19] [Server thread/INFO]: §cMurderer§7: §fSteven was slain by §fPlayer§7: §fDANKBEEF using [Weapon Of crime scene]
+[03:06:26] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1myou prolly mistyped smth[m
+
+[03:06:36] [Server thread/INFO]: caden lost connection: Disconnected
+[03:06:36] [Server thread/INFO]: caden left the game.
+[03:06:42] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mkill steve if he start kllin me[m
+
+[03:06:42] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mgive me my boots then i will stop[m
+
+[03:06:48] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1moh lol i didnt even know caden was here[m
+
+[03:06:51] [Server thread/INFO]: Steven issued server command: /tell Danny Dont he has my armor
+[03:07:13] [Server thread/INFO]: Steven issued server command: /Tell Danny one tap him when i tp back and let me get my stuff
+[03:07:18] [Server thread/INFO]: Steven issued server command: /back
+[03:07:19] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mwhat was it again?[m
+
+[03:07:25] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mokay im chill now[m
+
+[03:07:29] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mk[m
+
+[03:07:32] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mbetter be[m
+
+[03:07:34] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mcan i have my boots tho[m
+
+[03:07:36] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mdo you have stuff from steven??[m
+
+[03:07:36] [Thread-31/INFO]: UUID of player caden_ is b1096240-8361-3e7d-9cf3-c78914a0d9f2
+[03:07:37] [Server thread/INFO]: caden_[/[0:0:0:0:0:0:0:1]:53790] logged in with entity id 44420 at ([world]172.5, 67.0, 240.5)
+[03:07:38] [Craft Scheduler Thread - 25/INFO]: [0;31;1mWarning: caden_ has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein, IhaveaDUI_547, evan_j, DashingsMomIsHot, your_mom_lol, Wonder, YungBiggaNIgga, Shithead, Popbob, NeedHemroidCream[m
+
+[03:07:42] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1myeah[m
+
+[03:07:46] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mthank you[m
+
+[03:07:48] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mhe tried killing me[m
+
+[03:07:55] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mdo you like my perry skin[m
+
+[03:07:57] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mlol[m
+
+[03:07:59] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1myeah[m
+
+[03:08:04] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1moop mb[m
+
+[03:08:04] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1myo chill[m
+
+[03:08:13] [Server thread/INFO]: caden_ lost connection: Disconnected
+[03:08:13] [Server thread/INFO]: caden_ left the game.
+[03:08:21] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mmb[m
+
+[03:08:22] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDANKBEEF [0;37;1m➟ [0;37;1mwhat was command[m
+
+[03:08:25] [Thread-32/INFO]: UUID of player caden is 1c17e1b0-26ef-3067-b20b-aebc29283c98
+[03:08:26] [Server thread/INFO]: caden[/[0:0:0:0:0:0:0:1]:40788] logged in with entity id 45091 at ([world]245.44222323824033, 66.0, 2132.49667495078)
+[03:08:27] [Craft Scheduler Thread - 25/INFO]: [0;31;1mWarning: caden has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein, IhaveaDUI_547, evan_j, DashingsMomIsHot, your_mom_lol, Wonder, YungBiggaNIgga, Shithead, Popbob, NeedHemroidCream, caden_[m
+
+[03:08:28] [Server thread/INFO]: Steven issued server command: /tell Danny kill him
+[03:08:39] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mhuh[m
+
+[03:09:00] [Server thread/INFO]: §cMurderer§7: §fSteven was slain by §fPlayer§7: §fDanny using [Asian Chopstick]
+[03:09:10] [Server thread/INFO]: DANKBEEF lost connection: Disconnected
+[03:09:10] [Server thread/INFO]: DANKBEEF left the game.
+[03:09:14] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mbro nooo[m
+
+[03:09:22] [Server thread/INFO]: Steven issued server command: /back
+[03:09:32] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mbro dont want to forgot about me killing him[m
+
+[03:09:41] [Server thread/INFO]: §cMurderer§7: §fSteven was slain by §fPlayer§7: §fDanny using [Asian Chopstick]
+[03:09:45] [Server thread/INFO]: Steven issued server command: /back
+[03:09:48] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mokay chill[m
+
+[03:09:51] [Server thread/INFO]: §cMurderer§7: §fSteven was slain by §fPlayer§7: §fDanny using [Asian Chopstick]
+[03:09:52] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mmb i had the auto kill enabled[m
+
+[03:10:07] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mchill dont kill any of us[m
+
+[03:10:17] [Server thread/INFO]: Steven issued server command: /tell Danny kill him plz he has my loot
+[03:10:20] [Server thread/INFO]: Steven issued server command: /back
+[03:10:24] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mhe left tge game[m
+
+[03:10:32] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwhy[m
+
+[03:10:46] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mbc i tried killing him[m
+
+[03:10:54] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mbro you sold[m
+
+[03:10:59] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mi knowwww[m
+
