@@ -174,3 +174,42 @@
 [10/15/2024] [20:12:31] John_Minecraft failed fly, VL: 98
 [10/15/2024] [20:12:35] Danny failed movement speed, VL: 9
 [10/15/2024] [20:13:17] GreenColaLover16 may be using anti-velocity (basic), VL: 5
+[10/15/2024] [20:13:19] GreenColaLover16 failed fly, VL: 10
+[10/15/2024] [20:13:27] GreenColaLover16 may be using anti-velocity (basic), VL: 10
+[10/15/2024] [20:13:30] GreenColaLover16 failed fly, VL: 12
+[10/15/2024] [20:13:38] GreenColaLover16 may be using anti-velocity (basic), VL: 12
+[10/15/2024] [20:13:45] GreenColaLover16 failed fly, VL: 10
+[10/15/2024] [20:27:30] Wonder failed fabricated move, VL: 2
+[10/15/2024] [20:29:55] not_SKIBIDI_MAN failed attack speed. CPS: 50.0, VL: 5
+[10/15/2024] [20:32:02] NeedHemroidCream failed movement speed, VL: 10
+[10/15/2024] [20:33:23] not_SKIBIDI_MAN failed attack speed. CPS: 28.57, VL: 15
+[10/15/2024] [20:33:29] not_SKIBIDI_MAN failed attack speed. CPS: 66.67, VL: 12
+[10/15/2024] [20:33:39] not_SKIBIDI_MAN failed attack speed. CPS: 66.67, VL: 128
+[10/15/2024] [20:33:45] not_SKIBIDI_MAN failed attack speed. CPS: 66.67, VL: 206
+[10/15/2024] [20:34:07] not_SKIBIDI_MAN failed attack speed. CPS: 66.67, VL: 213
+[10/15/2024] [20:34:12] not_SKIBIDI_MAN failed attack speed. CPS: 100.0, VL: 281
+[10/15/2024] [20:34:17] not_SKIBIDI_MAN failed attack speed. CPS: 40.0, VL: 387
+[10/15/2024] [20:34:23] not_SKIBIDI_MAN failed attack speed. CPS: 40.0, VL: 467
+[10/15/2024] [20:34:41] not_SKIBIDI_MAN failed attack speed. CPS: 50.0, VL: 520
+[10/15/2024] [20:34:52] not_SKIBIDI_MAN failed attack speed. CPS: 66.67, VL: 557
+[10/15/2024] [20:34:54] jewburner failed fabricated move, VL: 2
+[10/15/2024] [20:34:57] not_SKIBIDI_MAN failed attack speed. CPS: 40.0, VL: 791
+[10/15/2024] [20:35:03] not_SKIBIDI_MAN failed attack speed. CPS: 66.67, VL: 829
+[10/15/2024] [20:35:09] not_SKIBIDI_MAN failed attack speed. CPS: 66.67, VL: 895
+[10/15/2024] [20:35:14] not_SKIBIDI_MAN failed attack speed. CPS: 50.0, VL: 948
+[10/15/2024] [20:37:47] Wonder failed ground spoof. VL: 3
+[10/15/2024] [20:38:05] John_Minec_aft failed fabricated move, VL: 2
+[10/15/2024] [20:39:14] the_sigma failed fly, VL: 10
+[10/15/2024] [20:39:19] the_sigma failed fly, VL: 60
+[10/15/2024] [20:39:24] the_sigma failed fly, VL: 110
+[10/15/2024] [20:39:29] the_sigma failed fly, VL: 159
+[10/15/2024] [20:39:34] the_sigma failed fly, VL: 209
+[10/15/2024] [20:39:40] the_sigma failed fly, VL: 259
+[10/15/2024] [20:39:45] the_sigma failed fly, VL: 310
+[10/15/2024] [20:39:51] kingnigga may be using anti-velocity (basic), VL: 5
+[10/15/2024] [20:39:53] kingnigga failed fly, VL: 10
+[10/15/2024] [20:40:26] kingnigga may be using anti-velocity (basic), VL: 10
+[10/15/2024] [20:40:29] kingnigga failed fly, VL: 11
+[10/15/2024] [20:41:07] the_sigma failed fly, VL: 205
+[10/15/2024] [23:35:54] John_Minecraft failed fabricated move, VL: 2
+[10/15/2024] [23:37:31] John_Minecraft failed fabricated move, VL: 2
