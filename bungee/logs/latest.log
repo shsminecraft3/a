@@ -431,3 +431,10 @@
 [04:19:13] [Netty Worker IO Thread #0/WARN]: Error occurred processing connection for Steven AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
 [04:19:13] [Netty Worker IO Thread #0/INFO]: [Steven] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
 [04:19:13] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:40694|Steven] -> UpstreamBridge has disconnected
+[04:19:18] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:53786]: Connected via websocket
+[04:19:18] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:53786]: Origin header is null
+[04:19:18] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:53786]: Logged in as 'Steven'
+[04:19:18] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:53786|Steven] -> UpstreamBridge has connected
+[04:19:18] [Netty Worker IO Thread #0/WARN]: Error occurred processing connection for Steven AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[04:19:18] [Netty Worker IO Thread #0/INFO]: [Steven] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[04:19:18] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:53786|Steven] -> UpstreamBridge has disconnected
