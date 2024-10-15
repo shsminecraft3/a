@@ -325,3 +325,10 @@ Caused by: java.util.zip.ZipException: zip END header not found
 
 [01:24:05] [Server thread/INFO]: There are 1/20000 players online:
 [01:24:05] [Server thread/INFO]: Curry_Muncher
+[01:25:41] [Server thread/INFO]: Curry_Muncher lost connection: Disconnected
+[01:25:41] [Server thread/INFO]: Curry_Muncher left the game.
+[01:30:55] [Thread-13/INFO]: UUID of player mason is 905956b9-1794-36a8-861a-4904eae0994d
+[01:30:55] [Server thread/INFO]: mason[/[0:0:0:0:0:0:0:1]:35038] logged in with entity id 5581 at ([world]128.06947429264824, 76.0, 1237.2247223953832)
+[01:30:56] [Craft Scheduler Thread - 9/INFO]: [0;31;1mWarning: mason has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein, IhaveaDUI_547, evan_j, DashingsMomIsHot, your_mom_lol, Wonder, YungBiggaNIgga, Shithead, Popbob, NeedHemroidCream[m
+
