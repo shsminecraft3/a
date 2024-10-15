@@ -522,3 +522,17 @@
 [04:21:24] [Netty Worker IO Thread #1/WARN]: Error occurred processing connection for Steve AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
 [04:21:24] [Netty Worker IO Thread #1/INFO]: [Steve] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
 [04:21:24] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:41742|Steve] -> UpstreamBridge has disconnected
+[04:23:28] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:32926]: Connected via websocket
+[04:23:28] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:32926]: Origin header is http://localhost:8081
+[04:23:29] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:32926]: Logged in as 'Steve'
+[04:23:29] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:32926|Steve] -> UpstreamBridge has connected
+[04:23:29] [Netty Worker IO Thread #3/WARN]: Error occurred processing connection for Steve AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[04:23:29] [Netty Worker IO Thread #3/INFO]: [Steve] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[04:23:29] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:32926|Steve] -> UpstreamBridge has disconnected
+[04:23:31] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:32942]: Connected via websocket
+[04:23:31] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:32942]: Origin header is null
+[04:23:31] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:32942]: Logged in as 'Danny'
+[04:23:31] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:32942|Danny] -> UpstreamBridge has connected
+[04:23:31] [Netty Worker IO Thread #0/WARN]: Error occurred processing connection for Danny AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[04:23:31] [Netty Worker IO Thread #0/INFO]: [Danny] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[04:23:31] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:32942|Danny] -> UpstreamBridge has disconnected
