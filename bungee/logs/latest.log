@@ -536,3 +536,17 @@
 [04:23:31] [Netty Worker IO Thread #0/WARN]: Error occurred processing connection for Danny AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
 [04:23:31] [Netty Worker IO Thread #0/INFO]: [Danny] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
 [04:23:31] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:32942|Danny] -> UpstreamBridge has disconnected
+[04:24:04] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35206]: Connected via websocket
+[04:24:04] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35206]: Origin header is http://localhost:8081
+[04:24:04] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35206]: Logged in as 'jewburner'
+[04:24:04] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:35206|jewburner] -> UpstreamBridge has connected
+[04:24:04] [Netty Worker IO Thread #2/WARN]: Error occurred processing connection for jewburner AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[04:24:04] [Netty Worker IO Thread #2/INFO]: [jewburner] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[04:24:04] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:35206|jewburner] -> UpstreamBridge has disconnected
+[04:24:07] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35218]: Connected via websocket
+[04:24:07] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35218]: Origin header is http://localhost:8081
+[04:24:07] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35218]: Logged in as 'jewburner'
+[04:24:07] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:35218|jewburner] -> UpstreamBridge has connected
+[04:24:07] [Netty Worker IO Thread #0/WARN]: Error occurred processing connection for jewburner AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[04:24:07] [Netty Worker IO Thread #0/INFO]: [jewburner] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[04:24:07] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:35218|jewburner] -> UpstreamBridge has disconnected
