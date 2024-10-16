@@ -339,3 +339,21 @@
 [10/16/2024] [03:09:22] Curry_Muncher failed fly, VL: 10
 [10/16/2024] [03:09:41] Curry_Muncher failed fly, VL: 10
 [10/16/2024] [03:15:55] skib_rzz failed fly, VL: 10
+[10/16/2024] [03:17:57] ChaiTea failed ground spoof. VL: 3
+[10/16/2024] [03:25:57] Wonder failed fabricated move, VL: 2
+[10/16/2024] [03:26:04] Wonder failed ground spoof. VL: 3
+[10/16/2024] [03:38:08] jewburner failed movement speed, VL: 6
+[10/16/2024] [03:39:39] JohannMinecraft failed movement speed, VL: 5
+[10/16/2024] [03:46:44] JohannMinecraft failed movement speed, VL: 5
+[10/16/2024] [03:52:30] jewburner failed ground spoof. VL: 3
+[10/16/2024] [03:52:44] jewburner failed ground spoof. VL: 3
+[10/16/2024] [03:53:00] jewburner failed ground spoof. VL: 3
+[10/16/2024] [04:02:15] ECLIPCE12 failed movement speed, VL: 8
+[10/16/2024] [04:02:20] ECLIPCE12 failed movement speed, VL: 10
+[10/16/2024] [04:03:34] jewburner failed inventory-actions, VL: 5
+[10/16/2024] [04:13:28] jewburner failed fabricated move, VL: 2
+[10/16/2024] [04:14:04] jewburner failed ground spoof. VL: 3
+[10/16/2024] [04:28:14] jewburner failed fabricated move, VL: 2
+[10/16/2024] [04:28:19] jewburner failed inventory-actions, VL: 5
+[10/16/2024] [04:28:25] jewburner failed inventory-actions, VL: 40
+[10/16/2024] [04:30:22] jewburner failed block break speed. Block: QUARTZ_ORE, Speed: 2.31x, VL: 10
