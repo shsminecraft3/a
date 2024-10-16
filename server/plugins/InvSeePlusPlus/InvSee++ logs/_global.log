@@ -334,3 +334,21 @@ Spectator Name: BaconMania
 Taken         : []
 Given         : [IRON_SPADE x 1, IRON_AXE x 1, SEEDS x 32]
 Target        : Bakery_Bakery_
+[2024-10-16 22:41:05] [INFO]:
+Spectator UUID: 94cc9361-df90-3d70-a09d-55ea0279e1a1
+Spectator Name: BaconMania
+Taken         : []
+Given         : [DIAMOND_BOOTS x 1, DIAMOND_LEGGINGS x 1, DIAMOND_CHESTPLATE x 1, DIAMOND_HELMET x 1]
+Target        : cocaine
+[2024-10-16 22:42:45] [INFO]:
+Spectator UUID: 94cc9361-df90-3d70-a09d-55ea0279e1a1
+Spectator Name: BaconMania
+Taken         : [DIAMOND_BOOTS x 1, DIAMOND_CHESTPLATE x 1, DIAMOND_LEGGINGS x 1, DIAMOND_HELMET x 1]
+Given         : []
+Target        : cocaine
+[2024-10-16 22:43:28] [INFO]:
+Spectator UUID: 94cc9361-df90-3d70-a09d-55ea0279e1a1
+Spectator Name: BaconMania
+Taken         : []
+Given         : [DIAMOND_BOOTS x 1, DIAMOND_CHESTPLATE x 1, DIAMOND_LEGGINGS x 1, DIAMOND_HELMET x 1, GRILLED_PORK x 16]
+Target        : cocaine

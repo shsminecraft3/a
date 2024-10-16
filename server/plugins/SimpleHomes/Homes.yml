@@ -115,6 +115,11 @@ the_sigma:
     X: 404.5
     Y: 65.0
     Z: 408.5
+  lincoln:
+    world: world
+    X: 190.92364130748456
+    Y: 81.0
+    Z: 837.0639205753721
 your_mom_lol:
   <home>:
     world: world
