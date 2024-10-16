@@ -9331,3 +9331,15 @@ java.lang.RuntimeException: The received string length is longer than maximum al
 
 [04:45:11] [Netty Server IO #2/WARN]: [Hawk] Failed command execution: Invalid command syntax in fly configuration!
 [04:45:16] [Netty Server IO #2/WARN]: [Hawk] Failed command execution: Invalid command syntax in fly configuration!
+[04:49:17] [Server thread/INFO]: Danny issued server command: /home home
+[04:49:28] [Netty Server IO #2/WARN]: [Hawk] Failed command execution: Invalid command syntax in fly configuration!
+[04:49:57] [Server thread/INFO]: Danny issued server command: /home old
+[04:50:06] [Netty Server IO #2/WARN]: [Hawk] Failed command execution: Invalid command syntax in fly configuration!
+[04:51:42] [Server thread/INFO]: Danny issued server command: /home home
+[04:51:53] [Netty Server IO #2/WARN]: [Hawk] Failed command execution: Invalid command syntax in fly configuration!
+[04:53:26] [Netty Server IO #2/WARN]: [Hawk] Failed command execution: Invalid command syntax in fly configuration!
+[04:53:33] [Server thread/INFO]: Danny issued server command: /home old
+[04:53:38] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mDanny [0;36;1mfailed [0;37;1mSimulation [0;37;1m(x[0;31;1m2[0;37;1m) [0;37;22m.076440 /gl 1[m
+
+[04:53:45] [Netty Server IO #2/WARN]: [Hawk] Failed command execution: Invalid command syntax in fly configuration!
+[04:53:47] [Netty Server IO #2/WARN]: [Hawk] Failed command execution: Invalid command syntax in fly configuration!
