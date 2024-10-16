@@ -8,7 +8,6 @@
 # IRC: #paperspigot @ irc.spi.gt ( http://irc.spi.gt/iris/?channels=PaperSpigot )
 
 config-version: 9
-data-value-allowed-items: []
 settings:
   baby-zombie-movement-speed: 0.5
   limit-player-interactions: true
@@ -20,9 +19,12 @@ stackable-buckets:
   water: false
   milk: false
 warnWhenSettingExcessiveVelocity: true
+data-value-allowed-items: []
 world-settings:
   default:
     verbose: true
+    cache-chunk-maps: false
+    remove-invalid-mob-spawner-tile-entities: true
     generator-settings:
       canyon: true
       caves: true
@@ -36,8 +38,6 @@ world-settings:
       flat-bedrock: false
     allow-block-location-tab-completion: true
     disable-teleportation-suffocation-check: false
-    cache-chunk-maps: false
-    remove-invalid-mob-spawner-tile-entities: true
     player-blocking-damage-multiplier: 0.5
     optimize-explosions: false
     mob-spawner-tick-rate: 1

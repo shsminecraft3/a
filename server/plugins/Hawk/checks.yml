@@ -40,7 +40,8 @@ fly:
   flagThreshold: 10
   vlPassMultiplier: 0.995
   flagCooldown: 5000
-  punishCommands: []
+  punishCommands:
+  - tempban %player% 1h flight is not allowed on this server!
 step:
   enabled: true
   cancelThreshold: 0
@@ -54,7 +55,8 @@ blockbreakspeedsurvival:
   flagThreshold: 10
   vlPassMultiplier: 0.99
   flagCooldown: 5000
-  punishCommands: []
+  punishCommands:
+  - tempban %player% 5m breaking blocks too quickly
   checkOnGround: false
   flagSameTick: true
 inertia:
@@ -152,7 +154,8 @@ entityinteractreach:
   flagThreshold: 5
   vlPassMultiplier: 0.9
   flagCooldown: 5000
-  punishCommands: []
+  punishCommands:
+  - kick %player% too far from entity to interact!
   maxReach: 3.1
   maxReachCreative: 5.0
   pingLimit: -1
@@ -186,7 +189,8 @@ blockplacespeed:
   flagThreshold: 5
   vlPassMultiplier: 0.9
   flagCooldown: 5000
-  punishCommands: []
+  punishCommands:
+  - tempban %player% 5m placing blocks too quickly!
 wrongblockface:
   enabled: true
   cancelThreshold: 0
@@ -221,7 +225,8 @@ speed:
   flagThreshold: 5
   vlPassMultiplier: 0.99
   flagCooldown: 5000
-  punishCommands: []
+  punishCommands:
+  - kick %player% slow down!
   discrepancyThreshold: 0.1
   vlFailDiscrepancyFactor: 10.0
   resetDiscrepancyOnFail: true

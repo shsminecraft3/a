@@ -226,3 +226,116 @@
 [10/16/2024] [00:46:40] DANKBEEF failed invalid placement, VL: 1
 [10/16/2024] [00:55:40] Curry_Muncher failed fly, VL: 10
 [10/16/2024] [00:55:56] Wonder failed ground spoof. VL: 3
+[10/16/2024] [01:08:15] Wonder failed ground spoof. VL: 6
+[10/16/2024] [01:13:01] Curry_Muncher failed fly, VL: 10
+[10/16/2024] [01:13:09] Curry_Muncher failed fly, VL: 11
+[10/16/2024] [01:15:31] John_Minecraft failed fabricated move, VL: 2
+[10/16/2024] [01:20:43] BioCat3_ failed ground spoof. VL: 3
+[10/16/2024] [01:21:39] Wonder failed ground spoof. VL: 3
+[10/16/2024] [01:24:40] John_Minecraft failed fabricated move, VL: 2
+[10/16/2024] [01:26:24] John_Minecraft failed fabricated move, VL: 2
+[10/16/2024] [01:58:37] Wonder failed ground spoof. VL: 3
+[10/16/2024] [02:01:45] b__ failed noswing. VL: 5
+[10/16/2024] [02:01:46] b__ failed attack speed. CPS: 20.0, VL: 5
+[10/16/2024] [02:03:10] Wonder failed fabricated move, VL: 2
+[10/16/2024] [02:04:41] b__ failed noswing. VL: 5
+[10/16/2024] [02:04:42] b__ failed attack speed. CPS: 18.18, VL: 5
+[10/16/2024] [02:05:01] Wonder failed fabricated move, VL: 2
+[10/16/2024] [02:05:35] Wonder failed fabricated move, VL: 2
+[10/16/2024] [02:06:00] Wonder failed fabricated move, VL: 3
+[10/16/2024] [02:06:18] Wonder failed fabricated move, VL: 4
+[10/16/2024] [02:06:41] Wonder failed fabricated move, VL: 6
+[10/16/2024] [02:09:03] Wonder failed fabricated move, VL: 2
+[10/16/2024] [02:11:51] Wonder failed ground spoof. VL: 3
+[10/16/2024] [02:15:08] b__ failed strafe, VL: 5
+[10/16/2024] [02:15:09] b__ failed fly, VL: 10
+[10/16/2024] [02:15:16] b__ failed fly, VL: 15
+[10/16/2024] [02:15:18] b__ failed strafe, VL: 6
+[10/16/2024] [02:15:24] b__ failed fly, VL: 18
+[10/16/2024] [02:15:31] b__ failed fly, VL: 27
+[10/16/2024] [02:15:31] b__ failed fabricated move, VL: 2
+[10/16/2024] [02:15:31] b__ failed strafe, VL: 5
+[10/16/2024] [02:15:36] b__ failed fly, VL: 27
+[10/16/2024] [02:15:38] b__ failed fabricated move, VL: 3
+[10/16/2024] [02:15:41] b__ failed fly, VL: 38
+[10/16/2024] [02:15:41] b__ failed strafe, VL: 5
+[10/16/2024] [02:15:46] b__ failed fly, VL: 54
+[10/16/2024] [02:16:32] b__ failed fly, VL: 10
+[10/16/2024] [02:16:32] b__ failed strafe, VL: 5
+[10/16/2024] [02:16:38] ChaiTea failed inventory-actions, VL: 5
+[10/16/2024] [02:16:38] ChaiTea failed movement speed, VL: 7
+[10/16/2024] [02:17:09] b__ failed attack speed. CPS: 18.18, VL: 5
+[10/16/2024] [02:17:15] b__ failed attack speed. CPS: 20.0, VL: 55
+[10/16/2024] [02:17:55] b__ failed fly, VL: 17
+[10/16/2024] [02:17:58] b__ failed sprint direction, VL 5
+[10/16/2024] [02:18:05] b__ failed sprint direction, VL 5
+[10/16/2024] [02:18:12] b__ failed sprint direction, VL 7
+[10/16/2024] [02:18:18] b__ failed sprint direction, VL 10
+[10/16/2024] [02:18:24] b__ failed sprint direction, VL 11
+[10/16/2024] [02:18:27] b__ failed fly, VL: 16
+[10/16/2024] [02:18:27] b__ failed fabricated move, VL: 2
+[10/16/2024] [02:18:32] b__ failed fly, VL: 59
+[10/16/2024] [02:19:00] b__ failed ground spoof. VL: 3
+[10/16/2024] [02:19:08] b__ failed ground spoof. VL: 5
+[10/16/2024] [02:19:13] b__ failed ground spoof. VL: 7
+[10/16/2024] [02:19:21] b__ failed fly, VL: 63
+[10/16/2024] [02:19:21] b__ failed fabricated move, VL: 2
+[10/16/2024] [02:19:29] b__ failed fabricated move, VL: 3
+[10/16/2024] [02:19:38] b__ failed ground spoof. VL: 4
+[10/16/2024] [02:19:57] b__ failed block break speed. Block: DIRT, Speed: 7.5x, VL: 17
+[10/16/2024] [02:20:02] b__ failed ground spoof. VL: 6
+[10/16/2024] [02:20:07] b__ failed ground spoof. VL: 10
+[10/16/2024] [02:20:15] b__ failed invalid placement, VL: 1
+[10/16/2024] [02:20:16] b__ failed ground spoof. VL: 11
+[10/16/2024] [02:20:18] b__ failed fly, VL: 21
+[10/16/2024] [02:20:20] b__ failed strafe, VL: 5
+[10/16/2024] [02:20:24] b__ failed fly, VL: 27
+[10/16/2024] [02:20:29] b__ failed fly, VL: 25
+[10/16/2024] [02:20:34] b__ failed fly, VL: 23
+[10/16/2024] [02:20:39] b__ failed fly, VL: 28
+[10/16/2024] [02:25:12] b__ failed fly, VL: 10
+[10/16/2024] [02:25:18] b__ failed fly, VL: 33
+[10/16/2024] [02:25:19] b__ failed fabricated move, VL: 2
+[10/16/2024] [02:29:22] b__ failed invalid placement, VL: 1
+[10/16/2024] [02:29:27] b__ failed invalid placement, VL: 8
+[10/16/2024] [02:41:01] ChaiTea failed block break speed. Block: WOOD, Speed: 5.0x, VL: 10
+[10/16/2024] [02:41:11] ChaiTea failed block break speed. Block: WOOD, Speed: 2.5x, VL: 20
+[10/16/2024] [02:41:19] ChaiTea failed block break speed. Block: WOOD, Speed: 2.5x, VL: 30
+[10/16/2024] [02:47:24] ChaiTea failed ground spoof. VL: 3
+[10/16/2024] [02:54:03] Curry_Muncher failed ground spoof. VL: 3
+[10/16/2024] [02:54:24] ChaiTea failed ground spoof. VL: 3
+[10/16/2024] [02:54:29] ChaiTea failed ground spoof. VL: 23
+[10/16/2024] [02:54:30] ChaiTea failed phase. Moved through COBBLESTONE_STAIRS. VL: 10
+[10/16/2024] [02:54:34] ChaiTea failed ground spoof. VL: 38
+[10/16/2024] [02:54:38] ChaiTea failed phase. Moved through COBBLESTONE_STAIRS. VL: 12
+[10/16/2024] [02:54:39] ChaiTea failed ground spoof. VL: 48
+[10/16/2024] [02:54:42] ChaiTea failed fly, VL: 10
+[10/16/2024] [02:54:43] ChaiTea failed phase. Moved through COBBLESTONE_STAIRS. VL: 35
+[10/16/2024] [02:54:45] ChaiTea failed ground spoof. VL: 37
+[10/16/2024] [02:54:51] ChaiTea failed ground spoof. VL: 51
+[10/16/2024] [02:54:53] ChaiTea failed phase. Moved through COBBLESTONE_STAIRS. VL: 55
+[10/16/2024] [02:54:53] ChaiTea failed fly, VL: 12
+[10/16/2024] [02:54:56] ChaiTea failed ground spoof. VL: 43
+[10/16/2024] [02:55:01] ChaiTea failed ground spoof. VL: 56
+[10/16/2024] [02:55:05] ChaiTea failed phase. Moved through COBBLESTONE_STAIRS. VL: 83
+[10/16/2024] [02:55:05] ChaiTea failed fly, VL: 10
+[10/16/2024] [02:55:06] ChaiTea failed ground spoof. VL: 61
+[10/16/2024] [02:55:11] ChaiTea failed ground spoof. VL: 70
+[10/16/2024] [02:55:16] ChaiTea failed ground spoof. VL: 77
+[10/16/2024] [02:55:21] ChaiTea failed phase. Moved through COBBLESTONE_STAIRS. VL: 89
+[10/16/2024] [02:55:21] ChaiTea failed ground spoof. VL: 79
+[10/16/2024] [02:55:24] ChaiTea failed fly, VL: 10
+[10/16/2024] [02:55:27] ChaiTea failed ground spoof. VL: 67
+[10/16/2024] [02:55:30] ChaiTea failed phase. Moved through COBBLESTONE_STAIRS. VL: 117
+[10/16/2024] [02:55:32] ChaiTea failed ground spoof. VL: 74
+[10/16/2024] [02:55:37] ChaiTea failed ground spoof. VL: 79
+[10/16/2024] [02:55:42] ChaiTea failed ground spoof. VL: 84
+[10/16/2024] [02:55:47] ChaiTea failed ground spoof. VL: 87
+[10/16/2024] [03:00:29] Curry_Muncher failed strafe, VL: 5
+[10/16/2024] [03:00:43] Curry_Muncher failed strafe, VL: 5
+[10/16/2024] [03:03:25] Curry_Muncher failed fly, VL: 10
+[10/16/2024] [03:04:01] Curry_Muncher failed fly, VL: 10
+[10/16/2024] [03:04:01] Curry_Muncher failed movement speed, VL: 5
+[10/16/2024] [03:09:22] Curry_Muncher failed fly, VL: 10
+[10/16/2024] [03:09:41] Curry_Muncher failed fly, VL: 10
+[10/16/2024] [03:15:55] skib_rzz failed fly, VL: 10
