@@ -23,6 +23,8 @@ warnWhenSettingExcessiveVelocity: true
 world-settings:
   default:
     verbose: true
+    cache-chunk-maps: false
+    remove-invalid-mob-spawner-tile-entities: true
     generator-settings:
       canyon: true
       caves: true
@@ -36,8 +38,6 @@ world-settings:
       flat-bedrock: false
     allow-block-location-tab-completion: true
     disable-teleportation-suffocation-check: false
-    cache-chunk-maps: false
-    remove-invalid-mob-spawner-tile-entities: true
     player-blocking-damage-multiplier: 0.5
     optimize-explosions: false
     mob-spawner-tick-rate: 1
