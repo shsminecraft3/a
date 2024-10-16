@@ -30,3 +30,27 @@
 [00:35:30] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:33874|ChaiTea] -> UpstreamBridge has disconnected
 [00:35:30] [Netty Worker IO Thread #0/INFO]: [ChaiTea] disconnected with: Proxy lost connection to server.
 [00:35:30] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:33874|ChaiTea] <-> DownstreamBridge <-> [lobby] has disconnected
+[00:55:16] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:58990|DANKBEEF] -> UpstreamBridge has disconnected
+[00:55:16] [Netty Worker IO Thread #3/INFO]: [DANKBEEF] disconnected with: Proxy lost connection to server.
+[00:55:16] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:58990|DANKBEEF] <-> DownstreamBridge <-> [lobby] has disconnected
+[00:55:17] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:40618]: Connected via websocket
+[00:55:17] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:40618]: Origin header is http://localhost:8081
+[00:55:17] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:40618]: Logged in as 'Curry_Muncher'
+[00:55:17] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:40618|Curry_Muncher] -> UpstreamBridge has connected
+[00:55:17] [Netty Worker IO Thread #2/INFO]: [Curry_Muncher|/[0:0:0:0:0:0:0:1%0]:40618] <-> ServerConnector [lobby] has connected
+[00:55:17] [Netty Worker IO Thread #2/INFO]: [Curry_Muncher] disconnected with: Internal server error
+[00:55:17] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:40618|Curry_Muncher] -> UpstreamBridge has disconnected
+[00:55:17] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:40618|Curry_Muncher] <-> DownstreamBridge <-> [lobby] has disconnected
+[00:55:21] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:40628]: Connected via websocket
+[00:55:21] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:40628]: Origin header is http://localhost:8081
+[00:55:21] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:40628]: Logged in as 'Curry_Muncher'
+[00:55:21] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:40628|Curry_Muncher] -> UpstreamBridge has connected
+[00:55:21] [Netty Worker IO Thread #3/INFO]: [Curry_Muncher|/[0:0:0:0:0:0:0:1%0]:40628] <-> ServerConnector [lobby] has connected
+[00:55:21] [Netty Worker IO Thread #3/INFO]: [Curry_Muncher] disconnected with: Internal server error
+[00:55:21] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:40628|Curry_Muncher] -> UpstreamBridge has disconnected
+[00:55:21] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:40628|Curry_Muncher] <-> DownstreamBridge <-> [lobby] has disconnected
+[00:55:24] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:40640]: Connected via websocket
+[00:55:24] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:40640]: Origin header is http://localhost:8081
+[00:55:24] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:40640]: Logged in as 'Curry_Muncher'
+[00:55:24] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:40640|Curry_Muncher] -> UpstreamBridge has connected
+[00:55:24] [Netty Worker IO Thread #0/INFO]: [Curry_Muncher|/[0:0:0:0:0:0:0:1%0]:40640] <-> ServerConnector [lobby] has connected

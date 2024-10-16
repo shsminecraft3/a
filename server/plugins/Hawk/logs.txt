@@ -222,3 +222,7 @@
 [10/16/2024] [00:35:12] BioCat3_ failed fly, VL: 10
 [10/16/2024] [00:35:20] BioCat3_ failed fly, VL: 13
 [10/16/2024] [00:41:20] Wonder failed ground spoof. VL: 3
+[10/16/2024] [00:45:17] DANKBEEF failed block break speed. Block: LOG, Speed: 5.0x, VL: 10
+[10/16/2024] [00:46:40] DANKBEEF failed invalid placement, VL: 1
+[10/16/2024] [00:55:40] Curry_Muncher failed fly, VL: 10
+[10/16/2024] [00:55:56] Wonder failed ground spoof. VL: 3
