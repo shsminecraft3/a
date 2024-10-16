@@ -213,3 +213,12 @@
 [10/15/2024] [20:41:07] the_sigma failed fly, VL: 205
 [10/15/2024] [23:35:54] John_Minecraft failed fabricated move, VL: 2
 [10/15/2024] [23:37:31] John_Minecraft failed fabricated move, VL: 2
+[10/16/2024] [00:08:27] BioCat3_ failed movement speed, VL: 5
+[10/16/2024] [00:18:40] Wonder failed fabricated move, VL: 2
+[10/16/2024] [00:29:45] Wonder failed ground spoof. VL: 3
+[10/16/2024] [00:32:40] BioCat3_ failed block break speed. Block: STONE, Speed: 9.223372036854776E16x, VL: 10
+[10/16/2024] [00:34:53] BioCat3_ failed fly, VL: 10
+[10/16/2024] [00:34:53] BioCat3_ failed movement speed, VL: 5
+[10/16/2024] [00:35:12] BioCat3_ failed fly, VL: 10
+[10/16/2024] [00:35:20] BioCat3_ failed fly, VL: 13
+[10/16/2024] [00:41:20] Wonder failed ground spoof. VL: 3
