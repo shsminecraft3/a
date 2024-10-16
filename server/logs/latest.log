@@ -11683,3 +11683,10 @@ java.lang.RuntimeException: The received string length is longer than maximum al
 [20:13:22] [Server thread/INFO]: diddy left the game.
 [20:13:29] [Server thread/INFO]: jewburner lost connection: Disconnected
 [20:13:29] [Server thread/INFO]: jewburner left the game.
+[20:13:35] [Thread-99/WARN]: [LuckPerms] LuckPerms already has data for player 'danny' - but this data is stored under a different UUID.
+[20:13:35] [Thread-99/WARN]: [LuckPerms] 'danny' has previously used the unique ids [ddcda591-f59a-39fa-ae6e-6744024d2256] but is now connecting with '25794ea1-2094-3d94-9065-7d501471d49c'
+[20:13:35] [Thread-99/WARN]: [LuckPerms] The UUID the player is connecting with now is NOT Mojang-assigned (type 3). This implies that THIS server is not authenticating correctly, but one (or more) of the other servers/proxies in the network are.
+[20:13:35] [Thread-99/WARN]: [LuckPerms] If you're using BungeeCord/Velocity, please ensure that IP-Forwarding is setup correctly on all of your backend servers!
+[20:13:35] [Thread-99/WARN]: [LuckPerms] See here for more info: https://luckperms.net/wiki/Network-Installation#pre-setup
+[20:13:35] [Thread-99/INFO]: Disconnecting com.mojang.authlib.GameProfile@8916af4[id=25794ea1-2094-3d94-9065-7d501471d49c,name=danny,properties={textures=[com.mojang.authlib.properties.Property@7b618d34], isEaglerPlayer=[com.mojang.authlib.properties.Property@6d747bfd]},legacy=false] (/[0:0:0:0:0:0:0:1]:58608): [LoginSecurity] This account is registered under the name Danny, please log in as such.
+[20:13:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@8916af4[id=25794ea1-2094-3d94-9065-7d501471d49c,name=danny,properties={textures=[com.mojang.authlib.properties.Property@7b618d34], isEaglerPlayer=[com.mojang.authlib.properties.Property@6d747bfd]},legacy=false] (/[0:0:0:0:0:0:0:1]:58608) lost connection: [LoginSecurity] This account is registered under the name Danny, please log in as such.

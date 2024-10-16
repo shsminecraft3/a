@@ -1148,3 +1148,11 @@ It expires in 23 hours 56 minutes 25 seconds
 [20:13:29] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:49816|jewburner] -> UpstreamBridge has disconnected
 [20:13:29] [Netty Worker IO Thread #1/INFO]: [jewburner] disconnected with: Proxy lost connection to server.
 [20:13:29] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:49816|jewburner] <-> DownstreamBridge <-> [lobby] has disconnected
+[20:13:35] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45768]: Connected via websocket
+[20:13:35] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45768]: Origin header is http://localhost:8081
+[20:13:35] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45768]: Logged in as 'danny'
+[20:13:35] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:45768|danny] -> UpstreamBridge has connected
+[20:13:35] [Netty Worker IO Thread #1/INFO]: [danny|/[0:0:0:0:0:0:0:1%0]:45768] <-> ServerConnector [lobby] has connected
+[20:13:35] [Netty Worker IO Thread #1/INFO]: [danny] disconnected with: Kicked whilst connecting to lobby: [LoginSecurity] This account is registered under the name Danny, please log in as such.
+[20:13:35] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:45768|danny] -> UpstreamBridge has disconnected
+[20:13:35] [Netty Worker IO Thread #1/INFO]: [danny|/[0:0:0:0:0:0:0:1%0]:45768] <-> ServerConnector [lobby] has disconnected
