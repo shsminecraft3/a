@@ -631,3 +631,101 @@ It expires in 6 minutes 13 seconds
 [22:56:49] [Netty Worker IO Thread #0/WARN]: Error occurred processing connection for jewburner AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
 [22:56:49] [Netty Worker IO Thread #0/INFO]: [jewburner] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
 [22:56:49] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:36588|jewburner] -> UpstreamBridge has disconnected
+[22:56:50] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36592]: Connected via websocket
+[22:56:50] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36592]: Origin header is http://localhost:8081
+[22:56:50] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36592]: Logged in as 'jewburner'
+[22:56:50] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:36592|jewburner] -> UpstreamBridge has connected
+[22:56:50] [Netty Worker IO Thread #1/WARN]: Error occurred processing connection for jewburner AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[22:56:50] [Netty Worker IO Thread #1/INFO]: [jewburner] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[22:56:50] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:36592|jewburner] -> UpstreamBridge has disconnected
+[22:56:53] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36606]: Connected via websocket
+[22:56:53] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36606]: Origin header is http://localhost:8081
+[22:56:53] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36606]: Logged in as 'THEYLUV_FLASHY'
+[22:56:53] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:36606|THEYLUV_FLASHY] -> UpstreamBridge has connected
+[22:56:53] [Netty Worker IO Thread #3/WARN]: Error occurred processing connection for THEYLUV_FLASHY AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[22:56:53] [Netty Worker IO Thread #3/INFO]: [THEYLUV_FLASHY] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[22:56:53] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:36606|THEYLUV_FLASHY] -> UpstreamBridge has disconnected
+[22:56:55] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36620]: Connected via websocket
+[22:56:55] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36620]: Origin header is http://localhost:8081
+[22:56:55] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36620]: Logged in as 'jewburner'
+[22:56:55] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:36620|jewburner] -> UpstreamBridge has connected
+[22:56:55] [Netty Worker IO Thread #0/WARN]: Error occurred processing connection for jewburner AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[22:56:55] [Netty Worker IO Thread #0/INFO]: [jewburner] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[22:56:55] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:36620|jewburner] -> UpstreamBridge has disconnected
+[22:56:55] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36628]: Connected via websocket
+[22:56:55] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36628]: Origin header is http://localhost:8081
+[22:56:55] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36628]: Logged in as 'THEYLUV_FLASHY'
+[22:56:55] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:36628|THEYLUV_FLASHY] -> UpstreamBridge has connected
+[22:56:55] [Netty Worker IO Thread #1/WARN]: Error occurred processing connection for THEYLUV_FLASHY AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[22:56:55] [Netty Worker IO Thread #1/INFO]: [THEYLUV_FLASHY] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[22:56:55] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:36628|THEYLUV_FLASHY] -> UpstreamBridge has disconnected
+[22:56:57] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59808]: Connected via websocket
+[22:56:57] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59808]: Origin header is http://localhost:8081
+[22:56:57] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59808]: Logged in as 'jewburner'
+[22:56:57] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:59808|jewburner] -> UpstreamBridge has connected
+[22:56:57] [Netty Worker IO Thread #2/WARN]: Error occurred processing connection for jewburner AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[22:56:57] [Netty Worker IO Thread #2/INFO]: [jewburner] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[22:56:57] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:59808|jewburner] -> UpstreamBridge has disconnected
+[22:56:58] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59820]: Connected via websocket
+[22:56:58] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59820]: Origin header is http://localhost:8081
+[22:56:58] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59820]: Logged in as 'jewburner'
+[22:56:58] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:59820|jewburner] -> UpstreamBridge has connected
+[22:56:58] [Netty Worker IO Thread #3/WARN]: Error occurred processing connection for jewburner AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[22:56:58] [Netty Worker IO Thread #3/INFO]: [jewburner] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[22:56:58] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:59820|jewburner] -> UpstreamBridge has disconnected
+[22:56:59] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59832]: Connected via websocket
+[22:56:59] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59832]: Origin header is http://localhost:8081
+[22:56:59] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59832]: Logged in as 'jewburner'
+[22:56:59] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:59832|jewburner] -> UpstreamBridge has connected
+[22:56:59] [Netty Worker IO Thread #0/WARN]: Error occurred processing connection for jewburner AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[22:56:59] [Netty Worker IO Thread #0/INFO]: [jewburner] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[22:56:59] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:59832|jewburner] -> UpstreamBridge has disconnected
+[22:57:01] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59840]: Connected via websocket
+[22:57:01] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59840]: Origin header is http://localhost:8081
+[22:57:01] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59840]: Logged in as 'jewburner'
+[22:57:01] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:59840|jewburner] -> UpstreamBridge has connected
+[22:57:01] [Netty Worker IO Thread #1/WARN]: Error occurred processing connection for jewburner AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[22:57:01] [Netty Worker IO Thread #1/INFO]: [jewburner] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[22:57:01] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:59840|jewburner] -> UpstreamBridge has disconnected
+[22:57:02] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59846]: Connected via websocket
+[22:57:02] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59846]: Origin header is http://localhost:8081
+[22:57:02] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59846]: Logged in as 'jewburner'
+[22:57:02] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:59846|jewburner] -> UpstreamBridge has connected
+[22:57:02] [Netty Worker IO Thread #3/WARN]: Error occurred processing connection for jewburner AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[22:57:02] [Netty Worker IO Thread #3/INFO]: [jewburner] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[22:57:02] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:59846|jewburner] -> UpstreamBridge has disconnected
+[22:57:02] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59854]: Connected via websocket
+[22:57:02] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59854]: Origin header is http://localhost:8081
+[22:57:02] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59854]: Logged in as 'John_Minecraft'
+[22:57:02] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:59854|John_Minecraft] -> UpstreamBridge has connected
+[22:57:02] [Netty Worker IO Thread #0/WARN]: Error occurred processing connection for John_Minecraft AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[22:57:02] [Netty Worker IO Thread #0/INFO]: [John_Minecraft] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[22:57:02] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:59854|John_Minecraft] -> UpstreamBridge has disconnected
+[22:57:03] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59868]: Connected via websocket
+[22:57:03] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59868]: Origin header is http://localhost:8081
+[22:57:03] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59868]: Logged in as 'jewburner'
+[22:57:03] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:59868|jewburner] -> UpstreamBridge has connected
+[22:57:03] [Netty Worker IO Thread #1/WARN]: Error occurred processing connection for jewburner AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[22:57:03] [Netty Worker IO Thread #1/INFO]: [jewburner] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[22:57:03] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:59868|jewburner] -> UpstreamBridge has disconnected
+[22:57:04] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59870]: Connected via websocket
+[22:57:04] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59870]: Origin header is http://localhost:8081
+[22:57:04] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59870]: Logged in as 'jewburner'
+[22:57:04] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:59870|jewburner] -> UpstreamBridge has connected
+[22:57:04] [Netty Worker IO Thread #2/WARN]: Error occurred processing connection for jewburner AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[22:57:04] [Netty Worker IO Thread #2/INFO]: [jewburner] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[22:57:04] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:59870|jewburner] -> UpstreamBridge has disconnected
+[22:57:05] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59876]: Connected via websocket
+[22:57:05] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59876]: Origin header is http://localhost:8081
+[22:57:05] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59876]: Logged in as 'jewburner'
+[22:57:05] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:59876|jewburner] -> UpstreamBridge has connected
+[22:57:05] [Netty Worker IO Thread #3/WARN]: Error occurred processing connection for jewburner AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[22:57:05] [Netty Worker IO Thread #3/INFO]: [jewburner] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[22:57:05] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:59876|jewburner] -> UpstreamBridge has disconnected
+[22:57:06] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:50932]: Connected via websocket
+[22:57:06] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:50932]: Origin header is http://localhost:8081
+[22:57:06] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:50932]: Logged in as 'jewburner'
+[22:57:06] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:50932|jewburner] -> UpstreamBridge has connected
+[22:57:06] [Netty Worker IO Thread #0/WARN]: Error occurred processing connection for jewburner AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[22:57:06] [Netty Worker IO Thread #0/INFO]: [jewburner] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[22:57:06] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:50932|jewburner] -> UpstreamBridge has disconnected
