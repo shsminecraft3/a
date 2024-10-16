@@ -163,3 +163,26 @@ John_Minec_raft:
     X: 143.30000001192093
     Y: 50.0
     Z: 176.69999998807907
+Jimmy_Green:
+  jimmy:
+    world: world
+    X: 41.30000001192094
+    Y: 75.0
+    Z: 432.1147404048033
+  Jimmy:
+    world: world
+    X: -28.385259906889825
+    Y: 38.0
+    Z: 428.6654553939727
+BedzGaming:
+  mine:
+    world: world
+    X: 221.86238129876355
+    Y: 69.0
+    Z: 69.01399745513999
+not_SKIBIDI_MAN:
+  (not_SKIBIDI_MAN):
+    world: world
+    X: 88.38162613692208
+    Y: 69.0
+    Z: 190.98198353807493
