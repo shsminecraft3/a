@@ -357,3 +357,34 @@
 [10/16/2024] [04:28:19] jewburner failed inventory-actions, VL: 5
 [10/16/2024] [04:28:25] jewburner failed inventory-actions, VL: 40
 [10/16/2024] [04:30:22] jewburner failed block break speed. Block: QUARTZ_ORE, Speed: 2.31x, VL: 10
+[10/16/2024] [05:23:01] John_Minec_aft failed fly, VL: 10
+[10/16/2024] [05:23:05] John_Minec_aft failed movement speed, VL: 5
+[10/16/2024] [05:23:06] John_Minec_aft failed fly, VL: 29
+[10/16/2024] [05:23:11] John_Minec_aft failed movement speed, VL: 5
+[10/16/2024] [05:23:12] John_Minec_aft failed fly, VL: 46
+[10/16/2024] [05:24:26] John_Minec_aft failed fly, VL: 19
+[10/16/2024] [05:24:32] John_Minec_aft failed fly, VL: 30
+[10/16/2024] [05:24:37] John_Minec_aft failed fly, VL: 40
+[10/16/2024] [05:24:42] John_Minec_aft failed fly, VL: 50
+[10/16/2024] [05:24:47] John_Minec_aft failed fly, VL: 59
+[10/16/2024] [05:24:53] John_Minec_aft failed fly, VL: 64
+[10/16/2024] [05:24:56] John_Minec_aft failed movement speed, VL: 5
+[10/16/2024] [05:24:58] John_Minec_aft failed fly, VL: 69
+[10/16/2024] [05:25:03] John_Minec_aft failed fly, VL: 77
+[10/16/2024] [05:25:09] John_Minec_aft failed fly, VL: 82
+[10/16/2024] [05:25:14] John_Minec_aft failed fly, VL: 89
+[10/16/2024] [05:25:40] John_Minec_aft failed fly, VL: 86
+[10/16/2024] [05:25:45] John_Minec_aft failed fly, VL: 87
+[10/16/2024] [05:27:47] John_Minec_aft failed fly, VL: 59
+[10/16/2024] [05:28:48] John_Minec_aft failed fly, VL: 42
+[10/16/2024] [05:32:29] John_Minec_aft failed fly, VL: 25
+[10/16/2024] [05:33:46] John_Minec_aft failed fly, VL: 25
+[10/16/2024] [05:38:59] John_Minec_aft failed ground spoof. VL: 3
+[10/16/2024] [05:46:07] John_Minec_aft failed fabricated move, VL: 2
+[10/16/2024] [05:58:27] Danny failed movement speed, VL: 6
+[10/16/2024] [06:05:01] g_adafsdfsafa failed movement speed, VL: 7
+[10/16/2024] [06:05:31] g_adafsdfsafa failed block break speed. Block: LOG, Speed: 15.0x, VL: 10
+[10/16/2024] [06:06:43] g_adafsdfsafa failed fly, VL: 10
+[10/16/2024] [06:06:46] g_adafsdfsafa failed fabricated move, VL: 2
+[10/16/2024] [06:06:48] g_adafsdfsafa failed fly, VL: 13
+[10/16/2024] [06:08:07] g_adafsdfsafa failed block break speed. Block: STONE, Speed: 9.223372036854776E16x, VL: 18
