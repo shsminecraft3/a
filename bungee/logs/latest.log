@@ -196,3 +196,6 @@
 [21:09:49] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:44026|John_Minecraft] -> UpstreamBridge has disconnected
 [21:09:49] [Netty Worker IO Thread #2/INFO]: [John_Minecraft] disconnected with: Proxy lost connection to server.
 [21:09:49] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:44026|John_Minecraft] <-> DownstreamBridge <-> [lobby] has disconnected
+[21:10:43] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:36642|THEYLUV_FLASHY] -> UpstreamBridge has disconnected
+[21:10:43] [Netty Worker IO Thread #0/INFO]: [THEYLUV_FLASHY] disconnected with: Proxy lost connection to server.
+[21:10:43] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:36642|THEYLUV_FLASHY] <-> DownstreamBridge <-> [lobby] has disconnected
