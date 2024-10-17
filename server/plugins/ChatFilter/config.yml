@@ -1,0 +1,75 @@
+# 
+#                                                                 #
+#                  ChatFilter config file                         #
+#                                                                 #
+#   If you need any support or have any problems feel free        #
+#   to join the support discord:                                  #
+#   https://discord.gg/VKCwEh94hN                                 #
+#                                                                 #
+#   https://github.com/A4Papers/ChatFilter                        #
+#                                                                 #
+locale: en
+settings:
+  blockFancyChat: true
+  antiRepeatEnabled: false
+  repeatDelay: 5
+  similarMessagePercent: 95%
+  deCap: false
+  capsAmount: 9999999999
+  allowURL: true
+  swearHighLight: '&c%catch%&r'
+antiSpam:
+  enable: false
+  aboveAmount: 4
+  replaceAmount: 4
+enableLeetSpeak: true
+URL_REGEX: ^((https?|ftp)://|(www|ftp)\\.)
+EventPriority:
+  SwearListener: HIGHEST
+  SignListener: NORMAL
+  RepeatCharListener: NORMAL
+  PauseChatListener: HIGHEST
+  CommandListener: NORMAL
+  ChatDelayListener: NORMAL
+  CapsListener: NORMAL
+  BookListener: NORMAL
+  AdvilListener: NORMAL
+perWordOptions:
+  enabled: true
+  nameOfList: PresetWordsList
+default:
+  word:
+    Enabled: true
+    Warn:
+      Staff: true
+      Player: true
+      Console: true
+    CancelChat:
+      Cancel: true
+      Replace: false
+      ReplaceWith: Cookies
+    Action:
+    - none
+  ip:
+    Enabled: true
+    Warn:
+      Staff: true
+      Player: true
+      Console: true
+    CancelChat:
+      Cancel: true
+      Replace: false
+      ReplaceWith: Cookies
+    Action:
+    - none
+checkCommands: false
+commands:
+  command-name-here:
+    swear: false
+    ip: true
+  msg:
+    swear: false
+    ip: true
+  r:
+    swear: false
+    ip: true
