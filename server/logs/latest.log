@@ -113,3 +113,53 @@ java.lang.RuntimeException: The received string length is longer than maximum al
 
 [00:08:22] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mjamtart [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m20[0;37;1m) [0;37;22mheld item change v1.8[m
 
+[00:10:05] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mTHEYLUV_FLASHY [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m80[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[00:10:05] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mTHEYLUV_FLASHY [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m80[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[00:10:05] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mTHEYLUV_FLASHY [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m80[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[00:10:25] [Server thread/INFO]: CONSOLE issued server command: /list 
+[00:10:25] [Server thread/INFO]: [0;33;22mThere are [0;31;1m3[0;33;22m out of maximum [0;31;1m20,000[0;33;22m players online.[m
+
+[00:10:25] [Server thread/INFO]: [0;33;22mdefault[m: jamtart[0;37;1m, John_Minecraft, THEYLUV_FLASHY[m
+
+[00:13:14] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mTHEYLUV_FLASHY [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m60[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[00:13:33] [Server thread/INFO]: §fPlayer§7: §fTHEYLUV_FLASHY was blown up by Creeper
+[00:13:42] [Async Chat Thread - #10/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mrip[m
+
+[00:13:57] [Async Chat Thread - #10/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mTHEYLUV_FLASHY [0;37;1m➟ [0;37;1mbruh i had good stuff too[m
+
+[00:14:01] [Async Chat Thread - #10/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mTHEYLUV_FLASHY [0;37;1m➟ [0;37;1mhella iron[m
+
+[00:14:05] [Async Chat Thread - #10/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mjust do /back[m
+
+[00:14:09] [Server thread/INFO]: THEYLUV_FLASHY issued server command: /back
+[00:14:18] [Server thread/INFO]: THEYLUV_FLASHY issued server command: /back
+[00:14:27] [Server thread/INFO]: THEYLUV_FLASHY issued server command: /back
+[00:14:28] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mjamtart [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m20[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[00:15:03] [Server thread/INFO]: THEYLUV_FLASHY lost connection: Disconnected
+[00:15:03] [Server thread/INFO]: THEYLUV_FLASHY left the game.
+[00:15:45] [Server thread/INFO]: John_Minecraft issued server command: /home John_Minecraft
+[00:16:00] [Server thread/INFO]: John_Minecraft issued server command: /alright
+[00:16:08] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1moff on my revenge quest[m
+
+[00:16:46] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mjamtart [0;37;1m➟ [0;37;1mthunder storms a paid actor[m
+
+[00:16:51] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mlol[m
+
+[00:19:25] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mJohn_Minecraft [0;36;1mfailed [0;37;1mFastBreak [0;37;1m(x[0;31;1m10[0;37;1m) [0;37;22mDiff=129.0,Balance=1029.0[m
+
+[00:21:05] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mhe's been here[m
+
+[00:21:21] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1msteven[m
+
+[00:21:27] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mnow danws thy reckoning[m
+
+[00:26:17] [Server thread/INFO]: CONSOLE issued server command: /list 
+[00:26:17] [Server thread/INFO]: [0;33;22mThere are [0;31;1m2[0;33;22m out of maximum [0;31;1m20,000[0;33;22m players online.[m
+
+[00:26:17] [Server thread/INFO]: [0;33;22mdefault[m: jamtart[0;37;1m, John_Minecraft[m
+
