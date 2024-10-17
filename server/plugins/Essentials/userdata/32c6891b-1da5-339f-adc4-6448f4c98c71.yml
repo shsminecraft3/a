@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1729199204960
+  logout: 1729199502899
   login: 1729199210475
 money: '0'
 last-account-name: gleven
 logoutlocation:
   world: 25494d72-451b-4797-9b95-5af1e3c119f5
   world-name: world
-  x: 161.55527309490708
+  x: 152.287136303539
   y: 156.0
-  z: 292.78515957470364
-  yaw: -1.0511474609375
-  pitch: 7.500008583068848
+  z: 287.3248658106684
+  yaw: -166.20115661621094
+  pitch: 16.05000877380371

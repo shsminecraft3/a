@@ -16,7 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
+  logout: 1729199455882
   login: 1729199256553
 money: '0'
 last-account-name: DeevYeeler460
+logoutlocation:
+  world: 25494d72-451b-4797-9b95-5af1e3c119f5
+  world-name: world
+  x: 271.3846713266084
+  y: 72.0
+  z: 207.80115070107686
+  yaw: 184.6500244140625
+  pitch: -8.250000953674316
