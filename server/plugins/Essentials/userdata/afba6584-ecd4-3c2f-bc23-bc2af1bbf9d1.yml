@@ -16,15 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1729180690005
-  login: 1729180371913
+  logout: 0
+  login: 1729181098317
 money: '0'
-last-account-name: TheChosenOne
-logoutlocation:
-  world: 25494d72-451b-4797-9b95-5af1e3c119f5
-  world-name: world
-  x: 164.2643748857386
-  y: 68.0
-  z: 513.2979955403706
-  yaw: 3.3000001907348633
-  pitch: 9.30000114440918
+last-account-name: JohannMinecraft

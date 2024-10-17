@@ -95,3 +95,34 @@
 [15:54:04] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:48398]: Logged in as 'NeedHemroidCream'
 [15:54:04] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:48398|NeedHemroidCream] -> UpstreamBridge has connected
 [15:54:04] [Netty Worker IO Thread #3/INFO]: [NeedHemroidCream|/[0:0:0:0:0:0:0:1%0]:48398] <-> ServerConnector [lobby] has connected
+[15:57:43] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:40998|BedzGaming] -> UpstreamBridge has disconnected
+[15:57:43] [Netty Worker IO Thread #3/INFO]: [BedzGaming] disconnected with: Proxy lost connection to server.
+[15:57:43] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:40998|BedzGaming] <-> DownstreamBridge <-> [lobby] has disconnected
+[15:58:09] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:35008|TheChosenOne] -> UpstreamBridge has disconnected
+[15:58:09] [Netty Worker IO Thread #2/INFO]: [TheChosenOne] disconnected with: Proxy lost connection to server.
+[15:58:09] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:35008|TheChosenOne] <-> DownstreamBridge <-> [lobby] has disconnected
+[15:59:53] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:53684]: Connected via websocket
+[15:59:53] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:53684]: Origin header is http://localhost:8081
+[15:59:53] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:53684]: Logged in as 'Wonder'
+[15:59:53] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:53684|Wonder] -> UpstreamBridge has connected
+[15:59:53] [Netty Worker IO Thread #1/INFO]: [Wonder|/[0:0:0:0:0:0:0:1%0]:53684] <-> ServerConnector [lobby] has connected
+[16:04:02] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:51568]: Connected via websocket
+[16:04:02] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:51568]: Origin header is http://localhost:8081
+[16:04:02] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:51568]: Logged in as 'John_Minecraft'
+[16:04:02] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:51568|John_Minecraft] -> UpstreamBridge has connected
+[16:04:02] [Netty Worker IO Thread #1/INFO]: [John_Minecraft|/[0:0:0:0:0:0:0:1%0]:51568] <-> ServerConnector [lobby] has connected
+[16:04:19] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58530]: Connected via websocket
+[16:04:19] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58530]: Origin header is http://localhost:8081
+[16:04:19] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58530]: Logged in as 'BedzGaming'
+[16:04:19] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:58530|BedzGaming] -> UpstreamBridge has connected
+[16:04:19] [Netty Worker IO Thread #2/INFO]: [BedzGaming|/[0:0:0:0:0:0:0:1%0]:58530] <-> ServerConnector [lobby] has connected
+[16:04:44] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:34060]: Connected via websocket
+[16:04:44] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:34060]: Origin header is http://localhost:8081
+[16:04:44] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:34060]: Logged in as 'TimeBomb'
+[16:04:44] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:34060|TimeBomb] -> UpstreamBridge has connected
+[16:04:44] [Netty Worker IO Thread #3/INFO]: [TimeBomb|/[0:0:0:0:0:0:0:1%0]:34060] <-> ServerConnector [lobby] has connected
+[16:04:58] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:42858]: Connected via websocket
+[16:04:58] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:42858]: Origin header is http://localhost:8081
+[16:04:58] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:42858]: Logged in as 'JohannMinecraft'
+[16:04:58] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:42858|JohannMinecraft] -> UpstreamBridge has connected
+[16:04:58] [Netty Worker IO Thread #0/INFO]: [JohannMinecraft|/[0:0:0:0:0:0:0:1%0]:42858] <-> ServerConnector [lobby] has connected
