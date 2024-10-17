@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1729121768342
+  login: 1729123142914
+money: '0'
+last-account-name: THEYLUV_FLASHY
+logoutlocation:
+  world: 25494d72-451b-4797-9b95-5af1e3c119f5
+  world-name: world
+  x: 294.2806807460133
+  y: 72.0
+  z: 229.65570740789892
+  yaw: -290.5500183105469
+  pitch: 23.54999351501465

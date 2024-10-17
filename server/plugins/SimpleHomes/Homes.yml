@@ -93,6 +93,11 @@ John_Minecraft:
     X: 128.90647929957908
     Y: 75.0
     Z: 848.5375868430631
+  John_Minecraft:
+    world: world
+    X: 138.06916704416824
+    Y: 75.0
+    Z: 848.7263732795911
 DANKBEEF:
   <Base>:
     world: world
@@ -184,6 +189,11 @@ Jimmy_Green:
     X: -28.385259906889825
     Y: 38.0
     Z: 428.6654553939727
+  jimmyg:
+    world: world
+    X: 353.30000001192093
+    Y: 59.0
+    Z: 353.30000001192093
 BedzGaming:
   mine:
     world: world
@@ -219,3 +229,10 @@ NeedHemroidCream:
     X: 297.75068767333426
     Y: 77.0
     Z: 385.3467323528377
+cocaine: {}
+Wonder:
+  '1':
+    world: world
+    X: 172.10158789094132
+    Y: 70.0
+    Z: 870.3000000119209
