@@ -16,7 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
-  login: 1729190540543
+  logout: 1729192417631
+  login: 1729191529737
 money: '0'
 last-account-name: Peel
+logoutlocation:
+  world: 25494d72-451b-4797-9b95-5af1e3c119f5
+  world-name: world
+  x: 200.51100433351752
+  y: 70.0
+  z: 11.694897484310111
+  yaw: 240.057373046875
+  pitch: 20.80215835571289

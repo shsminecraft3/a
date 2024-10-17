@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1729181998813
+  logout: 1729190827162
   login: 1729190563074
 money: '0'
 last-account-name: diamondhoe
 logoutlocation:
   world: 25494d72-451b-4797-9b95-5af1e3c119f5
   world-name: world
-  x: 432.403076331047
-  y: 51.0
-  z: 478.69999998807907
-  yaw: -67.950439453125
-  pitch: 11.849994659423828
+  x: 452.6017690258149
+  y: 84.0
+  z: 457.9093998101739
+  yaw: -255.9005126953125
+  pitch: -22.199993133544922
