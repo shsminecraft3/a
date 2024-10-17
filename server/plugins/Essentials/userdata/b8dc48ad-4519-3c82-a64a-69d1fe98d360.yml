@@ -16,7 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
-  login: 1729192767314
+  logout: 1729196014881
+  login: 1729195327836
 money: '0'
 last-account-name: Bakery_Bakery_
+logoutlocation:
+  world: 25494d72-451b-4797-9b95-5af1e3c119f5
+  world-name: world
+  x: 492.6736695957842
+  y: 30.0
+  z: -24.372234437321215
+  yaw: 268.79962158203125
+  pitch: 32.09999465942383

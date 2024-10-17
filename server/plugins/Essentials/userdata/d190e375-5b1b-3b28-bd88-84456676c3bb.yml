@@ -16,7 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
+  logout: 1729193193640
   login: 1729193000968
 money: '0'
 last-account-name: Popbob
+logoutlocation:
+  world: 25494d72-451b-4797-9b95-5af1e3c119f5
+  world-name: world
+  x: 781.6999999880791
+  y: 80.0
+  z: 139.69999998807907
+  yaw: 116.40005493164062
+  pitch: 28.649991989135742
