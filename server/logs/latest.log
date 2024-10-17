@@ -4269,3 +4269,8 @@ java.lang.RuntimeException: The received string length is longer than maximum al
 
 [20:21:39] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mJohannMinecraft [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m40[0;37;1m) [0;37;22mheld item change v1.8[m
 
+[20:21:41] [Server thread/INFO]: Steven issued server command: /suicide
+[20:21:41] [Server thread/INFO]: §cMurderer§7: §fSteven died
+[20:21:41] [Server thread/INFO]: [0;31;1m[21mSteven hates himself[m
+
+[20:21:41] [Server thread/ERROR]: [Suicide] The sound you're trying to play isn't registered in this Minecraft Version: ENTITY_ZOMBIE_HURT
