@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1729182688332
+  login: 1729182692647
+money: '0'
+last-account-name: CalebRayz
+logoutlocation:
+  world: 25494d72-451b-4797-9b95-5af1e3c119f5
+  world-name: world
+  x: 171.00771393953684
+  y: 64.0
+  z: 247.92668422973247
+  yaw: 25.20000457763672
+  pitch: 18.60000228881836
