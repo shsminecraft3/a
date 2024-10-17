@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1729120548845
-  login: 1729120282190
+  logout: 1729133070613
+  login: 1729133044247
 money: '0'
 logoutlocation:
   world: 25494d72-451b-4797-9b95-5af1e3c119f5
@@ -25,6 +25,6 @@ logoutlocation:
   x: 230.9305118014984
   y: 69.0
   z: 441.7622506478375
-  yaw: -354.30010986328125
-  pitch: 35.70001220703125
+  yaw: -193.2001953125
+  pitch: -0.7499908804893494
 last-account-name: Jimmy_Green

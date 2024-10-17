@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1729131134313
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1729131398869
+  login: 1729130994328
+money: '0'
+last-account-name: BaconMania
+lastlocation:
+  world: 25494d72-451b-4797-9b95-5af1e3c119f5
+  world-name: world
+  x: 514.6797788196529
+  y: 52.057413622581635
+  z: 22.177198039283365
+  yaw: -205.2000732421875
+  pitch: 40.79999542236328
+logoutlocation:
+  world: 25494d72-451b-4797-9b95-5af1e3c119f5
+  world-name: world
+  x: 3627.2084685412256
+  y: 125.0
+  z: 4427.644926683204
+  yaw: 127.20000457763672
+  pitch: 23.099994659423828
