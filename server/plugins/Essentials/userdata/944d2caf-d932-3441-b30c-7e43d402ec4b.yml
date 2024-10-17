@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1729190155218
-  login: 1729189512889
+  logout: 1729190457058
+  login: 1729190486192
 money: '0'
 last-account-name: Steven
 logoutlocation:
@@ -26,5 +26,5 @@ logoutlocation:
   x: 152.8642988325073
   y: 73.0
   z: 854.0264169403976
-  yaw: -136.05001831054688
-  pitch: 36.90000534057617
+  yaw: -147.6000213623047
+  pitch: 2.250002145767212

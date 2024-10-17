@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1729190075683
+  logout: 1729190226010
   login: 1729190079089
 money: '0'
 last-account-name: chinknigga
 logoutlocation:
   world: 25494d72-451b-4797-9b95-5af1e3c119f5
   world-name: world
-  x: 185.5
-  y: 61.0
-  z: 244.5
-  yaw: -50.55000305175781
-  pitch: 37.95000457763672
+  x: 148.72078863556763
+  y: 63.0
+  z: 288.297478769118
+  yaw: -0.44999855756759644
+  pitch: 18.300003051757812

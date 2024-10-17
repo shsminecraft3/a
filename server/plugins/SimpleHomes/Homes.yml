@@ -189,6 +189,11 @@ JohannMinecraft:
     X: 135.89635610697422
     Y: 75.0
     Z: 848.3257033146512
+  Rommeleia:
+    world: world
+    X: 513.1283175421668
+    Y: 49.0
+    Z: 22.528945064946683
 Yeshish_Yashher9:
   LINC:
     world: world
