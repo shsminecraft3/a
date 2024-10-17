@@ -688,3 +688,20 @@
 [04:21:25] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:42206|diamondhoe] -> UpstreamBridge has disconnected
 [04:21:25] [Netty Worker IO Thread #0/INFO]: [diamondhoe] disconnected with: Proxy lost connection to server.
 [04:21:25] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:42206|diamondhoe] <-> DownstreamBridge <-> [lobby] has disconnected
+[04:37:01] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:58914|Steven] -> UpstreamBridge has disconnected
+[04:37:01] [Netty Worker IO Thread #2/INFO]: [Steven] disconnected with: Proxy lost connection to server.
+[04:37:01] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:58914|Steven] <-> DownstreamBridge <-> [lobby] has disconnected
+[04:37:07] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49232]: Connected via websocket
+[04:37:07] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49232]: Origin header is null
+[04:37:07] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49232]: Logged in as 'Steven'
+[04:37:07] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:49232|Steven] -> UpstreamBridge has connected
+[04:37:07] [Netty Worker IO Thread #0/INFO]: [Steven|/[0:0:0:0:0:0:0:1%0]:49232] <-> ServerConnector [lobby] has connected
+[04:37:17] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:56816|gleven] -> UpstreamBridge has disconnected
+[04:37:17] [Netty Worker IO Thread #3/INFO]: [gleven] disconnected with: Proxy lost connection to server.
+[04:37:17] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:56816|gleven] <-> DownstreamBridge <-> [lobby] has disconnected
+[04:39:27] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:59768|caden] -> UpstreamBridge has disconnected
+[04:39:27] [Netty Worker IO Thread #1/INFO]: [caden] disconnected with: Proxy lost connection to server.
+[04:39:27] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:59768|caden] <-> DownstreamBridge <-> [lobby] has disconnected
+[04:40:07] [Netty Worker IO Thread #3/INFO]: [a__] disconnected with: Proxy lost connection to server.
+[04:40:07] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:42494|a__] <-> DownstreamBridge <-> [lobby] has disconnected
+[04:40:07] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:42494|a__] -> UpstreamBridge has disconnected
