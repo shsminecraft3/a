@@ -185,6 +185,7 @@ bypassWords:
   - balls
   - crap
   - cock
+  - ass
 #List of ip/websites you wish to whitelist
 bypassIP:
   - youtube.com
