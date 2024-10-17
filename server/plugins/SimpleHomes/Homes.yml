@@ -60,6 +60,16 @@ Steven:
     X: 403.89253322106157
     Y: 65.0
     Z: 408.69999998807907
+  Danny:
+    world: world
+    X: 3719.553960655905
+    Y: 11.91401155234329
+    Z: 3930.505470316593
+  CASEN:
+    world: world
+    X: 3719.553960655905
+    Y: 11.0
+    Z: 3930.505470316593
 Danny:
   old:
     world: world
@@ -76,6 +86,11 @@ Danny:
     X: 3719.453912940619
     Y: 11.0
     Z: 3942.457236304214
+  caden:
+    world: world
+    X: 249.28734483489342
+    Y: 58.0
+    Z: 2131.214996190843
 jewburner:
   lava:
     world: world
@@ -152,6 +167,11 @@ caden:
     X: 248.40793388297737
     Y: 58.0
     Z: 2138.829245722143
+  caden:
+    world: world
+    X: 3719.5833172396997
+    Y: 11.0
+    Z: 3942.744881071697
 Bakery_Bakery:
   Bakery_bakery:
     world: world
