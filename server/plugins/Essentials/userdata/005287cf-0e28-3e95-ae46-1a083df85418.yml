@@ -16,15 +16,23 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1729121788941
-  login: 1729119513377
+  logout: 1729129526088
+  login: 1729128358391
 money: '0'
 last-account-name: cocaine
 logoutlocation:
   world: 25494d72-451b-4797-9b95-5af1e3c119f5
   world-name: world
-  x: 224.52074675335885
-  y: 72.0
-  z: 412.69385478369855
-  yaw: -291.6285095214844
-  pitch: 51.72906494140625
+  x: 134.46575946358954
+  y: 241.0
+  z: 839.860057429613
+  yaw: -306.8426208496094
+  pitch: -2.1746788024902344
+lastlocation:
+  world: 25494d72-451b-4797-9b95-5af1e3c119f5
+  world-name: world
+  x: 3752.099845618055
+  y: 81.00830889672133
+  z: 3865.0398484078523
+  yaw: 240.740966796875
+  pitch: 14.187098503112793

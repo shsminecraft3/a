@@ -87,6 +87,11 @@ jewburner:
     X: 197.21589937104795
     Y: 71.0
     Z: -131.5035362845805
+  china:
+    world: world
+    X: 132.62735322714474
+    Y: 241.0
+    Z: 848.1465806436306
 John_Minecraft:
   John_Mineccraft:
     world: world
@@ -229,7 +234,12 @@ NeedHemroidCream:
     X: 297.75068767333426
     Y: 77.0
     Z: 385.3467323528377
-cocaine: {}
+cocaine:
+  berlin:
+    world: world
+    X: 134.46575946358954
+    Y: 241.0
+    Z: 839.860057429613
 Wonder:
   '1':
     world: world
