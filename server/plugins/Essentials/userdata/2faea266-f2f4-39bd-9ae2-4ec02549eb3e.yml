@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1729136670244
+  login: 1729136508221
+money: '0'
+last-account-name: goodgoonthe4th
+logoutlocation:
+  world: 25494d72-451b-4797-9b95-5af1e3c119f5
+  world-name: world
+  x: 500.699999988079
+  y: 65.0
+  z: 504.2304860754303
+  yaw: -233.80471801757812
+  pitch: 13.40000057220459
