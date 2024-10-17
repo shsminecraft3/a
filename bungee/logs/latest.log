@@ -85,3 +85,13 @@
 [15:43:01] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:40532]: Logged in as 'THEYLUV_FLASHY'
 [15:43:01] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:40532|THEYLUV_FLASHY] -> UpstreamBridge has connected
 [15:43:01] [Netty Worker IO Thread #2/INFO]: [THEYLUV_FLASHY|/[0:0:0:0:0:0:0:1%0]:40532] <-> ServerConnector [lobby] has connected
+[15:52:51] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35008]: Connected via websocket
+[15:52:51] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35008]: Origin header is http://localhost:8081
+[15:52:51] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35008]: Logged in as 'TheChosenOne'
+[15:52:51] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:35008|TheChosenOne] -> UpstreamBridge has connected
+[15:52:51] [Netty Worker IO Thread #2/INFO]: [TheChosenOne|/[0:0:0:0:0:0:0:1%0]:35008] <-> ServerConnector [lobby] has connected
+[15:54:04] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:48398]: Connected via websocket
+[15:54:04] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:48398]: Origin header is http://localhost:8081
+[15:54:04] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:48398]: Logged in as 'NeedHemroidCream'
+[15:54:04] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:48398|NeedHemroidCream] -> UpstreamBridge has connected
+[15:54:04] [Netty Worker IO Thread #3/INFO]: [NeedHemroidCream|/[0:0:0:0:0:0:0:1%0]:48398] <-> ServerConnector [lobby] has connected
