@@ -190,3 +190,6 @@
 [21:09:40] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:57394|a__] -> UpstreamBridge has disconnected
 [21:09:40] [Netty Worker IO Thread #0/INFO]: [a__] disconnected with: Proxy lost connection to server.
 [21:09:40] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:57394|a__] <-> DownstreamBridge <-> [lobby] has disconnected
+[21:09:43] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:50140|Dashing] -> UpstreamBridge has disconnected
+[21:09:43] [Netty Worker IO Thread #1/INFO]: [Dashing] disconnected with: Proxy lost connection to server.
+[21:09:43] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:50140|Dashing] <-> DownstreamBridge <-> [lobby] has disconnected
