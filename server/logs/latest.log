@@ -352,3 +352,6 @@ Caused by: java.util.zip.ZipException: zip END header not found
 
 [16:59:52] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.0.5, you're on: 5.0.3
 [16:59:52] [Server thread/INFO]: [Suicide] You are using the latest version of Suicide.
+[17:23:22] [Server thread/INFO]: CONSOLE issued server command: /list 
+[17:23:23] [Server thread/INFO]: [0;33;22mThere are [0;31;1m0[0;33;22m out of maximum [0;31;1m20,000[0;33;22m players online.[m
+
