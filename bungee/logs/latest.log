@@ -193,3 +193,6 @@
 [21:09:43] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:50140|Dashing] -> UpstreamBridge has disconnected
 [21:09:43] [Netty Worker IO Thread #1/INFO]: [Dashing] disconnected with: Proxy lost connection to server.
 [21:09:43] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:50140|Dashing] <-> DownstreamBridge <-> [lobby] has disconnected
+[21:09:49] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:44026|John_Minecraft] -> UpstreamBridge has disconnected
+[21:09:49] [Netty Worker IO Thread #2/INFO]: [John_Minecraft] disconnected with: Proxy lost connection to server.
+[21:09:49] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:44026|John_Minecraft] <-> DownstreamBridge <-> [lobby] has disconnected

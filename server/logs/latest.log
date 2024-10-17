@@ -2674,3 +2674,5 @@ java.lang.RuntimeException: The received string length is longer than maximum al
 [21:09:40] [Server thread/INFO]: a__ left the game.
 [21:09:43] [Server thread/INFO]: Dashing lost connection: Disconnected
 [21:09:43] [Server thread/INFO]: Dashing left the game.
+[21:09:49] [Server thread/INFO]: John_Minecraft lost connection: Disconnected
+[21:09:49] [Server thread/INFO]: John_Minecraft left the game.

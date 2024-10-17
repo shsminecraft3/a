@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1729199338453
+  logout: 1729199389840
   login: 1729199345829
 money: '0'
 last-account-name: John_Minecraft
@@ -26,5 +26,5 @@ logoutlocation:
   x: 518.3363850264222
   y: 47.0
   z: 8.300203511304261
-  yaw: 198.30001831054688
-  pitch: 51.45000457763672
+  yaw: 211.95001220703125
+  pitch: 39.90000534057617
