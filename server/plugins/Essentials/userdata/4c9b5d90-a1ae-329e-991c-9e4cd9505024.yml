@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1729191093877
-  login: 1729190914120
+  logout: 1729197829361
+  login: 1729197782259
 money: '0'
 last-account-name: the_sigma
 logoutlocation:
   world: 25494d72-451b-4797-9b95-5af1e3c119f5
   world-name: world
-  x: 404.5957457694305
+  x: 403.1733734093587
   y: 65.0
-  z: 406.532417218502
-  yaw: 188.25001525878906
-  pitch: 22.800010681152344
+  z: 408.5281500958445
+  yaw: 264.15008544921875
+  pitch: -12.299992561340332

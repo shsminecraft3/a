@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1729196338883
+  logout: 1729197405060
   login: 1729196346594
 money: '0'
 logoutlocation:
   world: 25494d72-451b-4797-9b95-5af1e3c119f5
   world-name: world
-  x: 181.5
-  y: 60.0
-  z: 250.5
-  yaw: 1.5000001192092896
-  pitch: 2.4000003337860107
+  x: 175.8834625352679
+  y: 73.0
+  z: 235.13577129535085
+  yaw: -31.950002670288086
+  pitch: 33.60000228881836
 last-account-name: ColbyRayz

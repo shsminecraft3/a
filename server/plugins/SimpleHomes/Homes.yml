@@ -216,6 +216,16 @@ not_SKIBIDI_MAN:
     X: 88.53598629881186
     Y: 68.0
     Z: 191.92573190137978
+  <spawn>:
+    world: world
+    X: 210.0291540669589
+    Y: 64.0
+    Z: 275.47713924588754
+  <netherportal>:
+    world: world
+    X: 224.82941504748038
+    Y: 70.0
+    Z: 337.23451390585564
 Popbob:
   penis:
     world: world
