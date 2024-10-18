@@ -16,7 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
-  login: 1729267574876
+  logout: 1729267734828
+  login: 1729267687056
 money: '0'
 last-account-name: YeeVigg634
+logoutlocation:
+  world: 25494d72-451b-4797-9b95-5af1e3c119f5
+  world-name: world
+  x: 176.69999998807907
+  y: 61.0
+  z: 268.3430310846103
+  yaw: 268.8000793457031
+  pitch: -51.749996185302734
