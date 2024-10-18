@@ -16,7 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
-  login: 1729208333822
+  logout: 1729209894043
+  login: 1729209942091
 money: '0'
 last-account-name: jack_
+logoutlocation:
+  world: 25494d72-451b-4797-9b95-5af1e3c119f5
+  world-name: world
+  x: 171.661217548748
+  y: 64.0
+  z: 248.92201663199472
+  yaw: 205.3500213623047
+  pitch: 18.150001525878906
