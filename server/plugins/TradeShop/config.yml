@@ -1,0 +1,15 @@
+allowed-shops:
+- CHEST
+- TRAPPED_CHEST
+- SHULKER
+allowed-directions:
+- DOWN
+- WEST
+- SOUTH
+- EAST
+- NORTH
+- UP
+itrade-shop-name: Server Shop
+allow-double-trade: true
+allow-quad-trade: true
+max-break-distance: 4
