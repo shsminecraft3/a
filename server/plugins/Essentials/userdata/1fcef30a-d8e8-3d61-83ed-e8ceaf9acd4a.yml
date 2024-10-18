@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1729270167555
+  logout: 1729271792760
   login: 1729270721691
 money: '0'
 last-account-name: BedzGaming
 logoutlocation:
   world: 25494d72-451b-4797-9b95-5af1e3c119f5
   world-name: world
-  x: 233.6306238200587
-  y: 65.0
-  z: 213.300000011921
-  yaw: 192.45013427734375
-  pitch: -0.300008088350296
+  x: 80.26831360680639
+  y: 72.0
+  z: -295.21075634267174
+  yaw: 129.60012817382812
+  pitch: 17.399993896484375
