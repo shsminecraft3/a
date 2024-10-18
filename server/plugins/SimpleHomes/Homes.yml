@@ -45,6 +45,11 @@ Steven:
     X: 272.32680570077036
     Y: 28.0
     Z: 1225.4487536848615
+  skyspawn:
+    world: world
+    X: 164.42856865682262
+    Y: 156.0
+    Z: 283.48457872235537
 Danny:
   old:
     world: world
@@ -120,16 +125,16 @@ the_sigma:
     X: 404.5
     Y: 65.0
     Z: 408.5
-  lincoln:
-    world: world
-    X: 190.92364130748456
-    Y: 81.0
-    Z: 837.0639205753721
   Pizza:
     world: world
     X: 3644.98893403682
     Y: 109.0
     Z: 4381.349917114571
+  lincoln:
+    world: world
+    X: 518.8472698214356
+    Y: 49.0
+    Z: 37.36921616353703
 your_mom_lol:
   <home>:
     world: world
@@ -209,6 +214,21 @@ Jimmy_Green:
     X: 353.30000001192093
     Y: 59.0
     Z: 353.30000001192093
+  ethan:
+    world: world
+    X: 3630.597382977378
+    Y: 107.0
+    Z: 4410.940461428395
+  retard:
+    world: world
+    X: 504.5407566904094
+    Y: 68.0
+    Z: 20.50518047477513
+  retard1:
+    world: world
+    X: 514.5504051165319
+    Y: 49.0
+    Z: 22.424313178975435
 BedzGaming:
   mine:
     world: world
@@ -266,6 +286,11 @@ Wonder:
     X: 172.10158789094132
     Y: 70.0
     Z: 870.3000000119209
+  Wonder:
+    world: world
+    X: 229.3159704252811
+    Y: 78.0
+    Z: -1942.563316847337
 Bakery_Bakery_:
   Bakery_Bakery:
     world: world
@@ -278,3 +303,9 @@ Ethonian:
     X: 3641.0027106082334
     Y: 111.0
     Z: 4390.516627242094
+oooeeeeooo:
+  <ethan>:
+    world: world
+    X: 3643.113908437501
+    Y: 111.0
+    Z: 4393.56976840078
