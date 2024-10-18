@@ -457,3 +457,72 @@
 [03:05:12] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:34354]: Logged in as 'Steven'
 [03:05:12] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:34354|Steven] -> UpstreamBridge has connected
 [03:05:12] [Netty Worker IO Thread #2/INFO]: [Steven|/[0:0:0:0:0:0:0:1%0]:34354] <-> ServerConnector [lobby] has connected
+[03:12:52] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:48456]: Connected via websocket
+[03:12:52] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:48456]: Origin header is http://localhost:8081
+[03:12:52] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:48456]: Logged in as 'Bakery_Bakery_'
+[03:12:52] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:48456|Bakery_Bakery_] -> UpstreamBridge has connected
+[03:12:52] [Netty Worker IO Thread #3/INFO]: [Bakery_Bakery_|/[0:0:0:0:0:0:0:1%0]:48456] <-> ServerConnector [lobby] has connected
+[03:13:45] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:60090]: Connected via websocket
+[03:13:45] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:60090]: Origin header is http://localhost:8081
+[03:13:45] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:60090]: Logged in as 'Ethonian'
+[03:13:45] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:60090|Ethonian] -> UpstreamBridge has connected
+[03:13:45] [Netty Worker IO Thread #0/INFO]: [Ethonian|/[0:0:0:0:0:0:0:1%0]:60090] <-> ServerConnector [lobby] has connected
+[03:15:31] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:46816|John_Minecraft] -> UpstreamBridge has disconnected
+[03:15:31] [Netty Worker IO Thread #3/INFO]: [John_Minecraft] disconnected with: Proxy lost connection to server.
+[03:15:31] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:46816|John_Minecraft] <-> DownstreamBridge <-> [lobby] has disconnected
+[03:15:35] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:56946]: Connected via websocket
+[03:15:35] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:56946]: Origin header is http://localhost:8081
+[03:15:35] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:56946]: Logged in as 'John_Minecraft'
+[03:15:35] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:56946|John_Minecraft] -> UpstreamBridge has connected
+[03:15:35] [Netty Worker IO Thread #1/INFO]: [John_Minecraft|/[0:0:0:0:0:0:0:1%0]:56946] <-> ServerConnector [lobby] has connected
+[03:15:35] [Netty Worker IO Thread #1/INFO]: [John_Minecraft] disconnected with: Internal server error
+[03:15:35] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:56946|John_Minecraft] -> UpstreamBridge has disconnected
+[03:15:35] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:56946|John_Minecraft] <-> DownstreamBridge <-> [lobby] has disconnected
+[03:15:37] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35286]: Connected via websocket
+[03:15:37] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35286]: Origin header is http://localhost:8081
+[03:15:37] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35286]: Logged in as 'John_Minecraft'
+[03:15:37] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:35286|John_Minecraft] -> UpstreamBridge has connected
+[03:15:37] [Netty Worker IO Thread #2/INFO]: [John_Minecraft|/[0:0:0:0:0:0:0:1%0]:35286] <-> ServerConnector [lobby] has connected
+[03:15:49] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:34354|Steven] -> UpstreamBridge has disconnected
+[03:15:49] [Netty Worker IO Thread #2/INFO]: [Steven] disconnected with: Proxy lost connection to server.
+[03:15:49] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:34354|Steven] <-> DownstreamBridge <-> [lobby] has disconnected
+[03:19:41] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:48456|Bakery_Bakery_] -> UpstreamBridge has disconnected
+[03:19:41] [Netty Worker IO Thread #3/INFO]: [Bakery_Bakery_] disconnected with: Proxy lost connection to server.
+[03:19:41] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:48456|Bakery_Bakery_] <-> DownstreamBridge <-> [lobby] has disconnected
+[03:20:20] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35576]: Connected via websocket
+[03:20:20] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35576]: Origin header is null
+[03:20:20] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35576]: Logged in as 'Steven'
+[03:20:20] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:35576|Steven] -> UpstreamBridge has connected
+[03:20:20] [Netty Worker IO Thread #3/INFO]: [Steven|/[0:0:0:0:0:0:0:1%0]:35576] <-> ServerConnector [lobby] has connected
+[03:22:20] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:35576|Steven] -> UpstreamBridge has disconnected
+[03:22:20] [Netty Worker IO Thread #3/INFO]: [Steven] disconnected with: Proxy lost connection to server.
+[03:22:20] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:35576|Steven] <-> DownstreamBridge <-> [lobby] has disconnected
+[03:23:02] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:33274]: Connected via websocket
+[03:23:02] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:33274]: Origin header is null
+[03:23:02] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:33274]: Logged in as 'Steven'
+[03:23:02] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:33274|Steven] -> UpstreamBridge has connected
+[03:23:02] [Netty Worker IO Thread #0/INFO]: [Steven|/[0:0:0:0:0:0:0:1%0]:33274] <-> ServerConnector [lobby] has connected
+[03:23:02] [Netty Worker IO Thread #0/INFO]: [Steven] disconnected with: Internal server error
+[03:23:02] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:33274|Steven] -> UpstreamBridge has disconnected
+[03:23:02] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:33274|Steven] <-> DownstreamBridge <-> [lobby] has disconnected
+[03:23:09] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:34468]: Connected via websocket
+[03:23:09] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:34468]: Origin header is null
+[03:23:09] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:34468]: Logged in as 'Steven'
+[03:23:09] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:34468|Steven] -> UpstreamBridge has connected
+[03:23:09] [Netty Worker IO Thread #1/INFO]: [Steven|/[0:0:0:0:0:0:0:1%0]:34468] <-> ServerConnector [lobby] has connected
+[03:23:09] [Netty Worker IO Thread #1/INFO]: [Steven] disconnected with: Internal server error
+[03:23:09] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:34468|Steven] -> UpstreamBridge has disconnected
+[03:23:09] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:34468|Steven] <-> DownstreamBridge <-> [lobby] has disconnected
+[03:23:11] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:34470]: Connected via websocket
+[03:23:11] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:34470]: Origin header is null
+[03:23:12] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:34470]: Logged in as 'Steven'
+[03:23:12] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:34470|Steven] -> UpstreamBridge has connected
+[03:23:12] [Netty Worker IO Thread #2/INFO]: [Steven|/[0:0:0:0:0:0:0:1%0]:34470] <-> ServerConnector [lobby] has connected
+[03:23:12] [Netty Worker IO Thread #2/INFO]: [Steven] disconnected with: Internal server error
+[03:23:12] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:34470|Steven] -> UpstreamBridge has disconnected
+[03:23:12] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:34470|Steven] <-> DownstreamBridge <-> [lobby] has disconnected
+[03:23:15] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:34484]: Connected via websocket
+[03:23:15] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:34484]: Origin header is null
+[03:23:15] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:34484]: Logged in as 'Steven'
+[03:23:15] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:34484|Steven] -> UpstreamBridge has connected
+[03:23:15] [Netty Worker IO Thread #3/INFO]: [Steven|/[0:0:0:0:0:0:0:1%0]:34484] <-> ServerConnector [lobby] has connected
