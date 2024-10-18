@@ -125,6 +125,11 @@ the_sigma:
     X: 190.92364130748456
     Y: 81.0
     Z: 837.0639205753721
+  Pizza:
+    world: world
+    X: 3644.98893403682
+    Y: 109.0
+    Z: 4381.349917114571
 your_mom_lol:
   <home>:
     world: world
@@ -267,3 +272,9 @@ Bakery_Bakery_:
     X: 513.5039729048943
     Y: 49.0
     Z: 23.642633871419257
+Ethonian:
+  pizzatower:
+    world: world
+    X: 3641.0027106082334
+    Y: 111.0
+    Z: 4390.516627242094

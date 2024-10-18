@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1729197171111
+  logout: 1729213470432
   login: 1729208738213
 money: '0'
 last-account-name: Wonder
 logoutlocation:
   world: 25494d72-451b-4797-9b95-5af1e3c119f5
   world-name: world
-  x: 347.2386587071548
-  y: 71.0
-  z: -151.04620147578788
-  yaw: -167.5506591796875
-  pitch: -3.7499923706054688
+  x: 229.3159704252811
+  y: 78.0
+  z: -1942.563316847337
+  yaw: 17.85003662109375
+  pitch: -48.7500114440918

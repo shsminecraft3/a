@@ -187,6 +187,7 @@ bypassWords:
   - cock
   - ass
   - bitch
+  - wtf
 #List of ip/websites you wish to whitelist
 bypassIP:
   - youtube.com
