@@ -188,6 +188,12 @@ bypassWords:
   - ass
   - bitch
   - wtf
+  - pedo
+  - pedophille
+  - rape
+  - kys
+  - kill
+  - kill yourself
 #List of ip/websites you wish to whitelist
 bypassIP:
   - youtube.com
