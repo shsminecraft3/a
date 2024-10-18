@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1729220564710
-  login: 1729221225359
+  logout: 1729223627452
+  login: 1729223487533
 money: '0'
 logoutlocation:
   world: 25494d72-451b-4797-9b95-5af1e3c119f5
   world-name: world
-  x: 524.4564021534981
-  y: 52.0
-  z: 15.599676458266154
-  yaw: 81.300048828125
-  pitch: 28.949995040893555
+  x: 3642.572182558212
+  y: 120.0
+  z: 4392.03504491505
+  yaw: 4.800079345703125
+  pitch: 14.399992942810059
 last-account-name: Ethonian

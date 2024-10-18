@@ -11214,3 +11214,1446 @@ java.lang.RuntimeException: The received string length is longer than maximum al
 [03:25:38] [Async Chat Thread - #19/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mTheUnfunny [0;37;1m➟ [0;37;1mwho is oooeeeeooo[m
 
 [03:25:45] [Server thread/INFO]: Steven issued server command: /tpa John_Minecraft
+[03:25:55] [Async Chat Thread - #19/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mwho are you unfunny?[m
+
+[03:25:56] [Server thread/INFO]: CONSOLE issued server command: /list 
+[03:25:56] [Server thread/INFO]: [0;33;22mThere are [0;31;1m9[0;33;22m out of maximum [0;31;1m20,000[0;33;22m players online.[m
+
+[03:25:56] [Server thread/INFO]: [0;33;22mdefault[m: caden[0;37;1m, Danny, Ethonian, Jimmy_Green, John_Minecraft, oooeeeeooo, Steven, the_sigma, TheUnfunny[m
+
+[03:25:57] [Async Chat Thread - #19/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1moooeeeeooo [0;37;1m➟ [0;37;1mMe[m
+
+[03:26:07] [Async Chat Thread - #19/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mTheUnfunny [0;37;1m➟ [0;37;1mkind of hypocritical since im not giving my name[m
+
+[03:26:08] [Async Chat Thread - #19/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mEthonian [0;37;1m➟ [0;37;1mdanny cant rn really sorry[m
+
+[03:26:17] [Server thread/INFO]: caden issued server command: /home caden
+[03:26:17] [Async Chat Thread - #19/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mnp[m
+
+[03:26:18] [Server thread/INFO]: Steven issued server command: /tpa John_Minecraft
+[03:26:22] [Server thread/INFO]: John_Minecraft issued server command: /accept
+[03:26:30] [Server thread/INFO]: John_Minecraft issued server command: /accept
+[03:26:38] [Server thread/INFO]: Steven issued server command: /tpa John_Minecraft
+[03:26:40] [Server thread/INFO]: caden issued server command: /tpa John_Minecraft
+[03:26:43] [Server thread/INFO]: John_Minecraft issued server command: /accept
+[03:26:53] [Server thread/INFO]: Steven issued server command: /homeset linc
+[03:27:00] [Server thread/INFO]: Steven issued server command: /sethome linc
+[03:27:08] [Server thread/INFO]: John_Minecraft lost connection: Disconnected
+[03:27:08] [Server thread/INFO]: John_Minecraft left the game.
+[03:27:17] [Async Chat Thread - #19/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwhat with him[m
+
+[03:27:17] [Async Chat Thread - #19/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1myo lincon im chill with you but dont mention delilah like that or be a lil bitch bro alr[m
+
+[03:27:31] [Async Chat Thread - #19/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mcaden [0;37;1m➟ [0;37;1mhe left[m
+
+[03:27:35] [Async Chat Thread - #19/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mtf[m
+
+[03:27:36] [Server thread/INFO]: Ethonian issued server command: /whisper
+[03:27:36] [Server thread/INFO]: §cEthonian §4was denied access to command.
+[03:27:38] [Async Chat Thread - #19/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJimmy_Green [0;37;1m➟ [0;37;1mlmao[m
+
+[03:27:39] [Server thread/INFO]: Ethonian issued server command: /msg
+[03:27:39] [Server thread/INFO]: §cEthonian §4was denied access to command.
+[03:27:40] [Async Chat Thread - #19/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mTheUnfunny [0;37;1m➟ [0;37;1mwell this was a shit show[m
+
+[03:27:40] [Async Chat Thread - #19/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1maw lmao[m
+
+[03:27:41] [Async Chat Thread - #19/INFO]: [0;37;22m[[0;33;22mSigma[0;37;22m] [0;37;1mthe_sigma [0;37;1m➟ [0;37;1mhola[m
+
+[03:27:41] [Server thread/INFO]: Ethonian issued server command: /msg danny
+[03:27:41] [Server thread/INFO]: §cEthonian §4was denied access to command.
+[03:27:44] [Async Chat Thread - #19/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwhere yall come from LMAO[m
+
+[03:27:48] [Server thread/INFO]: Jimmy_Green issued server command: /home roof
+[03:27:56] [Server thread/INFO]: the_sigma issued server command: /home lincoln
+[03:27:56] [Async Chat Thread - #19/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mThis is lincolns house i found it[m
+
+[03:27:58] [Async Chat Thread - #19/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mi didnt see hom leave lol[m
+
+[03:28:00] [Server thread/INFO]: caden issued server command: /tpa danny
+[03:28:01] [Async Chat Thread - #19/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJimmy_Green [0;37;1m➟ [0;37;1mwe know[m
+
+[03:28:02] [Server thread/INFO]: Danny issued server command: /tpa steven
+[03:28:04] [Server thread/INFO]: oooeeeeooo issued server command: /home <lincoln>
+[03:28:09] [Async Chat Thread - #19/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mhwo did yall get here[m
+
+[03:28:10] [Async Chat Thread - #19/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mEthonian [0;37;1m➟ [0;37;1mdanny dont say a word lmao[m
+
+[03:28:18] [Async Chat Thread - #19/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJimmy_Green [0;37;1m➟ [0;37;1m./homed up here[m
+
+[03:28:24] [Async Chat Thread - #19/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1msteven accept my tp[m
+
+[03:28:27] [Server thread/INFO]: Danny issued server command: /spa steven
+[03:28:32] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mTheUnfunny [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m20[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[03:28:38] [Server thread/INFO]: caden issued server command: /tpa Steven
+[03:28:49] [Server thread/INFO]: Danny issued server command: /tpaccept
+[03:29:00] [Async Chat Thread - #19/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1msomeone get flint and steel[m
+
+[03:29:10] [Async Chat Thread - #19/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1manyone have ender pearls?[m
+
+[03:29:15] [Async Chat Thread - #19/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJimmy_Green [0;37;1m➟ [0;37;1mno sorry[m
+
+[03:29:19] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mDanny [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m40[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[03:29:23] [Async Chat Thread - #19/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJimmy_Green [0;37;1m➟ [0;37;1mkinda just been wandering around[m
+
+[03:29:36] [Async Chat Thread - #19/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1msame lol idk what to do rn[m
+
+[03:29:37] [Async Chat Thread - #19/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1manyone have tnt[m
+
+[03:29:42] [Async Chat Thread - #19/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mEthonian [0;37;1m➟ [0;37;1mno[m
+
+[03:29:43] [Server thread/INFO]: Danny issued server command: /tpa steven
+[03:29:46] [Server thread/INFO]: Steven issued server command: /accept
+[03:29:47] [Async Chat Thread - #19/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mTheUnfunny [0;37;1m➟ [0;37;1mi can make some rn sure[m
+
+[03:29:50] [Async Chat Thread - #19/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJimmy_Green [0;37;1m➟ [0;37;1msteven dont grief it[m
+
+[03:29:54] [Server thread/INFO]: caden issued server command: /tpa Danny
+[03:29:55] [Async Chat Thread - #19/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mEthonian [0;37;1m➟ [0;37;1mbad idea[m
+
+[03:29:57] [Server thread/INFO]: Danny issued server command: /tpaccept
+[03:29:59] [Async Chat Thread - #19/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mEthonian [0;37;1m➟ [0;37;1mhi danny!!![m
+
+[03:30:14] [Async Chat Thread - #19/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mgulp[m
+
+[03:30:26] [Async Chat Thread - #19/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mEthonian [0;37;1m➟ [0;37;1mlincolns quite the guy huh[m
+
+[03:30:33] [Async Chat Thread - #19/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mEthonian [0;37;1m➟ [0;37;1mlook at this place[m
+
+[03:30:34] [Async Chat Thread - #19/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1msad[m
+
+[03:30:58] [Server thread/INFO]: Jimmy_Green issued server command: /home roof
+[03:31:37] [Async Chat Thread - #20/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mwhos base is this?[m
+
+[03:31:41] [Async Chat Thread - #20/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJimmy_Green [0;37;1m➟ [0;37;1mlincolns[m
+
+[03:31:43] [Async Chat Thread - #20/INFO]: [0;37;22m[[0;33;22mSigma[0;37;22m] [0;37;1mthe_sigma [0;37;1m➟ [0;37;1mjohn mincart[m
+
+[03:31:45] [Async Chat Thread - #20/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mlincolns[m
+
+[03:31:54] [Server thread/INFO]: the_sigma issued server command: /home lincoln
+[03:31:55] [Async Chat Thread - #20/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mEthonian [0;37;1m➟ [0;37;1mits lincolns btw[m
+
+[03:32:04] [Async Chat Thread - #20/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mEthonian [0;37;1m➟ [0;37;1mjust incase you didnt know[m
+
+[03:32:23] [Async Chat Thread - #20/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mamyone want to fill it with water?[m
+
+[03:32:32] [Async Chat Thread - #20/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mTheUnfunny [0;37;1m➟ [0;37;1mnah just leave it be[m
+
+[03:32:32] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1moooeeeeooo [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m20[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[03:32:37] [Async Chat Thread - #20/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mEthonian [0;37;1m➟ [0;37;1mno not the sign[m
+
+[03:32:58] [Async Chat Thread - #20/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwhat yall doing[m
+
+[03:33:15] [Async Chat Thread - #20/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mbro stop with the fire[m
+
+[03:33:21] [Async Chat Thread - #20/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwatch out[m
+
+[03:33:25] [Server thread/INFO]: the_sigma issued server command: /home lincoln
+[03:33:28] [Server thread/INFO]: Jimmy_Green issued server command: /home roof
+[03:33:35] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mJimmy_Green [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m20[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[03:33:46] [Server thread/INFO]: oooeeeeooo issued server command: /home <lincoln>
+[03:33:47] [Async Chat Thread - #20/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1myo hit lit that[m
+
+[03:33:53] [Thread-94/INFO]: UUID of player John_Minecraft is 7d8c55d9-8ea1-36ef-9d86-864199571128
+[03:33:53] [Netty Server IO #3/WARN]: PacketEvents caught an unhandled exception while calling your listener.
+java.lang.RuntimeException: The received string length is longer than maximum allowed (20 > 16)
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.readString(PacketWrapper.java:639) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.play.server.WrapperPlayServerTeams.read(WrapperPlayServerTeams.java:165) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.readEvent(PacketWrapper.java:272) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.<init>(PacketWrapper.java:177) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.<init>(PacketWrapper.java:167) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.play.server.WrapperPlayServerTeams.<init>(WrapperPlayServerTeams.java:122) ~[?:?]
+	at ac.grim.grimac.utils.team.TeamHandler.onPacketSend(TeamHandler.java:46) ~[?:?]
+	at ac.grim.grimac.manager.CheckManager.onPacketSend(CheckManager.java:211) ~[?:?]
+	at ac.grim.grimac.events.packets.CheckManagerListener.onPacketSend(CheckManagerListener.java:837) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.event.PacketSendEvent.call(PacketSendEvent.java:51) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.event.EventManager.callEvent(EventManager.java:84) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.util.PacketEventsImplHelper.handleClientBoundPacket(PacketEventsImplHelper.java:45) ~[?:?]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.handleClientBoundPacket(PacketEventsEncoder.java:87) ~[?:?]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.encode(PacketEventsEncoder.java:72) ~[?:?]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.encode(PacketEventsEncoder.java:51) ~[?:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:89) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.write(PacketEventsEncoder.java:106) ~[?:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:113) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:120) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:112) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at dq.write(../../../../43ef24ef:14823) ~[?:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:706) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:890) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:245) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelProxy.writeAndFlush(NettyChannelProxy.java:227) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelProxy.writeAndFlush(NettyChannelProxy.java:233) ~[?:?]
+	at net.minecraft.server.v1_8_R3.NetworkManager$4.run(NetworkManager.java:198) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.lambda$proxyRunnable$2(NettyEventLoopProxy.java:48) ~[?:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:380) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:357) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:33:53] [Netty Server IO #3/WARN]: PacketEvents caught an unhandled exception while calling your listener.
+java.lang.RuntimeException: The received string length is longer than maximum allowed (25 > 16)
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.readString(PacketWrapper.java:639) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.play.server.WrapperPlayServerTeams.read(WrapperPlayServerTeams.java:165) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.readEvent(PacketWrapper.java:272) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.<init>(PacketWrapper.java:177) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.<init>(PacketWrapper.java:167) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.play.server.WrapperPlayServerTeams.<init>(WrapperPlayServerTeams.java:122) ~[?:?]
+	at ac.grim.grimac.utils.team.TeamHandler.onPacketSend(TeamHandler.java:46) ~[?:?]
+	at ac.grim.grimac.manager.CheckManager.onPacketSend(CheckManager.java:211) ~[?:?]
+	at ac.grim.grimac.events.packets.CheckManagerListener.onPacketSend(CheckManagerListener.java:837) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.event.PacketSendEvent.call(PacketSendEvent.java:51) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.event.EventManager.callEvent(EventManager.java:84) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.util.PacketEventsImplHelper.handleClientBoundPacket(PacketEventsImplHelper.java:45) ~[?:?]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.handleClientBoundPacket(PacketEventsEncoder.java:87) ~[?:?]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.encode(PacketEventsEncoder.java:72) ~[?:?]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.encode(PacketEventsEncoder.java:51) ~[?:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:89) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.write(PacketEventsEncoder.java:106) ~[?:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:113) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:112) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at gw.write(../../../2ed4fd1e:21914) ~[?:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:120) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:112) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at dq.write(../../../../43ef24ef:14823) ~[?:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:706) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:890) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:245) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelProxy.writeAndFlush(NettyChannelProxy.java:227) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelProxy.writeAndFlush(NettyChannelProxy.java:233) ~[?:?]
+	at net.minecraft.server.v1_8_R3.NetworkManager$4.run(NetworkManager.java:198) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.lambda$proxyRunnable$2(NettyEventLoopProxy.java:48) ~[?:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:380) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:357) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:33:53] [Server thread/INFO]: John_Minecraft[/[0:0:0:0:0:0:0:1]:44374] logged in with entity id 464345 at ([world]514.5124999880791, 49.0, 26.26397305900468)
+[03:33:54] [Craft Scheduler Thread - 139/INFO]: [0;31;1mWarning: John_Minecraft has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein, IhaveaDUI_547, evan_j, DashingsMomIsHot, your_mom_lol, Wonder, YungBiggaNIgga, Shithead, Popbob, NeedHemroidCream, caden_, Steve, elliot_is_gay, asdfsda, asdfsdad, let_me_talk, elliot_has_hacks, glen, Gleven, gleven, YeeYeeish968, diamondhoe, Bigboy27, jizzlerChromeboo, Im_not_evan, bedzgamer, Bedzgamer, BedzGaming, monkey, Yeshish_Yashher9, Bakery_Bakery, dead765, elliot_is_fat, geep_, Steven1, jamtart, joe_minecraft, joe_minecraf, joe_minecra, joe_minecr, joe_minec, joe_mine, joe_min, joe_mi, joe_m, joe_, 09__HBUAWKJHFYAE, 09__vjkhS_BHJFbj, you_cant_ban_me, no_you_cant, no_, your_gay_for_dat, hfduliasyfeh_kaj, goodgoonthe4th, Bakery_Bakery_, hfduliasyfe, CreamInMePlease, niga, goodgoonthe5th, ______________, ChaiTea, YeeYee408, jizzler09, jizzler_, jizzlerUnblocked, GreenColaLover16, TimeBomb, leah, Bill, kingnigga, BraedenJoner, jizzlerthe4th, goongoonthe4th, SKIBIDI_MAN, not_SKIBIDI_MAN, Yeshish_Yashher8, otherinstead, John_Minec_aft, Harry, bitchmade, Jimmy_Green, BioCat3_, b__, skib_rzz, baconmaniagd, g__, g_adafsdfsaf, g_adafsdfsafa, Junkler5000, John_Minec_raft, unban_danny_pls, GIK, loyalwhale360, supNI, ThatWillowTree, Coolcookies99, Nigger, imCOOKED, GEEKED_BOB, Nigger01, lolUsuck, lolUsuckk, TheChosenOne, krampus, Danny1, diddy, John_Minecr_ft, John_Minecra_t, OHIO, John_Minecr_aft, ColbyRayz, THEYLUV_FLASHY, cocaine, hitler, BioCat3, BioCat_, DarvlerYeeg842, not_SKBIDI_MAN, YeelerEagl579, Potsticker398, YeelerEagl5798, lolUsuckkk, lane, CalebRayz, ColbyRayz_, YeeDarver219, chinkman, didler, didlerdiddy, i_master_bait, LOGAN_DAVIS, chinknigga, Nigger011, Poopyburt69, CoIbyRayz, gigga, DeevYeeler460, YeeishYee162, jack, jack_, TheUnfunny, oooeeeeooo, ChuNIgga, niggerkiller123, jack__[m
+
+[03:33:54] [Craft Scheduler Thread - 139/INFO]: [0;31;1mWarning: John_Minecraft has the same IP as the following banned players:
+[0;33;22masdfsda, elliot_is_fat, geep_, Steven1, joe_minecraft, joe_minecraf, joe_minecra, joe_minecr, joe_minec, joe_mine, joe_min, joe_mi, 09__HBUAWKJHFYAE, 09__vjkhS_BHJFbj, you_cant_ban_me, no_you_cant, no_, your_gay_for_dat, Yeshish_Yashher9, Yeshish_Yashher8, unban_danny_pls, cocaine, YeelerEagl579, Nigger01, Nigger011, PAPA_CORBIN[m
+
+[03:33:57] [Async Chat Thread - #20/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mput lava over it[m
+
+[03:33:59] [Server thread/INFO]: Jimmy_Green issued server command: /home roof
+[03:34:00] [Server thread/INFO]: the_sigma issued server command: /home lincoln
+[03:34:05] [Server thread/INFO]: Ethonian issued server command: /home lincoln
+[03:34:08] [Async Chat Thread - #20/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mwhat the[m
+
+[03:34:13] [Async Chat Thread - #20/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mwhere's my stuff[m
+
+[03:34:16] [Async Chat Thread - #20/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mwhat[m
+
+[03:34:21] [Async Chat Thread - #20/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mTheUnfunny [0;37;1m➟ [0;37;1mquick question if i tp somewhere, can I quickly return back or do i need to walk back[m
+
+[03:34:29] [Async Chat Thread - #20/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mhat[m
+
+[03:34:30] [Server thread/INFO]: §fPlayer§7: §fJohn_Minecraft was slain by §fPlayer§7: §fDanny
+[03:34:33] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mDanny [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m20[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[03:34:37] [Server thread/INFO]: John_Minecraft issued server command: /back
+[03:34:39] [Async Chat Thread - #20/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mlol[m
+
+[03:34:42] [Server thread/INFO]: John_Minecraft issued server command: /back
+[03:34:48] [Async Chat Thread - #20/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mbruh[m
+
+[03:34:52] [Async Chat Thread - #20/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mabsoulute caranage[m
+
+[03:34:56] [Async Chat Thread - #20/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mEthonian [0;37;1m➟ [0;37;1mjimmy do you have any lapiz[m
+
+[03:34:56] [Server thread/INFO]: §fPlayer§7: §fJohn_Minecraft was slain by §fPlayer§7: §fcaden using [Skibidi Slicer]
+[03:35:02] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mTheUnfunny [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m20[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[03:35:04] [Async Chat Thread - #20/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJohn_Minecraft [0;37;1m➟ [0;37;1mman[m
+
+[03:35:07] [Async Chat Thread - #20/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJimmy_Green [0;37;1m➟ [0;37;1mi do actually[m
+
+[03:35:11] [Server thread/INFO]: John_Minecraft lost connection: Disconnected
+[03:35:11] [Server thread/INFO]: John_Minecraft left the game.
+[03:35:19] [Async Chat Thread - #20/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mcaden [0;37;1m➟ [0;37;1mbro rage quite[m
+
+[03:35:21] [Async Chat Thread - #20/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mEthonian [0;37;1m➟ [0;37;1mgood riddance[m
+
+[03:35:22] [Async Chat Thread - #20/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mW griefing?[m
+
+[03:35:43] [Async Chat Thread - #20/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1msomeonoe put lava over the water[m
+
+[03:35:50] [Server thread/INFO]: Steven issued server command: /home xp
+[03:36:01] [Async Chat Thread - #20/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mEthonian [0;37;1m➟ [0;37;1mi have lava[m
+
+[03:36:06] [Server thread/INFO]: [0;33;1m[ProtocolLib] The updater found an update: 5.2.0 (Running 5.2.0-SNAPSHOT-679). Download at https://www.spigotmc.org/resources/protocollib.1997/[m
+
+[03:36:13] [Server thread/INFO]: Steven issued server command: /home Chestroom
+[03:36:13] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mJimmy_Green [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m40[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[03:36:13] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mJimmy_Green [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m40[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[03:36:13] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mJimmy_Green [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m40[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[03:36:14] [Server thread/INFO]: the_sigma issued server command: /suicide
+[03:36:14] [Server thread/INFO]: §6Sigma§7: §fthe_sigma starved to death
+[03:36:14] [Server thread/INFO]: [0;31;1m[21mthe_sigma died.[m
+
+[03:36:14] [Server thread/ERROR]: [Suicide] The sound you're trying to play isn't registered in this Minecraft Version: ENTITY_ZOMBIE_HURT
+[03:36:18] [Server thread/INFO]: Steven issued server command: /home ChestRoom
+[03:36:18] [Server thread/INFO]: the_sigma issued server command: /back
+[03:36:22] [Async Chat Thread - #20/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mw griefing[m
+
+[03:36:41] [Async Chat Thread - #20/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mTheUnfunny [0;37;1m➟ [0;37;1mwhere is sugarcane when I need it[m
+
+[03:36:55] [Async Chat Thread - #20/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mEthonian [0;37;1m➟ [0;37;1mnoooo[m
+
+[03:36:57] [Async Chat Thread - #20/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mEthonian [0;37;1m➟ [0;37;1mmy lava[m
+
+[03:37:01] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mDanny [0;36;1mfailed [0;37;1mSimulation [0;37;1m(x[0;31;1m120[0;37;1m) [0;37;22m.009899 /gl 2[m
+
+[03:37:04] [Server thread/INFO]: Steven issued server command: /home xp
+[03:37:17] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mTheUnfunny [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m20[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[03:37:46] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mTheUnfunny [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m20[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[03:37:53] [Server thread/INFO]: caden issued server command: /home caden
+[03:38:04] [Server thread/INFO]: TheUnfunny issued server command: /tp @a Steven
+[03:38:04] [Server thread/INFO]: §cTheUnfunny §4was denied access to command.
+[03:38:13] [Async Chat Thread - #21/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mTheUnfunny [0;37;1m➟ [0;37;1msteven[m
+
+[03:38:18] [Async Chat Thread - #21/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1myea?[m
+
+[03:38:19] [Async Chat Thread - #21/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mTheUnfunny [0;37;1m➟ [0;37;1mwhat's teh tp command[m
+
+[03:38:26] [Async Chat Thread - #21/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mits /tpa[m
+
+[03:38:30] [Server thread/INFO]: TheUnfunny issued server command: /tpa Steven
+[03:38:34] [Async Chat Thread - #21/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mdo /tpa persons name[m
+
+[03:38:35] [Server thread/INFO]: Steven issued server command: /accept
+[03:38:49] [Async Chat Thread - #21/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mupstairs[m
+
+[03:38:53] [Async Chat Thread - #21/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mlincon is gonna crash when he gets back[m
+
+[03:39:00] [Async Chat Thread - #21/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mTheUnfunny [0;37;1m➟ [0;37;1mah yall are right out of spawn[m
+
+[03:39:02] [Server thread/INFO]: caden issued server command: /home caden
+[03:39:13] [Async Chat Thread - #21/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mjust tp tp me[m
+
+[03:39:15] [Async Chat Thread - #21/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mcaden are you[m
+
+[03:39:19] [Server thread/INFO]: TheUnfunny issued server command: /tpa Danny
+[03:39:20] [Server thread/INFO]: caden issued server command: /tpa Danny
+[03:39:21] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mDanny [0;36;1mfailed [0;37;1mSimulation [0;37;1m(x[0;31;1m120[0;37;1m) [0;37;22m.001362 /gl 3[m
+
+[03:39:24] [Server thread/INFO]: Danny issued server command: /tpaccept
+[03:39:31] [Async Chat Thread - #21/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mthis is lincons base[m
+
+[03:39:38] [Server thread/INFO]: TheUnfunny issued server command: /tpa Danny
+[03:39:40] [Async Chat Thread - #21/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mguys your welcome[m
+
+[03:39:42] [Server thread/INFO]: Danny issued server command: /tpaccept
+[03:39:43] [Async Chat Thread - #21/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mTheUnfunny [0;37;1m➟ [0;37;1msrry apperantly moving cancels[m
+
+[03:39:54] [Server thread/INFO]: caden issued server command: /tpa Danny
+[03:40:18] [Async Chat Thread - #21/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mEthonian [0;37;1m➟ [0;37;1mthe only party lincoln will ever have[m
+
+[03:40:23] [Async Chat Thread - #21/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mdamn[m
+
+[03:40:30] [Async Chat Thread - #21/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mEthonian [0;37;1m➟ [0;37;1mthat was mean im sorry[m
+
+[03:40:36] [Async Chat Thread - #21/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mdamn lol that was low[m
+
+[03:40:38] [Async Chat Thread - #21/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mthat was[m
+
+[03:40:41] [Server thread/INFO]: §fPlayer§7: §fEthonian was slain by §fPlayer§7: §foooeeeeooo
+[03:40:44] [Server thread/INFO]: caden issued server command: /tpa Danny
+[03:40:56] [Server thread/INFO]: Danny issued server command: /tpaccept
+[03:40:59] [Async Chat Thread - #21/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mTheUnfunny [0;37;1m➟ [0;37;1mdoes this toilet have an exit[m
+
+[03:41:00] [Server thread/INFO]: Danny issued server command: /tpaccept
+[03:41:00] [Server thread/INFO]: §fPlayer§7: §foooeeeeooo was slain by §fPlayer§7: §fJimmy_Green
+[03:41:02] [Async Chat Thread - #21/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mevery base i found of lincolns[m
+
+[03:41:04] [Async Chat Thread - #21/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mi griefed[m
+
+[03:41:06] [Server thread/INFO]: oooeeeeooo issued server command: /back
+[03:41:09] [Async Chat Thread - #21/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mEthonian [0;37;1m➟ [0;37;1mi take it back[m
+
+[03:41:11] [Async Chat Thread - #21/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mEthonian [0;37;1m➟ [0;37;1mmy bad[m
+
+[03:41:20] [Server thread/INFO]: Ethonian issued server command: /tpa oooeeeeooo
+[03:41:34] [Server thread/INFO]: oooeeeeooo issued server command: /tpaccept
+[03:41:34] [Server thread/INFO]: §cMurderer§7: §fSteven was shot by Skeleton
+[03:41:48] [Async Chat Thread - #21/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mEthonian [0;37;1m➟ [0;37;1mcan i have my stuff pls[m
+
+[03:42:10] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1moooeeeeooo [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m20[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[03:42:10] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1moooeeeeooo [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m20[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[03:42:11] [Async Chat Thread - #21/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mEthonian [0;37;1m➟ [0;37;1mdamn[m
+
+[03:42:11] [Async Chat Thread - #21/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJimmy_Green [0;37;1m➟ [0;37;1mnice touch[m
+
+[03:42:12] [Async Chat Thread - #21/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mEthonian [0;37;1m➟ [0;37;1mdanny[m
+
+[03:42:22] [Async Chat Thread - #21/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1myo[m
+
+[03:42:40] [Async Chat Thread - #21/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1methan your lunch table is a w[m
+
+[03:42:47] [Async Chat Thread - #21/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mEthonian [0;37;1m➟ [0;37;1mthank u[m
+
+[03:42:49] [Server thread/INFO]: Steven issued server command: /home Steven
+[03:42:50] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mJimmy_Green [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m20[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[03:42:50] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mJimmy_Green [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m20[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[03:42:51] [Async Chat Thread - #21/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mikm black[m
+
+[03:43:00] [Server thread/INFO]: Steven issued server command: /home ChestRoom
+[03:43:12] [Server thread/INFO]: Danny issued server command: /tpa caden
+[03:43:23] [Server thread/INFO]: caden issued server command: /tpaccept
+[03:43:32] [Server thread/INFO]: Danny issued server command: /tpa caden
+[03:43:47] [Server thread/INFO]: caden issued server command: /tpaccept
+[03:44:02] [Async Chat Thread - #22/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mEthonian [0;37;1m➟ [0;37;1mdid anyone else see the weird shit lincoln said[m
+
+[03:44:07] [Server thread/INFO]: Danny issued server command: /tpa caden
+[03:44:09] [Async Chat Thread - #22/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mcaden [0;37;1m➟ [0;37;1myes[m
+
+[03:44:09] [Async Chat Thread - #22/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mTheUnfunny [0;37;1m➟ [0;37;1mI did[m
+
+[03:44:19] [Async Chat Thread - #22/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mTheUnfunny [0;37;1m➟ [0;37;1mI dont want to think about it[m
+
+[03:44:45] [Server thread/INFO]: §6Sigma§7: §fthe_sigma was slain by §fPlayer§7: §foooeeeeooo
+[03:44:48] [Server thread/INFO]: Ethonian issued server command: /home pizzatower
+[03:44:59] [Server thread/INFO]: broke a trapped nether portal @ Location{world=CraftWorld{name=world},x=3703.300000011921,y=11.0,z=3942.9283077719533,pitch=15.30001,yaw=256.65002}
+[03:45:07] [Server thread/INFO]: oooeeeeooo issued server command: /home <ethan>
+[03:45:12] [Async Chat Thread - #22/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mzeke to far?[m
+
+[03:45:21] [Async Chat Thread - #22/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mJimmy_Green [0;37;1m➟ [0;37;1mlol[m
+
+[03:45:39] [Server thread/INFO]: Jimmy_Green lost connection: Disconnected
+[03:45:39] [Server thread/INFO]: Jimmy_Green left the game.
+[03:45:45] [Server thread/INFO]: the_sigma lost connection: Disconnected
+[03:45:45] [Server thread/INFO]: the_sigma left the game.
+[03:45:52] [Server thread/INFO]: Steven lost connection: Disconnected
+[03:45:52] [Server thread/INFO]: Steven left the game.
+[03:46:05] [Server thread/INFO]: §fPlayer§7: §foooeeeeooo fell from a high place
+[03:46:21] [Server thread/INFO]: oooeeeeooo issued server command: /home <ethan>
+[03:46:31] [Server thread/INFO]: oooeeeeooo lost connection: Disconnected
+[03:46:31] [Server thread/INFO]: oooeeeeooo left the game.
+[03:46:55] [Async Chat Thread - #23/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mEthonian [0;37;1m➟ [0;37;1mcya[m
+
+[03:46:56] [Server thread/INFO]: caden issued server command: /home caden
+[03:47:01] [Server thread/INFO]: Ethonian lost connection: Disconnected
+[03:47:01] [Server thread/INFO]: Ethonian left the game.
+[03:47:18] [Server thread/INFO]: Danny issued server command: /tpa caden
+[03:47:22] [Server thread/INFO]: broke a trapped nether portal @ Location{world=CraftWorld{name=world},x=3703.5,y=11.0000001,z=3943.522285341079,pitch=26.40001,yaw=326.70004}
+[03:47:56] [Thread-96/INFO]: UUID of player diamondhoe is 40cfe07e-6e1a-3d49-a44b-7cba3a4b586e
+[03:47:56] [Netty Server IO #0/WARN]: PacketEvents caught an unhandled exception while calling your listener.
+java.lang.RuntimeException: The received string length is longer than maximum allowed (20 > 16)
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.readString(PacketWrapper.java:639) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.play.server.WrapperPlayServerTeams.read(WrapperPlayServerTeams.java:165) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.readEvent(PacketWrapper.java:272) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.<init>(PacketWrapper.java:177) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.<init>(PacketWrapper.java:167) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.play.server.WrapperPlayServerTeams.<init>(WrapperPlayServerTeams.java:122) ~[?:?]
+	at ac.grim.grimac.utils.team.TeamHandler.onPacketSend(TeamHandler.java:46) ~[?:?]
+	at ac.grim.grimac.manager.CheckManager.onPacketSend(CheckManager.java:211) ~[?:?]
+	at ac.grim.grimac.events.packets.CheckManagerListener.onPacketSend(CheckManagerListener.java:837) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.event.PacketSendEvent.call(PacketSendEvent.java:51) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.event.EventManager.callEvent(EventManager.java:84) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.util.PacketEventsImplHelper.handleClientBoundPacket(PacketEventsImplHelper.java:45) ~[?:?]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.handleClientBoundPacket(PacketEventsEncoder.java:87) ~[?:?]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.encode(PacketEventsEncoder.java:72) ~[?:?]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.encode(PacketEventsEncoder.java:51) ~[?:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:89) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.write(PacketEventsEncoder.java:106) ~[?:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:113) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:112) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at gw.write(../../../2ed4fd1e:21914) ~[?:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:120) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:112) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at dq.write(../../../../43ef24ef:14823) ~[?:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:706) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:890) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:245) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelProxy.writeAndFlush(NettyChannelProxy.java:227) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelProxy.writeAndFlush(NettyChannelProxy.java:233) ~[?:?]
+	at net.minecraft.server.v1_8_R3.NetworkManager$4.run(NetworkManager.java:198) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.lambda$proxyRunnable$2(NettyEventLoopProxy.java:48) ~[?:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:380) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:357) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:47:56] [Netty Server IO #0/WARN]: PacketEvents caught an unhandled exception while calling your listener.
+java.lang.RuntimeException: The received string length is longer than maximum allowed (25 > 16)
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.readString(PacketWrapper.java:639) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.play.server.WrapperPlayServerTeams.read(WrapperPlayServerTeams.java:165) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.readEvent(PacketWrapper.java:272) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.<init>(PacketWrapper.java:177) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.<init>(PacketWrapper.java:167) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.play.server.WrapperPlayServerTeams.<init>(WrapperPlayServerTeams.java:122) ~[?:?]
+	at ac.grim.grimac.utils.team.TeamHandler.onPacketSend(TeamHandler.java:46) ~[?:?]
+	at ac.grim.grimac.manager.CheckManager.onPacketSend(CheckManager.java:211) ~[?:?]
+	at ac.grim.grimac.events.packets.CheckManagerListener.onPacketSend(CheckManagerListener.java:837) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.event.PacketSendEvent.call(PacketSendEvent.java:51) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.event.EventManager.callEvent(EventManager.java:84) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.util.PacketEventsImplHelper.handleClientBoundPacket(PacketEventsImplHelper.java:45) ~[?:?]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.handleClientBoundPacket(PacketEventsEncoder.java:87) ~[?:?]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.encode(PacketEventsEncoder.java:72) ~[?:?]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.encode(PacketEventsEncoder.java:51) ~[?:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:89) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.write(PacketEventsEncoder.java:106) ~[?:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:113) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:112) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at gw.write(../../../2ed4fd1e:21914) ~[?:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:120) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:112) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at dq.write(../../../../43ef24ef:14823) ~[?:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:706) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:890) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:245) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelProxy.writeAndFlush(NettyChannelProxy.java:227) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelProxy.writeAndFlush(NettyChannelProxy.java:233) ~[?:?]
+	at net.minecraft.server.v1_8_R3.NetworkManager$4.run(NetworkManager.java:198) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.lambda$proxyRunnable$2(NettyEventLoopProxy.java:48) ~[?:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:380) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:357) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:47:56] [Server thread/INFO]: diamondhoe[/[0:0:0:0:0:0:0:1]:35264] logged in with entity id 494199 at ([world]452.6017690258149, 84.0, 457.9093998101739)
+[03:47:57] [Craft Scheduler Thread - 148/INFO]: [0;31;1mWarning: diamondhoe has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein, IhaveaDUI_547, evan_j, DashingsMomIsHot, your_mom_lol, Wonder, YungBiggaNIgga, Shithead, Popbob, NeedHemroidCream, caden_, Steve, elliot_is_gay, asdfsda, asdfsdad, let_me_talk, elliot_has_hacks, glen, Gleven, gleven, YeeYeeish968, Bigboy27, jizzlerChromeboo, Im_not_evan, bedzgamer, Bedzgamer, BedzGaming, monkey, Yeshish_Yashher9, Bakery_Bakery, dead765, elliot_is_fat, geep_, Steven1, jamtart, joe_minecraft, joe_minecraf, joe_minecra, joe_minecr, joe_minec, joe_mine, joe_min, joe_mi, joe_m, joe_, 09__HBUAWKJHFYAE, 09__vjkhS_BHJFbj, you_cant_ban_me, no_you_cant, no_, your_gay_for_dat, hfduliasyfeh_kaj, goodgoonthe4th, Bakery_Bakery_, hfduliasyfe, CreamInMePlease, niga, goodgoonthe5th, ______________, ChaiTea, YeeYee408, jizzler09, jizzler_, jizzlerUnblocked, GreenColaLover16, TimeBomb, leah, Bill, kingnigga, BraedenJoner, jizzlerthe4th, goongoonthe4th, SKIBIDI_MAN, not_SKIBIDI_MAN, Yeshish_Yashher8, otherinstead, John_Minec_aft, Harry, bitchmade, Jimmy_Green, BioCat3_, b__, skib_rzz, baconmaniagd, g__, g_adafsdfsaf, g_adafsdfsafa, Junkler5000, John_Minec_raft, unban_danny_pls, GIK, loyalwhale360, supNI, ThatWillowTree, Coolcookies99, Nigger, imCOOKED, GEEKED_BOB, Nigger01, lolUsuck, lolUsuckk, TheChosenOne, krampus, Danny1, diddy, John_Minecr_ft, John_Minecra_t, OHIO, John_Minecr_aft, ColbyRayz, THEYLUV_FLASHY, cocaine, hitler, BioCat3, BioCat_, DarvlerYeeg842, not_SKBIDI_MAN, YeelerEagl579, Potsticker398, YeelerEagl5798, lolUsuckkk, lane, CalebRayz, ColbyRayz_, YeeDarver219, chinkman, didler, didlerdiddy, i_master_bait, LOGAN_DAVIS, chinknigga, Nigger011, Poopyburt69, CoIbyRayz, gigga, DeevYeeler460, YeeishYee162, jack, jack_, TheUnfunny, oooeeeeooo, ChuNIgga, niggerkiller123, jack__[m
+
+[03:47:57] [Craft Scheduler Thread - 155/INFO]: [0;31;1mWarning: diamondhoe has the same IP as the following banned players:
+[0;33;22masdfsda, elliot_is_fat, geep_, Steven1, joe_minecraft, joe_minecraf, joe_minecra, joe_minecr, joe_minec, joe_mine, joe_min, joe_mi, 09__HBUAWKJHFYAE, 09__vjkhS_BHJFbj, you_cant_ban_me, no_you_cant, no_, your_gay_for_dat, Yeshish_Yashher9, Yeshish_Yashher8, unban_danny_pls, cocaine, YeelerEagl579, Nigger01, Nigger011, PAPA_CORBIN[m
+
+[03:48:01] [Server thread/INFO]: CONSOLE issued server command: /list 
+[03:48:01] [Server thread/INFO]: [0;33;22mThere are [0;31;1m4[0;33;22m out of maximum [0;31;1m20,000[0;33;22m players online.[m
+
+[03:48:01] [Server thread/INFO]: [0;33;22mdefault[m: caden[0;37;1m, Danny, diamondhoe, TheUnfunny[m
+
+[03:48:15] [Async Chat Thread - #24/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mdiamondhoe [0;37;1m➟ [0;37;1msteven[m
+
+[03:48:19] [Server thread/INFO]: ------- Match Type: SWEAR ~ ANVIL[m
+
+[03:48:19] [Server thread/INFO]: Match: ((n)+(\W|_)*(!|i)+(\W|_)*(6|g)+(\W|_)*(6|g)+(\W|_)*(3|e)+(\W|_)*(r)+(\W|_)*)[m
+
+[03:48:19] [Server thread/INFO]: Catch > caden: nigger[m
+
+[03:48:52] [Async Chat Thread - #24/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mcaden [0;37;1m➟ [0;37;1mfor jack[m
+
+[03:48:57] [Async Chat Thread - #24/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mhuh bro caden you broke my sword[m
+
+[03:49:14] [Async Chat Thread - #24/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1moh lol[m
+
+[03:49:29] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mDanny [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m20[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[03:49:37] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mcaden [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m20[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[03:49:41] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mcaden [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m20[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[03:50:03] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mcaden [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m20[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[03:50:17] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mTheUnfunny [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m20[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[03:51:08] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mTheUnfunny [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m20[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[03:51:27] [Thread-97/INFO]: UUID of player Ethonian is 570f2c94-e62e-3069-9a98-648c4f1cf8d4
+[03:51:27] [Netty Server IO #1/WARN]: PacketEvents caught an unhandled exception while calling your listener.
+java.lang.RuntimeException: The received string length is longer than maximum allowed (20 > 16)
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.readString(PacketWrapper.java:639) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.play.server.WrapperPlayServerTeams.read(WrapperPlayServerTeams.java:165) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.readEvent(PacketWrapper.java:272) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.<init>(PacketWrapper.java:177) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.<init>(PacketWrapper.java:167) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.play.server.WrapperPlayServerTeams.<init>(WrapperPlayServerTeams.java:122) ~[?:?]
+	at ac.grim.grimac.utils.team.TeamHandler.onPacketSend(TeamHandler.java:46) ~[?:?]
+	at ac.grim.grimac.manager.CheckManager.onPacketSend(CheckManager.java:211) ~[?:?]
+	at ac.grim.grimac.events.packets.CheckManagerListener.onPacketSend(CheckManagerListener.java:837) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.event.PacketSendEvent.call(PacketSendEvent.java:51) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.event.EventManager.callEvent(EventManager.java:84) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.util.PacketEventsImplHelper.handleClientBoundPacket(PacketEventsImplHelper.java:45) ~[?:?]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.handleClientBoundPacket(PacketEventsEncoder.java:87) ~[?:?]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.encode(PacketEventsEncoder.java:72) ~[?:?]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.encode(PacketEventsEncoder.java:51) ~[?:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:89) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.write(PacketEventsEncoder.java:106) ~[?:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:113) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:112) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at gw.write(../../../2ed4fd1e:21914) ~[?:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:120) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:112) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at dq.write(../../../../43ef24ef:14823) ~[?:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:706) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:890) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:245) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelProxy.writeAndFlush(NettyChannelProxy.java:227) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelProxy.writeAndFlush(NettyChannelProxy.java:233) ~[?:?]
+	at net.minecraft.server.v1_8_R3.NetworkManager$4.run(NetworkManager.java:198) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.lambda$proxyRunnable$2(NettyEventLoopProxy.java:48) ~[?:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:380) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:357) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:51:27] [Netty Server IO #1/WARN]: PacketEvents caught an unhandled exception while calling your listener.
+java.lang.RuntimeException: The received string length is longer than maximum allowed (25 > 16)
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.readString(PacketWrapper.java:639) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.play.server.WrapperPlayServerTeams.read(WrapperPlayServerTeams.java:165) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.readEvent(PacketWrapper.java:272) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.<init>(PacketWrapper.java:177) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.<init>(PacketWrapper.java:167) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.play.server.WrapperPlayServerTeams.<init>(WrapperPlayServerTeams.java:122) ~[?:?]
+	at ac.grim.grimac.utils.team.TeamHandler.onPacketSend(TeamHandler.java:46) ~[?:?]
+	at ac.grim.grimac.manager.CheckManager.onPacketSend(CheckManager.java:211) ~[?:?]
+	at ac.grim.grimac.events.packets.CheckManagerListener.onPacketSend(CheckManagerListener.java:837) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.event.PacketSendEvent.call(PacketSendEvent.java:51) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.event.EventManager.callEvent(EventManager.java:84) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.util.PacketEventsImplHelper.handleClientBoundPacket(PacketEventsImplHelper.java:45) ~[?:?]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.handleClientBoundPacket(PacketEventsEncoder.java:87) ~[?:?]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.encode(PacketEventsEncoder.java:72) ~[?:?]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.encode(PacketEventsEncoder.java:51) ~[?:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:89) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.write(PacketEventsEncoder.java:106) ~[?:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:113) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:112) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at gw.write(../../../2ed4fd1e:21914) ~[?:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:120) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:112) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at dq.write(../../../../43ef24ef:14823) ~[?:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:706) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:890) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:245) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelProxy.writeAndFlush(NettyChannelProxy.java:227) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelProxy.writeAndFlush(NettyChannelProxy.java:233) ~[?:?]
+	at net.minecraft.server.v1_8_R3.NetworkManager$4.run(NetworkManager.java:198) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.lambda$proxyRunnable$2(NettyEventLoopProxy.java:48) ~[?:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:380) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:357) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:51:27] [Server thread/INFO]: Ethonian[/[0:0:0:0:0:0:0:1]:34696] logged in with entity id 495794 at ([world]3641.109268893258, 120.0, 4389.695140034634)
+[03:51:28] [Craft Scheduler Thread - 156/INFO]: [0;31;1mWarning: Ethonian has the same IP as the following banned players:
+[0;33;22masdfsda, elliot_is_fat, geep_, Steven1, joe_minecraft, joe_minecraf, joe_minecra, joe_minecr, joe_minec, joe_mine, joe_min, joe_mi, 09__HBUAWKJHFYAE, 09__vjkhS_BHJFbj, you_cant_ban_me, no_you_cant, no_, your_gay_for_dat, Yeshish_Yashher9, Yeshish_Yashher8, unban_danny_pls, cocaine, YeelerEagl579, Nigger01, Nigger011, PAPA_CORBIN[m
+
+[03:51:28] [Craft Scheduler Thread - 154/INFO]: [0;31;1mWarning: Ethonian has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein, IhaveaDUI_547, evan_j, DashingsMomIsHot, your_mom_lol, Wonder, YungBiggaNIgga, Shithead, Popbob, NeedHemroidCream, caden_, Steve, elliot_is_gay, asdfsda, asdfsdad, let_me_talk, elliot_has_hacks, glen, Gleven, gleven, YeeYeeish968, diamondhoe, Bigboy27, jizzlerChromeboo, Im_not_evan, bedzgamer, Bedzgamer, BedzGaming, monkey, Yeshish_Yashher9, Bakery_Bakery, dead765, elliot_is_fat, geep_, Steven1, jamtart, joe_minecraft, joe_minecraf, joe_minecra, joe_minecr, joe_minec, joe_mine, joe_min, joe_mi, joe_m, joe_, 09__HBUAWKJHFYAE, 09__vjkhS_BHJFbj, you_cant_ban_me, no_you_cant, no_, your_gay_for_dat, hfduliasyfeh_kaj, goodgoonthe4th, Bakery_Bakery_, hfduliasyfe, CreamInMePlease, niga, goodgoonthe5th, ______________, ChaiTea, YeeYee408, jizzler09, jizzler_, jizzlerUnblocked, GreenColaLover16, TimeBomb, leah, Bill, kingnigga, BraedenJoner, jizzlerthe4th, goongoonthe4th, SKIBIDI_MAN, not_SKIBIDI_MAN, Yeshish_Yashher8, otherinstead, John_Minec_aft, Harry, bitchmade, Jimmy_Green, BioCat3_, b__, skib_rzz, baconmaniagd, g__, g_adafsdfsaf, g_adafsdfsafa, Junkler5000, John_Minec_raft, unban_danny_pls, GIK, loyalwhale360, supNI, ThatWillowTree, Coolcookies99, Nigger, imCOOKED, GEEKED_BOB, Nigger01, lolUsuck, lolUsuckk, TheChosenOne, krampus, Danny1, diddy, John_Minecr_ft, John_Minecra_t, OHIO, John_Minecr_aft, ColbyRayz, THEYLUV_FLASHY, cocaine, hitler, BioCat3, BioCat_, DarvlerYeeg842, not_SKBIDI_MAN, YeelerEagl579, Potsticker398, YeelerEagl5798, lolUsuckkk, lane, CalebRayz, ColbyRayz_, YeeDarver219, chinkman, didler, didlerdiddy, i_master_bait, LOGAN_DAVIS, chinknigga, Nigger011, Poopyburt69, CoIbyRayz, gigga, DeevYeeler460, YeeishYee162, jack, jack_, TheUnfunny, oooeeeeooo, ChuNIgga, niggerkiller123, jack__[m
+
+[03:51:37] [Async Chat Thread - #25/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mback allready?[m
+
+[03:51:48] [Async Chat Thread - #25/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mEthonian [0;37;1m➟ [0;37;1mim doing smth real quick mb[m
+
+[03:51:55] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mdiamondhoe [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m20[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[03:53:39] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mTheUnfunny [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m20[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[03:53:41] [Async Chat Thread - #26/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mEthonian [0;37;1m➟ [0;37;1mok im done lol bye bye[m
+
+[03:53:47] [Server thread/INFO]: Ethonian lost connection: Disconnected
+[03:53:47] [Server thread/INFO]: Ethonian left the game.
+[03:54:32] [Async Chat Thread - #26/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mlol weve got to get rid of the lave[m
+
+[03:54:47] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mDanny [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m20[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[03:55:08] [Async Chat Thread - #26/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mcaden [0;37;1m➟ [0;37;1mgive me the hoe[m
+
+[03:55:21] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mDanny [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m20[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[03:56:30] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mTheUnfunny [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m20[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[03:56:36] [Thread-98/INFO]: UUID of player jack_ is 902450f3-7419-3a3e-ac3d-a3c5c150f5b6
+[03:56:36] [Netty Server IO #2/WARN]: PacketEvents caught an unhandled exception while calling your listener.
+java.lang.RuntimeException: The received string length is longer than maximum allowed (20 > 16)
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.readString(PacketWrapper.java:639) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.play.server.WrapperPlayServerTeams.read(WrapperPlayServerTeams.java:165) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.readEvent(PacketWrapper.java:272) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.<init>(PacketWrapper.java:177) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.<init>(PacketWrapper.java:167) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.play.server.WrapperPlayServerTeams.<init>(WrapperPlayServerTeams.java:122) ~[?:?]
+	at ac.grim.grimac.utils.team.TeamHandler.onPacketSend(TeamHandler.java:46) ~[?:?]
+	at ac.grim.grimac.manager.CheckManager.onPacketSend(CheckManager.java:211) ~[?:?]
+	at ac.grim.grimac.events.packets.CheckManagerListener.onPacketSend(CheckManagerListener.java:837) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.event.PacketSendEvent.call(PacketSendEvent.java:51) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.event.EventManager.callEvent(EventManager.java:84) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.util.PacketEventsImplHelper.handleClientBoundPacket(PacketEventsImplHelper.java:45) ~[?:?]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.handleClientBoundPacket(PacketEventsEncoder.java:87) ~[?:?]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.encode(PacketEventsEncoder.java:72) ~[?:?]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.encode(PacketEventsEncoder.java:51) ~[?:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:89) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.write(PacketEventsEncoder.java:106) ~[?:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:113) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:120) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:112) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at dq.write(../../../../43ef24ef:14823) ~[?:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:706) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:890) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:245) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelProxy.writeAndFlush(NettyChannelProxy.java:227) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelProxy.writeAndFlush(NettyChannelProxy.java:233) ~[?:?]
+	at net.minecraft.server.v1_8_R3.NetworkManager$4.run(NetworkManager.java:198) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.lambda$proxyRunnable$2(NettyEventLoopProxy.java:48) ~[?:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:380) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:357) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:56:36] [Netty Server IO #2/WARN]: PacketEvents caught an unhandled exception while calling your listener.
+java.lang.RuntimeException: The received string length is longer than maximum allowed (25 > 16)
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.readString(PacketWrapper.java:639) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.play.server.WrapperPlayServerTeams.read(WrapperPlayServerTeams.java:165) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.readEvent(PacketWrapper.java:272) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.<init>(PacketWrapper.java:177) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.<init>(PacketWrapper.java:167) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.play.server.WrapperPlayServerTeams.<init>(WrapperPlayServerTeams.java:122) ~[?:?]
+	at ac.grim.grimac.utils.team.TeamHandler.onPacketSend(TeamHandler.java:46) ~[?:?]
+	at ac.grim.grimac.manager.CheckManager.onPacketSend(CheckManager.java:211) ~[?:?]
+	at ac.grim.grimac.events.packets.CheckManagerListener.onPacketSend(CheckManagerListener.java:837) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.event.PacketSendEvent.call(PacketSendEvent.java:51) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.event.EventManager.callEvent(EventManager.java:84) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.util.PacketEventsImplHelper.handleClientBoundPacket(PacketEventsImplHelper.java:45) ~[?:?]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.handleClientBoundPacket(PacketEventsEncoder.java:87) ~[?:?]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.encode(PacketEventsEncoder.java:72) ~[?:?]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.encode(PacketEventsEncoder.java:51) ~[?:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:89) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.write(PacketEventsEncoder.java:106) ~[?:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:113) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:112) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at gw.write(../../../2ed4fd1e:21914) ~[?:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:120) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:112) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at dq.write(../../../../43ef24ef:14823) ~[?:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:706) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:890) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:245) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelProxy.writeAndFlush(NettyChannelProxy.java:227) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelProxy.writeAndFlush(NettyChannelProxy.java:233) ~[?:?]
+	at net.minecraft.server.v1_8_R3.NetworkManager$4.run(NetworkManager.java:198) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.lambda$proxyRunnable$2(NettyEventLoopProxy.java:48) ~[?:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:380) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:357) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:56:36] [Server thread/INFO]: jack_[/[0:0:0:0:0:0:0:1]:34256] logged in with entity id 500626 at ([world]321.53601162950116, 68.0, -123.61923221414854)
+[03:56:37] [Craft Scheduler Thread - 157/INFO]: [0;31;1mWarning: jack_ has the same IP as the following banned players:
+[0;33;22masdfsda, elliot_is_fat, geep_, Steven1, joe_minecraft, joe_minecraf, joe_minecra, joe_minecr, joe_minec, joe_mine, joe_min, joe_mi, 09__HBUAWKJHFYAE, 09__vjkhS_BHJFbj, you_cant_ban_me, no_you_cant, no_, your_gay_for_dat, Yeshish_Yashher9, Yeshish_Yashher8, unban_danny_pls, cocaine, YeelerEagl579, Nigger01, Nigger011, PAPA_CORBIN[m
+
+[03:56:37] [Craft Scheduler Thread - 158/INFO]: [0;31;1mWarning: jack_ has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein, IhaveaDUI_547, evan_j, DashingsMomIsHot, your_mom_lol, Wonder, YungBiggaNIgga, Shithead, Popbob, NeedHemroidCream, caden_, Steve, elliot_is_gay, asdfsda, asdfsdad, let_me_talk, elliot_has_hacks, glen, Gleven, gleven, YeeYeeish968, diamondhoe, Bigboy27, jizzlerChromeboo, Im_not_evan, bedzgamer, Bedzgamer, BedzGaming, monkey, Yeshish_Yashher9, Bakery_Bakery, dead765, elliot_is_fat, geep_, Steven1, jamtart, joe_minecraft, joe_minecraf, joe_minecra, joe_minecr, joe_minec, joe_mine, joe_min, joe_mi, joe_m, joe_, 09__HBUAWKJHFYAE, 09__vjkhS_BHJFbj, you_cant_ban_me, no_you_cant, no_, your_gay_for_dat, hfduliasyfeh_kaj, goodgoonthe4th, Bakery_Bakery_, hfduliasyfe, CreamInMePlease, niga, goodgoonthe5th, ______________, ChaiTea, YeeYee408, jizzler09, jizzler_, jizzlerUnblocked, GreenColaLover16, TimeBomb, leah, Bill, kingnigga, BraedenJoner, jizzlerthe4th, goongoonthe4th, SKIBIDI_MAN, not_SKIBIDI_MAN, Yeshish_Yashher8, otherinstead, John_Minec_aft, Harry, bitchmade, Jimmy_Green, BioCat3_, b__, skib_rzz, baconmaniagd, g__, g_adafsdfsaf, g_adafsdfsafa, Junkler5000, John_Minec_raft, unban_danny_pls, GIK, loyalwhale360, supNI, ThatWillowTree, Coolcookies99, Nigger, imCOOKED, GEEKED_BOB, Nigger01, lolUsuck, lolUsuckk, TheChosenOne, krampus, Danny1, diddy, John_Minecr_ft, John_Minecra_t, OHIO, John_Minecr_aft, ColbyRayz, THEYLUV_FLASHY, cocaine, hitler, BioCat3, BioCat_, DarvlerYeeg842, not_SKBIDI_MAN, YeelerEagl579, Potsticker398, YeelerEagl5798, lolUsuckkk, lane, CalebRayz, ColbyRayz_, YeeDarver219, chinkman, didler, didlerdiddy, i_master_bait, LOGAN_DAVIS, chinknigga, Nigger011, Poopyburt69, CoIbyRayz, gigga, DeevYeeler460, YeeishYee162, jack, TheUnfunny, oooeeeeooo, ChuNIgga, niggerkiller123, jack__[m
+
+[03:56:45] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mdiamondhoe [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m20[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[03:56:45] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mdiamondhoe [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m20[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[03:58:55] [Async Chat Thread - #27/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mTheUnfunny [0;37;1m➟ [0;37;1malr cya all ima go[m
+
+[03:59:04] [Async Chat Thread - #27/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mlater[m
+
+[03:59:10] [Server thread/INFO]: TheUnfunny lost connection: Disconnected
+[03:59:10] [Server thread/INFO]: TheUnfunny left the game.
+[04:00:28] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mDanny [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m20[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[04:01:34] [Thread-100/INFO]: UUID of player John_Minecraft is 7d8c55d9-8ea1-36ef-9d86-864199571128
+[04:01:34] [Server thread/WARN]: Failed to handle packet for /[0:0:0:0:0:0:0:1]:45452
+net.minecraft.server.v1_8_R3.ReportedException: Sending packet
+	at net.minecraft.server.v1_8_R3.PlayerConnection.sendPacket(PlayerConnection.java:925) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.a(EntityPlayer.java:783) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.Container.addSlotListener(Container.java:59) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.syncInventory(EntityPlayer.java:177) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerList.a(PlayerList.java:190) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.LoginListener.b(LoginListener.java:144) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.LoginListener.c(LoginListener.java:54) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.NetworkManager.a(NetworkManager.java:231) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.ServerConnection.c(ServerConnection.java:148) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:875) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: type cannot be null
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:229) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.comphenix.protocol.injector.StructureCache.getStructure(StructureCache.java:138) ~[?:?]
+	at com.comphenix.protocol.events.PacketContainer.<init>(PacketContainer.java:126) ~[?:?]
+	at com.comphenix.protocol.injector.netty.manager.NetworkManagerInjector.onPacketSending(NetworkManagerInjector.java:96) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelInjector.processOutbound(NettyChannelInjector.java:553) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelInjector$2.doProxyRunnable(NettyChannelInjector.java:456) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.proxyRunnable(NettyEventLoopProxy.java:43) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.execute(NettyEventLoopProxy.java:252) ~[?:?]
+	at net.minecraft.server.v1_8_R3.NetworkManager.a(NetworkManager.java:192) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.NetworkManager.handle(NetworkManager.java:141) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.sendPacket(PlayerConnection.java:911) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 13 more
+[04:01:34] [Netty Server IO #3/WARN]: PacketEvents caught an unhandled exception while calling your listener.
+java.lang.RuntimeException: The received string length is longer than maximum allowed (20 > 16)
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.readString(PacketWrapper.java:639) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.play.server.WrapperPlayServerTeams.read(WrapperPlayServerTeams.java:165) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.readEvent(PacketWrapper.java:272) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.<init>(PacketWrapper.java:177) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.<init>(PacketWrapper.java:167) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.play.server.WrapperPlayServerTeams.<init>(WrapperPlayServerTeams.java:122) ~[?:?]
+	at ac.grim.grimac.utils.team.TeamHandler.onPacketSend(TeamHandler.java:46) ~[?:?]
+	at ac.grim.grimac.manager.CheckManager.onPacketSend(CheckManager.java:211) ~[?:?]
+	at ac.grim.grimac.events.packets.CheckManagerListener.onPacketSend(CheckManagerListener.java:837) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.event.PacketSendEvent.call(PacketSendEvent.java:51) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.event.EventManager.callEvent(EventManager.java:84) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.util.PacketEventsImplHelper.handleClientBoundPacket(PacketEventsImplHelper.java:45) ~[?:?]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.handleClientBoundPacket(PacketEventsEncoder.java:87) ~[?:?]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.encode(PacketEventsEncoder.java:72) ~[?:?]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.encode(PacketEventsEncoder.java:51) ~[?:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:89) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.write(PacketEventsEncoder.java:106) ~[?:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:113) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:112) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at gw.write(../../../2ed4fd1e:21914) ~[?:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:120) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:112) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at dq.write(../../../../43ef24ef:14823) ~[?:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:706) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:890) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:245) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelProxy.writeAndFlush(NettyChannelProxy.java:227) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelProxy.writeAndFlush(NettyChannelProxy.java:233) ~[?:?]
+	at net.minecraft.server.v1_8_R3.NetworkManager$4.run(NetworkManager.java:198) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.lambda$proxyRunnable$2(NettyEventLoopProxy.java:48) ~[?:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:380) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:357) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[04:01:34] [Netty Server IO #3/WARN]: PacketEvents caught an unhandled exception while calling your listener.
+java.lang.RuntimeException: The received string length is longer than maximum allowed (25 > 16)
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.readString(PacketWrapper.java:639) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.play.server.WrapperPlayServerTeams.read(WrapperPlayServerTeams.java:165) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.readEvent(PacketWrapper.java:272) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.<init>(PacketWrapper.java:177) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.<init>(PacketWrapper.java:167) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.play.server.WrapperPlayServerTeams.<init>(WrapperPlayServerTeams.java:122) ~[?:?]
+	at ac.grim.grimac.utils.team.TeamHandler.onPacketSend(TeamHandler.java:46) ~[?:?]
+	at ac.grim.grimac.manager.CheckManager.onPacketSend(CheckManager.java:211) ~[?:?]
+	at ac.grim.grimac.events.packets.CheckManagerListener.onPacketSend(CheckManagerListener.java:837) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.event.PacketSendEvent.call(PacketSendEvent.java:51) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.event.EventManager.callEvent(EventManager.java:84) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.util.PacketEventsImplHelper.handleClientBoundPacket(PacketEventsImplHelper.java:45) ~[?:?]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.handleClientBoundPacket(PacketEventsEncoder.java:87) ~[?:?]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.encode(PacketEventsEncoder.java:72) ~[?:?]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.encode(PacketEventsEncoder.java:51) ~[?:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:89) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.write(PacketEventsEncoder.java:106) ~[?:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:113) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:112) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at gw.write(../../../2ed4fd1e:21914) ~[?:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:120) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:112) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at dq.write(../../../../43ef24ef:14823) ~[?:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:706) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:890) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:245) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelProxy.writeAndFlush(NettyChannelProxy.java:227) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelProxy.writeAndFlush(NettyChannelProxy.java:233) ~[?:?]
+	at net.minecraft.server.v1_8_R3.NetworkManager$4.run(NetworkManager.java:198) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.lambda$proxyRunnable$2(NettyEventLoopProxy.java:48) ~[?:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:380) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:357) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[04:01:34] [Server thread/INFO]: John_Minecraft lost connection: Internal server error
+[04:01:34] [Server thread/INFO]: John_Minecraft left the game.
+[04:01:35] [Craft Scheduler Thread - 153/INFO]: [0;31;1mWarning: John_Minecraft has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein, IhaveaDUI_547, evan_j, DashingsMomIsHot, your_mom_lol, Wonder, YungBiggaNIgga, Shithead, Popbob, NeedHemroidCream, caden_, Steve, elliot_is_gay, asdfsda, asdfsdad, let_me_talk, elliot_has_hacks, glen, Gleven, gleven, YeeYeeish968, diamondhoe, Bigboy27, jizzlerChromeboo, Im_not_evan, bedzgamer, Bedzgamer, BedzGaming, monkey, Yeshish_Yashher9, Bakery_Bakery, dead765, elliot_is_fat, geep_, Steven1, jamtart, joe_minecraft, joe_minecraf, joe_minecra, joe_minecr, joe_minec, joe_mine, joe_min, joe_mi, joe_m, joe_, 09__HBUAWKJHFYAE, 09__vjkhS_BHJFbj, you_cant_ban_me, no_you_cant, no_, your_gay_for_dat, hfduliasyfeh_kaj, goodgoonthe4th, Bakery_Bakery_, hfduliasyfe, CreamInMePlease, niga, goodgoonthe5th, ______________, ChaiTea, YeeYee408, jizzler09, jizzler_, jizzlerUnblocked, GreenColaLover16, TimeBomb, leah, Bill, kingnigga, BraedenJoner, jizzlerthe4th, goongoonthe4th, SKIBIDI_MAN, not_SKIBIDI_MAN, Yeshish_Yashher8, otherinstead, John_Minec_aft, Harry, bitchmade, Jimmy_Green, BioCat3_, b__, skib_rzz, baconmaniagd, g__, g_adafsdfsaf, g_adafsdfsafa, Junkler5000, John_Minec_raft, unban_danny_pls, GIK, loyalwhale360, supNI, ThatWillowTree, Coolcookies99, Nigger, imCOOKED, GEEKED_BOB, Nigger01, lolUsuck, lolUsuckk, TheChosenOne, krampus, Danny1, diddy, John_Minecr_ft, John_Minecra_t, OHIO, John_Minecr_aft, ColbyRayz, THEYLUV_FLASHY, cocaine, hitler, BioCat3, BioCat_, DarvlerYeeg842, not_SKBIDI_MAN, YeelerEagl579, Potsticker398, YeelerEagl5798, lolUsuckkk, lane, CalebRayz, ColbyRayz_, YeeDarver219, chinkman, didler, didlerdiddy, i_master_bait, LOGAN_DAVIS, chinknigga, Nigger011, Poopyburt69, CoIbyRayz, gigga, DeevYeeler460, YeeishYee162, jack, jack_, TheUnfunny, oooeeeeooo, ChuNIgga, niggerkiller123, jack__[m
+
+[04:01:35] [Craft Scheduler Thread - 154/INFO]: [0;31;1mWarning: John_Minecraft has the same IP as the following banned players:
+[0;33;22masdfsda, elliot_is_fat, geep_, Steven1, joe_minecraft, joe_minecraf, joe_minecra, joe_minecr, joe_minec, joe_mine, joe_min, joe_mi, 09__HBUAWKJHFYAE, 09__vjkhS_BHJFbj, you_cant_ban_me, no_you_cant, no_, your_gay_for_dat, Yeshish_Yashher9, Yeshish_Yashher8, unban_danny_pls, cocaine, YeelerEagl579, Nigger01, Nigger011, PAPA_CORBIN[m
+
+[04:01:37] [Thread-101/INFO]: UUID of player John_Minecraft is 7d8c55d9-8ea1-36ef-9d86-864199571128
+[04:01:37] [Server thread/WARN]: Failed to handle packet for /[0:0:0:0:0:0:0:1]:39424
+net.minecraft.server.v1_8_R3.ReportedException: Sending packet
+	at net.minecraft.server.v1_8_R3.PlayerConnection.sendPacket(PlayerConnection.java:925) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.a(EntityPlayer.java:783) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.Container.addSlotListener(Container.java:59) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.syncInventory(EntityPlayer.java:177) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerList.a(PlayerList.java:190) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.LoginListener.b(LoginListener.java:144) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.LoginListener.c(LoginListener.java:54) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.NetworkManager.a(NetworkManager.java:231) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.ServerConnection.c(ServerConnection.java:148) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:875) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: type cannot be null
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:229) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.comphenix.protocol.injector.StructureCache.getStructure(StructureCache.java:138) ~[?:?]
+	at com.comphenix.protocol.events.PacketContainer.<init>(PacketContainer.java:126) ~[?:?]
+	at com.comphenix.protocol.injector.netty.manager.NetworkManagerInjector.onPacketSending(NetworkManagerInjector.java:96) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelInjector.processOutbound(NettyChannelInjector.java:553) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelInjector$2.doProxyRunnable(NettyChannelInjector.java:456) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.proxyRunnable(NettyEventLoopProxy.java:43) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.execute(NettyEventLoopProxy.java:252) ~[?:?]
+	at net.minecraft.server.v1_8_R3.NetworkManager.a(NetworkManager.java:192) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.NetworkManager.handle(NetworkManager.java:141) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.sendPacket(PlayerConnection.java:911) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 13 more
+[04:01:37] [Netty Server IO #0/WARN]: PacketEvents caught an unhandled exception while calling your listener.
+java.lang.RuntimeException: The received string length is longer than maximum allowed (20 > 16)
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.readString(PacketWrapper.java:639) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.play.server.WrapperPlayServerTeams.read(WrapperPlayServerTeams.java:165) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.readEvent(PacketWrapper.java:272) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.<init>(PacketWrapper.java:177) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.<init>(PacketWrapper.java:167) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.play.server.WrapperPlayServerTeams.<init>(WrapperPlayServerTeams.java:122) ~[?:?]
+	at ac.grim.grimac.utils.team.TeamHandler.onPacketSend(TeamHandler.java:46) ~[?:?]
+	at ac.grim.grimac.manager.CheckManager.onPacketSend(CheckManager.java:211) ~[?:?]
+	at ac.grim.grimac.events.packets.CheckManagerListener.onPacketSend(CheckManagerListener.java:837) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.event.PacketSendEvent.call(PacketSendEvent.java:51) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.event.EventManager.callEvent(EventManager.java:84) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.util.PacketEventsImplHelper.handleClientBoundPacket(PacketEventsImplHelper.java:45) ~[?:?]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.handleClientBoundPacket(PacketEventsEncoder.java:87) ~[?:?]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.encode(PacketEventsEncoder.java:72) ~[?:?]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.encode(PacketEventsEncoder.java:51) ~[?:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:89) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.write(PacketEventsEncoder.java:106) ~[?:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:113) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:112) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at gw.write(../../../2ed4fd1e:21914) ~[?:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:120) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:112) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at dq.write(../../../../43ef24ef:14823) ~[?:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:706) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:890) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:245) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelProxy.writeAndFlush(NettyChannelProxy.java:227) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelProxy.writeAndFlush(NettyChannelProxy.java:233) ~[?:?]
+	at net.minecraft.server.v1_8_R3.NetworkManager$4.run(NetworkManager.java:198) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.lambda$proxyRunnable$2(NettyEventLoopProxy.java:48) ~[?:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:380) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:357) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[04:01:37] [Netty Server IO #0/WARN]: PacketEvents caught an unhandled exception while calling your listener.
+java.lang.RuntimeException: The received string length is longer than maximum allowed (25 > 16)
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.readString(PacketWrapper.java:639) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.play.server.WrapperPlayServerTeams.read(WrapperPlayServerTeams.java:165) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.readEvent(PacketWrapper.java:272) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.<init>(PacketWrapper.java:177) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.<init>(PacketWrapper.java:167) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.play.server.WrapperPlayServerTeams.<init>(WrapperPlayServerTeams.java:122) ~[?:?]
+	at ac.grim.grimac.utils.team.TeamHandler.onPacketSend(TeamHandler.java:46) ~[?:?]
+	at ac.grim.grimac.manager.CheckManager.onPacketSend(CheckManager.java:211) ~[?:?]
+	at ac.grim.grimac.events.packets.CheckManagerListener.onPacketSend(CheckManagerListener.java:837) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.event.PacketSendEvent.call(PacketSendEvent.java:51) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.event.EventManager.callEvent(EventManager.java:84) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.util.PacketEventsImplHelper.handleClientBoundPacket(PacketEventsImplHelper.java:45) ~[?:?]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.handleClientBoundPacket(PacketEventsEncoder.java:87) ~[?:?]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.encode(PacketEventsEncoder.java:72) ~[?:?]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.encode(PacketEventsEncoder.java:51) ~[?:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:89) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.write(PacketEventsEncoder.java:106) ~[?:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:113) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:112) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at gw.write(../../../2ed4fd1e:21914) ~[?:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:120) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:112) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at dq.write(../../../../43ef24ef:14823) ~[?:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:706) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:890) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:245) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelProxy.writeAndFlush(NettyChannelProxy.java:227) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelProxy.writeAndFlush(NettyChannelProxy.java:233) ~[?:?]
+	at net.minecraft.server.v1_8_R3.NetworkManager$4.run(NetworkManager.java:198) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.lambda$proxyRunnable$2(NettyEventLoopProxy.java:48) ~[?:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:380) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:357) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[04:01:37] [Server thread/INFO]: John_Minecraft lost connection: Internal server error
+[04:01:37] [Server thread/INFO]: John_Minecraft left the game.
+[04:01:38] [Craft Scheduler Thread - 154/INFO]: [0;31;1mWarning: John_Minecraft has the same IP as the following banned players:
+[0;33;22masdfsda, elliot_is_fat, geep_, Steven1, joe_minecraft, joe_minecraf, joe_minecra, joe_minecr, joe_minec, joe_mine, joe_min, joe_mi, 09__HBUAWKJHFYAE, 09__vjkhS_BHJFbj, you_cant_ban_me, no_you_cant, no_, your_gay_for_dat, Yeshish_Yashher9, Yeshish_Yashher8, unban_danny_pls, cocaine, YeelerEagl579, Nigger01, Nigger011, PAPA_CORBIN[m
+
+[04:01:38] [Craft Scheduler Thread - 158/INFO]: [0;31;1mWarning: John_Minecraft has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein, IhaveaDUI_547, evan_j, DashingsMomIsHot, your_mom_lol, Wonder, YungBiggaNIgga, Shithead, Popbob, NeedHemroidCream, caden_, Steve, elliot_is_gay, asdfsda, asdfsdad, let_me_talk, elliot_has_hacks, glen, Gleven, gleven, YeeYeeish968, diamondhoe, Bigboy27, jizzlerChromeboo, Im_not_evan, bedzgamer, Bedzgamer, BedzGaming, monkey, Yeshish_Yashher9, Bakery_Bakery, dead765, elliot_is_fat, geep_, Steven1, jamtart, joe_minecraft, joe_minecraf, joe_minecra, joe_minecr, joe_minec, joe_mine, joe_min, joe_mi, joe_m, joe_, 09__HBUAWKJHFYAE, 09__vjkhS_BHJFbj, you_cant_ban_me, no_you_cant, no_, your_gay_for_dat, hfduliasyfeh_kaj, goodgoonthe4th, Bakery_Bakery_, hfduliasyfe, CreamInMePlease, niga, goodgoonthe5th, ______________, ChaiTea, YeeYee408, jizzler09, jizzler_, jizzlerUnblocked, GreenColaLover16, TimeBomb, leah, Bill, kingnigga, BraedenJoner, jizzlerthe4th, goongoonthe4th, SKIBIDI_MAN, not_SKIBIDI_MAN, Yeshish_Yashher8, otherinstead, John_Minec_aft, Harry, bitchmade, Jimmy_Green, BioCat3_, b__, skib_rzz, baconmaniagd, g__, g_adafsdfsaf, g_adafsdfsafa, Junkler5000, John_Minec_raft, unban_danny_pls, GIK, loyalwhale360, supNI, ThatWillowTree, Coolcookies99, Nigger, imCOOKED, GEEKED_BOB, Nigger01, lolUsuck, lolUsuckk, TheChosenOne, krampus, Danny1, diddy, John_Minecr_ft, John_Minecra_t, OHIO, John_Minecr_aft, ColbyRayz, THEYLUV_FLASHY, cocaine, hitler, BioCat3, BioCat_, DarvlerYeeg842, not_SKBIDI_MAN, YeelerEagl579, Potsticker398, YeelerEagl5798, lolUsuckkk, lane, CalebRayz, ColbyRayz_, YeeDarver219, chinkman, didler, didlerdiddy, i_master_bait, LOGAN_DAVIS, chinknigga, Nigger011, Poopyburt69, CoIbyRayz, gigga, DeevYeeler460, YeeishYee162, jack, jack_, TheUnfunny, oooeeeeooo, ChuNIgga, niggerkiller123, jack__[m
+
+[04:01:40] [Thread-102/INFO]: UUID of player John_Minecraft is 7d8c55d9-8ea1-36ef-9d86-864199571128
+[04:01:40] [Netty Server IO #1/WARN]: PacketEvents caught an unhandled exception while calling your listener.
+java.lang.RuntimeException: The received string length is longer than maximum allowed (20 > 16)
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.readString(PacketWrapper.java:639) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.play.server.WrapperPlayServerTeams.read(WrapperPlayServerTeams.java:165) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.readEvent(PacketWrapper.java:272) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.<init>(PacketWrapper.java:177) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.<init>(PacketWrapper.java:167) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.play.server.WrapperPlayServerTeams.<init>(WrapperPlayServerTeams.java:122) ~[?:?]
+	at ac.grim.grimac.utils.team.TeamHandler.onPacketSend(TeamHandler.java:46) ~[?:?]
+	at ac.grim.grimac.manager.CheckManager.onPacketSend(CheckManager.java:211) ~[?:?]
+	at ac.grim.grimac.events.packets.CheckManagerListener.onPacketSend(CheckManagerListener.java:837) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.event.PacketSendEvent.call(PacketSendEvent.java:51) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.event.EventManager.callEvent(EventManager.java:84) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.util.PacketEventsImplHelper.handleClientBoundPacket(PacketEventsImplHelper.java:45) ~[?:?]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.handleClientBoundPacket(PacketEventsEncoder.java:87) ~[?:?]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.encode(PacketEventsEncoder.java:72) ~[?:?]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.encode(PacketEventsEncoder.java:51) ~[?:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:89) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.write(PacketEventsEncoder.java:106) ~[?:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:113) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:112) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at gw.write(../../../2ed4fd1e:21914) ~[?:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:120) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:112) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at dq.write(../../../../43ef24ef:14823) ~[?:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:706) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:890) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:245) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelProxy.writeAndFlush(NettyChannelProxy.java:227) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelProxy.writeAndFlush(NettyChannelProxy.java:233) ~[?:?]
+	at net.minecraft.server.v1_8_R3.NetworkManager$4.run(NetworkManager.java:198) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.lambda$proxyRunnable$2(NettyEventLoopProxy.java:48) ~[?:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:380) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:357) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[04:01:40] [Server thread/INFO]: John_Minecraft[/[0:0:0:0:0:0:0:1]:39440] logged in with entity id 504029 at ([world]181.48376699960696, 60.0, 250.5)
+[04:01:40] [Netty Server IO #1/WARN]: PacketEvents caught an unhandled exception while calling your listener.
+java.lang.RuntimeException: The received string length is longer than maximum allowed (25 > 16)
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.readString(PacketWrapper.java:639) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.play.server.WrapperPlayServerTeams.read(WrapperPlayServerTeams.java:165) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.readEvent(PacketWrapper.java:272) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.<init>(PacketWrapper.java:177) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.<init>(PacketWrapper.java:167) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.play.server.WrapperPlayServerTeams.<init>(WrapperPlayServerTeams.java:122) ~[?:?]
+	at ac.grim.grimac.utils.team.TeamHandler.onPacketSend(TeamHandler.java:46) ~[?:?]
+	at ac.grim.grimac.manager.CheckManager.onPacketSend(CheckManager.java:211) ~[?:?]
+	at ac.grim.grimac.events.packets.CheckManagerListener.onPacketSend(CheckManagerListener.java:837) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.event.PacketSendEvent.call(PacketSendEvent.java:51) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.event.EventManager.callEvent(EventManager.java:84) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.util.PacketEventsImplHelper.handleClientBoundPacket(PacketEventsImplHelper.java:45) ~[?:?]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.handleClientBoundPacket(PacketEventsEncoder.java:87) ~[?:?]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.encode(PacketEventsEncoder.java:72) ~[?:?]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.encode(PacketEventsEncoder.java:51) ~[?:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:89) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.write(PacketEventsEncoder.java:106) ~[?:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:113) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:112) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at gw.write(../../../2ed4fd1e:21914) ~[?:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:120) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:112) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at dq.write(../../../../43ef24ef:14823) ~[?:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:706) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:890) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:245) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelProxy.writeAndFlush(NettyChannelProxy.java:227) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelProxy.writeAndFlush(NettyChannelProxy.java:233) ~[?:?]
+	at net.minecraft.server.v1_8_R3.NetworkManager$4.run(NetworkManager.java:198) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.lambda$proxyRunnable$2(NettyEventLoopProxy.java:48) ~[?:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:380) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:357) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[04:01:41] [Craft Scheduler Thread - 158/INFO]: [0;31;1mWarning: John_Minecraft has the same IP as the following banned players:
+[0;33;22masdfsda, elliot_is_fat, geep_, Steven1, joe_minecraft, joe_minecraf, joe_minecra, joe_minecr, joe_minec, joe_mine, joe_min, joe_mi, 09__HBUAWKJHFYAE, 09__vjkhS_BHJFbj, you_cant_ban_me, no_you_cant, no_, your_gay_for_dat, Yeshish_Yashher9, Yeshish_Yashher8, unban_danny_pls, cocaine, YeelerEagl579, Nigger01, Nigger011, PAPA_CORBIN[m
+
+[04:01:41] [Craft Scheduler Thread - 161/INFO]: [0;31;1mWarning: John_Minecraft has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Steven, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein, IhaveaDUI_547, evan_j, DashingsMomIsHot, your_mom_lol, Wonder, YungBiggaNIgga, Shithead, Popbob, NeedHemroidCream, caden_, Steve, elliot_is_gay, asdfsda, asdfsdad, let_me_talk, elliot_has_hacks, glen, Gleven, gleven, YeeYeeish968, diamondhoe, Bigboy27, jizzlerChromeboo, Im_not_evan, bedzgamer, Bedzgamer, BedzGaming, monkey, Yeshish_Yashher9, Bakery_Bakery, dead765, elliot_is_fat, geep_, Steven1, jamtart, joe_minecraft, joe_minecraf, joe_minecra, joe_minecr, joe_minec, joe_mine, joe_min, joe_mi, joe_m, joe_, 09__HBUAWKJHFYAE, 09__vjkhS_BHJFbj, you_cant_ban_me, no_you_cant, no_, your_gay_for_dat, hfduliasyfeh_kaj, goodgoonthe4th, Bakery_Bakery_, hfduliasyfe, CreamInMePlease, niga, goodgoonthe5th, ______________, ChaiTea, YeeYee408, jizzler09, jizzler_, jizzlerUnblocked, GreenColaLover16, TimeBomb, leah, Bill, kingnigga, BraedenJoner, jizzlerthe4th, goongoonthe4th, SKIBIDI_MAN, not_SKIBIDI_MAN, Yeshish_Yashher8, otherinstead, John_Minec_aft, Harry, bitchmade, Jimmy_Green, BioCat3_, b__, skib_rzz, baconmaniagd, g__, g_adafsdfsaf, g_adafsdfsafa, Junkler5000, John_Minec_raft, unban_danny_pls, GIK, loyalwhale360, supNI, ThatWillowTree, Coolcookies99, Nigger, imCOOKED, GEEKED_BOB, Nigger01, lolUsuck, lolUsuckk, TheChosenOne, krampus, Danny1, diddy, John_Minecr_ft, John_Minecra_t, OHIO, John_Minecr_aft, ColbyRayz, THEYLUV_FLASHY, cocaine, hitler, BioCat3, BioCat_, DarvlerYeeg842, not_SKBIDI_MAN, YeelerEagl579, Potsticker398, YeelerEagl5798, lolUsuckkk, lane, CalebRayz, ColbyRayz_, YeeDarver219, chinkman, didler, didlerdiddy, i_master_bait, LOGAN_DAVIS, chinknigga, Nigger011, Poopyburt69, CoIbyRayz, gigga, DeevYeeler460, YeeishYee162, jack, jack_, TheUnfunny, oooeeeeooo, ChuNIgga, niggerkiller123, jack__[m
+
+[04:01:42] [Async Chat Thread - #28/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mheyy[m
+
+[04:01:49] [Server thread/INFO]: caden issued server command: /tpa John_Minecraft
+[04:01:50] [Server thread/INFO]: Danny issued server command: /home spawn
+[04:02:03] [Server thread/INFO]: John_Minecraft lost connection: Disconnected
+[04:02:03] [Server thread/INFO]: John_Minecraft left the game.
+[04:02:59] [Thread-103/INFO]: UUID of player Steven is 944d2caf-d932-3441-b30c-7e43d402ec4b
+[04:02:59] [Server thread/INFO]: Steven[/[0:0:0:0:0:0:0:1]:51640] logged in with entity id 505058 at ([world]272.65336144464084, 28.0, 1231.6348081187075)
+[04:02:59] [Netty Server IO #2/WARN]: PacketEvents caught an unhandled exception while calling your listener.
+java.lang.RuntimeException: The received string length is longer than maximum allowed (20 > 16)
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.readString(PacketWrapper.java:639) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.play.server.WrapperPlayServerTeams.read(WrapperPlayServerTeams.java:165) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.readEvent(PacketWrapper.java:272) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.<init>(PacketWrapper.java:177) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.<init>(PacketWrapper.java:167) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.play.server.WrapperPlayServerTeams.<init>(WrapperPlayServerTeams.java:122) ~[?:?]
+	at ac.grim.grimac.utils.team.TeamHandler.onPacketSend(TeamHandler.java:46) ~[?:?]
+	at ac.grim.grimac.manager.CheckManager.onPacketSend(CheckManager.java:211) ~[?:?]
+	at ac.grim.grimac.events.packets.CheckManagerListener.onPacketSend(CheckManagerListener.java:837) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.event.PacketSendEvent.call(PacketSendEvent.java:51) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.event.EventManager.callEvent(EventManager.java:84) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.util.PacketEventsImplHelper.handleClientBoundPacket(PacketEventsImplHelper.java:45) ~[?:?]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.handleClientBoundPacket(PacketEventsEncoder.java:87) ~[?:?]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.encode(PacketEventsEncoder.java:72) ~[?:?]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.encode(PacketEventsEncoder.java:51) ~[?:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:89) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.write(PacketEventsEncoder.java:106) ~[?:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:113) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:112) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at gw.write(../../../2ed4fd1e:21914) ~[?:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:120) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:112) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at dq.write(../../../../43ef24ef:14823) ~[?:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:706) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:890) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:245) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelProxy.writeAndFlush(NettyChannelProxy.java:227) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelProxy.writeAndFlush(NettyChannelProxy.java:233) ~[?:?]
+	at net.minecraft.server.v1_8_R3.NetworkManager$4.run(NetworkManager.java:198) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.lambda$proxyRunnable$2(NettyEventLoopProxy.java:48) ~[?:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:380) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:357) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[04:02:59] [Netty Server IO #2/WARN]: PacketEvents caught an unhandled exception while calling your listener.
+java.lang.RuntimeException: The received string length is longer than maximum allowed (25 > 16)
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.readString(PacketWrapper.java:639) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.play.server.WrapperPlayServerTeams.read(WrapperPlayServerTeams.java:165) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.readEvent(PacketWrapper.java:272) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.<init>(PacketWrapper.java:177) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.PacketWrapper.<init>(PacketWrapper.java:167) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.wrapper.play.server.WrapperPlayServerTeams.<init>(WrapperPlayServerTeams.java:122) ~[?:?]
+	at ac.grim.grimac.utils.team.TeamHandler.onPacketSend(TeamHandler.java:46) ~[?:?]
+	at ac.grim.grimac.manager.CheckManager.onPacketSend(CheckManager.java:211) ~[?:?]
+	at ac.grim.grimac.events.packets.CheckManagerListener.onPacketSend(CheckManagerListener.java:837) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.event.PacketSendEvent.call(PacketSendEvent.java:51) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.event.EventManager.callEvent(EventManager.java:84) ~[?:?]
+	at ac.grim.grimac.shaded.com.github.retrooper.packetevents.util.PacketEventsImplHelper.handleClientBoundPacket(PacketEventsImplHelper.java:45) ~[?:?]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.handleClientBoundPacket(PacketEventsEncoder.java:87) ~[?:?]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.encode(PacketEventsEncoder.java:72) ~[?:?]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.encode(PacketEventsEncoder.java:51) ~[?:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:89) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.handlers.PacketEventsEncoder.write(PacketEventsEncoder.java:106) ~[?:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:113) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:112) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at gw.write(../../../2ed4fd1e:21914) ~[?:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:120) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:651) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:112) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at dq.write(../../../../43ef24ef:14823) ~[?:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:658) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:716) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:706) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:890) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:245) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelProxy.writeAndFlush(NettyChannelProxy.java:227) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelProxy.writeAndFlush(NettyChannelProxy.java:233) ~[?:?]
+	at net.minecraft.server.v1_8_R3.NetworkManager$4.run(NetworkManager.java:198) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.lambda$proxyRunnable$2(NettyEventLoopProxy.java:48) ~[?:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:380) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:357) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[04:03:00] [Craft Scheduler Thread - 153/INFO]: [0;31;1mWarning: Steven has the same IP as the following banned players:
+[0;33;22masdfsda, elliot_is_fat, geep_, Steven1, joe_minecraft, joe_minecraf, joe_minecra, joe_minecr, joe_minec, joe_mine, joe_min, joe_mi, 09__HBUAWKJHFYAE, 09__vjkhS_BHJFbj, you_cant_ban_me, no_you_cant, no_, your_gay_for_dat, Yeshish_Yashher9, Yeshish_Yashher8, unban_danny_pls, cocaine, YeelerEagl579, Nigger01, Nigger011, PAPA_CORBIN[m
+
+[04:03:00] [Craft Scheduler Thread - 158/INFO]: [0;31;1mWarning: Steven has the same IP as the following players:
+[0;33;22ma__, Danny, XxTenderFlyxX, rocco, BaconMania, the_sigma, Geep, IhaveaDUI_998, YeeishYeeish841, Danny_, jewburner, Infinity, YeeVigg971, John_Minecraft, scarlet, scarlet_r, yarquesh, Ethonian, Jank_Boteko, ViggYee174, caden_da_gangsta, caden, John_MinecraftPC, glep, junkler3000, neaga, DANKBEEF, Cowboy, nigge, nigge_, bob_the_builder, Everett, YiggVigg282, Curry_Muncher, _sentientIMAC, Curry_Mucher, mason, JohannMinecraft, nigga, black_guy, Peel, peel, ViggYeeg761, ECLIPCE, DeevYigg110, ECLIPCE12, DarverEagler136, Dashing, jhdskljfkljasgd, KP_, PAPA_CORBIN, silly_goose, silly_goose1, YeelerVigg195, ViggVool330w, YiggEagl986, jizzler, get_killed_nerd, BaconMania_, Gilzbert, Sadam_hussein, IhaveaDUI_547, evan_j, DashingsMomIsHot, your_mom_lol, Wonder, YungBiggaNIgga, Shithead, Popbob, NeedHemroidCream, caden_, Steve, elliot_is_gay, asdfsda, asdfsdad, let_me_talk, elliot_has_hacks, glen, Gleven, gleven, YeeYeeish968, diamondhoe, Bigboy27, jizzlerChromeboo, Im_not_evan, bedzgamer, Bedzgamer, BedzGaming, monkey, Yeshish_Yashher9, Bakery_Bakery, dead765, elliot_is_fat, geep_, Steven1, jamtart, joe_minecraft, joe_minecraf, joe_minecra, joe_minecr, joe_minec, joe_mine, joe_min, joe_mi, joe_m, joe_, 09__HBUAWKJHFYAE, 09__vjkhS_BHJFbj, you_cant_ban_me, no_you_cant, no_, your_gay_for_dat, hfduliasyfeh_kaj, goodgoonthe4th, Bakery_Bakery_, hfduliasyfe, CreamInMePlease, niga, goodgoonthe5th, ______________, ChaiTea, YeeYee408, jizzler09, jizzler_, jizzlerUnblocked, GreenColaLover16, TimeBomb, leah, Bill, kingnigga, BraedenJoner, jizzlerthe4th, goongoonthe4th, SKIBIDI_MAN, not_SKIBIDI_MAN, Yeshish_Yashher8, otherinstead, John_Minec_aft, Harry, bitchmade, Jimmy_Green, BioCat3_, b__, skib_rzz, baconmaniagd, g__, g_adafsdfsaf, g_adafsdfsafa, Junkler5000, John_Minec_raft, unban_danny_pls, GIK, loyalwhale360, supNI, ThatWillowTree, Coolcookies99, Nigger, imCOOKED, GEEKED_BOB, Nigger01, lolUsuck, lolUsuckk, TheChosenOne, krampus, Danny1, diddy, John_Minecr_ft, John_Minecra_t, OHIO, John_Minecr_aft, ColbyRayz, THEYLUV_FLASHY, cocaine, hitler, BioCat3, BioCat_, DarvlerYeeg842, not_SKBIDI_MAN, YeelerEagl579, Potsticker398, YeelerEagl5798, lolUsuckkk, lane, CalebRayz, ColbyRayz_, YeeDarver219, chinkman, didler, didlerdiddy, i_master_bait, LOGAN_DAVIS, chinknigga, Nigger011, Poopyburt69, CoIbyRayz, gigga, DeevYeeler460, YeeishYee162, jack, jack_, TheUnfunny, oooeeeeooo, ChuNIgga, niggerkiller123, jack__[m
+
+[04:03:04] [Server thread/INFO]: caden issued server command: /tpa jack_
+[04:03:10] [Async Chat Thread - #29/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwhat did imiss[m
+
+[04:03:17] [Async Chat Thread - #29/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwsg leif[m
+
+[04:03:28] [Async Chat Thread - #29/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mdiamondhoe [0;37;1m➟ [0;37;1mlowkey this shit boring[m
+
+[04:03:30] [Server thread/INFO]: jack_ issued server command: /tpaccept
+[04:03:43] [Async Chat Thread - #29/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mcuz liincolns not on[m
+
+[04:03:52] [Async Chat Thread - #29/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mand the poeple who make fun of him[m
+
+[04:03:54] [Server thread/INFO]: Steven issued server command: /xp
+[04:03:54] [Server thread/INFO]: §cSteven §4was denied access to command.
+[04:03:55] [Async Chat Thread - #29/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mdiamondhoe [0;37;1m➟ [0;37;1mwe should start a slave trade[m
+
+[04:03:57] [Server thread/INFO]: Steven issued server command: /home xp
+[04:04:02] [Async Chat Thread - #29/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1msay less[m
+
+[04:04:10] [Async Chat Thread - #29/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mdiamondhoe [0;37;1m➟ [0;37;1mok we should[m
+
+[04:04:23] [Async Chat Thread - #29/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mjack were you here when it was chatic[m
+
+[04:04:37] [Async Chat Thread - #29/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mjack_ [0;37;1m➟ [0;37;1mno[m
+
+[04:04:39] [Async Chat Thread - #29/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1moh[m
+
+[04:05:01] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mDanny [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m20[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[04:05:17] [Async Chat Thread - #29/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mi dont think lincoln wil be playing for a while[m
+
+[04:05:36] [Async Chat Thread - #29/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mi just found someones base[m
+
+[04:05:41] [Async Chat Thread - #29/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwdym[m
+
+[04:05:43] [Server thread/INFO]: caden issued server command: /tpa danny
+[04:05:45] [Server thread/INFO]: Steven issued server command: /tpa Danny
+[04:05:47] [Server thread/INFO]: Danny issued server command: /tpaccept
+[04:05:54] [Async Chat Thread - #29/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mtp[m
+
+[04:06:10] [Server thread/INFO]: Steven issued server command: /tpa Danny
+[04:06:15] [Server thread/INFO]: Danny issued server command: /tpaccept
+[04:06:15] [Async Chat Thread - #29/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mhow[m
+
+[04:06:23] [Async Chat Thread - #29/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mngl its kind of astehetic[m
+
+[04:06:27] [Async Chat Thread - #29/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mph[m
+
+[04:06:40] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mDanny [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m20[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[04:06:45] [Async Chat Thread - #29/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mi already raided it[m
+
+[04:06:51] [Async Chat Thread - #29/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1moh lmao[m
+
+[04:06:52] [Server thread/INFO]: Steven issued server command: /home xp
+[04:06:57] [Async Chat Thread - #29/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mmid base[m
+
+[04:07:09] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mDanny [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m20[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[04:07:10] [Server thread/INFO]: Steven issued server command: /home linc
+[04:07:28] [Server thread/INFO]: caden issued server command: /tpa Danny
+[04:08:41] [Async Chat Thread - #30/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mdiamondhoe [0;37;1m➟ [0;37;1mfein cave got more secret[m
+
+[04:08:51] [Server thread/INFO]: caden issued server command: /tpa diamondhoe
+[04:08:55] [Server thread/INFO]: Steven issued server command: /tpa diamondhoe
+[04:09:01] [Server thread/INFO]: diamondhoe issued server command: /tpaccept
+[04:09:01] [Async Chat Thread - #30/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mlets see this john[m
+
+[04:09:12] [Async Chat Thread - #30/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mdo /accept[m
+
+[04:09:20] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mdiamondhoe [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m20[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[04:09:29] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mdiamondhoe [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m20[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[04:09:36] [Async Chat Thread - #30/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mleif[m
+
+[04:09:42] [Async Chat Thread - #30/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mwhat is this[m
+
+[04:09:46] [Server thread/INFO]: diamondhoe issued server command: /accept
+[04:09:47] [Async Chat Thread - #30/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mcaden tp to me[m
+
+[04:09:50] [Server thread/INFO]: Steven issued server command: /tpa Danny
+[04:09:56] [Server thread/INFO]: Danny issued server command: /tpaccept
+[04:10:00] [Server thread/INFO]: caden issued server command: /tpa Danny
+[04:10:11] [Async Chat Thread - #30/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mlincons old base[m
+
+[04:10:16] [Async Chat Thread - #30/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mi already griefed it[m
+
+[04:10:58] [Async Chat Thread - #30/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mcan you guys help me find a cow lol[m
+
+[04:11:02] [Async Chat Thread - #30/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mno[m
+
+[04:11:09] [Async Chat Thread - #30/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mi want a bucket of milk[m
+
+[04:11:17] [Server thread/INFO]: Danny issued server command: /home spawn
+[04:11:39] [Async Chat Thread - #30/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwhy[m
+
+[04:11:54] [Async Chat Thread - #30/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mso i can name it baby oil and frame it[m
+
+[04:11:57] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mjack_ [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m20[0;37;1m) [0;37;22mheld item change v1.8[m
+

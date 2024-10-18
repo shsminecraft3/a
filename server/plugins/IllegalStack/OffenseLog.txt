@@ -1,1 +1,3 @@
 10/17/24 20:50:09 - broke a trapped nether portal @ Location{world=CraftWorld{name=world},x=3703.300000011921,y=11.0,z=3942.4328780852948,pitch=72.15,yaw=128.7002}
+10/18/24 03:44:59 - broke a trapped nether portal @ Location{world=CraftWorld{name=world},x=3703.300000011921,y=11.0,z=3942.9283077719533,pitch=15.30001,yaw=256.65002}
+10/18/24 03:47:22 - broke a trapped nether portal @ Location{world=CraftWorld{name=world},x=3703.5,y=11.0000001,z=3943.522285341079,pitch=26.40001,yaw=326.70004}

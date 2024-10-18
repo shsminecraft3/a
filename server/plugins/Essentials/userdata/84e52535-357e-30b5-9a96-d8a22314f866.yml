@@ -16,7 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
+  logout: 1729223950856
   login: 1729210005866
 money: '0'
 last-account-name: TheUnfunny
+logoutlocation:
+  world: 25494d72-451b-4797-9b95-5af1e3c119f5
+  world-name: world
+  x: 863.8918575232121
+  y: 64.0
+  z: 1558.695670011767
+  yaw: -108.76930236816406
+  pitch: 8.614531517028809
