@@ -40,6 +40,11 @@ Steven:
     X: 273.69999998807907
     Y: 33.0
     Z: 1229.3258260348223
+  ChestRoom:
+    world: world
+    X: 272.32680570077036
+    Y: 28.0
+    Z: 1225.4487536848615
 Danny:
   old:
     world: world
