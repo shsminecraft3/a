@@ -123,11 +123,6 @@ John_Minecraft:
     X: 128.90647929957908
     Y: 75.0
     Z: 848.5375868430631
-  John_Minecraft:
-    world: world
-    X: 512.850532199048
-    Y: 49.0
-    Z: 22.27929666363329
   xp:
     world: world
     X: 491.6445363035478
@@ -301,6 +296,11 @@ not_SKIBIDI_MAN:
     X: 224.82941504748038
     Y: 70.0
     Z: 337.23451390585564
+  <skybase>:
+    world: world
+    X: 154.06528454594576
+    Y: 156.0
+    Z: 293.6641152004278
 Popbob:
   penis:
     world: world
