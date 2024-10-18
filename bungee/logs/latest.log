@@ -304,3 +304,16 @@
 [16:03:18] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36446]: Logged in as 'JohannMinecraft'
 [16:03:18] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:36446|JohannMinecraft] -> UpstreamBridge has connected
 [16:03:18] [Netty Worker IO Thread #0/INFO]: [JohannMinecraft|/[0:0:0:0:0:0:0:1%0]:36446] <-> ServerConnector [lobby] has connected
+[16:05:04] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58460]: Connected via websocket
+[16:05:04] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58460]: Origin header is http://localhost:8081
+[16:05:04] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58460]: Logged in as 'DarvlerEagl905'
+[16:05:04] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:58460|DarvlerEagl905] -> UpstreamBridge has connected
+[16:05:04] [Netty Worker IO Thread #1/INFO]: [DarvlerEagl905|/[0:0:0:0:0:0:0:1%0]:58460] <-> ServerConnector [lobby] has connected
+[16:06:14] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35976]: Connected via websocket
+[16:06:14] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35976]: Origin header is http://localhost:8081
+[16:06:14] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35976]: Logged in as 'YeeVigg634'
+[16:06:14] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:35976|YeeVigg634] -> UpstreamBridge has connected
+[16:06:14] [Netty Worker IO Thread #0/INFO]: [YeeVigg634|/[0:0:0:0:0:0:0:1%0]:35976] <-> ServerConnector [lobby] has connected
+[16:07:04] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:58460|DarvlerEagl905] -> UpstreamBridge has disconnected
+[16:07:04] [Netty Worker IO Thread #1/INFO]: [DarvlerEagl905] disconnected with: Proxy lost connection to server.
+[16:07:04] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:58460|DarvlerEagl905] <-> DownstreamBridge <-> [lobby] has disconnected

@@ -16,15 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1729267624587
-  login: 1729267505028
+  logout: 0
+  login: 1729267574876
 money: '0'
-last-account-name: DarvlerEagl905
-logoutlocation:
-  world: 25494d72-451b-4797-9b95-5af1e3c119f5
-  world-name: world
-  x: 222.77721960134235
-  y: 68.0
-  z: 71.13620834316245
-  yaw: 177.60009765625
-  pitch: 10.950000762939453
+last-account-name: YeeVigg634
