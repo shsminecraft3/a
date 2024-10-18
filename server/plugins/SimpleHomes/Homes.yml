@@ -107,6 +107,16 @@ jewburner:
     X: 132.62735322714474
     Y: 241.0
     Z: 848.1465806436306
+  floorboards:
+    world: world
+    X: 267.52722052645817
+    Y: 25.0
+    Z: 1227.300000011921
+  secure:
+    world: world
+    X: -583.243921927662
+    Y: 56.0
+    Z: 1736.3931861618876
 John_Minecraft:
   John_Mineccraft:
     world: world
