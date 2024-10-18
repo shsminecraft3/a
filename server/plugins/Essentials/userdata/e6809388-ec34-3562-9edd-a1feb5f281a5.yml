@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1729269258981
-  login: 1729267939415
+  logout: 1729276175021
+  login: 1729276686113
 money: '0'
 last-account-name: not_SKIBIDI_MAN
 logoutlocation:
   world: 25494d72-451b-4797-9b95-5af1e3c119f5
   world-name: world
-  x: 154.06528454594576
-  y: 156.0
-  z: 293.6641152004278
-  yaw: 0.0
-  pitch: 0.0
+  x: 159.39488377067084
+  y: 63.0
+  z: 262.4936207475472
+  yaw: -225.60009765625
+  pitch: 19.950010299682617

@@ -81,6 +81,11 @@ Danny:
     X: 3719.453912940619
     Y: 11.0
     Z: 3942.457236304214
+  spawner:
+    world: world
+    X: 494.7195600193327
+    Y: 23.0
+    Z: 57.58543440044314
 jewburner:
   lava:
     world: world

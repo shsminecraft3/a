@@ -520,3 +520,21 @@ Spectator Name: a__
 Taken         : []
 Given         : [DIAMOND x 6]
 Target        : John_Minecraft
+[2024-10-18 18:05:38] [INFO]:
+Spectator UUID: e7c24215-dfa4-3c38-a935-0a08fc511456
+Spectator Name: a__
+Taken         : [DIAMOND_SWORD & UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=Skibidi Slicer, enchants={DAMAGE_ALL=1}, repair-cost=1} x 1, DIAMOND_BOOTS & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=1}, repair-cost=1} x 1, DIAMOND_LEGGINGS x 1, DIAMOND_CHESTPLATE & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_EXPLOSIONS=2}} x 1, DIAMOND_HELMET & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=1}, repair-cost=1} x 1]
+Given         : []
+Target        : caden
+[2024-10-18 18:05:53] [INFO]:
+Spectator UUID: e7c24215-dfa4-3c38-a935-0a08fc511456
+Spectator Name: a__
+Taken         : []
+Given         : [DIAMOND_SWORD & UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=Skibidi Slicer, enchants={DAMAGE_ALL=1}, repair-cost=1} x 1, DIAMOND_BOOTS & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=1}, repair-cost=1} x 1, DIAMOND_HELMET & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=1}, repair-cost=1} x 1, DIAMOND_CHESTPLATE & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_EXPLOSIONS=2}} x 1, DIAMOND_LEGGINGS x 1]
+Target        : John_Minecraft
+[2024-10-18 18:05:53] [INFO]:
+Spectator UUID: e7c24215-dfa4-3c38-a935-0a08fc511456
+Spectator Name: a__
+Taken         : []
+Given         : [DIAMOND_SWORD & UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=Skibidi Slicer, enchants={DAMAGE_ALL=1}, repair-cost=1} x 1, DIAMOND_BOOTS & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=1}, repair-cost=1} x 1, DIAMOND_HELMET & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=1}, repair-cost=1} x 1, DIAMOND_CHESTPLATE & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_EXPLOSIONS=2}} x 1, DIAMOND_LEGGINGS x 1]
+Target        : John_Minecraft

@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1729269043191
-  login: 1729269012126
+  logout: 1729276128922
+  login: 1729276086459
 money: '0'
 logoutlocation:
   world: 25494d72-451b-4797-9b95-5af1e3c119f5
   world-name: world
-  x: 69.59358197964998
-  y: 82.0
-  z: -71.9320235873761
-  yaw: -183.81365966796875
-  pitch: -23.498058319091797
+  x: 75.25657307728456
+  y: 90.0
+  z: -79.40331682465688
+  yaw: -84.5136489868164
+  pitch: 16.949993133544922
 last-account-name: jewburner
