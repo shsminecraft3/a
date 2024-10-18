@@ -11,28 +11,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1729211643416
+  lastteleport: 1729231805623
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1729216034080
-  login: 1729213356089
+  logout: 1729232064590
+  login: 1729231754596
 money: '0'
 last-account-name: BaconMania
 lastlocation:
   world: 25494d72-451b-4797-9b95-5af1e3c119f5
   world-name: world
-  x: 3623.947419800732
-  y: 125.0
-  z: 4420.163371917201
-  yaw: 177.15011596679688
-  pitch: 39.149993896484375
+  x: 3644.1013539486376
+  y: 120.0
+  z: 4390.504090854248
+  yaw: -303.150146484375
+  pitch: 20.250009536743164
 logoutlocation:
   world: 25494d72-451b-4797-9b95-5af1e3c119f5
   world-name: world
-  x: 3642.193740899516
-  y: 120.0
-  z: 4391.042195754976
-  yaw: 359.6999816894531
-  pitch: 62.69999694824219
+  x: 180.60401606040887
+  y: 64.0
+  z: 246.05376316558318
+  yaw: -125.25006103515625
+  pitch: 20.85000228881836
