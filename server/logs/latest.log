@@ -3123,3 +3123,19 @@ java.lang.RuntimeException: The received string length is longer than maximum al
 [02:27:33] [Server thread/INFO]: Danny issued server command: /home home
 [02:27:37] [Async Chat Thread - #6/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1myo who are you?[m
 
+[02:29:06] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mDanny [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m20[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[02:29:08] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[02:30:06] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mDanny [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m40[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[02:30:06] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mDanny [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m40[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[02:30:06] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mDanny [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m40[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[02:31:04] [Async Chat Thread - #7/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mhey anyone at spawn i can tp to pretty pleasee[m
+
+[02:31:20] [Server thread/INFO]: Danny issued server command: /tpa jam tart
+[02:31:58] [Server thread/INFO]: Danny issued server command: /tpa curry muncher
+[02:36:30] [Server thread/INFO]: Curry_Muncher lost connection: Disconnected
+[02:36:30] [Server thread/INFO]: Curry_Muncher left the game.
