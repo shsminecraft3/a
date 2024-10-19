@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1729300508246
+  logout: 1729301156673
   login: 1729300510262
 money: '0'
 last-account-name: lilasiaboi
 logoutlocation:
   world: 25494d72-451b-4797-9b95-5af1e3c119f5
   world-name: world
-  x: 153.26728769853585
-  y: 63.0
-  z: 249.0079439430932
-  yaw: -280.70037841796875
-  pitch: 1.421627163887024
+  x: 291.0525811397647
+  y: 72.0
+  z: 228.2789577968964
+  yaw: -109.18304443359375
+  pitch: 64.94999694824219
