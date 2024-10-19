@@ -114,3 +114,6 @@
 [21:02:33] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:53092|RustyDucky9] -> UpstreamBridge has disconnected
 [21:02:33] [Netty Worker IO Thread #2/INFO]: [RustyDucky9] disconnected with: Proxy lost connection to server.
 [21:02:33] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:53092|RustyDucky9] <-> DownstreamBridge <-> [lobby] has disconnected
+[22:40:07] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:50272|Steven] -> UpstreamBridge has disconnected
+[22:40:07] [Netty Worker IO Thread #3/INFO]: [Steven] disconnected with: Proxy lost connection to server.
+[22:40:07] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:50272|Steven] <-> DownstreamBridge <-> [lobby] has disconnected
