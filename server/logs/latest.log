@@ -857,3 +857,6 @@ java.lang.RuntimeException: The received string length is longer than maximum al
 [20:28:49] [Server thread/INFO]: jewburner issued server command: /home fake
 [20:28:59] [Server thread/INFO]: jewburner lost connection: Disconnected
 [20:28:59] [Server thread/INFO]: jewburner left the game.
+[20:42:55] [Server thread/INFO]: CONSOLE issued server command: /list 
+[20:42:55] [Server thread/INFO]: [0;33;22mThere are [0;31;1m0[0;33;22m out of maximum [0;31;1m20,000[0;33;22m players online.[m
+
