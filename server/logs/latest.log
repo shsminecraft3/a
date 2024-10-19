@@ -1569,3 +1569,10 @@ java.lang.RuntimeException: The received string length is longer than maximum al
 [21:42:53] [Server thread/INFO]: Steven issued server command: /home home
 [21:43:39] [Server thread/INFO]: Steven issued server command: /home HOME
 [21:43:46] [Server thread/INFO]: Steven issued server command: /homes
+[21:46:01] [Server thread/INFO]: Steven issued server command: /home home
+[21:46:41] [Server thread/INFO]: Steven issued server command: /home HOME
+[21:51:01] [Server thread/INFO]: Steven issued server command: /home home
+[21:54:12] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mTHEYLUV_FLASHY [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m20[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[22:01:20] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mTHEYLUV_FLASHY [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m20[0;37;1m) [0;37;22mheld item change v1.8[m
+
