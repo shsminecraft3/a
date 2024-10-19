@@ -415,6 +415,16 @@ THEYLUV_FLASHY:
     X: 272.8354224434819
     Y: 71.0
     Z: 1245.0891637590266
+  neko:
+    world: world
+    X: 552.2630843668844
+    Y: 5.0
+    Z: 1403.4216084576508
+  grass:
+    world: world
+    X: 481.62036260012
+    Y: 64.0
+    Z: 1403.3956117026546
 RustyDucky9:
   village:
     world: world
