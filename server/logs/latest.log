@@ -1645,3 +1645,5 @@ java.lang.RuntimeException: The received string length is longer than maximum al
 
 [22:51:34] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mTHEYLUV_FLASHY [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m60[0;37;1m) [0;37;22mheld item change v1.8[m
 
+[23:18:36] [Server thread/INFO]: THEYLUV_FLASHY lost connection: Disconnected
+[23:18:36] [Server thread/INFO]: THEYLUV_FLASHY left the game.

@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1729301233071
+  logout: 1729379916503
   login: 1729371384683
 money: '0'
 last-account-name: THEYLUV_FLASHY
 logoutlocation:
   world: 25494d72-451b-4797-9b95-5af1e3c119f5
   world-name: world
-  x: 294.019595591889
-  y: 72.0
-  z: 228.40798485229996
-  yaw: -299.101318359375
-  pitch: 22.949995040893555
+  x: 547.3000000119209
+  y: 5.0
+  z: 1403.3942964065316
+  yaw: -90.00048828125
+  pitch: 6.450000762939453
