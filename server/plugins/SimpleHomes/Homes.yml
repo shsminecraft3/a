@@ -80,6 +80,11 @@ Steven:
     X: 863.208265104415
     Y: 63.0
     Z: -10.573249844645533
+  surface:
+    world: world
+    X: 270.0257935102353
+    Y: 71.0
+    Z: 1243.5734561001068
 Danny:
   old:
     world: world
@@ -400,6 +405,16 @@ THEYLUV_FLASHY:
     X: 319.5696542691975
     Y: 73.0
     Z: 247.48962511355006
+  base:
+    world: world
+    X: 272.0432370570506
+    Y: 28.0
+    Z: 1230.1949225117407
+  surface:
+    world: world
+    X: 272.8354224434819
+    Y: 71.0
+    Z: 1245.0891637590266
 RustyDucky9:
   village:
     world: world
