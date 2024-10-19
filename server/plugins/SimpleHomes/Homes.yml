@@ -55,16 +55,31 @@ Steven:
     X: 1543.4289210965094
     Y: 92.0
     Z: 2802.890903747227
-  xp:
-    world: world
-    X: 491.30000001192093
-    Y: 16.0
-    Z: 52.64302224329598
   linc:
     world: world
     X: 514.5124999880791
     Y: 49.0
     Z: 26.26397305900468
+  xp:
+    world: world
+    X: 493.35237368099774
+    Y: 23.0
+    Z: 57.09687387456434
+  home:
+    world: world
+    X: 272.32680570077036
+    Y: 28.0
+    Z: 1225.4487536848615
+  cowheaven:
+    world: world
+    X: 802.5715750683516
+    Y: 71.0
+    Z: 84.28089448111045
+  cowhouse:
+    world: world
+    X: 863.208265104415
+    Y: 63.0
+    Z: -10.573249844645533
 Danny:
   old:
     world: world
@@ -86,6 +101,11 @@ Danny:
     X: 195.95829954104977
     Y: 64.0
     Z: 1223.4130945039963
+  spawn:
+    world: world
+    X: 178.88921058882926
+    Y: 63.0
+    Z: 273.21943182777113
 jewburner:
   lava:
     world: world
@@ -122,6 +142,11 @@ jewburner:
     X: -583.243921927662
     Y: 56.0
     Z: 1736.3931861618876
+  Danny:
+    world: world
+    X: 3751.300000011921
+    Y: 66.0
+    Z: 3886.300000011921
 John_Minecraft:
   John_Mineccraft:
     world: world

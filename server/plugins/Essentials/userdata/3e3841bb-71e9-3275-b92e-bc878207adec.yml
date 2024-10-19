@@ -16,7 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
+  logout: 1729308228637
   login: 1729306236997
 money: '0'
 last-account-name: Knight
+logoutlocation:
+  world: 25494d72-451b-4797-9b95-5af1e3c119f5
+  world-name: world
+  x: 473.61585074203845
+  y: 64.0
+  z: 746.0435618824267
+  yaw: -110.61386108398438
+  pitch: 9.749992370605469

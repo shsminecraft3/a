@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1729304334029
-  login: 1729303439665
+  logout: 1729319660290
+  login: 1729319494187
 money: '0'
 last-account-name: RustyDucky9
 logoutlocation:
   world: 25494d72-451b-4797-9b95-5af1e3c119f5
   world-name: world
-  x: 493.716957172046
-  y: 23.0
-  z: 56.300000011920915
-  yaw: 8.1002197265625
-  pitch: 23.399993896484375
+  x: 272.69999998807907
+  y: 28.0000001
+  z: 1231.353160252992
+  yaw: 106.19998168945312
+  pitch: 22.649993896484375
