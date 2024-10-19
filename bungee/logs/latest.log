@@ -209,3 +209,8 @@ It expires in 5 hours 38 minutes 35 seconds
 [02:36:30] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:53300|Curry_Muncher] -> UpstreamBridge has disconnected
 [02:36:30] [Netty Worker IO Thread #0/INFO]: [Curry_Muncher] disconnected with: Proxy lost connection to server.
 [02:36:30] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:53300|Curry_Muncher] <-> DownstreamBridge <-> [lobby] has disconnected
+[02:50:36] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:47030]: Connected via websocket
+[02:50:36] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:47030]: Origin header is null
+[02:50:36] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:47030]: Logged in as 'Knight'
+[02:50:36] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:47030|Knight] -> UpstreamBridge has connected
+[02:50:36] [Netty Worker IO Thread #2/INFO]: [Knight|/[0:0:0:0:0:0:0:1%0]:47030] <-> ServerConnector [lobby] has connected
