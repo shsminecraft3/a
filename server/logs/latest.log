@@ -1011,3 +1011,95 @@ java.lang.RuntimeException: The received string length is longer than maximum al
 [01:41:53] [Async Chat Thread - #7/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mocean monumetn[m
 
 [01:41:59] [Server thread/INFO]: Steven issued server command: /home home
+[01:42:03] [Server thread/INFO]: Danny issued server command: /home home
+[01:42:06] [Async Chat Thread - #7/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mdangg[m
+
+[01:42:34] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mDanny [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m40[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[01:43:19] [Server thread/INFO]: Steven issued server command: /home ocean
+[01:43:22] [Server thread/INFO]: Steven issued server command: /home mom
+[01:43:26] [Async Chat Thread - #8/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mlot of loot[m
+
+[01:43:34] [Async Chat Thread - #8/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mwhat did you get?[m
+
+[01:43:42] [Async Chat Thread - #8/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1midk yet[m
+
+[01:43:59] [Server thread/INFO]: Steven issued server command: /delhome mom
+[01:44:24] [Server thread/INFO]: Steven issued server command: /sethome mom
+[01:44:51] [Server thread/INFO]: Steven issued server command: /sethome momm
+[01:45:03] [Server thread/INFO]: §cMurderer§7: §fSteven was killed by Guardian using magic
+[01:45:07] [Server thread/INFO]: Steven issued server command: /back
+[01:45:11] [Server thread/INFO]: Steven issued server command: /back
+[01:45:14] [Async Chat Thread - #9/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mrip[m
+
+[01:45:17] [Async Chat Thread - #9/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mlol[m
+
+[01:45:23] [Server thread/INFO]: Steven issued server command: /back
+[01:45:48] [Server thread/INFO]: Steven issued server command: /delhome mom
+[01:45:50] [Server thread/INFO]: Steven issued server command: /homes
+[01:46:01] [Server thread/INFO]: Steven issued server command: /delhome mom
+[01:46:04] [Server thread/INFO]: Steven issued server command: /delhome momm
+[01:46:09] [Server thread/INFO]: Steven issued server command: /sethome mom
+[01:46:53] [Server thread/INFO]: Steven issued server command: /suicide
+[01:46:53] [Server thread/INFO]: §cMurderer§7: §fSteven died
+[01:46:53] [Server thread/INFO]: [0;31;1m[21mSteven took an indefinite leave of abscence from life[m
+
+[01:46:53] [Server thread/ERROR]: [Suicide] The sound you're trying to play isn't registered in this Minecraft Version: ENTITY_ZOMBIE_HURT
+[01:47:00] [Server thread/INFO]: Steven issued server command: /home home
+[01:47:15] [Server thread/INFO]: Steven issued server command: /back
+[01:47:19] [Server thread/INFO]: Danny issued server command: /home spawner
+[01:47:21] [Async Chat Thread - #10/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1measy loot idk what it is yet[m
+
+[01:48:49] [Server thread/INFO]: Danny issued server command: /home home
+[01:50:39] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mthey are like little sperm cells[m
+
+[01:50:44] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mbut green[m
+
+[01:50:59] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mDanny [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m40[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[01:51:10] [Async Chat Thread - #11/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mlmaoo[m
+
+[01:53:42] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mDanny [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m20[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[01:55:17] [Server thread/INFO]: Steven issued server command: /sethome mama
+[01:55:19] [Server thread/INFO]: Steven issued server command: /
+[01:55:23] [Server thread/INFO]: Danny issued server command: /home home
+[01:55:24] [Server thread/INFO]: §cMurderer§7: §fSteven drowned
+[01:55:30] [Server thread/INFO]: Steven issued server command: /back
+[01:55:34] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mhah nt[m
+
+[01:55:41] [Server thread/INFO]: Steven issued server command: /home hom
+[01:55:44] [Server thread/INFO]: Steven issued server command: /home home
+[01:55:48] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwet[m
+
+[01:55:52] [Server thread/INFO]: Steven issued server command: /suicide
+[01:55:52] [Server thread/INFO]: §cMurderer§7: §fSteven died
+[01:55:52] [Server thread/INFO]: [0;31;1m[21mSteven did too much fent[m
+
+[01:55:52] [Server thread/ERROR]: [Suicide] The sound you're trying to play isn't registered in this Minecraft Version: ENTITY_ZOMBIE_HURT
+[01:55:57] [Server thread/INFO]: Steven issued server command: /back
+[01:56:03] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1measy 8 gold[m
+
+[01:56:06] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mhave you thougt about swim at all yet[m
+
+[01:56:19] [Server thread/INFO]: Danny issued server command: /home spawner
+[01:56:21] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mhuh[m
+
+[01:56:40] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mremember we were saying you should join the swim team[m
+
+[01:56:40] [Server thread/INFO]: Steven issued server command: /home mama
+[01:56:59] [Server thread/INFO]: Danny issued server command: /home home
+[01:57:08] [Server thread/INFO]: Danny issued server command: /home home
+[01:57:44] [Server thread/INFO]: Steven issued server command: /suicide
+[01:57:44] [Server thread/INFO]: §cMurderer§7: §fSteven died
+[01:57:44] [Server thread/INFO]: [0;31;1m[21mSteven took an indefinite leave of abscence from life[m
+
+[01:57:44] [Server thread/ERROR]: [Suicide] The sound you're trying to play isn't registered in this Minecraft Version: ENTITY_ZOMBIE_HURT
+[01:58:03] [Async Chat Thread - #13/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mi can barley swim[m
+
+[01:58:08] [Server thread/INFO]: Steven issued server command: /back
+[01:58:39] [Async Chat Thread - #13/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mi jus got 8 gold blocks from it[m
+
+[01:58:42] [Server thread/INFO]: Steven issued server command: /home home
+[01:59:00] [Async Chat Thread - #13/INFO]: [0;37;22m[[0;37;1mPlayer[0;37;22m] [0;37;1mDanny [0;37;1m➟ [0;37;1mthats 72 gold ingots[m
+
