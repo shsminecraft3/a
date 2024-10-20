@@ -198,8 +198,7 @@ bypassWords:
   - slag
   - s lagg
   - s lag
-  \
-  
+
 #List of ip/websites you wish to whitelist
 bypassIP:
   - youtube.com

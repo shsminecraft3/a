@@ -24,6 +24,21 @@ BaconMania:
     X: 3614.6271703568223
     Y: 119.0
     Z: 4448.50121065172
+  jungle:
+    world: world
+    X: 4795.632517684666
+    Y: 67.0
+    Z: 5242.83103796043
+  jungle_temple:
+    world: world
+    X: 5329.076515668179
+    Y: 66.0
+    Z: 5701.916722678556
+  home:
+    world: world
+    X: 6833.676886975989
+    Y: 72.0
+    Z: 7140.329312682141
 Steven:
   Steven:
     world: world
@@ -215,6 +230,11 @@ the_sigma:
     X: 525.1354256181284
     Y: 55.0
     Z: 16.04311347694063
+  tree:
+    world: world
+    X: 3140.508177077478
+    Y: 67.0
+    Z: 4654.524547689894
 your_mom_lol:
   <home>:
     world: world
