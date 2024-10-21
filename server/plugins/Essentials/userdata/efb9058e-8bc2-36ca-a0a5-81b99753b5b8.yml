@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1729305390655
-  login: 1729302055010
+  logout: 1729488519174
+  login: 1729488504186
 money: '0'
 last-account-name: Curry_Muncher
 logoutlocation:
   world: 25494d72-451b-4797-9b95-5af1e3c119f5
   world-name: world
-  x: -0.19566979365275106
-  y: 38.0
-  z: 238.3731208738011
-  yaw: 89.400390625
-  pitch: -11.250008583068848
+  x: -655.0622692841746
+  y: 66.0
+  z: -1276.987989319695
+  yaw: 304.35076904296875
+  pitch: 28.64999771118164

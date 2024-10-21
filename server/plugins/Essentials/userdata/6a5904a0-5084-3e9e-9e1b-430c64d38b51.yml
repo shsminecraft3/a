@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1729481968282
-  login: 1729479964428
+  logout: 1729482271341
+  login: 1729482163880
 money: '0'
 last-account-name: jon_minecraft
 logoutlocation:
   world: 25494d72-451b-4797-9b95-5af1e3c119f5
   world-name: world
-  x: 3774.752392786162
-  y: 24.11806283537507
-  z: 3915.30984803589
-  yaw: -314.2943115234375
-  pitch: 2.2051751613616943
+  x: 3709.5112416126162
+  y: 11.0
+  z: 3947.822871189078
+  yaw: -173.64768981933594
+  pitch: 7.3924102783203125
 lastlocation:
   world: 25494d72-451b-4797-9b95-5af1e3c119f5
   world-name: world

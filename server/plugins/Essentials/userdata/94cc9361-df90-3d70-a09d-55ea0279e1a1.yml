@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1729395944776
-  login: 1729395887357
+  logout: 1729488665639
+  login: 1729488653097
 money: '0'
 last-account-name: BaconMania
 lastlocation:
@@ -33,6 +33,6 @@ logoutlocation:
   world-name: world
   x: 6830.300000011921
   y: 72.0
-  z: 7141.056469731624
-  yaw: -33.45029067993164
-  pitch: 4.049992561340332
+  z: 7141.115316027595
+  yaw: -32.70029067993164
+  pitch: 23.699995040893555

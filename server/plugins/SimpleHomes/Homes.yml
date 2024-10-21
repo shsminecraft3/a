@@ -155,6 +155,11 @@ Steven:
     X: 87.29281803041917
     Y: 46.0
     Z: 169.59820704988243
+  geep:
+    world: world
+    X: 59.589512960241464
+    Y: 65.0
+    Z: 81.40680468910223
 Danny:
   old:
     world: world
@@ -312,6 +317,11 @@ caden:
     X: 215.83554788595384
     Y: 70.0
     Z: 2213.257870103087
+  exp:
+    world: world
+    X: 494.27036805300975
+    Y: 23.0
+    Z: 57.01842253563447
 Bakery_Bakery:
   Bakery_bakery:
     world: world
