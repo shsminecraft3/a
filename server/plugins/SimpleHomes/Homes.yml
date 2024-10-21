@@ -140,6 +140,11 @@ Steven:
     X: 204.69999998807907
     Y: 67.0
     Z: -138.24320004427113
+  blazesafty:
+    world: world_nether
+    X: 202.30000001192093
+    Y: 67.0
+    Z: -117.69999998807907
 Danny:
   old:
     world: world
@@ -207,6 +212,11 @@ jewburner:
     X: 3751.300000011921
     Y: 66.0
     Z: 3886.300000011921
+  aaa:
+    world: world
+    X: 3719.699999988079
+    Y: 22.0
+    Z: 3944.302315236413
 John_Minecraft:
   John_Mineccraft:
     world: world
