@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1729484261794
+  logout: 1729529485198
   login: 1729528243090
 money: '0'
 last-account-name: caden
 logoutlocation:
   world: 25494d72-451b-4797-9b95-5af1e3c119f5
   world-name: world
-  x: 3720.699999988079
-  y: 11.0
-  z: 3938.9488929969343
-  yaw: 47.93556594848633
-  pitch: 7.173226356506348
+  x: 215.83554788595384
+  y: 70.0000001
+  z: 2213.257870103087
+  yaw: 0.0
+  pitch: 0.0
