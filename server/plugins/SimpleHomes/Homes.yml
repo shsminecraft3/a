@@ -145,6 +145,16 @@ Steven:
     X: 202.30000001192093
     Y: 67.0
     Z: -117.69999998807907
+  nethermine:
+    world: world_nether
+    X: -53.89191686694349
+    Y: 87.0
+    Z: 125.30000001192091
+  portal2:
+    world: world_nether
+    X: 87.29281803041917
+    Y: 46.0
+    Z: 169.59820704988243
 Danny:
   old:
     world: world
@@ -217,6 +227,21 @@ jewburner:
     X: 3719.699999988079
     Y: 22.0
     Z: 3944.302315236413
+  dogs:
+    world: world
+    X: -377.90695337128193
+    Y: 69.0
+    Z: 1217.5344317856377
+  portal:
+    world: world
+    X: 103.84585481934731
+    Y: 21.0
+    Z: 911.2791999566027
+  insidedanny:
+    world: world
+    X: 3716.300000011921
+    Y: 11.5
+    Z: 3944.699999988079
 John_Minecraft:
   John_Mineccraft:
     world: world

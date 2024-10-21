@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1729395158738
+  logout: 1729478952326
   login: 1729476725965
 money: '0'
 last-account-name: Danny
 logoutlocation:
   world: 25494d72-451b-4797-9b95-5af1e3c119f5
   world-name: world
-  x: 183.9934235383202
-  y: 63.0
-  z: 274.9764090537062
-  yaw: 51.90000534057617
-  pitch: 6.000000476837158
+  x: 3718.7814793245507
+  y: 11.0
+  z: 3937.386773202602
+  yaw: 279.60003662109375
+  pitch: 31.35000228881836
