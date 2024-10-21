@@ -172,3 +172,17 @@
 [16:07:41] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59178]: Logged in as 'Potsticker398'
 [16:07:41] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:59178|Potsticker398] -> UpstreamBridge has connected
 [16:07:41] [Netty Worker IO Thread #1/INFO]: [Potsticker398|/[0:0:0:0:0:0:0:1%0]:59178] <-> ServerConnector [lobby] has connected
+[16:11:02] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:46628|BedzGaming] -> UpstreamBridge has disconnected
+[16:11:02] [Netty Worker IO Thread #3/INFO]: [BedzGaming] disconnected with: Proxy lost connection to server.
+[16:11:02] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:46628|BedzGaming] <-> DownstreamBridge <-> [lobby] has disconnected
+[16:11:29] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:35020|not_SKIBIDI_MAN] -> UpstreamBridge has disconnected
+[16:11:29] [Netty Worker IO Thread #3/INFO]: [not_SKIBIDI_MAN] disconnected with: Proxy lost connection to server.
+[16:11:29] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:35020|not_SKIBIDI_MAN] <-> DownstreamBridge <-> [lobby] has disconnected
+[16:12:29] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:60422]: Connected via websocket
+[16:12:29] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:60422]: Origin header is http://localhost:8081
+[16:12:29] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:60422]: Logged in as 'BedzGaming'
+[16:12:29] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:60422|BedzGaming] -> UpstreamBridge has connected
+[16:12:29] [Netty Worker IO Thread #0/INFO]: [BedzGaming|/[0:0:0:0:0:0:0:1%0]:60422] <-> ServerConnector [lobby] has connected
+[16:18:07] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:59034|BaconMania] -> UpstreamBridge has disconnected
+[16:18:07] [Netty Worker IO Thread #2/INFO]: [BaconMania] disconnected with: Proxy lost connection to server.
+[16:18:07] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:59034|BaconMania] <-> DownstreamBridge <-> [lobby] has disconnected

@@ -349,6 +349,11 @@ JohannMinecraft:
     X: 513.1283175421668
     Y: 49.0
     Z: 22.528945064946683
+  Island:
+    world: world
+    X: 4122.24944622589
+    Y: 64.0
+    Z: 690.1875284256525
 Yeshish_Yashher9:
   LINC:
     world: world
