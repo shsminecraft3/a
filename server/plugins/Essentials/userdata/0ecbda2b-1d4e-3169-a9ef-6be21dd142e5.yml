@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1729531020145
+  logout: 1729532871570
   login: 1729531021953
 money: '0'
 last-account-name: Potsticker398
 logoutlocation:
   world: 25494d72-451b-4797-9b95-5af1e3c119f5
   world-name: world
-  x: 873.0464362068236
+  x: 870.5353532376549
   y: 69.0
-  z: -30.471046529490522
-  yaw: 1.9384765625
-  pitch: 31.35000991821289
+  z: -32.056859472823156
+  yaw: 349.9385070800781
+  pitch: 33.59999465942383
