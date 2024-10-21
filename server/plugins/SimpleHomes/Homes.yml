@@ -160,6 +160,11 @@ Steven:
     X: 59.589512960241464
     Y: 65.0
     Z: 81.40680468910223
+  checkpoint:
+    world: world
+    X: 789.3000000119209
+    Y: 38.0
+    Z: 1157.5646500554997
 Danny:
   old:
     world: world

@@ -2523,3 +2523,20 @@ java.lang.RuntimeException: The received string length is longer than maximum al
 
 [07:09:13] [Async Chat Thread - #12/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mwhay is itttt[m
 
+[07:10:58] [Async Chat Thread - #13/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mhello?[m
+
+[07:11:20] [Server thread/INFO]: Steven issued server command: /sethome checkpoint
+[07:11:23] [Server thread/INFO]: Steven issued server command: /home home
+[07:18:05] [Server thread/INFO]: Steven issued server command: /home home
+[07:18:30] [Async Chat Thread - #14/INFO]: [0;37;22m[[0;31;1mMurderer[0;37;22m] [0;37;1mSteven [0;37;1m➟ [0;37;1mGuciginrig bitch ass rntigrher[m
+
+[07:21:08] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mSteven [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m20[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[07:22:05] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mSteven [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m20[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[07:27:04] [Server thread/INFO]: Steven issued server command: /home home
+[07:28:58] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mSteven [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m20[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[07:35:06] [Server thread/INFO]: [0;36;1mGrim [0;30;1m» [0;37;1mSteven [0;36;1mfailed [0;37;1mPost [0;37;1m(x[0;31;1m20[0;37;1m) [0;37;22mheld item change v1.8[m
+
+[07:37:18] [Server thread/INFO]: [Server] btw imma go to bed so if the server turns off its off for the night
