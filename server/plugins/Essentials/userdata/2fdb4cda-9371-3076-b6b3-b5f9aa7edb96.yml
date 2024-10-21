@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1729525656280
-  login: 1729525687598
+  logout: 1729529367427
+  login: 1729528038043
 money: '0'
 last-account-name: livimai
 logoutlocation:
   world: 25494d72-451b-4797-9b95-5af1e3c119f5
   world-name: world
-  x: 178.2888452853823
+  x: 178.48679950930324
   y: 55.0
-  z: 217.65773362656725
-  yaw: 295.95001220703125
-  pitch: 22.199993133544922
+  z: 218.90424384993236
+  yaw: -153.74969482421875
+  pitch: 15.4500093460083
