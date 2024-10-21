@@ -125,6 +125,21 @@ Steven:
     X: 550.4907036458779
     Y: 5.0
     Z: 1404.5585440904285
+  portal:
+    world: world_nether
+    X: 33.50917145243758
+    Y: 67.0
+    Z: 42.69763109155764
+  fort:
+    world: world_nether
+    X: 127.34638149665676
+    Y: 67.0
+    Z: -116.43861939273305
+  blaze:
+    world: world_nether
+    X: 204.69999998807907
+    Y: 67.0
+    Z: -138.24320004427113
 Danny:
   old:
     world: world
@@ -470,6 +485,11 @@ THEYLUV_FLASHY:
     X: 481.62036260012
     Y: 64.0
     Z: 1403.3956117026546
+  blaze:
+    world: world_nether
+    X: 204.69999998807907
+    Y: 67.0
+    Z: -134.24528629378963
 RustyDucky9:
   village:
     world: world
